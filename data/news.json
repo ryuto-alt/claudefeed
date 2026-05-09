@@ -1,0 +1,27 @@
+{
+  "date": "2026-05-10",
+  "generated_at": "2026-05-10T00:00:00Z",
+  "top": [
+    {
+      "id": "welcome-1",
+      "source": "anthropic",
+      "title": "ClaudeFeed セットアップ完了",
+      "url": "https://docs.claude.com/en/docs/claude-code/overview",
+      "summary_oneline": "/schedule を設定すると毎朝7時にこのリストが更新されます。",
+      "score": 100,
+      "tags": ["setup", "claude-code"],
+      "published_at": "2026-05-10T00:00:00Z"
+    },
+    {
+      "id": "welcome-2",
+      "source": "github",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "summary_oneline": "公式リポジトリ。Issuesで最新の話題が追える。",
+      "score": 88,
+      "tags": ["claude-code", "github"],
+      "published_at": "2026-05-10T00:00:00Z"
+    }
+  ],
+  "extras": []
+}

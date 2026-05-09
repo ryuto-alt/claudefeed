@@ -1,0 +1,17 @@
+{
+  "name": "claudefeed",
+  "version": "0.1.0",
+  "type": "module",
+  "private": true,
+  "description": "Daily Claude Code-focused news timeline. Fetches → scores via /schedule agent → publishes static site.",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "publish": "node scripts/publish.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}
