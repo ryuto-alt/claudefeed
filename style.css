@@ -57,26 +57,27 @@ html, body {
 
 .card {
   border-bottom: 1px solid var(--border);
-  padding: 14px 0;
+  padding: 20px 0 22px;
+  position: relative;
 }
-.card:hover { background: rgba(255,255,255,0.015); }
+.card:hover { background: rgba(255,255,255,0.02); }
 
 .card-meta {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 8px;
   font-size: 12px;
   color: var(--text-dim);
-  margin-bottom: 4px;
+  margin-bottom: 10px;
 }
 .source {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  min-width: 22px;
-  height: 22px;
-  padding: 0 6px;
-  border-radius: 11px;
+  min-width: 26px;
+  height: 24px;
+  padding: 0 8px;
+  border-radius: 12px;
   background: var(--tag-bg);
   color: var(--text);
   font-size: 11px;
@@ -92,10 +93,10 @@ html, body {
 .dot { opacity: 0.6; }
 .spacer { flex: 1; }
 .score {
-  background: rgba(214,168,108,0.12);
+  background: rgba(214,168,108,0.14);
   color: var(--score);
-  border: 1px solid rgba(214,168,108,0.25);
-  padding: 1px 6px;
+  border: 1px solid rgba(214,168,108,0.3);
+  padding: 2px 8px;
   border-radius: 999px;
   font-size: 11px;
   font-weight: 700;
@@ -104,32 +105,33 @@ html, body {
 
 .title {
   display: block;
-  color: var(--text);
+  color: #fff;
   text-decoration: none;
-  font-weight: 600;
-  font-size: 15px;
-  line-height: 1.45;
-  margin: 2px 0 4px;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.35;
+  letter-spacing: -0.005em;
+  margin: 0 0 8px;
 }
 .title:hover { color: var(--accent-2); }
-.title:visited { color: #b8bcc4; }
 
 .summary {
-  margin: 2px 0 6px;
-  color: var(--text-dim);
-  font-size: 13.5px;
-  line-height: 1.5;
+  margin: 0 0 10px;
+  color: #c5cad3;
+  font-size: 14.5px;
+  line-height: 1.6;
 }
 
 .tags {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
+  margin-top: 2px;
 }
 .tag {
   font-size: 11px;
   color: var(--text-dim);
-  background: var(--tag-bg);
+  background: transparent;
   padding: 2px 8px;
   border-radius: 999px;
   border: 1px solid var(--border);
