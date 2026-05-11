@@ -1,132 +1,286 @@
 {
-  "date": "2026-05-11",
-  "generated_at": "2026-05-10T22:12:58.246Z",
+  "date": "2026-05-12",
+  "generated_at": "2026-05-11T22:09:33.530Z",
   "top": [
+    {
+      "id": "cc-release-320692766",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.139",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.139",
+      "score": 95,
+      "summary_oneline": "エージェントビュー（プレビュー）と/goalコマンドを追加。全セッション一覧表示と完了条件の繰り返し実行が可能に。",
+      "tags": [
+        "claude-code",
+        "release",
+        "agent-view"
+      ],
+      "published_at": "2026-05-11T18:43:42Z"
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "score": 85,
+      "summary_oneline": "Claude Code向けエージェントハーネス最適化システム。スキル・記憶・セキュリティ・研究ファースト開発を統合（スター17万超）。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "optimization"
+      ],
+      "published_at": "2026-05-11T21:58:57Z"
+    },
+    {
+      "id": "cc-release-318578987",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.132",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.132",
+      "score": 83,
+      "summary_oneline": "CLAUDE_CODE_SESSION_IDのBash環境変数追加、代替スクリーン無効化オプション、Ctrl+V画像ペーストのヒント表示を追加。",
+      "tags": [
+        "claude-code",
+        "release",
+        "env-vars"
+      ],
+      "published_at": "2026-05-06T22:08:13Z"
+    },
+    {
+      "id": "cc-release-317391175",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.128",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.128",
+      "score": 83,
+      "summary_oneline": "/colorのランダム色選択、/mcpのツール数表示、zipプラグイン対応、コンソール認証での--channels利用が可能に。",
+      "tags": [
+        "claude-code",
+        "release",
+        "mcp"
+      ],
+      "published_at": "2026-05-04T23:01:47Z"
+    },
+    {
+      "id": "cc-release-319609716",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.136",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.136",
+      "score": 82,
+      "summary_oneline": "autoMode.hard_denyルール設定、OTelフィードバック調査の制御、MCPサーバー設定の無音エラーを修正。",
+      "tags": [
+        "claude-code",
+        "release",
+        "auto-mode"
+      ],
+      "published_at": "2026-05-08T18:39:08Z"
+    },
+    {
+      "id": "cc-release-317982632",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.129",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.129",
+      "score": 82,
+      "summary_oneline": "URLからのプラグイン取得フラグ追加、同期出力の強制オプション、Homebrew/WinGet向け自動アップデート対応。",
+      "tags": [
+        "claude-code",
+        "release",
+        "plugins"
+      ],
+      "published_at": "2026-05-06T01:40:18Z"
+    },
+    {
+      "id": "cc-release-316244540",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.126",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.126",
+      "score": 82,
+      "summary_oneline": "ゲートウェイからのモデル一覧取得に対応、claude project purgeコマンドでプロジェクト状態を一括削除可能に。",
+      "tags": [
+        "claude-code",
+        "release",
+        "project-management"
+      ],
+      "published_at": "2026-05-01T02:05:23Z"
+    },
+    {
+      "id": "cc-release-319164825",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.133",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.133",
+      "score": 80,
+      "summary_oneline": "worktree.baseRef設定でワークツリーの分岐元をorigin/<default>またはローカルHEADから選択可能に。",
+      "tags": [
+        "claude-code",
+        "release",
+        "worktree"
+      ],
+      "published_at": "2026-05-07T23:49:04Z"
+    },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 82,
-      "summary_oneline": "セッション間でエージェントの活動を記録・圧縮して文脈を引き継ぐ永続メモリシステム（Claude Code対応）",
+      "score": 78,
+      "summary_oneline": "Claude Code等に対応したセッション間永続コンテキストツール。エージェント活動をAI圧縮して次回セッションに自動注入。",
       "tags": [
         "claude-code",
         "memory",
         "agent"
       ],
-      "published_at": "2026-05-10T08:11:33Z"
+      "published_at": "2026-05-11T07:30:55Z"
     },
     {
       "id": "gh-topic-1116260703",
       "source": "github",
       "title": "gsd-build/get-shit-done",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 80,
-      "summary_oneline": "Claude Code向けの軽量メタプロンプティング・コンテキストエンジニアリング・仕様駆動開発システム",
-      "tags": [
-        "claude-code",
-        "prompting",
-        "context-engineering"
-      ],
-      "published_at": "2026-05-10T22:09:59Z"
-    },
-    {
-      "id": "gh-trending-affaan-m-everything-claude-code",
-      "source": "github",
-      "title": "affaan-m/everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
       "score": 78,
-      "summary_oneline": "Claude Code・Codex向けのスキル・記憶・セキュリティを統合したエージェントハーネス最適化フレームワーク",
+      "summary_oneline": "Claude Code向け軽量メタプロンプティング・コンテキストエンジニアリング・仕様駆動開発システム（スター6万超）。",
       "tags": [
         "claude-code",
-        "agent",
-        "skills"
+        "prompt-engineering",
+        "context"
       ],
-      "published_at": null
+      "published_at": "2026-05-11T21:55:21Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 76,
-      "summary_oneline": "Claude Code・Codex・OpenCode・Gemini CLIを一元管理するクロスプラットフォームデスクトップ統合ツール",
+      "score": 75,
+      "summary_oneline": "Claude Code・Codex・OpenCode等の複数AIコーディングエージェントを統合管理するクロスプラットフォームデスクトップアプリ。",
       "tags": [
         "claude-code",
-        "desktop",
-        "tool"
+        "desktop-app",
+        "multi-agent"
       ],
-      "published_at": "2026-05-10T14:35:50Z"
+      "published_at": "2026-05-11T07:49:39Z"
     },
     {
-      "id": "gh-trending-addyosmani-agent-skills",
-      "source": "github",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "score": 72,
-      "summary_oneline": "AIコーディングエージェント向けプロダクション品質のエンジニアリングスキル集",
+      "id": "cc-release-318251205",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.131",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.131",
+      "score": 70,
+      "summary_oneline": "Windows向けVS Code拡張の起動失敗と、Mantleエンドポイントのx-api-keyヘッダー欠落による認証エラーを修正。",
       "tags": [
-        "agent-sdk",
-        "skills",
-        "coding"
+        "claude-code",
+        "release",
+        "bugfix"
       ],
-      "published_at": null
+      "published_at": "2026-05-06T07:47:56Z"
     },
     {
-      "id": "gh-trending-anthropics-financial-services",
-      "source": "github",
-      "title": "anthropics/financial-services",
-      "url": "https://github.com/anthropics/financial-services",
+      "id": "cc-release-319788705",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.137",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.137",
       "score": 68,
-      "summary_oneline": "Anthropic公式の金融サービス向けサンプルコードリポジトリ（詳細未公開）",
+      "summary_oneline": "WindowsでVS Code拡張が起動に失敗する問題を修正。",
       "tags": [
-        "anthropic",
-        "financial",
-        "example"
+        "claude-code",
+        "release",
+        "vscode"
       ],
-      "published_at": null
+      "published_at": "2026-05-09T00:11:04Z"
     },
     {
       "id": "gh-trending-decolua-9router",
       "source": "github",
       "title": "decolua/9router",
       "url": "https://github.com/decolua/9router",
-      "score": 63,
-      "summary_oneline": "Claude Code等を40以上の無料LLMプロバイダーへ接続し、トークン消費を40%削減するルーターツール",
+      "score": 65,
+      "summary_oneline": "Claude Code・Codex・Cursor等を40以上のプロバイダー経由で無料AIに接続するルーター。自動フォールバックとトークン削減機能付き。",
       "tags": [
         "claude-code",
-        "llm-router",
-        "tool"
+        "api-gateway",
+        "cost-optimization"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-lsdefine-genericagent",
-      "source": "github",
-      "title": "lsdefine/GenericAgent",
-      "url": "https://github.com/lsdefine/GenericAgent",
+      "id": "cc-release-319856024",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.138",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.138",
       "score": 62,
-      "summary_oneline": "3300行のシードからスキルツリーを自律拡張し、トークン消費を6分の1に削減するセルフエボルビングエージェント",
+      "summary_oneline": "Claude Code v2.1.138: 内部修正のみ。",
+      "tags": [
+        "claude-code",
+        "release",
+        "internal-fix"
+      ],
+      "published_at": "2026-05-09T06:33:25Z"
+    },
+    {
+      "id": "gh-trending-rohitg00-agentmemory",
+      "source": "github",
+      "title": "rohitg00/agentmemory",
+      "url": "https://github.com/rohitg00/agentmemory",
+      "score": 55,
+      "summary_oneline": "実際のベンチマーク基準でNo.1を主張するAIコーディングエージェント向け永続メモリシステム。",
       "tags": [
         "agent",
-        "self-evolving",
-        "skills"
+        "memory",
+        "coding"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1024554267",
+      "id": "gh-trending-bytedance-ui-tars-desktop",
       "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 60,
-      "summary_oneline": "ユーザーとともに進化するオープンソースエージェントフレームワーク（★142K）",
+      "title": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "score": 55,
+      "summary_oneline": "ByteDanceによるオープンソースのマルチモーダルAIエージェントスタック。最新AIモデルとエージェントインフラを統合接続。",
       "tags": [
+        "multimodal",
         "agent",
-        "llm",
         "open-source"
       ],
-      "published_at": "2026-05-10T21:28:00Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 55,
+      "summary_oneline": "エージェントワークフロー開発向けのプロダクションレディなオープンソースプラットフォーム（スター14万超）。",
+      "tags": [
+        "agent",
+        "workflow",
+        "platform"
+      ],
+      "published_at": "2026-05-11T16:27:57Z"
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 52,
+      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化プラットフォーム。400以上の統合に対応しセルフホスト可能。",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "self-hosted"
+      ],
+      "published_at": "2026-05-11T21:55:34Z"
+    },
+    {
+      "id": "gh-trending-millionco-react-doctor",
+      "source": "github",
+      "title": "millionco/react-doctor",
+      "url": "https://github.com/millionco/react-doctor",
+      "score": 50,
+      "summary_oneline": "AIエージェントが生成した問題のあるReactコードを検出・修正支援するツール。",
+      "tags": [
+        "react",
+        "agent",
+        "code-quality"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
