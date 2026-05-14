@@ -1,34 +1,34 @@
 {
-  "date": "2026-05-13",
-  "generated_at": "2026-05-12T22:11:06.633Z",
+  "date": "2026-05-15",
+  "generated_at": "2026-05-14T22:04:27.037Z",
   "top": [
     {
-      "id": "cc-release-320692766",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.139",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.139",
-      "score": 97,
-      "summary_oneline": "エージェントビュー（Research Preview）と/goalコマンドを追加した大型アップデート",
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "score": 90,
+      "summary_oneline": "Claude Codeのエージェントハーネス最適化システム。スキル・記憶・セキュリティ・研究優先開発を統合。",
       "tags": [
         "claude-code",
-        "release",
-        "agent-view"
+        "agent-sdk",
+        "skills"
       ],
-      "published_at": "2026-05-11T18:43:42Z"
+      "published_at": "2026-05-14T21:38:04Z"
     },
     {
-      "id": "cc-release-321395205",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.140",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.140",
-      "score": 92,
-      "summary_oneline": "Agentツールのサブエージェント型マッチング改善と/goalコマンドのハング修正を含む最新リリース",
+      "id": "gh-trending-garrytan-gstack",
+      "source": "github",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "score": 88,
+      "summary_oneline": "Garry TanのClaude Code設定を公開。CEO・デザイナー・エンジニアリングマネージャーなど23の役割ツールセット。",
       "tags": [
         "claude-code",
-        "release",
-        "agent-sdk"
+        "skills",
+        "productivity"
       ],
-      "published_at": "2026-05-12T21:09:45Z"
+      "published_at": null
     },
     {
       "id": "gh-trending-mattpocock-skills",
@@ -36,180 +36,83 @@
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "score": 87,
-      "summary_oneline": ".claudeディレクトリから直接提供する実践的なClaude Code Skillsコレクション",
+      "summary_oneline": "Matt Pocockの.claudeディレクトリから直接公開された実用的なClaude Codeスキル集。",
       "tags": [
         "claude-code",
         "skills",
-        "practical-tips"
+        "workflow"
       ],
       "published_at": null
-    },
-    {
-      "id": "cc-release-319609716",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.136",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.136",
-      "score": 85,
-      "summary_oneline": "autoMode.hard_deny設定の追加とMCPサーバーの設定サイレント無視バグを修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-05-08T18:39:08Z"
-    },
-    {
-      "id": "cc-release-317982632",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.129",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.129",
-      "score": 85,
-      "summary_oneline": "--plugin-urlフラグの追加とHomebrewやWinGetでのパッケージ自動更新機能を実装",
-      "tags": [
-        "claude-code",
-        "release",
-        "plugins"
-      ],
-      "published_at": "2026-05-06T01:40:18Z"
-    },
-    {
-      "id": "cc-release-318578987",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.132",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.132",
-      "score": 84,
-      "summary_oneline": "CLAUDE_CODE_SESSION_ID環境変数の追加とフルスクリーン表示オプトアウト機能を実装",
-      "tags": [
-        "claude-code",
-        "release",
-        "hooks"
-      ],
-      "published_at": "2026-05-06T22:08:13Z"
-    },
-    {
-      "id": "cc-release-319164825",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.133",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.133",
-      "score": 82,
-      "summary_oneline": "worktree.baseRef設定を追加し、Worktree作成時のブランチ起点をfresh/headで選択可能に",
-      "tags": [
-        "claude-code",
-        "release",
-        "worktree"
-      ],
-      "published_at": "2026-05-07T23:49:04Z"
-    },
-    {
-      "id": "cc-release-317391175",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.128",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.128",
-      "score": 82,
-      "summary_oneline": "/mcpコマンドのツール数表示強化と--channelsのコンソール認証サポートを追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-05-04T23:01:47Z"
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "score": 78,
-      "summary_oneline": "Claude CodeのSkills・記憶・セキュリティ・リサーチ駆動開発を含む包括的エージェントハーネス",
-      "tags": [
-        "claude-code",
-        "skills",
-        "agent-harness"
-      ],
-      "published_at": "2026-05-12T22:08:06Z"
     },
     {
       "id": "gh-topic-1116260703",
       "source": "github",
       "title": "gsd-build/get-shit-done",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 75,
-      "summary_oneline": "Claude Code向けの軽量なメタプロンプティング・コンテキストエンジニアリングシステム",
+      "score": 83,
+      "summary_oneline": "Claude Code向け軽量メタプロンプティング・コンテキストエンジニアリング・仕様駆動開発システム。",
       "tags": [
         "claude-code",
-        "meta-prompting",
-        "context-engineering"
+        "prompting",
+        "spec-driven"
       ],
-      "published_at": "2026-05-12T21:55:36Z"
-    },
-    {
-      "id": "cc-release-318251205",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.131",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.131",
-      "score": 72,
-      "summary_oneline": "Windows版VS Code拡張の起動失敗とMantleエンドポイント認証エラーを修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "vscode"
-      ],
-      "published_at": "2026-05-06T07:47:56Z"
-    },
-    {
-      "id": "cc-release-319788705",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.137",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.137",
-      "score": 72,
-      "summary_oneline": "Windows版VS Code拡張が起動できなくなる問題を修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "vscode"
-      ],
-      "published_at": "2026-05-09T00:11:04Z"
+      "published_at": "2026-05-14T21:40:46Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 72,
-      "summary_oneline": "セッション間でエージェントの行動を記録・圧縮し、次回セッションに文脈を引き継ぐツール",
+      "score": 82,
+      "summary_oneline": "Claude Code等複数エージェントでセッション間の永続的コンテキストを実現するメモリシステム。",
       "tags": [
         "claude-code",
         "memory",
-        "context"
+        "agent-sdk"
       ],
-      "published_at": "2026-05-12T01:44:21Z"
+      "published_at": "2026-05-14T21:37:37Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数のAIコーディングツールに対応したデスクトップ統合アシスタント",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・OpenCode等に対応するクロスプラットフォームAll-in-Oneデスクトップ補助ツール。",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "multi-agent"
+        "tools",
+        "desktop"
       ],
-      "published_at": "2026-05-12T14:36:03Z"
+      "published_at": "2026-05-14T18:41:39Z"
     },
     {
-      "id": "cc-release-319856024",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.138",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.138",
-      "score": 62,
-      "summary_oneline": "内部修正のみを含む小規模アップデート",
+      "id": "gh-trending-obra-superpowers",
+      "source": "github",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 65,
+      "summary_oneline": "動作実績のあるエージェントスキルフレームワークとソフトウェア開発方法論。",
       "tags": [
-        "claude-code",
-        "release"
+        "agent-sdk",
+        "skills",
+        "methodology"
       ],
-      "published_at": "2026-05-09T06:33:25Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-k-dense-ai-scientific-agent-skills",
+      "source": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "score": 63,
+      "summary_oneline": "研究・科学・工学・金融・執筆向けのすぐに使えるエージェントスキルセット集。",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "research"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
