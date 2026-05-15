@@ -1,32 +1,18 @@
 {
-  "date": "2026-05-15",
-  "generated_at": "2026-05-14T22:04:27.037Z",
+  "date": "2026-05-16",
+  "generated_at": "2026-05-15T22:07:39.431Z",
   "top": [
     {
-      "id": "gh-topic-1136590548",
+      "id": "gh-trending-anthropics-skills",
       "source": "github",
-      "title": "affaan-m/everything-claude-code",
-      "url": "https://github.com/affaan-m/everything-claude-code",
-      "score": 90,
-      "summary_oneline": "Claude Codeのエージェントハーネス最適化システム。スキル・記憶・セキュリティ・研究優先開発を統合。",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "score": 92,
+      "summary_oneline": "AnthropicがClaude Code向けエージェントスキルを公開するための公式リポジトリ。",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": "2026-05-14T21:38:04Z"
-    },
-    {
-      "id": "gh-trending-garrytan-gstack",
-      "source": "github",
-      "title": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
-      "score": 88,
-      "summary_oneline": "Garry TanのClaude Code設定を公開。CEO・デザイナー・エンジニアリングマネージャーなど23の役割ツールセット。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "productivity"
+        "agent-skills",
+        "anthropic"
       ],
       "published_at": null
     },
@@ -35,82 +21,110 @@
       "source": "github",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "score": 87,
-      "summary_oneline": "Matt Pocockの.claudeディレクトリから直接公開された実用的なClaude Codeスキル集。",
+      "score": 82,
+      "summary_oneline": "TypeScript教育者Matt Pocockが実務から生まれた.claudeディレクトリのClaudeスキル集を公開。",
       "tags": [
         "claude-code",
-        "skills",
-        "workflow"
+        "agent-skills",
+        "typescript"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/everything-claude-code",
+      "url": "https://github.com/affaan-m/everything-claude-code",
+      "score": 80,
+      "summary_oneline": "Claude Code向けエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合提供。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "optimization"
+      ],
+      "published_at": "2026-05-15T21:59:45Z"
     },
     {
       "id": "gh-topic-1116260703",
       "source": "github",
       "title": "gsd-build/get-shit-done",
       "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 83,
-      "summary_oneline": "Claude Code向け軽量メタプロンプティング・コンテキストエンジニアリング・仕様駆動開発システム。",
+      "score": 79,
+      "summary_oneline": "Claude Code向けのメタプロンプティング・コンテキストエンジニアリング・仕様駆動開発システム。",
       "tags": [
         "claude-code",
-        "prompting",
-        "spec-driven"
+        "prompt-engineering",
+        "dev-workflow"
       ],
-      "published_at": "2026-05-14T21:40:46Z"
+      "published_at": "2026-05-15T22:03:24Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 82,
-      "summary_oneline": "Claude Code等複数エージェントでセッション間の永続的コンテキストを実現するメモリシステム。",
+      "score": 77,
+      "summary_oneline": "Claude Codeなど複数エージェントでセッションをまたぐ永続コンテキストを実現するメモリ管理ツール。",
       "tags": [
         "claude-code",
         "memory",
         "agent-sdk"
       ],
-      "published_at": "2026-05-14T21:37:37Z"
+      "published_at": "2026-05-15T04:07:15Z"
+    },
+    {
+      "id": "gh-trending-czlonkowski-n8n-mcp",
+      "source": "github",
+      "title": "czlonkowski/n8n-mcp",
+      "url": "https://github.com/czlonkowski/n8n-mcp",
+      "score": 76,
+      "summary_oneline": "Claude Desktop/Claude Code向けにn8nワークフローを自動構築するMCPサーバー実装。",
+      "tags": [
+        "mcp",
+        "claude-code",
+        "n8n"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応するクロスプラットフォームAll-in-Oneデスクトップ補助ツール。",
+      "score": 74,
+      "summary_oneline": "Claude Code・Codex・OpenCode・Gemini CLIなど複数のAI CLIを統合するクロスプラットフォームデスクトップツール。",
       "tags": [
         "claude-code",
-        "tools",
-        "desktop"
+        "desktop-app",
+        "ai-cli"
       ],
       "published_at": "2026-05-14T18:41:39Z"
+    },
+    {
+      "id": "gh-trending-joeseesun-qiaomu-anything-to-notebooklm",
+      "source": "github",
+      "title": "joeseesun/qiaomu-anything-to-notebooklm",
+      "url": "https://github.com/joeseesun/qiaomu-anything-to-notebooklm",
+      "score": 63,
+      "summary_oneline": "Claude Skillを活用し、WeChat記事・YouTube・PDFなど多様なコンテンツをNotebookLM用に変換するツール。",
+      "tags": [
+        "claude-code",
+        "agent-skills",
+        "content-processing"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-obra-superpowers",
       "source": "github",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 65,
-      "summary_oneline": "動作実績のあるエージェントスキルフレームワークとソフトウェア開発方法論。",
+      "score": 62,
+      "summary_oneline": "エージェント型スキルフレームワークとソフトウェア開発手法を組み合わせたオープンソース実装。",
       "tags": [
         "agent-sdk",
-        "skills",
-        "methodology"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-k-dense-ai-scientific-agent-skills",
-      "source": "github",
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "score": 63,
-      "summary_oneline": "研究・科学・工学・金融・執筆向けのすぐに使えるエージェントスキルセット集。",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "research"
+        "agent-skills",
+        "open-source"
       ],
       "published_at": null
     }
