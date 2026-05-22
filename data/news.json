@@ -1,6 +1,6 @@
 {
   "date": "2026-05-22",
-  "generated_at": "2026-05-21T22:10:52.133Z",
+  "generated_at": "2026-05-22T22:08:08.097Z",
   "top": [
     {
       "id": "gh-trending-anthropics-claude-plugins-official",
@@ -8,7 +8,7 @@
       "title": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "score": 92,
-      "summary_oneline": "Anthropicが公式管理するClaude Codeプラグインのディレクトリが公開",
+      "summary_oneline": "Anthropic公式管理によるClaude Code Plugin高品質ディレクトリ",
       "tags": [
         "claude-code",
         "plugins",
@@ -22,11 +22,11 @@
       "title": "ChromeDevTools/chrome-devtools-mcp",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "score": 87,
-      "summary_oneline": "Chrome DevToolsをコーディングエージェント向けにMCP対応したサーバー",
+      "summary_oneline": "コーディングエージェント向けChrome DevToolsのMCPサーバー実装",
       "tags": [
         "mcp",
         "chrome-devtools",
-        "coding-agents"
+        "coding-agent"
       ],
       "published_at": null
     },
@@ -36,25 +36,25 @@
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "score": 85,
-      "summary_oneline": "Claude Code等向けのエージェントハーネス最適化システム（スキル・メモリ・セキュリティ対応）",
+      "summary_oneline": "Claude CodeなどAIコーディングエージェント向けスキル・メモリ・セキュリティ最適化ハーネス",
       "tags": [
         "claude-code",
-        "agent-harness",
-        "performance"
+        "agent-sdk",
+        "skills"
       ],
       "published_at": "2026-05-20T03:25:40Z"
     },
     {
-      "id": "gh-trending-multica-ai-andrej-karpathy-skills",
+      "id": "gh-trending-dotnet-skills",
       "source": "github",
-      "title": "multica-ai/andrej-karpathy-skills",
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "score": 85,
-      "summary_oneline": "Karpathyの知見をもとにClaude CodeのCLAUDE.mdを改善するスキルファイル",
+      "title": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "score": 82,
+      "summary_oneline": ".NETおよびC#向けAIコーディングエージェント支援スキルの公式リポジトリ",
       "tags": [
-        "claude-code",
         "skills",
-        "claude-md"
+        "dotnet",
+        "coding-agent"
       ],
       "published_at": null
     },
@@ -63,110 +63,40 @@
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 83,
-      "summary_oneline": "セッションをまたいでエージェントの作業履歴を圧縮・注入する永続コンテキスト管理ツール",
+      "score": 80,
+      "summary_oneline": "Claude Codeなど複数エージェントでセッション横断の永続コンテキスト管理ツール",
       "tags": [
         "claude-code",
         "memory",
-        "context-persistence"
+        "agent-sdk"
       ],
       "published_at": "2026-05-21T10:26:19Z"
     },
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-topic-1201173969",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 82,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等を統合管理するクロスプラットフォームデスクトップアシスタント",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 78,
+      "summary_oneline": "Claude Codeのトークン消費を65%削減する「原始人語」スキル実装",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "cross-platform"
+        "skills",
+        "token-optimization"
       ],
-      "published_at": "2026-05-21T19:34:08Z"
-    },
-    {
-      "id": "gh-topic-1116260703",
-      "source": "github",
-      "title": "gsd-build/get-shit-done",
-      "url": "https://github.com/gsd-build/get-shit-done",
-      "score": 82,
-      "summary_oneline": "Claude Code向けのメタプロンプト・コンテキストエンジニアリング・仕様駆動開発フレームワーク",
-      "tags": [
-        "claude-code",
-        "context-engineering",
-        "meta-prompting"
-      ],
-      "published_at": "2026-05-21T22:04:24Z"
+      "published_at": "2026-05-20T10:44:54Z"
     },
     {
       "id": "gh-trending-colbymchenry-codegraph",
       "source": "github",
       "title": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
-      "score": 80,
-      "summary_oneline": "Claude Code等向けにトークン使用を削減する事前インデックス済みコード知識グラフ",
-      "tags": [
-        "claude-code",
-        "developer-tools",
-        "performance"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-multica-ai-multica",
-      "source": "github",
-      "title": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "score": 78,
-      "summary_oneline": "エージェントをチームメイトとして扱うオープンソースのマネージドエージェントプラットフォーム",
-      "tags": [
-        "agent-sdk",
-        "skills",
-        "managed-agents"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-imbad0202-academic-research-skills",
-      "source": "github",
-      "title": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "score": 78,
-      "summary_oneline": "Claude Code向けの研究→執筆→レビュー→改訂→最終化フローを実現する学術研究スキルセット",
-      "tags": [
-        "claude-code",
-        "skills",
-        "academic-research"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-dotnet-skills",
-      "source": "github",
-      "title": "dotnet/skills",
-      "url": "https://github.com/dotnet/skills",
       "score": 75,
-      "summary_oneline": ".NETおよびC#開発をAIコーディングエージェントに補助させるためのスキルリポジトリ",
+      "summary_oneline": "Claude CodeなどAIエージェント向けの事前インデックス済みローカルコード知識グラフ",
       "tags": [
-        "skills",
-        "dotnet",
-        "ai-agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-obra-superpowers",
-      "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 72,
-      "summary_oneline": "機能するアジェント向けスキルフレームワークとソフトウェア開発方法論",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "developer-tools"
+        "claude-code",
+        "code-graph",
+        "optimization"
       ],
       "published_at": null
     },
@@ -176,69 +106,181 @@
       "title": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "score": 72,
-      "summary_oneline": "Claude Code等で使えるコードを探索・検索・質問できるインタラクティブ知識グラフツール",
+      "summary_oneline": "コードをインタラクティブな知識グラフに変換しClaude Codeなどと連携できるツール",
       "tags": [
         "claude-code",
-        "code-visualization",
-        "knowledge-graph"
+        "code-graph",
+        "visualization"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-teng-lin-notebooklm-py",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "teng-lin/notebooklm-py",
-      "url": "https://github.com/teng-lin/notebooklm-py",
-      "score": 68,
-      "summary_oneline": "Claude Code等から利用できるGoogle NotebookLMへのPython APIとエージェントスキル",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 70,
+      "summary_oneline": "Claude CodeやCodexなど複数AIコーディングエージェントを統合管理するデスクトップツール",
       "tags": [
-        "notebooklm",
-        "skills",
-        "python"
+        "claude-code",
+        "desktop-tool",
+        "ai-agent"
       ],
-      "published_at": null
+      "published_at": "2026-05-21T19:34:08Z"
     },
     {
       "id": "gh-trending-can1357-oh-my-pi",
       "source": "github",
       "title": "can1357/oh-my-pi",
       "url": "https://github.com/can1357/oh-my-pi",
-      "score": 62,
-      "summary_oneline": "ハッシュアンカー付き編集・LSP・ブラウザ・サブエージェントを備えたターミナル向けAIコーディングエージェント",
+      "score": 65,
+      "summary_oneline": "LSP・ブラウザ・サブエージェント対応のターミナル向けAIコーディングエージェント",
       "tags": [
         "ai-agent",
         "terminal",
-        "coding"
+        "coding-agent"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-hkuds-cli-anything",
+      "id": "gh-topic-193215554",
       "source": "github",
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "score": 60,
-      "summary_oneline": "既存CLIソフトウェアをエージェントネイティブ化するフレームワークCLI-Anything",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 57,
+      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム（400+連携）",
       "tags": [
-        "ai-agent",
-        "cli",
-        "automation"
+        "workflow-automation",
+        "ai",
+        "open-source"
       ],
-      "published_at": null
+      "published_at": "2026-05-22T22:00:45Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 57,
+      "summary_oneline": "本番対応のエージェントワークフロー開発プラットフォーム",
+      "tags": [
+        "agentic-workflow",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-05-22T19:06:04Z"
     },
     {
       "id": "gh-topic-1024554267",
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 60,
-      "summary_oneline": "NousResearch製の高スター数エージェントフレームワーク（161kスター）",
+      "score": 55,
+      "summary_oneline": "NousResearchが開発する自律成長型AIエージェント実装",
       "tags": [
         "ai-agent",
-        "hermes",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-05-22T22:04:34Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 55,
+      "summary_oneline": "Ollama・OpenAI API対応のユーザーフレンドリーなAIインターフェース",
+      "tags": [
+        "ai-interface",
+        "open-source",
         "llm"
       ],
-      "published_at": "2026-05-21T21:31:51Z"
+      "published_at": "2026-05-22T09:54:31Z"
+    },
+    {
+      "id": "gh-trending-karpathy-nn-zero-to-hero",
+      "source": "github",
+      "title": "karpathy/nn-zero-to-hero",
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "score": 53,
+      "summary_oneline": "カルパシーによるニューラルネットワーク基礎から応用の教育シリーズ",
+      "tags": [
+        "neural-networks",
+        "tutorial",
+        "deep-learning"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-rohitg00-ai-engineering-from-scratch",
+      "source": "github",
+      "title": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "score": 52,
+      "summary_oneline": "AIエンジニアリングをゼロから学べる実践的教育リポジトリ",
+      "tags": [
+        "ai-engineering",
+        "tutorial",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 52,
+      "summary_oneline": "誰でも使えるAIを目指すAutoGPTプラットフォームとツール群",
+      "tags": [
+        "ai-agent",
+        "autogpt",
+        "open-source"
+      ],
+      "published_at": "2026-05-22T17:37:51Z"
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 50,
+      "summary_oneline": "コミュニティによるプロンプト共有・収集プラットフォーム（旧Awesome ChatGPT Prompts）",
+      "tags": [
+        "prompts",
+        "community",
+        "open-source"
+      ],
+      "published_at": "2026-05-22T04:30:45Z"
+    },
+    {
+      "id": "gh-trending-trimstray-the-book-of-secret-knowledge",
+      "source": "github",
+      "title": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "score": 50,
+      "summary_oneline": "CLIツール・チートシート・ハックを網羅した技術者向けリソース集",
+      "tags": [
+        "reference",
+        "cli",
+        "cheatsheet"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-612344730",
+      "source": "github",
+      "title": "ChatGPTNextWeb/NextChat",
+      "url": "https://github.com/ChatGPTNextWeb/NextChat",
+      "score": 48,
+      "summary_oneline": "Web・iOS・Android対応の軽量高速AIアシスタントアプリ",
+      "tags": [
+        "ai-assistant",
+        "cross-platform",
+        "open-source"
+      ],
+      "published_at": "2026-05-15T01:19:01Z"
     }
   ],
   "extras": []
