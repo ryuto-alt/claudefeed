@@ -1,32 +1,144 @@
 {
-  "date": "2026-05-25",
-  "generated_at": "2026-05-24T22:07:59.075Z",
+  "date": "2026-05-26",
+  "generated_at": "2026-05-25T22:10:12.048Z",
   "top": [
     {
-      "id": "gh-trending-anthropics-claude-plugins-official",
-      "source": "github",
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "score": 93,
-      "summary_oneline": "Anthropic公式のClaude Codeプラグインディレクトリ。高品質なプラグインをキュレーション提供。",
+      "id": "cc-release-328077450",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.149",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.149",
+      "score": 92,
+      "summary_oneline": "/usageでカテゴリ別使用量表示、/diffキーボードスクロール、GFMチェックボックス対応などを追加",
       "tags": [
         "claude-code",
-        "plugins",
-        "official"
+        "release-notes",
+        "usage-tracking"
       ],
-      "published_at": null
+      "published_at": "2026-05-22T22:09:29Z"
+    },
+    {
+      "id": "cc-release-327133263",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.147",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.147",
+      "score": 90,
+      "summary_oneline": "バックグラウンドセッションのピン留め機能と/code-reviewスキルを追加",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "background-sessions"
+      ],
+      "published_at": "2026-05-21T20:39:22Z"
+    },
+    {
+      "id": "cc-release-322792825",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.142",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.142",
+      "score": 87,
+      "summary_oneline": "claude agentsに設定フラグを追加、FastモードがデフォルトでOpus 4.7を使用",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "agents"
+      ],
+      "published_at": "2026-05-14T22:55:10Z"
+    },
+    {
+      "id": "cc-release-325388499",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.145",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.145",
+      "score": 86,
+      "summary_oneline": "claude agents --jsonでセッション一覧をJSON出力、OTELスパンにエージェントID追加",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "observability"
+      ],
+      "published_at": "2026-05-19T21:31:07Z"
+    },
+    {
+      "id": "cc-release-324524751",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.144",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.144",
+      "score": 85,
+      "summary_oneline": "バックグラウンドセッションに/resume対応、プラグインマーケットに更新日表示",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "plugins"
+      ],
+      "published_at": "2026-05-19T00:48:51Z"
+    },
+    {
+      "id": "cc-release-323423445",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.143",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.143",
+      "score": 84,
+      "summary_oneline": "プラグイン依存関係の強制、マーケットプレイスにコンテキストコスト予測を表示",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "plugins"
+      ],
+      "published_at": "2026-05-15T22:28:22Z"
+    },
+    {
+      "id": "cc-release-322186176",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.141",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.141",
+      "score": 83,
+      "summary_oneline": "HookにterminalSequenceフィールド追加、ワークロードIDフェデレーション対応",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "hooks"
+      ],
+      "published_at": "2026-05-13T23:19:16Z"
+    },
+    {
+      "id": "cc-release-326230049",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.146",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.146",
+      "score": 82,
+      "summary_oneline": "/code-reviewにエフォートレベル追加、Windows PowerShellとMCPのバグ修正",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "bug-fix"
+      ],
+      "published_at": "2026-05-21T01:51:52Z"
     },
     {
       "id": "gh-trending-anthropics-knowledge-work-plugins",
       "source": "github",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "score": 88,
-      "summary_oneline": "Anthropic公式のナレッジワーカー向けClaude Coworkプラグイン集。オープンソースで公開。",
+      "score": 80,
+      "summary_oneline": "Anthropic公式のナレッジワーカー向けClaudeプラグイン集をオープンソース公開",
       "tags": [
         "claude-code",
         "plugins",
-        "official"
+        "anthropic"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-garrytan-gstack",
+      "source": "github",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "score": 80,
+      "summary_oneline": "Garry Tanの23ツール構成のClaude Code設定をオープンソース公開",
+      "tags": [
+        "claude-code",
+        "skills",
+        "workflow"
       ],
       "published_at": null
     },
@@ -35,84 +147,42 @@
       "source": "github",
       "title": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "score": 82,
-      "summary_oneline": "KarpathyのLLMコーディング知見を基にClaude Codeの動作を改善するCLAUDE.mdファイル。",
-      "tags": [
-        "claude-code",
-        "claude-md",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-dotnet-skills",
-      "source": "github",
-      "title": "dotnet/skills",
-      "url": "https://github.com/dotnet/skills",
-      "score": 80,
-      "summary_oneline": ".NETとC#向けAIコーディングエージェントを支援するスキルリポジトリ（dotnet公式）。",
-      "tags": [
-        "agent-sdk",
-        "dotnet",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・メモリ・セキュリティを強化。",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": "2026-05-24T04:53:35Z"
-    },
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 80,
-      "summary_oneline": "Claude CodeやCodexなど複数エージェントのセッション間で永続コンテキストを保持するツール。",
-      "tags": [
-        "claude-code",
-        "memory",
-        "context"
-      ],
-      "published_at": "2026-05-21T10:26:19Z"
-    },
-    {
-      "id": "gh-topic-1201173969",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 79,
-      "summary_oneline": "原始人語法でClaude Codeのトークン使用量を65%削減するスキル。",
+      "score": 76,
+      "summary_oneline": "KarpathyのLLMコーディング知見をもとにしたCLAUDE.mdファイル",
       "tags": [
         "claude-code",
         "skills",
-        "tokens"
-      ],
-      "published_at": "2026-05-20T10:44:54Z"
-    },
-    {
-      "id": "gh-trending-colbymchenry-codegraph",
-      "source": "github",
-      "title": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "score": 78,
-      "summary_oneline": "Claude CodeやCursor向けの事前インデックス済みコードナレッジグラフ。トークン・ツール呼出しを削減。",
-      "tags": [
-        "claude-code",
-        "code-graph",
-        "optimization"
+        "best-practices"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-trending-anthropics-claude-cookbooks",
+      "source": "github",
+      "title": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "score": 75,
+      "summary_oneline": "AnthropicによるClaudeの活用レシピ集（Jupyterノートブック形式）",
+      "tags": [
+        "anthropic",
+        "tutorials",
+        "claude-api"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "cc-release-327459475",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.148",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.148",
+      "score": 75,
+      "summary_oneline": "v2.1.147で発生したBashツールの終了コード127バグを修正",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "bug-fix"
+      ],
+      "published_at": "2026-05-22T01:16:52Z"
     },
     {
       "id": "gh-trending-mukul975-anthropic-cybersecurity-skills",
@@ -120,53 +190,138 @@
       "title": "mukul975/Anthropic-Cybersecurity-Skills",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "score": 73,
-      "summary_oneline": "5つのフレームワークにマッピングされた754件のサイバーセキュリティスキル。Claude Codeに対応。",
+      "summary_oneline": "MITRE ATT&CK等5フレームワーク対応のClaude Code向けサイバーセキュリティスキル754件",
       "tags": [
         "claude-code",
         "skills",
-        "cybersecurity"
+        "security"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 73,
+      "summary_oneline": "セッション間の永続的コンテキストをAIエージェントに提供するツール（Claude Code対応）",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "memory"
+      ],
+      "published_at": "2026-05-25T01:04:30Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 73,
-      "summary_oneline": "Claude Code・Codex・OpenCode等を統合管理するクロスプラットフォームデスクトップアシスタント。",
+      "score": 72,
+      "summary_oneline": "Claude CodeほかAIコーディングエージェント対応のAll-in-Oneクロスプラットフォームデスクトップアプリ",
       "tags": [
         "claude-code",
         "desktop-app",
-        "tools"
+        "multi-agent"
       ],
-      "published_at": "2026-05-24T09:53:17Z"
+      "published_at": "2026-05-25T14:20:47Z"
+    },
+    {
+      "id": "cc-release-328209285",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.150",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.150",
+      "score": 72,
+      "summary_oneline": "内部インフラの改善のみ、ユーザー向け変更なし",
+      "tags": [
+        "claude-code",
+        "release-notes"
+      ],
+      "published_at": "2026-05-23T04:03:51Z"
+    },
+    {
+      "id": "gh-trending-affaan-m-ecc",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 71,
+      "summary_oneline": "Claude Code向けエージェントハーネス最適化システム（スキル・記憶・セキュリティ対応）",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-lum1104-understand-anything",
       "source": "github",
       "title": "Lum1104/Understand-Anything",
       "url": "https://github.com/Lum1104/Understand-Anything",
-      "score": 72,
-      "summary_oneline": "コードをインタラクティブな知識グラフに変換。Claude Code・Codex・Cursor等に対応。",
+      "score": 70,
+      "summary_oneline": "コードをインタラクティブな知識グラフに変換するClaude Code対応ツール",
       "tags": [
         "claude-code",
-        "code-graph",
+        "code-analysis",
         "visualization"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-multica-ai-multica",
+      "id": "gh-topic-1201173969",
       "source": "github",
-      "title": "multica-ai/multica",
-      "url": "https://github.com/multica-ai/multica",
-      "score": 65,
-      "summary_oneline": "コーディングエージェントをチームメンバーとして管理するオープンソース管理プラットフォーム。",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 68,
+      "summary_oneline": "トークンを65%削減するClaude Codeスキル（穴居人語スタイルで出力を短縮）",
       "tags": [
-        "agent-sdk",
-        "coding-agent",
-        "platform"
+        "claude-code",
+        "skills",
+        "token-optimization"
+      ],
+      "published_at": "2026-05-20T10:44:52Z"
+    }
+  ],
+  "extras": [
+    {
+      "id": "gh-trending-colbymchenry-codegraph",
+      "source": "github",
+      "title": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "score": 67,
+      "summary_oneline": "Claude Code向けのローカル動作する事前索引済みコード知識グラフ（トークン節約）",
+      "tags": [
+        "claude-code",
+        "code-analysis",
+        "local"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-leonxlnx-taste-skill",
+      "source": "github",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "score": 65,
+      "summary_oneline": "AIが生成する凡庸なコンテンツを防ぐスキルファイル",
+      "tags": [
+        "claude-code",
+        "skills",
+        "output-quality"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-hardikpandya-stop-slop",
+      "source": "github",
+      "title": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "score": 62,
+      "summary_oneline": "文章からAIらしさを除去するスキルファイル",
+      "tags": [
+        "claude-code",
+        "skills",
+        "writing"
       ],
       "published_at": null
     },
@@ -176,14 +331,13 @@
       "title": "manaflow-ai/cmux",
       "url": "https://github.com/manaflow-ai/cmux",
       "score": 62,
-      "summary_oneline": "AIコーディングエージェント向けの垂直タブと通知機能付きGhosttyベースmacOSターミナル。",
+      "summary_oneline": "AIコーディングエージェント向け通知・タブ付きGhosttyベースmacOSターミナル",
       "tags": [
         "claude-code",
         "terminal",
-        "tools"
+        "macos"
       ],
       "published_at": null
     }
-  ],
-  "extras": []
+  ]
 }
