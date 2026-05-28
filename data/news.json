@@ -1,88 +1,32 @@
 {
-  "date": "2026-05-28",
-  "generated_at": "2026-05-27T22:09:22.349Z",
+  "date": "2026-05-29",
+  "generated_at": "2026-05-28T22:08:24.295Z",
   "top": [
     {
-      "id": "gh-trending-anthropics-knowledge-work-plugins",
+      "id": "gh-trending-anthropics-skills",
       "source": "github",
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "score": 88,
-      "summary_oneline": "Anthropic公式のナレッジワーカー向けオープンソースプラグイン集（Claude Cowork用）。",
-      "tags": [
-        "anthropic",
-        "plugins",
-        "claude-code"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-chachamaru127-claude-code-harness",
-      "source": "github",
-      "title": "Chachamaru127/claude-code-harness",
-      "url": "https://github.com/Chachamaru127/claude-code-harness",
-      "score": 83,
-      "summary_oneline": "Claude Code用の自律的なPlan→Work→Reviewサイクルで高品質開発を実現する専用ハーネス。",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "score": 95,
+      "summary_oneline": "Anthropic公式のエージェントスキルパブリックリポジトリ",
       "tags": [
         "claude-code",
-        "harness",
-        "autonomous-dev"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームAll-in-Oneデスクトップアシスタント。",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-05-27T03:31:32Z"
-    },
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 78,
-      "summary_oneline": "セッション間でコンテキストを永続化するAIエージェント対応ツール（Claude Code・Codex等）。",
-      "tags": [
-        "claude-code",
-        "memory",
-        "context-persistence"
-      ],
-      "published_at": "2026-05-26T05:10:19Z"
-    },
-    {
-      "id": "gh-trending-lum1104-understand-anything",
-      "source": "github",
-      "title": "Lum1104/Understand-Anything",
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "score": 72,
-      "summary_oneline": "コードをインタラクティブな知識グラフに変換するツール。Claude Code・Codex・Cursor等に対応。",
-      "tags": [
-        "claude-code",
-        "knowledge-graph",
-        "code-visualization"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-affaan-m-ecc",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 72,
-      "summary_oneline": "Claude Code向けのスキル・記憶・セキュリティを統合したエージェントハーネス最適化システム。",
-      "tags": [
-        "claude-code",
-        "agent-harness",
+        "agent-sdk",
         "skills"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-everyinc-compound-engineering-plugin",
+      "source": "github",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex・Cursor対応の公式Compound Engineeringプラグイン",
+      "tags": [
+        "claude-code",
+        "plugin",
+        "coding-agent"
       ],
       "published_at": null
     },
@@ -91,12 +35,26 @@
       "source": "github",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 72,
-      "summary_oneline": "AIエージェント向けスキルフレームワーク＆実践的なソフトウェア開発手法を提供するOSS。",
+      "score": 78,
+      "summary_oneline": "実際に機能するエージェントスキルフレームワークと開発方法論",
       "tags": [
-        "skills-framework",
         "agent-sdk",
+        "skills",
         "methodology"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-revfactory-harness",
+      "source": "github",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "score": 76,
+      "summary_oneline": "ドメイン特化エージェントチームを設計するメタスキル",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "multi-agent"
       ],
       "published_at": null
     },
@@ -105,26 +63,54 @@
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 70,
-      "summary_oneline": "原始人語でClaude Codeのトークン消費を65%削減するスキルファイル（65K★）。",
+      "score": 74,
+      "summary_oneline": "トークンを65%削減するClaude Codeスキル（穴居人言語スタイル）",
       "tags": [
         "claude-code",
-        "token-optimization",
-        "skills"
+        "skills",
+        "token-optimization"
       ],
       "published_at": "2026-05-20T10:44:54Z"
     },
     {
-      "id": "gh-trending-mukul975-anthropic-cybersecurity-skills",
+      "id": "gh-topic-1048065319",
       "source": "github",
-      "title": "mukul975/Anthropic-Cybersecurity-Skills",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "score": 70,
-      "summary_oneline": "MITRE ATT&CK等5フレームワーク対応の754件のサイバーセキュリティスキル集（Claude Code等）。",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 73,
+      "summary_oneline": "Claude Codeなど複数エージェント間でセッションをまたいだ永続コンテキスト管理",
       "tags": [
         "claude-code",
-        "security-skills",
-        "mitre"
+        "memory",
+        "agent-sdk"
+      ],
+      "published_at": "2026-05-28T00:41:27Z"
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 72,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど対応のAll-in-Oneデスクトップアシスタント",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "coding-agent"
+      ],
+      "published_at": "2026-05-28T20:34:11Z"
+    },
+    {
+      "id": "gh-trending-leonxlnx-taste-skill",
+      "source": "github",
+      "title": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "score": 70,
+      "summary_oneline": "AIが生成するつまらないコンテンツを防ぐスキルファイル",
+      "tags": [
+        "skills",
+        "prompt-engineering",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -133,26 +119,40 @@
       "source": "github",
       "title": "hardikpandya/stop-slop",
       "url": "https://github.com/hardikpandya/stop-slop",
-      "score": 65,
-      "summary_oneline": "AIが生成する文章の典型的なAI文体・決まり文句を除去するためのスキルファイル。",
+      "score": 68,
+      "summary_oneline": "文章からAIらしい表現を取り除くスキルファイル",
       "tags": [
-        "claude-code",
         "skills",
-        "writing-quality"
+        "writing",
+        "claude-code"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-leonxlnx-taste-skill",
+      "id": "gh-trending-affaan-m-ecc",
       "source": "github",
-      "title": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "score": 65,
-      "summary_oneline": "AIが生成する凡庸なコンテンツを防ぎ「センス」を付与するスキルファイル。",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 66,
+      "summary_oneline": "Claude Code対応エージェントパフォーマンス最適化（スキル・記憶・セキュリティ）",
       "tags": [
         "claude-code",
-        "skills",
-        "content-quality"
+        "agent-sdk",
+        "performance"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-lum1104-understand-anything",
+      "source": "github",
+      "title": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "score": 63,
+      "summary_oneline": "コードをインタラクティブな知識グラフに変換、Claude Codeなどに対応",
+      "tags": [
+        "claude-code",
+        "code-visualization",
+        "developer-tools"
       ],
       "published_at": null
     }
