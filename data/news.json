@@ -1,18 +1,18 @@
 {
-  "date": "2026-05-30",
-  "generated_at": "2026-05-29T22:09:51.695Z",
+  "date": "2026-05-31",
+  "generated_at": "2026-05-30T22:08:47.947Z",
   "top": [
     {
-      "id": "gh-trending-everyinc-compound-engineering-plugin",
+      "id": "gh-trending-anthropics-skills",
       "source": "github",
-      "title": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "score": 85,
-      "summary_oneline": "Claude CodeやCursor向けの公式Compound Engineeringプラグイン",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "score": 95,
+      "summary_oneline": "AnthropicがAgent Skillsの公式リポジトリを公開、Claude Codeで使えるスキル群を共有。",
       "tags": [
-        "claude-code",
-        "plugin",
-        "coding-tool"
+        "skills",
+        "agent-sdk",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -22,91 +22,21 @@
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
       "score": 82,
-      "summary_oneline": "ターミナルで動くAnthropicの公式エージェント型コーディングツール",
+      "summary_oneline": "Anthropic公式のClaude Codeがトレンド入り、ターミナルで動くエージェント型コーディングツール。",
       "tags": [
         "claude-code",
-        "coding-tool",
-        "anthropic"
+        "anthropic",
+        "coding-agent"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-trending-affaan-m-ecc",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude CodeなどAIコーディングツール向けのエージェントハーネス最適化システム",
-      "tags": [
-        "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 72,
-      "summary_oneline": "Claude Codeなど各AIエージェントのセッション間で文脈を永続化するツール",
-      "tags": [
-        "claude-code",
-        "memory",
-        "agent-sdk"
-      ],
-      "published_at": "2026-05-29T19:19:59Z"
-    },
-    {
-      "id": "gh-trending-leonxlnx-taste-skill",
-      "source": "github",
-      "title": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "score": 70,
-      "summary_oneline": "AIに「センス」を与えて凡庸な出力を防ぐClaudeスキルファイル",
-      "tags": [
-        "claude-code",
-        "skills",
-        "prompt"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-hardikpandya-stop-slop",
-      "source": "github",
-      "title": "hardikpandya/stop-slop",
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "score": 65,
-      "summary_oneline": "AIらしい表現を文章から除去するスキルファイル",
-      "tags": [
-        "skills",
-        "prompt",
-        "writing"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 65,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIエージェントをまとめるデスクトップツール",
-      "tags": [
-        "claude-code",
-        "coding-tool",
-        "desktop"
-      ],
-      "published_at": "2026-05-29T16:02:56Z"
     },
     {
       "id": "gh-topic-1201173969",
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 63,
-      "summary_oneline": "トークンを65%削減するClaude Code向け洞窟人語スキル",
+      "score": 82,
+      "summary_oneline": "Claude Codeのトークン使用量を最大65%削減するスキル、原始的な文体で簡潔な指示を実現。",
       "tags": [
         "claude-code",
         "skills",
@@ -115,170 +45,72 @@
       "published_at": "2026-05-20T10:44:54Z"
     },
     {
-      "id": "gh-topic-1024554267",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 52,
-      "summary_oneline": "成長するAIエージェントフレームワーク「Hermes Agent」",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数エージェントを一元管理するクロスプラットフォームデスクトップツール。",
+      "tags": [
+        "claude-code",
+        "desktop-tool",
+        "multi-agent"
+      ],
+      "published_at": "2026-05-30T15:09:34Z"
+    },
+    {
+      "id": "gh-trending-everyinc-compound-engineering-plugin",
+      "source": "github",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・Cursor向けの公式Compound Engineeringプラグイン。",
+      "tags": [
+        "claude-code",
+        "plugin",
+        "compound-engineering"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 78,
+      "summary_oneline": "Claude Codeを含む複数エージェントでセッション間の記憶を永続化するコンテキスト管理ツール。",
+      "tags": [
+        "claude-code",
+        "memory",
+        "agent-sdk"
+      ],
+      "published_at": "2026-05-29T19:19:59Z"
+    },
+    {
+      "id": "gh-trending-affaan-m-ecc",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 75,
+      "summary_oneline": "Claude CodeとCodexなど向けのエージェントハーネス最適化システム、スキル・記憶・セキュリティ機能を統合。",
+      "tags": [
+        "claude-code",
+        "agent-harness",
+        "optimization"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-revfactory-harness",
+      "source": "github",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "score": 72,
+      "summary_oneline": "ドメイン特化エージェントチームを設計しスキルを自動生成するメタスキルシステム。",
       "tags": [
         "agent-sdk",
-        "llm",
-        "open-source"
-      ],
-      "published_at": "2026-05-29T22:00:48Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 50,
-      "summary_oneline": "エージェントワークフロー開発向けプロダクション対応プラットフォーム",
-      "tags": [
-        "llm",
-        "agent-sdk",
-        "workflow"
-      ],
-      "published_at": "2026-05-29T20:33:01Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 48,
-      "summary_oneline": "AI機能内蔵のフェアコードワークフロー自動化プラットフォーム",
-      "tags": [
-        "workflow",
-        "automation",
-        "llm"
-      ],
-      "published_at": "2026-05-29T21:24:43Z"
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 46,
-      "summary_oneline": "Ollama・OpenAI API等に対応したオープンソースAIチャットUI",
-      "tags": [
-        "llm",
-        "open-source",
-        "ui"
-      ],
-      "published_at": "2026-05-28T22:48:07Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 44,
-      "summary_oneline": "誰でも使えるAIエージェントプラットフォームAutoGPT",
-      "tags": [
-        "llm",
-        "agent-sdk",
-        "open-source"
-      ],
-      "published_at": "2026-05-29T20:05:18Z"
-    },
-    {
-      "id": "gh-trending-microsoft-markitdown",
-      "source": "github",
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "score": 43,
-      "summary_oneline": "各種ファイル・OfficeドキュメントをMarkdownに変換するPythonツール",
-      "tags": [
-        "open-source",
-        "markdown",
-        "document"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 40,
-      "summary_oneline": "コミュニティでプロンプトを共有・発見・収集するオープンソースプラットフォーム",
-      "tags": [
-        "prompt",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-05-29T04:33:25Z"
-    },
-    {
-      "id": "gh-trending-cursor-plugins",
-      "source": "github",
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "score": 38,
-      "summary_oneline": "Cursorエディタのプラグイン仕様と公式プラグイン集",
-      "tags": [
-        "coding-tool",
-        "plugins",
-        "cursor"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-run-llama-liteparse",
-      "source": "github",
-      "title": "run-llama/liteparse",
-      "url": "https://github.com/run-llama/liteparse",
-      "score": 37,
-      "summary_oneline": "高速でオープンソースのドキュメントパーサー",
-      "tags": [
-        "open-source",
-        "document",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-harry0703-moneyprinterturbo",
-      "source": "github",
-      "title": "harry0703/MoneyPrinterTurbo",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
-      "score": 35,
-      "summary_oneline": "AIを使って高画質ショート動画を一発生成するツール",
-      "tags": [
-        "llm",
-        "video",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-twentyhq-twenty",
-      "source": "github",
-      "title": "twentyhq/twenty",
-      "url": "https://github.com/twentyhq/twenty",
-      "score": 33,
-      "summary_oneline": "AI向けに設計されたSalesforceのオープンソース代替CRM",
-      "tags": [
-        "open-source",
-        "crm",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-galilai-group-stable-worldmodel",
-      "source": "github",
-      "title": "galilai-group/stable-worldmodel",
-      "url": "https://github.com/galilai-group/stable-worldmodel",
-      "score": 32,
-      "summary_oneline": "再現性のある世界モデル研究・評価プラットフォーム",
-      "tags": [
-        "llm",
-        "research",
-        "open-source"
+        "skills",
+        "meta-skill"
       ],
       "published_at": null
     }
