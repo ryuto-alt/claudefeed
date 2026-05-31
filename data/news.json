@@ -1,102 +1,18 @@
 {
-  "date": "2026-05-31",
-  "generated_at": "2026-05-30T22:08:47.947Z",
+  "date": "2026-06-01",
+  "generated_at": "2026-05-31T22:09:41.186Z",
   "top": [
-    {
-      "id": "gh-trending-anthropics-skills",
-      "source": "github",
-      "title": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "score": 95,
-      "summary_oneline": "AnthropicがAgent Skillsの公式リポジトリを公開、Claude Codeで使えるスキル群を共有。",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "claude-code"
-      ],
-      "published_at": null
-    },
     {
       "id": "gh-trending-anthropics-claude-code",
       "source": "github",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "score": 82,
-      "summary_oneline": "Anthropic公式のClaude Codeがトレンド入り、ターミナルで動くエージェント型コーディングツール。",
+      "score": 90,
+      "summary_oneline": "Claude Codeの公式リポジトリがGitHubトレンド入り。コーディングエージェントとして引き続き注目を集める",
       "tags": [
         "claude-code",
-        "anthropic",
-        "coding-agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1201173969",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 82,
-      "summary_oneline": "Claude Codeのトークン使用量を最大65%削減するスキル、原始的な文体で簡潔な指示を実現。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "token-optimization"
-      ],
-      "published_at": "2026-05-20T10:44:54Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数エージェントを一元管理するクロスプラットフォームデスクトップツール。",
-      "tags": [
-        "claude-code",
-        "desktop-tool",
-        "multi-agent"
-      ],
-      "published_at": "2026-05-30T15:09:34Z"
-    },
-    {
-      "id": "gh-trending-everyinc-compound-engineering-plugin",
-      "source": "github",
-      "title": "EveryInc/compound-engineering-plugin",
-      "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・Cursor向けの公式Compound Engineeringプラグイン。",
-      "tags": [
-        "claude-code",
-        "plugin",
-        "compound-engineering"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 78,
-      "summary_oneline": "Claude Codeを含む複数エージェントでセッション間の記憶を永続化するコンテキスト管理ツール。",
-      "tags": [
-        "claude-code",
-        "memory",
-        "agent-sdk"
-      ],
-      "published_at": "2026-05-29T19:19:59Z"
-    },
-    {
-      "id": "gh-trending-affaan-m-ecc",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 75,
-      "summary_oneline": "Claude CodeとCodexなど向けのエージェントハーネス最適化システム、スキル・記憶・セキュリティ機能を統合。",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "optimization"
+        "agentic-coding",
+        "github-trending"
       ],
       "published_at": null
     },
@@ -105,12 +21,96 @@
       "source": "github",
       "title": "revfactory/harness",
       "url": "https://github.com/revfactory/harness",
-      "score": 72,
-      "summary_oneline": "ドメイン特化エージェントチームを設計しスキルを自動生成するメタスキルシステム。",
+      "score": 76,
+      "summary_oneline": "ドメイン特化型エージェントチームを設計し、専門エージェントとそのスキルを自動生成するメタスキル",
       "tags": [
         "agent-sdk",
         "skills",
         "meta-skill"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 70,
+      "summary_oneline": "Claude Code・Codex・Opencode向けエージェントハーネス最適化システム。スキル・記憶・セキュリティに対応",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": "2026-05-31T06:45:42Z"
+    },
+    {
+      "id": "gh-trending-everyinc-compound-engineering-plugin",
+      "source": "github",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "score": 68,
+      "summary_oneline": "Claude Code・Codex・Cursorなど主要コーディングエージェントに対応するCompound Engineeringの公式プラグイン",
+      "tags": [
+        "claude-code",
+        "plugin",
+        "codex"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 68,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIエージェントCLIを一元管理するクロスプラットフォームのデスクトップアプリ",
+      "tags": [
+        "claude-code",
+        "multi-agent",
+        "desktop-app"
+      ],
+      "published_at": "2026-05-31T15:37:31Z"
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 68,
+      "summary_oneline": "セッション間でエージェントの作業文脈を永続化しAIで圧縮、次回セッション開始時に関連情報を注入する記憶エンジン",
+      "tags": [
+        "claude-code",
+        "memory",
+        "agent-sdk"
+      ],
+      "published_at": "2026-05-29T19:19:59Z"
+    },
+    {
+      "id": "gh-topic-1201173969",
+      "source": "github",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 65,
+      "summary_oneline": "原始人語法でプロンプトのトークン数を65%削減するClaude Codeスキル",
+      "tags": [
+        "claude-code",
+        "skills",
+        "token-optimization"
+      ],
+      "published_at": "2026-05-20T10:44:54Z"
+    },
+    {
+      "id": "gh-trending-nicobailon-pi-subagents",
+      "source": "github",
+      "title": "nicobailon/pi-subagents",
+      "url": "https://github.com/nicobailon/pi-subagents",
+      "score": 65,
+      "summary_oneline": "非同期サブエージェント委任・アーティファクト管理・セッション共有に対応したPiエージェント向け拡張",
+      "tags": [
+        "agent-sdk",
+        "subagent",
+        "async"
       ],
       "published_at": null
     }
