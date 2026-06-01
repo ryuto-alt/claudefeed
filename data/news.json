@@ -1,42 +1,14 @@
 {
-  "date": "2026-06-01",
-  "generated_at": "2026-05-31T22:09:41.186Z",
+  "date": "2026-06-02",
+  "generated_at": "2026-06-01T22:09:16.923Z",
   "top": [
-    {
-      "id": "gh-trending-anthropics-claude-code",
-      "source": "github",
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "score": 90,
-      "summary_oneline": "Claude Codeの公式リポジトリがGitHubトレンド入り。コーディングエージェントとして引き続き注目を集める",
-      "tags": [
-        "claude-code",
-        "agentic-coding",
-        "github-trending"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-revfactory-harness",
-      "source": "github",
-      "title": "revfactory/harness",
-      "url": "https://github.com/revfactory/harness",
-      "score": 76,
-      "summary_oneline": "ドメイン特化型エージェントチームを設計し、専門エージェントとそのスキルを自動生成するメタスキル",
-      "tags": [
-        "agent-sdk",
-        "skills",
-        "meta-skill"
-      ],
-      "published_at": null
-    },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・Opencode向けエージェントハーネス最適化システム。スキル・記憶・セキュリティに対応",
+      "score": 85,
+      "summary_oneline": "Claude Code等向けエージェントハーネス最適化システム（スキル・メモリ・セキュリティ対応）",
       "tags": [
         "claude-code",
         "agent-sdk",
@@ -49,36 +21,22 @@
       "source": "github",
       "title": "EveryInc/compound-engineering-plugin",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
-      "score": 68,
-      "summary_oneline": "Claude Code・Codex・Cursorなど主要コーディングエージェントに対応するCompound Engineeringの公式プラグイン",
+      "score": 85,
+      "summary_oneline": "Claude Code・Cursor等向け公式Compound Engineeringプラグイン",
       "tags": [
         "claude-code",
         "plugin",
-        "codex"
+        "tool"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 68,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIエージェントCLIを一元管理するクロスプラットフォームのデスクトップアプリ",
-      "tags": [
-        "claude-code",
-        "multi-agent",
-        "desktop-app"
-      ],
-      "published_at": "2026-05-31T15:37:31Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 68,
-      "summary_oneline": "セッション間でエージェントの作業文脈を永続化しAIで圧縮、次回セッション開始時に関連情報を注入する記憶エンジン",
+      "score": 84,
+      "summary_oneline": "Claude Codeなど複数エージェントのセッション間でコンテキストを永続化するツール",
       "tags": [
         "claude-code",
         "memory",
@@ -91,8 +49,8 @@
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 65,
-      "summary_oneline": "原始人語法でプロンプトのトークン数を65%削減するClaude Codeスキル",
+      "score": 83,
+      "summary_oneline": "トークン使用量を65%削減するClaude Codeスキル",
       "tags": [
         "claude-code",
         "skills",
@@ -101,16 +59,58 @@
       "published_at": "2026-05-20T10:44:54Z"
     },
     {
-      "id": "gh-trending-nicobailon-pi-subagents",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "nicobailon/pi-subagents",
-      "url": "https://github.com/nicobailon/pi-subagents",
-      "score": 65,
-      "summary_oneline": "非同期サブエージェント委任・アーティファクト管理・セッション共有に対応したPiエージェント向け拡張",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex等を統合管理するクロスプラットフォームデスクトップアシスタント",
       "tags": [
+        "claude-code",
+        "tool",
+        "desktop"
+      ],
+      "published_at": "2026-06-01T15:30:29Z"
+    },
+    {
+      "id": "gh-trending-revfactory-harness",
+      "source": "github",
+      "title": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "score": 75,
+      "summary_oneline": "ドメイン特化エージェントチームを設計するメタスキル",
+      "tags": [
+        "skills",
         "agent-sdk",
-        "subagent",
-        "async"
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-can1357-oh-my-pi",
+      "source": "github",
+      "title": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "score": 65,
+      "summary_oneline": "ターミナル向けAIコーディングエージェント（LSP・サブエージェント・ブラウザ対応）",
+      "tags": [
+        "ai-agent",
+        "coding-agent",
+        "terminal"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-dmtrkovalenko-fff",
+      "source": "github",
+      "title": "dmtrKovalenko/fff",
+      "url": "https://github.com/dmtrKovalenko/fff",
+      "score": 62,
+      "summary_oneline": "AIエージェント向け高速・高精度ファイル検索ツールキット（Neovim・Rust・NodeJS対応）",
+      "tags": [
+        "ai-agent",
+        "tool",
+        "file-search"
       ],
       "published_at": null
     }
