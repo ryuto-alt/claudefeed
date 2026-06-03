@@ -1,284 +1,74 @@
 {
-  "date": "2026-06-03",
-  "generated_at": "2026-06-02T22:09:18.958Z",
+  "date": "2026-06-04",
+  "generated_at": "2026-06-03T22:09:25.840Z",
   "top": [
     {
-      "id": "gh-topic-1201173969",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 82,
-      "summary_oneline": "Claude Codeスキル: キャバマン語で記述することでトークン使用量を最大65%削減するプロンプト最適化ツール",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 85,
+      "summary_oneline": "Claude CodeやCodex、Gemini CLIなど主要AIエージェントを一括管理できるクロスプラットフォームのデスクトップ統合ツール",
       "tags": [
         "claude-code",
-        "skills",
-        "token-optimization"
+        "agent",
+        "desktop-app"
       ],
-      "published_at": "2026-05-20T10:44:54Z"
+      "published_at": "2026-06-03T15:03:13Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 78,
-      "summary_oneline": "Claude CodeなどのAIエージェントのセッション間で文脈をAI圧縮して永続化・再注入するメモリ管理ツール",
+      "score": 83,
+      "summary_oneline": "エージェントセッションの内容をAIで圧縮し次回セッションへ自動引き継ぎする、Claude Code対応の永続コンテキスト管理ライブラリ",
       "tags": [
         "claude-code",
         "memory",
         "agent"
       ],
-      "published_at": "2026-05-29T19:19:59Z"
+      "published_at": "2026-06-03T08:39:38Z"
+    },
+    {
+      "id": "gh-topic-1010681419",
+      "source": "github",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "score": 80,
+      "summary_oneline": "Bashだけを使ってClaude Code風のエージェントハーネスをゼロから実装する学習用リポジトリ",
+      "tags": [
+        "claude-code",
+        "tutorial",
+        "agent"
+      ],
+      "published_at": "2026-06-03T15:33:36Z"
     },
     {
       "id": "gh-trending-affaan-m-ecc",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・Cursor等向けのエージェントハーネス最適化システム（スキル・記憶・セキュリティ対応）",
+      "score": 78,
+      "summary_oneline": "Claude CodeやCursorなど複数CLIエージェントにスキル・記憶・セキュリティの最適化機能を追加するハーネスシステム",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
+        "agent",
+        "optimization"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIコーディングツールを一括管理するクロスプラットフォームデスクトップアプリ",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-06-02T14:17:42Z"
     },
     {
       "id": "gh-trending-chopratejas-headroom",
       "source": "github",
       "title": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "score": 68,
-      "summary_oneline": "LLMへ送る前にツール出力・ログ・RAGチャンクを圧縮しトークンを60〜95%削減するMCPサーバー付きライブラリ",
+      "score": 71,
+      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLMへ渡す前に60〜95%削減するトークン圧縮ライブラリ兼MCPサーバー",
       "tags": [
         "mcp",
-        "token-compression",
-        "rag"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-supermemoryai-supermemory",
-      "source": "github",
-      "title": "supermemoryai/supermemory",
-      "url": "https://github.com/supermemoryai/supermemory",
-      "score": 55,
-      "summary_oneline": "AI時代向けの高速・スケーラブルなメモリAPIエンジンとアプリ",
-      "tags": [
-        "memory",
-        "ai-api",
-        "agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 52,
-      "summary_oneline": "NousResearch製の汎用AIエージェントフレームワーク（成長型エージェントとして高スター数を獲得）",
-      "tags": [
-        "agent",
-        "open-source",
+        "token-optimization",
         "llm"
-      ],
-      "published_at": "2026-06-02T21:42:47Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 52,
-      "summary_oneline": "AIネイティブ機能を持つ自社ホスト可能なワークフロー自動化プラットフォーム（400+インテグレーション）",
-      "tags": [
-        "workflow-automation",
-        "ai",
-        "self-hosted"
-      ],
-      "published_at": "2026-06-02T22:02:04Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 52,
-      "summary_oneline": "エージェントワークフロー開発向けのプロダクション対応オープンソースプラットフォーム",
-      "tags": [
-        "agent",
-        "workflow",
-        "open-source"
-      ],
-      "published_at": "2026-06-02T18:20:43Z"
-    },
-    {
-      "id": "gh-trending-microsoft-markitdown",
-      "source": "github",
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "score": 50,
-      "summary_oneline": "Microsoft製: ファイルやOffice文書をMarkdownへ変換するPythonツール（LLMコンテキスト準備に有用）",
-      "tags": [
-        "markdown",
-        "document-conversion",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 50,
-      "summary_oneline": "誰でも利用・構築できるアクセシブルなAIエージェントプラットフォーム（185K+ stars）",
-      "tags": [
-        "agent",
-        "open-source",
-        "ai"
-      ],
-      "published_at": "2026-06-02T21:34:12Z"
-    },
-    {
-      "id": "gh-trending-nesquena-hermes-webui",
-      "source": "github",
-      "title": "nesquena/hermes-webui",
-      "url": "https://github.com/nesquena/hermes-webui",
-      "score": 48,
-      "summary_oneline": "Hermes Agentをウェブ・スマートフォンから利用するためのWebUI",
-      "tags": [
-        "agent",
-        "web-ui",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 48,
-      "summary_oneline": "Ollama・OpenAI APIに対応したユーザーフレンドリーなAIインターフェース（140K+ stars）",
-      "tags": [
-        "ai-ui",
-        "ollama",
-        "open-source"
-      ],
-      "published_at": "2026-06-02T02:22:06Z"
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 48,
-      "summary_oneline": "コミュニティからAIプロンプトを共有・発見・収集できるオープンソースプロンプトライブラリ（旧Awesome ChatGPT Prompts）",
-      "tags": [
-        "prompts",
-        "community",
-        "open-source"
-      ],
-      "published_at": "2026-06-02T04:35:07Z"
-    },
-    {
-      "id": "gh-trending-d4vinci-scrapling",
-      "source": "github",
-      "title": "D4Vinci/Scrapling",
-      "url": "https://github.com/D4Vinci/Scrapling",
-      "score": 42,
-      "summary_oneline": "シングルリクエストから大規模クロールまで対応するアダプティブWebスクレイピングフレームワーク",
-      "tags": [
-        "web-scraping",
-        "automation",
-        "python"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-open-llm-vtuber-open-llm-vtuber",
-      "source": "github",
-      "title": "Open-LLM-VTuber/Open-LLM-VTuber",
-      "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
-      "score": 42,
-      "summary_oneline": "Live2Dアバターと音声でLLMとハンズフリーで対話できるローカル動作VTuberシステム",
-      "tags": [
-        "llm",
-        "voice-interface",
-        "vtuber"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-stefan-jansen-machine-learning-for-trading",
-      "source": "github",
-      "title": "stefan-jansen/machine-learning-for-trading",
-      "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
-      "score": 42,
-      "summary_oneline": "「機械学習によるアルゴリズム取引（第2版）」の公式サンプルコード集",
-      "tags": [
-        "machine-learning",
-        "trading",
-        "education"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-openbmb-voxcpm",
-      "source": "github",
-      "title": "OpenBMB/VoxCPM",
-      "url": "https://github.com/OpenBMB/VoxCPM",
-      "score": 40,
-      "summary_oneline": "トークナイザー不要のTTS: 多言語音声生成・クリエイティブ声設計・高忠実度音声クローニングモデル",
-      "tags": [
-        "tts",
-        "speech-generation",
-        "multilingual"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-jamwithai-production-agentic-rag-course",
-      "source": "github",
-      "title": "jamwithai/production-agentic-rag-course",
-      "url": "https://github.com/jamwithai/production-agentic-rag-course",
-      "score": 38,
-      "summary_oneline": "プロダクション向けエージェントRAGの実装コースリポジトリ（詳細説明なし）",
-      "tags": [
-        "rag",
-        "agent",
-        "education"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-reconurge-flowsint",
-      "source": "github",
-      "title": "reconurge/flowsint",
-      "url": "https://github.com/reconurge/flowsint",
-      "score": 38,
-      "summary_oneline": "サイバーセキュリティ調査・フォレンジック向けのグラフベース視覚的調査プラットフォーム",
-      "tags": [
-        "cybersecurity",
-        "graph-analysis",
-        "investigation"
       ],
       "published_at": null
     }
