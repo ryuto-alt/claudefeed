@@ -1,48 +1,34 @@
 {
-  "date": "2026-06-04",
-  "generated_at": "2026-06-03T22:09:25.840Z",
+  "date": "2026-06-05",
+  "generated_at": "2026-06-04T22:08:55.089Z",
   "top": [
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 85,
-      "summary_oneline": "Claude CodeやCodex、Gemini CLIなど主要AIエージェントを一括管理できるクロスプラットフォームのデスクトップ統合ツール",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIコーディングツールを統合するクロスプラットフォームデスクトップアシスタント",
       "tags": [
         "claude-code",
-        "agent",
+        "agent-tools",
         "desktop-app"
       ],
-      "published_at": "2026-06-03T15:03:13Z"
+      "published_at": "2026-06-04T18:34:13Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 83,
-      "summary_oneline": "エージェントセッションの内容をAIで圧縮し次回セッションへ自動引き継ぎする、Claude Code対応の永続コンテキスト管理ライブラリ",
+      "score": 80,
+      "summary_oneline": "Claude Codeを含む複数AIエージェントにセッションをまたいだ永続コンテキストを提供するメモリシステム",
       "tags": [
         "claude-code",
         "memory",
-        "agent"
+        "persistent-context"
       ],
       "published_at": "2026-06-03T08:39:38Z"
-    },
-    {
-      "id": "gh-topic-1010681419",
-      "source": "github",
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "score": 80,
-      "summary_oneline": "Bashだけを使ってClaude Code風のエージェントハーネスをゼロから実装する学習用リポジトリ",
-      "tags": [
-        "claude-code",
-        "tutorial",
-        "agent"
-      ],
-      "published_at": "2026-06-03T15:33:36Z"
     },
     {
       "id": "gh-trending-affaan-m-ecc",
@@ -50,11 +36,11 @@
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "score": 78,
-      "summary_oneline": "Claude CodeやCursorなど複数CLIエージェントにスキル・記憶・セキュリティの最適化機能を追加するハーネスシステム",
+      "summary_oneline": "Claude Codeなど向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合提供",
       "tags": [
         "claude-code",
-        "agent",
-        "optimization"
+        "agent-sdk",
+        "skills"
       ],
       "published_at": null
     },
@@ -63,14 +49,42 @@
       "source": "github",
       "title": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "score": 71,
-      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLMへ渡す前に60〜95%削減するトークン圧縮ライブラリ兼MCPサーバー",
+      "score": 76,
+      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLM送信前に60〜95%圧縮するトークン削減ライブラリとMCPサーバー",
       "tags": [
         "mcp",
-        "token-optimization",
-        "llm"
+        "token-compression",
+        "context-management"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-trending-mvanhorn-last30days-skill",
+      "source": "github",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 72,
+      "summary_oneline": "Reddit・X・YouTube・HNなど複数ソースから任意トピックを調査・要約するAIエージェントスキル",
+      "tags": [
+        "claude-code",
+        "skills",
+        "research-agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1010681419",
+      "source": "github",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "score": 68,
+      "summary_oneline": "Claude Codeライクなエージェントハーネスをゼロから実装することでClaude Codeの仕組みを学ぶ教材リポジトリ",
+      "tags": [
+        "claude-code",
+        "tutorial",
+        "agent-harness"
+      ],
+      "published_at": "2026-06-04T02:22:54Z"
     }
   ],
   "extras": []
