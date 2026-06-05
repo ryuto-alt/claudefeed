@@ -1,46 +1,60 @@
 {
-  "date": "2026-06-05",
-  "generated_at": "2026-06-04T22:08:55.089Z",
+  "date": "2026-06-06",
+  "generated_at": "2026-06-05T22:10:04.040Z",
   "top": [
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-topic-1010681419",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 82,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIコーディングツールを統合するクロスプラットフォームデスクトップアシスタント",
+      "title": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "score": 80,
+      "summary_oneline": "Claude Codeライクなエージェントハーネスをゼロから構築するBashベースの学習リポジトリ",
       "tags": [
         "claude-code",
-        "agent-tools",
-        "desktop-app"
+        "agent-harness",
+        "tutorial"
       ],
-      "published_at": "2026-06-04T18:34:13Z"
+      "published_at": "2026-06-04T02:22:54Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 80,
-      "summary_oneline": "Claude Codeを含む複数AIエージェントにセッションをまたいだ永続コンテキストを提供するメモリシステム",
+      "score": 78,
+      "summary_oneline": "Claude Codeを含む複数AIエージェントにまたがるセッション持続コンテキスト管理ツール",
       "tags": [
         "claude-code",
         "memory",
-        "persistent-context"
+        "agent"
       ],
       "published_at": "2026-06-03T08:39:38Z"
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 75,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなどに対応するクロスプラットフォームのデスクトップ統合ツール",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "multi-agent"
+      ],
+      "published_at": "2026-06-05T14:58:07Z"
     },
     {
       "id": "gh-trending-affaan-m-ecc",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Codeなど向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合提供",
+      "score": 72,
+      "summary_oneline": "Claude CodeやCodex向けのスキル・メモリ・セキュリティを統合したエージェントハーネス最適化システム",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
+        "skills",
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -49,12 +63,12 @@
       "source": "github",
       "title": "chopratejas/headroom",
       "url": "https://github.com/chopratejas/headroom",
-      "score": 76,
-      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLM送信前に60〜95%圧縮するトークン削減ライブラリとMCPサーバー",
+      "score": 68,
+      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLMへ送る前に60〜95%圧縮するMCPサーバー内蔵ライブラリ",
       "tags": [
         "mcp",
-        "token-compression",
-        "context-management"
+        "token-optimization",
+        "llm"
       ],
       "published_at": null
     },
@@ -63,28 +77,210 @@
       "source": "github",
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "score": 72,
-      "summary_oneline": "Reddit・X・YouTube・HNなど複数ソースから任意トピックを調査・要約するAIエージェントスキル",
+      "score": 62,
+      "summary_oneline": "Reddit・X・YouTube・HNなど複数ソースからトピックを横断調査するAIエージェントスキル",
       "tags": [
-        "claude-code",
         "skills",
-        "research-agent"
+        "agent",
+        "research"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1010681419",
+      "id": "gh-trending-nousresearch-hermes-agent",
       "source": "github",
-      "title": "shareAI-lab/learn-claude-code",
-      "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "score": 68,
-      "summary_oneline": "Claude Codeライクなエージェントハーネスをゼロから実装することでClaude Codeの仕組みを学ぶ教材リポジトリ",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 40,
+      "summary_oneline": "NousResearchが公開する、成長するAIエージェントフレームワーク「Hermes Agent」",
       "tags": [
-        "claude-code",
-        "tutorial",
-        "agent-harness"
+        "agent",
+        "llm",
+        "open-source"
       ],
-      "published_at": "2026-06-04T02:22:54Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-copilotkit-copilotkit",
+      "source": "github",
+      "title": "CopilotKit/CopilotKit",
+      "url": "https://github.com/CopilotKit/CopilotKit",
+      "score": 40,
+      "summary_oneline": "AI・生成UI向けフロントエンドスタック。AG-UIプロトコルを提供するReact/Angularライブラリ",
+      "tags": [
+        "agent",
+        "frontend",
+        "react"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 40,
+      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化プラットフォーム、400以上の連携対応",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "self-host"
+      ],
+      "published_at": "2026-06-05T21:26:54Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 38,
+      "summary_oneline": "エージェントワークフロー開発向けプロダクション対応オープンソースプラットフォーム",
+      "tags": [
+        "agent",
+        "workflow",
+        "llm"
+      ],
+      "published_at": "2026-06-05T21:43:05Z"
+    },
+    {
+      "id": "gh-trending-github-copilot-sdk",
+      "source": "github",
+      "title": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "score": 35,
+      "summary_oneline": "アプリ・サービスにGitHub Copilotエージェントを統合するマルチプラットフォームSDK",
+      "tags": [
+        "copilot",
+        "sdk",
+        "agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-lfnovo-open-notebook",
+      "source": "github",
+      "title": "lfnovo/open-notebook",
+      "url": "https://github.com/lfnovo/open-notebook",
+      "score": 33,
+      "summary_oneline": "柔軟性と機能を強化したオープンソース版Notebook LMの実装",
+      "tags": [
+        "notebook-lm",
+        "llm",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-panniantong-agent-reach",
+      "source": "github",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 33,
+      "summary_oneline": "Twitter・Reddit・YouTube・GitHubなどをAPIコストなしで検索できるAIエージェントCLI",
+      "tags": [
+        "agent",
+        "web-access",
+        "cli"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-paddlepaddle-paddleocr",
+      "source": "github",
+      "title": "PaddlePaddle/PaddleOCR",
+      "url": "https://github.com/PaddlePaddle/PaddleOCR",
+      "score": 33,
+      "summary_oneline": "100以上の言語対応、PDF・画像をAI向け構造化データに変換する高性能OCRツールキット",
+      "tags": [
+        "ocr",
+        "llm",
+        "document-processing"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 33,
+      "summary_oneline": "Ollama・OpenAI API等に対応するユーザーフレンドリーなオープンソースAIインターフェース",
+      "tags": [
+        "llm",
+        "open-source",
+        "ui"
+      ],
+      "published_at": "2026-06-05T20:58:17Z"
+    },
+    {
+      "id": "gh-trending-mempalace-mempalace",
+      "source": "github",
+      "title": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "score": 30,
+      "summary_oneline": "ベンチマーク最高水準のオープンソースAIメモリシステム（無料利用可）",
+      "tags": [
+        "memory",
+        "llm",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-openclaw-openclaw-windows-node",
+      "source": "github",
+      "title": "openclaw/openclaw-windows-node",
+      "url": "https://github.com/openclaw/openclaw-windows-node",
+      "score": 30,
+      "summary_oneline": "OpenClawのWindows向けコンパニオンスイート。システムトレイ・PowerToysパレット拡張対応",
+      "tags": [
+        "windows",
+        "agent",
+        "desktop"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 30,
+      "summary_oneline": "誰でも使えるアクセシブルなAIを目指す自律型AIエージェントAutoGPTのオープンソース実装",
+      "tags": [
+        "agent",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-06-05T17:02:23Z"
+    },
+    {
+      "id": "gh-trending-nvidia-cosmos",
+      "source": "github",
+      "title": "NVIDIA/cosmos",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "score": 28,
+      "summary_oneline": "ロボットや自動運転向けPhysical AI開発用のNVIDIA製オープンワールドモデルプラットフォーム",
+      "tags": [
+        "physical-ai",
+        "world-model",
+        "nvidia"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 28,
+      "summary_oneline": "コミュニティ主導のプロンプト収集・共有プラットフォーム（旧Awesome ChatGPT Prompts）",
+      "tags": [
+        "prompts",
+        "chatgpt",
+        "community"
+      ],
+      "published_at": "2026-06-05T04:34:08Z"
     }
   ],
   "extras": []
