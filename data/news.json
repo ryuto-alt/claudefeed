@@ -1,182 +1,18 @@
 {
-  "date": "2026-06-08",
-  "generated_at": "2026-06-07T22:09:02.941Z",
+  "date": "2026-06-09",
+  "generated_at": "2026-06-08T22:09:05.576Z",
   "top": [
     {
-      "id": "cc-release-335118845",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.166",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.166",
-      "score": 92,
-      "summary_oneline": "`fallbackModel`設定で最大3つのフォールバックモデルを設定可能に。拒否ルールにglobパターン対応。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "config"
-      ],
-      "published_at": "2026-06-06T00:55:18Z"
-    },
-    {
-      "id": "cc-release-334509318",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.163",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.163",
-      "score": 90,
-      "summary_oneline": "バージョン範囲の管理設定を追加し、`/plugin list`コマンドとコピーショートカットも導入。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "enterprise"
-      ],
-      "published_at": "2026-06-04T21:52:51Z"
-    },
-    {
-      "id": "cc-release-332740156",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.160",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.160",
-      "score": 88,
-      "summary_oneline": "シェル起動ファイルやビルドツール設定への書き込み前に確認プロンプトを追加し安全性を強化。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "security"
-      ],
-      "published_at": "2026-06-02T02:10:25Z"
-    },
-    {
-      "id": "cc-release-333906405",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.162",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.162",
-      "score": 86,
-      "summary_oneline": "`claude agents --json`に`waitingFor`追加。`/effort`設定が新セッションのデフォルトとして維持されるように。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "agents"
-      ],
-      "published_at": "2026-06-03T21:31:35Z"
-    },
-    {
-      "id": "cc-release-331845855",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.158",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.158",
-      "score": 84,
-      "summary_oneline": "Bedrock・Vertex・FoundryのOpus 4.7/4.8でAutoモードが利用可能に。環境変数で有効化。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "cloud-providers"
-      ],
-      "published_at": "2026-05-30T02:42:16Z"
-    },
-    {
-      "id": "cc-release-333271302",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.161",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.161",
-      "score": 82,
-      "summary_oneline": "OTELメトリクスにカスタム属性ラベル追加。`claude agents`の進捗表示と`/mcp`の未使用コネクタ表示を改善。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "observability"
-      ],
-      "published_at": "2026-06-02T21:58:22Z"
-    },
-    {
-      "id": "cc-release-335497362",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.168",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.168",
-      "score": 76,
-      "summary_oneline": "バグ修正と安定性の向上。",
-      "tags": [
-        "claude-code",
-        "release-notes"
-      ],
-      "published_at": "2026-06-06T23:41:53Z"
-    },
-    {
-      "id": "gh-trending-mvanhorn-last30days-skill",
+      "id": "gh-trending-luongnv89-claude-howto",
       "source": "github",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "score": 72,
-      "summary_oneline": "Reddit・X・YouTube・HN・Polymarketなど複数ソースを横断してトピックを調査・要約するAIエージェントスキル。",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "research"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "cc-release-335263216",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.167",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.167",
-      "score": 70,
-      "summary_oneline": "バグ修正と安定性の向上。",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "score": 85,
+      "summary_oneline": "Claude Codeの基礎から上級エージェント構築まで視覚的に解説したガイド。コピペ可能なテンプレートを収録。",
       "tags": [
         "claude-code",
-        "release-notes"
-      ],
-      "published_at": "2026-06-06T01:33:35Z"
-    },
-    {
-      "id": "cc-release-334736889",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.165",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.165",
-      "score": 68,
-      "summary_oneline": "バグ修正と安定性の向上。",
-      "tags": [
-        "claude-code",
-        "release-notes"
-      ],
-      "published_at": "2026-06-05T05:45:06Z"
-    },
-    {
-      "id": "cc-release-332179350",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.159",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.159",
-      "score": 65,
-      "summary_oneline": "内部インフラの改善（ユーザー向けの変更なし）。",
-      "tags": [
-        "claude-code",
-        "release-notes"
-      ],
-      "published_at": "2026-05-31T19:42:49Z"
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 64,
-      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": "2026-06-07T16:43:12Z"
-    },
-    {
-      "id": "gh-trending-leonxlnx-taste-skill",
-      "source": "github",
-      "title": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "score": 63,
-      "summary_oneline": "AIの出力品質を高め、凡庸な生成物を抑制するためのエージェントスキル。",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "quality"
+        "tutorial",
+        "guide"
       ],
       "published_at": null
     },
@@ -185,12 +21,12 @@
       "source": "github",
       "title": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "score": 62,
-      "summary_oneline": "Claude Code風エージェントハーネスをゼロから構築するチュートリアル「Bash is all you need」。",
+      "score": 83,
+      "summary_oneline": "Claude Code風のミニエージェントハーネスをゼロから構築するチュートリアルリポジトリ。Bashのみで実装。",
       "tags": [
         "claude-code",
-        "tutorial",
-        "agent-harness"
+        "agent-harness",
+        "tutorial"
       ],
       "published_at": "2026-06-07T04:39:59Z"
     },
@@ -199,82 +35,96 @@
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 61,
-      "summary_oneline": "セッション間でエージェントのコンテキストをAI圧縮して永続化し、次セッションに注入するツール。",
+      "score": 82,
+      "summary_oneline": "Claude Codeを含む複数エージェントのセッション間コンテキストをAI圧縮して永続管理するシステム。",
       "tags": [
         "claude-code",
         "memory",
-        "agent-sdk"
+        "persistent-context"
       ],
-      "published_at": "2026-06-06T06:23:50Z"
+      "published_at": "2026-06-08T01:47:20Z"
+    },
+    {
+      "id": "gh-trending-santifer-career-ops",
+      "source": "github",
+      "title": "santifer/career-ops",
+      "url": "https://github.com/santifer/career-ops",
+      "score": 80,
+      "summary_oneline": "Claude CodeのSkillsを活用した就職活動自動化システム。14種のスキルモードとGo製ダッシュボードを搭載。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "automation"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 75,
+      "summary_oneline": "Claude Code・Codex・Cursor向けにSkills・メモリ・セキュリティを最適化するエージェントハーネス改善フレームワーク。",
+      "tags": [
+        "claude-code",
+        "agent-harness",
+        "skills"
+      ],
+      "published_at": "2026-06-07T16:43:12Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 42,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームのデスクトップAIアシスタント。",
+      "score": 72,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数のAIコーディングツールをまとめて管理するクロスプラットフォームデスクトップアプリ。",
       "tags": [
         "claude-code",
-        "tools",
-        "desktop"
+        "desktop-app",
+        "multi-agent"
       ],
-      "published_at": "2026-06-07T12:57:25Z"
+      "published_at": "2026-06-08T15:27:37Z"
     },
     {
-      "id": "gh-trending-ggml-org-llama-cpp",
+      "id": "gh-trending-google-skills",
       "source": "github",
-      "title": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "score": 32,
-      "summary_oneline": "C/C++で実装されたLLM推論ライブラリ。ローカル実行のデファクトスタンダード。",
+      "title": "google/skills",
+      "url": "https://github.com/google/skills",
+      "score": 65,
+      "summary_oneline": "GoogleがGoogleプロダクト・テクノロジー向けに公式提供するAIエージェントスキル集。",
       "tags": [
-        "llm",
-        "local-inference",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 30,
-      "summary_oneline": "エージェントワークフロー開発向けのプロダクション対応オープンソースプラットフォーム。",
-      "tags": [
-        "agent",
-        "workflow",
-        "open-source"
-      ],
-      "published_at": "2026-06-07T14:30:37Z"
-    },
-    {
-      "id": "gh-trending-nousresearch-hermes-agent",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 29,
-      "summary_oneline": "NousResearch製のオープンソースAIエージェント。学習・適応能力を重視した設計。",
-      "tags": [
-        "agent",
-        "open-source",
-        "llm"
+        "agent-sdk",
+        "skills",
+        "google"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-lfnovo-open-notebook",
+      "id": "gh-trending-phuryn-pm-skills",
       "source": "github",
-      "title": "lfnovo/open-notebook",
-      "url": "https://github.com/lfnovo/open-notebook",
-      "score": 28,
-      "summary_oneline": "Google NotebookLMのオープンソース実装。柔軟な設定と追加機能を備えた代替ツール。",
+      "title": "phuryn/pm-skills",
+      "url": "https://github.com/phuryn/pm-skills",
+      "score": 63,
+      "summary_oneline": "プロダクトマネジメント向けの100以上のエージェントスキル・コマンド・プラグインを収録したマーケットプレイス。",
       "tags": [
-        "llm",
-        "notebook",
-        "open-source"
+        "skills",
+        "agent-sdk",
+        "product-management"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mvanhorn-last30days-skill",
+      "source": "github",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 62,
+      "summary_oneline": "Reddit・X・YouTube・HN等を横断して任意トピックをリサーチし要約するAIエージェントスキル。",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "research"
       ],
       "published_at": null
     }
