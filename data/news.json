@@ -1,18 +1,60 @@
 {
-  "date": "2026-06-09",
-  "generated_at": "2026-06-08T22:09:05.576Z",
+  "date": "2026-06-10",
+  "generated_at": "2026-06-09T22:10:36.108Z",
   "top": [
     {
-      "id": "gh-trending-luongnv89-claude-howto",
+      "id": "gh-topic-1136590548",
       "source": "github",
-      "title": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
       "score": 85,
-      "summary_oneline": "Claude Codeの基礎から上級エージェント構築まで視覚的に解説したガイド。コピペ可能なテンプレートを収録。",
+      "summary_oneline": "Claude Code・Codex・Cursor等向けエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を提供",
       "tags": [
         "claude-code",
-        "tutorial",
-        "guide"
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": "2026-06-09T02:38:04Z"
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 85,
+      "summary_oneline": "セッション間で永続的なコンテキストを提供するエージェント向けメモリシステム。Claude Code等複数ツールに対応",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "memory"
+      ],
+      "published_at": "2026-06-09T22:05:25Z"
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 83,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等に対応するクロスプラットフォーム統合デスクトップアシスタント",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "multi-agent"
+      ],
+      "published_at": "2026-06-09T12:30:05Z"
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 82,
+      "summary_oneline": "AIコーディングエージェント向けのプロダクショングレードなエンジニアリングスキル集",
+      "tags": [
+        "skills",
+        "claude-code",
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -21,36 +63,22 @@
       "source": "github",
       "title": "shareAI-lab/learn-claude-code",
       "url": "https://github.com/shareAI-lab/learn-claude-code",
-      "score": 83,
-      "summary_oneline": "Claude Code風のミニエージェントハーネスをゼロから構築するチュートリアルリポジトリ。Bashのみで実装。",
+      "score": 82,
+      "summary_oneline": "Claude Code風エージェントハーネスをゼロから構築する教育用実装プロジェクト",
       "tags": [
         "claude-code",
-        "agent-harness",
-        "tutorial"
+        "tutorial",
+        "agent-sdk"
       ],
       "published_at": "2026-06-07T04:39:59Z"
-    },
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 82,
-      "summary_oneline": "Claude Codeを含む複数エージェントのセッション間コンテキストをAI圧縮して永続管理するシステム。",
-      "tags": [
-        "claude-code",
-        "memory",
-        "persistent-context"
-      ],
-      "published_at": "2026-06-08T01:47:20Z"
     },
     {
       "id": "gh-trending-santifer-career-ops",
       "source": "github",
       "title": "santifer/career-ops",
       "url": "https://github.com/santifer/career-ops",
-      "score": 80,
-      "summary_oneline": "Claude CodeのSkillsを活用した就職活動自動化システム。14種のスキルモードとGo製ダッシュボードを搭載。",
+      "score": 78,
+      "summary_oneline": "Claude Codeで構築した14スキルモード・Go製ダッシュボード・PDF生成機能を持つAI求人活動支援システム",
       "tags": [
         "claude-code",
         "skills",
@@ -59,44 +87,16 @@
       "published_at": null
     },
     {
-      "id": "gh-topic-1136590548",
+      "id": "gh-trending-mvanhorn-last30days-skill",
       "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・Cursor向けにSkills・メモリ・セキュリティを最適化するエージェントハーネス改善フレームワーク。",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": "2026-06-07T16:43:12Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数のAIコーディングツールをまとめて管理するクロスプラットフォームデスクトップアプリ。",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-06-08T15:27:37Z"
-    },
-    {
-      "id": "gh-trending-google-skills",
-      "source": "github",
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
       "score": 65,
-      "summary_oneline": "GoogleがGoogleプロダクト・テクノロジー向けに公式提供するAIエージェントスキル集。",
+      "summary_oneline": "Reddit・X・YouTube・HN等から任意トピックを調査し要約するAIエージェントスキル",
       "tags": [
-        "agent-sdk",
         "skills",
-        "google"
+        "agent-sdk",
+        "research"
       ],
       "published_at": null
     },
@@ -106,7 +106,7 @@
       "title": "phuryn/pm-skills",
       "url": "https://github.com/phuryn/pm-skills",
       "score": 63,
-      "summary_oneline": "プロダクトマネジメント向けの100以上のエージェントスキル・コマンド・プラグインを収録したマーケットプレイス。",
+      "summary_oneline": "ディスカバリーから成長まで100以上のPMスキル・コマンド・プラグインのマーケットプレイス",
       "tags": [
         "skills",
         "agent-sdk",
@@ -115,16 +115,170 @@
       "published_at": null
     },
     {
-      "id": "gh-trending-mvanhorn-last30days-skill",
+      "id": "gh-trending-x1xhlol-system-prompts-and-models-of-ai-tools",
       "source": "github",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "score": 62,
-      "summary_oneline": "Reddit・X・YouTube・HN等を横断して任意トピックをリサーチし要約するAIエージェントスキル。",
+      "summary_oneline": "Claude Code・Cursor・Windsurf等主要AIコーディングツールのシステムプロンプトとモデル情報を公開",
       "tags": [
-        "skills",
+        "claude-code",
+        "system-prompt",
+        "llm"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-aaif-goose-goose",
+      "source": "github",
+      "title": "aaif-goose/goose",
+      "url": "https://github.com/aaif-goose/goose",
+      "score": 55,
+      "summary_oneline": "インストール・実行・編集・テストに対応した任意LLMで動く拡張可能なオープンソースAIエージェント",
+      "tags": [
+        "ai-agent",
+        "llm",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 55,
+      "summary_oneline": "ネイティブAI機能を持つフェアコードワークフロー自動化プラットフォーム（400以上の統合対応）",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "open-source"
+      ],
+      "published_at": "2026-06-09T21:15:34Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 55,
+      "summary_oneline": "エージェントワークフロー開発向けプロダクション対応プラットフォーム",
+      "tags": [
         "agent-sdk",
-        "research"
+        "llm",
+        "workflow"
+      ],
+      "published_at": "2026-06-09T21:53:02Z"
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 53,
+      "summary_oneline": "NousResearchによる成長型AIエージェントフレームワーク",
+      "tags": [
+        "ai-agent",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-06-09T22:03:48Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 50,
+      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなAIインターフェース",
+      "tags": [
+        "llm",
+        "open-source",
+        "ui"
+      ],
+      "published_at": "2026-06-08T21:52:55Z"
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 50,
+      "summary_oneline": "誰でも使えるアクセシブルなAIを目指すAutoGPTプロジェクトの最新動向",
+      "tags": [
+        "ai-agent",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-06-09T19:51:34Z"
+    },
+    {
+      "id": "gh-trending-andyyyy64-whichllm",
+      "source": "github",
+      "title": "Andyyyy64/whichllm",
+      "url": "https://github.com/Andyyyy64/whichllm",
+      "score": 48,
+      "summary_oneline": "ハードウェアに最適なローカルLLMをリアルベンチマークで探せるワンコマンドツール",
+      "tags": [
+        "llm",
+        "local-ai",
+        "benchmark"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 48,
+      "summary_oneline": "コミュニティからプロンプトを共有・発見・収集できるオープンソースプラットフォーム",
+      "tags": [
+        "prompt-engineering",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-06-09T04:29:54Z"
+    },
+    {
+      "id": "gh-trending-openai-plugins",
+      "source": "github",
+      "title": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "score": 38,
+      "summary_oneline": "OpenAIのプラグインリポジトリ",
+      "tags": [
+        "openai",
+        "plugins",
+        "llm"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-refactoringhq-tolaria",
+      "source": "github",
+      "title": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "score": 30,
+      "summary_oneline": "マークダウン知識ベースを管理するデスクトップアプリ",
+      "tags": [
+        "knowledge-base",
+        "markdown",
+        "desktop-app"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-maziyarpanahi-openmed",
+      "source": "github",
+      "title": "maziyarpanahi/openmed",
+      "url": "https://github.com/maziyarpanahi/openmed",
+      "score": 30,
+      "summary_oneline": "オープンソースのヘルスケアAIプラットフォーム",
+      "tags": [
+        "healthcare",
+        "ai",
+        "open-source"
       ],
       "published_at": null
     }
