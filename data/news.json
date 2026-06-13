@@ -1,14 +1,56 @@
 {
-  "date": "2026-06-12",
-  "generated_at": "2026-06-12T22:04:40.453Z",
+  "date": "2026-06-14",
+  "generated_at": "2026-06-13T22:03:59.843Z",
   "top": [
+    {
+      "id": "gh-trending-kenn-io-agentsview",
+      "source": "github",
+      "title": "kenn-io/agentsview",
+      "url": "https://github.com/kenn-io/agentsview",
+      "score": 88,
+      "summary_oneline": "Claude CodeやCodexなど20以上のコーディングエージェントのセッション分析ツール。ccusageの100倍高速と謳う。",
+      "tags": [
+        "claude-code",
+        "agent-analytics",
+        "local-first"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 87,
+      "summary_oneline": "Claude CodeやCodexなど複数エージェントのセッション間で文脈を圧縮・保持する永続メモリツール。",
+      "tags": [
+        "claude-code",
+        "persistent-memory",
+        "agent"
+      ],
+      "published_at": "2026-06-13T01:13:33Z"
+    },
+    {
+      "id": "gh-trending-nvidia-skillspector",
+      "source": "github",
+      "title": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "score": 84,
+      "summary_oneline": "AIエージェントスキルの脆弱性・悪意あるパターン・セキュリティリスクを検出するスキャナー。",
+      "tags": [
+        "agent-skills",
+        "security",
+        "nvidia"
+      ],
+      "published_at": null
+    },
     {
       "id": "gh-topic-1201173969",
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 85,
-      "summary_oneline": "「原始人語」でClaudeのトークン使用量を65%削減するClaude Codeスキル",
+      "score": 83,
+      "summary_oneline": "穴居人語で話すことでトークンを65%削減するClaude Codeスキル。",
       "tags": [
         "claude-code",
         "skills",
@@ -17,44 +59,16 @@
       "published_at": "2026-06-12T13:51:06Z"
     },
     {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 82,
-      "summary_oneline": "Claude Code等各種エージェントのセッションをまたいで文脈を永続化・注入するツール",
-      "tags": [
-        "claude-code",
-        "context",
-        "agent"
-      ],
-      "published_at": "2026-06-11T21:29:02Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等に対応したクロスプラットフォームのAIコーディングアシスタント",
-      "tags": [
-        "claude-code",
-        "cross-platform",
-        "tool"
-      ],
-      "published_at": "2026-06-11T18:37:28Z"
-    },
-    {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス最適化システム（スキル・記憶・セキュリティ）",
+      "score": 83,
+      "summary_oneline": "Claude Code・Codex・Cursor向けのエージェントハーネス性能最適化システム（スキル・記憶・セキュリティ対応）。",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
+        "agent-harness",
+        "performance"
       ],
       "published_at": "2026-06-11T20:24:32Z"
     },
@@ -63,12 +77,12 @@
       "source": "github",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "score": 72,
-      "summary_oneline": "AIコーディングエージェント向けプロダクション品質のエンジニアリングスキル集",
+      "score": 80,
+      "summary_oneline": "AIコーディングエージェント向けのプロダクション品質エンジニアリングスキル集。",
       "tags": [
-        "agent-sdk",
-        "coding-agent",
-        "skills"
+        "agent-skills",
+        "claude-code",
+        "engineering"
       ],
       "published_at": null
     },
@@ -77,26 +91,40 @@
       "source": "github",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 68,
-      "summary_oneline": "動作実績のあるエージェンティックスキルフレームワーク＆ソフトウェア開発手法",
+      "score": 80,
+      "summary_oneline": "実用的なエージェントスキルフレームワークとソフトウェア開発メソドロジー。",
       "tags": [
-        "agent-sdk",
-        "skills",
-        "framework"
+        "agent-skills",
+        "framework",
+        "methodology"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-phuryn-pm-skills",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "phuryn/pm-skills",
-      "url": "https://github.com/phuryn/pm-skills",
-      "score": 65,
-      "summary_oneline": "戦略からローンチまで100以上のエージェンティックスキル・コマンド・プラグイン集",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数エージェントに対応するクロスプラットフォームデスクトップ管理ツール。",
       "tags": [
-        "skills",
-        "agent",
-        "productivity"
+        "claude-code",
+        "desktop-tool",
+        "multi-agent"
+      ],
+      "published_at": "2026-06-11T18:37:28Z"
+    },
+    {
+      "id": "gh-trending-x1xhlol-system-prompts-and-models-of-ai-tools",
+      "source": "github",
+      "title": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "score": 70,
+      "summary_oneline": "Claude Code・Cursor・Devinなど主要AIツールのシステムプロンプトと内部ツールをまとめたリポジトリ。",
+      "tags": [
+        "claude-code",
+        "system-prompts",
+        "reverse-engineering"
       ],
       "published_at": null
     },
@@ -105,181 +133,14 @@
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 50,
-      "summary_oneline": "エージェンティックワークフロー開発向けプロダクション対応プラットフォーム",
+      "score": 60,
+      "summary_oneline": "ビジュアルビルダーとカスタムコードを組み合わせたプロダクション向けエージェントワークフロー開発プラットフォーム。",
       "tags": [
-        "agent",
-        "workflow",
+        "agentic-workflow",
+        "llm-platform",
         "open-source"
       ],
-      "published_at": "2026-06-12T19:07:02Z"
-    },
-    {
-      "id": "gh-trending-msitarzewski-agency-agents",
-      "source": "github",
-      "title": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "score": 48,
-      "summary_oneline": "フロントエンドからSNS管理まで役割特化した専門AIエージェント集",
-      "tags": [
-        "agent",
-        "automation",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 48,
-      "summary_oneline": "自己成長型汎用AIエージェントフレームワーク",
-      "tags": [
-        "agent",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-06-12T19:58:39Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 45,
-      "summary_oneline": "ネイティブAI機能とビジュアルビルダーを備えたワークフロー自動化プラットフォーム",
-      "tags": [
-        "automation",
-        "ai",
-        "workflow"
-      ],
-      "published_at": "2026-06-12T21:54:02Z"
-    },
-    {
-      "id": "gh-trending-lmcache-lmcache",
-      "source": "github",
-      "title": "LMCache/LMCache",
-      "url": "https://github.com/LMCache/LMCache",
-      "score": 45,
-      "summary_oneline": "LLMのKVキャッシュを高速化するレイヤーライブラリ",
-      "tags": [
-        "llm",
-        "performance",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 42,
-      "summary_oneline": "Ollama・OpenAI API等をサポートするユーザーフレンドリーなAIチャットインターフェース",
-      "tags": [
-        "llm",
-        "ui",
-        "open-source"
-      ],
-      "published_at": "2026-06-12T19:26:17Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 40,
-      "summary_oneline": "誰もが利用・構築できる汎用AIエージェントフレームワーク",
-      "tags": [
-        "agent",
-        "automation",
-        "open-source"
-      ],
-      "published_at": "2026-06-12T12:58:53Z"
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 40,
-      "summary_oneline": "コミュニティからプロンプトを共有・発見・収集できるオープンソースプラットフォーム",
-      "tags": [
-        "prompts",
-        "community",
-        "open-source"
-      ],
-      "published_at": "2026-06-12T04:35:13Z"
-    },
-    {
-      "id": "gh-trending-apple-container",
-      "source": "github",
-      "title": "apple/container",
-      "url": "https://github.com/apple/container",
-      "score": 38,
-      "summary_oneline": "AppleシリコンMac向け軽量VM上でLinuxコンテナを作成・実行するツール",
-      "tags": [
-        "container",
-        "macos",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-maziyarpanahi-openmed",
-      "source": "github",
-      "title": "maziyarpanahi/openmed",
-      "url": "https://github.com/maziyarpanahi/openmed",
-      "score": 35,
-      "summary_oneline": "オープンソースの医療分野向けAIプラットフォーム",
-      "tags": [
-        "ai",
-        "healthcare",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-refactoringhq-tolaria",
-      "source": "github",
-      "title": "refactoringhq/tolaria",
-      "url": "https://github.com/refactoringhq/tolaria",
-      "score": 28,
-      "summary_oneline": "マークダウンナレッジベースを管理するデスクトップアプリ",
-      "tags": [
-        "knowledge-base",
-        "markdown",
-        "desktop"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-mattermost-mattermost",
-      "source": "github",
-      "title": "mattermost/mattermost",
-      "url": "https://github.com/mattermost/mattermost",
-      "score": 22,
-      "summary_oneline": "ソフトウェア開発ライフサイクル全体の安全なコラボレーション向けOSSプラットフォーム",
-      "tags": [
-        "collaboration",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-132464395",
-      "source": "github",
-      "title": "Snailclimb/JavaGuide",
-      "url": "https://github.com/Snailclimb/JavaGuide",
-      "score": 22,
-      "summary_oneline": "コンピュータ基礎からAIアプリ開発まで網羅したJava面接・バックエンド学習ガイド",
-      "tags": [
-        "java",
-        "guide",
-        "backend"
-      ],
-      "published_at": "2026-06-12T16:05:30Z"
+      "published_at": "2026-06-13T12:27:01Z"
     }
   ],
   "extras": []
