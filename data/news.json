@@ -1,28 +1,14 @@
 {
-  "date": "2026-06-15",
-  "generated_at": "2026-06-14T22:03:40.342Z",
+  "date": "2026-06-17",
+  "generated_at": "2026-06-16T22:05:21.195Z",
   "top": [
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 82,
-      "summary_oneline": "Claude Code等エージェントのセッション間でコンテキストを永続化・注入するOSSツール。",
-      "tags": [
-        "claude-code",
-        "memory",
-        "agent"
-      ],
-      "published_at": "2026-06-13T01:13:33Z"
-    },
     {
       "id": "gh-topic-1201173969",
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 80,
-      "summary_oneline": "Claude Codeスキル。カタコトな文体でトークン消費を65%削減できると主張するツール。",
+      "score": 85,
+      "summary_oneline": "トークンを65%削減するClaude Codeスキル。穴居人語で話すことでプロンプト消費を大幅カット。",
       "tags": [
         "claude-code",
         "skills",
@@ -35,252 +21,70 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude CodeやCursorなど向けのエージェントハーネス最適化システム（スキル・記憶・セキュリティ）。",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・Cursor向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを統合管理。",
       "tags": [
         "claude-code",
-        "agent",
+        "agent-sdk",
         "skills"
       ],
-      "published_at": "2026-06-11T20:24:32Z"
+      "published_at": "2026-06-16T21:30:48Z"
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 78,
+      "summary_oneline": "Claude Codeを含む複数エージェントのセッション間コンテキストを永続化・AI圧縮して次回セッションへ注入するツール。",
+      "tags": [
+        "claude-code",
+        "agent-memory",
+        "context-management"
+      ],
+      "published_at": "2026-06-16T21:39:43Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等を統合管理するクロスプラットフォームデスクトップアプリ。",
+      "score": 76,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど主要AIエージェントCLIを統合したクロスプラットフォームデスクトップアシスタント。",
       "tags": [
         "claude-code",
         "desktop-app",
-        "ai-tool"
+        "multi-agent"
       ],
-      "published_at": "2026-06-14T16:23:02Z"
-    },
-    {
-      "id": "gh-trending-nvidia-skillspector",
-      "source": "github",
-      "title": "NVIDIA/SkillSpector",
-      "url": "https://github.com/NVIDIA/SkillSpector",
-      "score": 65,
-      "summary_oneline": "AIエージェントスキルの脆弱性・悪意あるパターンを検出するNVIDIA製セキュリティスキャナー。",
-      "tags": [
-        "ai-agent",
-        "security",
-        "skills"
-      ],
-      "published_at": null
+      "published_at": "2026-06-16T14:01:57Z"
     },
     {
       "id": "gh-topic-626805178",
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 52,
-      "summary_oneline": "エージェントワークフロー開発向けプロダクション対応のOSSプラットフォーム（スター数多数）。",
+      "score": 62,
+      "summary_oneline": "AIエージェントワークフロー構築向けのプロダクション対応オープンソースプラットフォーム（145kスター）。",
       "tags": [
-        "agent",
-        "llm",
-        "workflow"
+        "agentic-workflow",
+        "open-source",
+        "llm-platform"
       ],
-      "published_at": "2026-06-14T14:35:41Z"
-    },
-    {
-      "id": "gh-trending-andrewyng-aisuite",
-      "source": "github",
-      "title": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "score": 48,
-      "summary_oneline": "複数の生成AIプロバイダーに対応したシンプルな統合インターフェースライブラリ。",
-      "tags": [
-        "llm",
-        "ai-tool",
-        "python"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 45,
-      "summary_oneline": "NousResearch開発の汎用AIエージェントフレームワーク「Hermes Agent」。",
-      "tags": [
-        "agent",
-        "llm",
-        "open-source"
-      ],
-      "published_at": "2026-06-14T21:01:05Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 42,
-      "summary_oneline": "汎用AIエージェントの構築・実行を目的としたOSSプラットフォームAutoGPT。",
-      "tags": [
-        "agent",
-        "llm",
-        "automation"
-      ],
-      "published_at": "2026-06-13T23:47:18Z"
+      "published_at": "2026-06-16T20:38:11Z"
     },
     {
       "id": "gh-topic-701547123",
       "source": "github",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 40,
-      "summary_oneline": "Ollama・OpenAI APIなどに対応したセルフホスト可能なAIチャットUI。",
+      "score": 60,
+      "summary_oneline": "Ollama・OpenAI API対応のセルフホスト型ユーザーフレンドリーAIチャットインターフェース（141kスター）。",
       "tags": [
-        "llm",
-        "open-source",
-        "ui"
-      ],
-      "published_at": "2026-06-13T13:19:10Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 38,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードライセンスのワークフロー自動化プラットフォーム。",
-      "tags": [
-        "automation",
-        "workflow",
-        "ai"
-      ],
-      "published_at": "2026-06-14T21:58:15Z"
-    },
-    {
-      "id": "gh-trending-shiyu-coder-kronos",
-      "source": "github",
-      "title": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "score": 35,
-      "summary_oneline": "金融市場の言語を対象としたファウンデーションモデル「Kronos」のリポジトリ。",
-      "tags": [
-        "llm",
-        "finance",
-        "ai"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 32,
-      "summary_oneline": "コミュニティがプロンプトを共有・発見・収集できるオープンソースプラットフォーム。",
-      "tags": [
-        "prompts",
-        "ai",
+        "ai-interface",
+        "self-hosted",
         "open-source"
       ],
-      "published_at": "2026-06-14T04:35:40Z"
-    },
-    {
-      "id": "gh-trending-puppeteer-puppeteer",
-      "source": "github",
-      "title": "puppeteer/puppeteer",
-      "url": "https://github.com/puppeteer/puppeteer",
-      "score": 22,
-      "summary_oneline": "ChromeおよびFirefox向けのJavaScript APIによるブラウザ自動化ライブラリ。",
-      "tags": [
-        "web-automation",
-        "browser",
-        "javascript"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-introduction-to-autonomous-robots-introduction-to-autonomous",
-      "source": "github",
-      "title": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "score": 20,
-      "summary_oneline": "自律ロボット入門のOSS教材リポジトリ。",
-      "tags": [
-        "robotics",
-        "education",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-freecodecamp-freecodecamp",
-      "source": "github",
-      "title": "freeCodeCamp/freeCodeCamp",
-      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
-      "score": 15,
-      "summary_oneline": "数学・プログラミング・コンピュータサイエンスを無料で学べるオープンソースカリキュラム。",
-      "tags": [
-        "education",
-        "programming",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-pytest-dev-pytest",
-      "source": "github",
-      "title": "pytest-dev/pytest",
-      "url": "https://github.com/pytest-dev/pytest",
-      "score": 15,
-      "summary_oneline": "Pythonの標準的なテストフレームワーク「pytest」のリポジトリ。",
-      "tags": [
-        "python",
-        "testing",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-swc-project-swc",
-      "source": "github",
-      "title": "swc-project/swc",
-      "url": "https://github.com/swc-project/swc",
-      "score": 15,
-      "summary_oneline": "RustベースのWebプラットフォーム・高速トランスパイラ「SWC」。",
-      "tags": [
-        "rust",
-        "javascript",
-        "tooling"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-chatwoot-chatwoot",
-      "source": "github",
-      "title": "chatwoot/chatwoot",
-      "url": "https://github.com/chatwoot/chatwoot",
-      "score": 15,
-      "summary_oneline": "Intercom等の代替となるOSSのライブチャット・カスタマーサポートプラットフォーム。",
-      "tags": [
-        "customer-support",
-        "open-source",
-        "saas"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-cypress-io-cypress",
-      "source": "github",
-      "title": "cypress-io/cypress",
-      "url": "https://github.com/cypress-io/cypress",
-      "score": 15,
-      "summary_oneline": "ブラウザ上で動作するアプリのテストを高速・簡単・確実に実行できるフレームワーク。",
-      "tags": [
-        "testing",
-        "browser",
-        "javascript"
-      ],
-      "published_at": null
+      "published_at": "2026-06-16T21:59:55Z"
     }
   ],
   "extras": []
