@@ -1,14 +1,140 @@
 {
-  "date": "2026-06-17",
-  "generated_at": "2026-06-16T22:05:21.195Z",
+  "date": "2026-06-18",
+  "generated_at": "2026-06-17T22:05:14.831Z",
   "top": [
+    {
+      "id": "cc-release-336724522",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.170",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.170",
+      "score": 97,
+      "summary_oneline": "「Claude Fable 5」（Mythosクラス）をClaude Codeで利用可能に。VS Code統合ターミナルのセッション保存バグも修正。",
+      "tags": [
+        "claude-code",
+        "fable-5",
+        "release-notes"
+      ],
+      "published_at": "2026-06-09T17:23:09Z"
+    },
+    {
+      "id": "cc-release-339741361",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.178",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.178",
+      "score": 95,
+      "summary_oneline": "Tool(param:value)構文でツール権限ルールを細分化。ネストされた.claude/ディレクトリとスキルのサポートを追加。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "permissions"
+      ],
+      "published_at": "2026-06-15T21:35:55Z"
+    },
+    {
+      "id": "cc-release-337412034",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.172",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.172",
+      "score": 92,
+      "summary_oneline": "サブエージェントが最大5階層のサブエージェントを生成可能に。Bedrock地域設定の自動検出やプラグイン検索バーも追加。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "bedrock"
+      ],
+      "published_at": "2026-06-10T20:44:15Z"
+    },
+    {
+      "id": "cc-release-340316177",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.179",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.179",
+      "score": 90,
+      "summary_oneline": "ストリーム中断時に部分応答を保持するよう修正。WSL2スクロールバグと大規模ディレクトリでのBashツール説明肥大化も解消。",
+      "tags": [
+        "claude-code",
+        "bug-fix",
+        "release-notes"
+      ],
+      "published_at": "2026-06-16T20:22:14Z"
+    },
+    {
+      "id": "cc-release-336158564",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.169",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.169",
+      "score": 88,
+      "summary_oneline": "--safe-modeでMCP・スキル・フックを無効化したトラブルシューティング起動が可能に。/cdコマンドでセッション移動も追加。",
+      "tags": [
+        "claude-code",
+        "safe-mode",
+        "release-notes"
+      ],
+      "published_at": "2026-06-08T21:57:18Z"
+    },
+    {
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 86,
+      "summary_oneline": "Matt Pocockが実際の.claudeディレクトリから公開した実践向けClaude Codeスキル集。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "tips"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "cc-release-338777362",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.176",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.176",
+      "score": 83,
+      "summary_oneline": "セッションタイトルを会話の言語で生成するよう変更。footerLinksRegexes設定とBedrockの認証情報キャッシュ改善も。",
+      "tags": [
+        "claude-code",
+        "bedrock",
+        "release-notes"
+      ],
+      "published_at": "2026-06-12T21:53:27Z"
+    },
+    {
+      "id": "cc-release-338335820",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.175",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.175",
+      "score": 80,
+      "summary_oneline": "enforceAvailableModels管理設定でデフォルトモデルも利用可能モデルリストの制約対象に。",
+      "tags": [
+        "claude-code",
+        "enterprise",
+        "release-notes"
+      ],
+      "published_at": "2026-06-12T04:23:15Z"
+    },
+    {
+      "id": "cc-release-338280944",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.174",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.174",
+      "score": 79,
+      "summary_oneline": "マウスホイールのスクロール加速を制御する設定を追加。/modelピッカーでのOpus/Sonnet表示バグを修正。",
+      "tags": [
+        "claude-code",
+        "bug-fix",
+        "release-notes"
+      ],
+      "published_at": "2026-06-12T01:16:36Z"
+    },
     {
       "id": "gh-topic-1201173969",
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 85,
-      "summary_oneline": "トークンを65%削減するClaude Codeスキル。穴居人語で話すことでプロンプト消費を大幅カット。",
+      "score": 78,
+      "summary_oneline": "「穴居人語」で話すことでトークンを65%削減するClaude Codeスキル。コンテキスト節約に特化。",
       "tags": [
         "claude-code",
         "skills",
@@ -17,74 +143,143 @@
       "published_at": "2026-06-12T13:51:06Z"
     },
     {
+      "id": "cc-release-337625010",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.173",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.173",
+      "score": 77,
+      "summary_oneline": "Fable 5モデル名の[1m]サフィックスを自動正規化。WindowsでのサンドボックスWarning誤表示を修正。",
+      "tags": [
+        "claude-code",
+        "fable-5",
+        "bug-fix"
+      ],
+      "published_at": "2026-06-11T05:41:15Z"
+    },
+    {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude Code・Codex・Cursor向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを統合管理。",
+      "score": 76,
+      "summary_oneline": "Claude Code・Codex等のエージェントハーネス向けパフォーマンス最適化システム。スキル・記憶・セキュリティを統合。",
       "tags": [
         "claude-code",
         "agent-sdk",
-        "skills"
+        "performance"
       ],
-      "published_at": "2026-06-16T21:30:48Z"
+      "published_at": "2026-06-17T17:04:18Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 78,
-      "summary_oneline": "Claude Codeを含む複数エージェントのセッション間コンテキストを永続化・AI圧縮して次回セッションへ注入するツール。",
+      "score": 76,
+      "summary_oneline": "セッション間で文脈を永続化するツール。Claude CodeやCodex・Gemini等の複数エージェントに対応。",
       "tags": [
         "claude-code",
-        "agent-memory",
-        "context-management"
+        "memory",
+        "agent-sdk"
       ],
-      "published_at": "2026-06-16T21:39:43Z"
+      "published_at": "2026-06-17T21:24:31Z"
+    },
+    {
+      "id": "gh-trending-deusdata-codebase-memory-mcp",
+      "source": "github",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "score": 74,
+      "summary_oneline": "コードベースをナレッジグラフにインデックス化する高速MCPサーバー。158言語・サブミリ秒クエリでトークン99%削減。",
+      "tags": [
+        "mcp",
+        "code-intelligence",
+        "performance"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 76,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど主要AIエージェントCLIを統合したクロスプラットフォームデスクトップアシスタント。",
+      "score": 71,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等の複数AIエージェントを一括管理するクロスプラットフォームデスクトップツール。",
       "tags": [
         "claude-code",
-        "desktop-app",
+        "tools",
         "multi-agent"
       ],
-      "published_at": "2026-06-16T14:01:57Z"
+      "published_at": "2026-06-17T03:54:40Z"
+    },
+    {
+      "id": "cc-release-338862765",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.177",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.177",
+      "score": 70,
+      "summary_oneline": "Claude Code v2.1.177リリース。変更内容の詳細はリリースノートを参照。",
+      "tags": [
+        "claude-code",
+        "release-notes"
+      ],
+      "published_at": "2026-06-13T01:25:15Z"
+    },
+    {
+      "id": "gh-trending-obra-superpowers",
+      "source": "github",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 69,
+      "summary_oneline": "実用的なAIエージェント向けスキルフレームワークとソフトウェア開発方法論。",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "framework"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-626805178",
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 62,
-      "summary_oneline": "AIエージェントワークフロー構築向けのプロダクション対応オープンソースプラットフォーム（145kスター）。",
+      "score": 58,
+      "summary_oneline": "エージェント型ワークフロー開発向けのプロダクション対応オープンソースプラットフォーム。",
       "tags": [
-        "agentic-workflow",
-        "open-source",
-        "llm-platform"
+        "llm",
+        "workflow",
+        "agentic"
       ],
-      "published_at": "2026-06-16T20:38:11Z"
+      "published_at": "2026-06-17T18:21:48Z"
     },
     {
-      "id": "gh-topic-701547123",
+      "id": "gh-trending-continuedev-continue",
       "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 60,
-      "summary_oneline": "Ollama・OpenAI API対応のセルフホスト型ユーザーフレンドリーAIチャットインターフェース（141kスター）。",
+      "title": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "score": 55,
+      "summary_oneline": "VSCode・JetBrains向けのオープンソースAIコーディングエージェント。",
       "tags": [
-        "ai-interface",
-        "self-hosted",
+        "coding-agent",
+        "open-source",
+        "ide"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-bytedance-ui-tars-desktop",
+      "source": "github",
+      "title": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "score": 52,
+      "summary_oneline": "ByteDanceによるマルチモーダルAIエージェントスタックのオープンソースデスクトップ版。",
+      "tags": [
+        "ai-agent",
+        "multimodal",
         "open-source"
       ],
-      "published_at": "2026-06-16T21:59:55Z"
+      "published_at": null
     }
   ],
   "extras": []
