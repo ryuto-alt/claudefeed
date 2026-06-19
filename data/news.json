@@ -1,286 +1,132 @@
 {
-  "date": "2026-06-19",
-  "generated_at": "2026-06-18T22:05:46.156Z",
+  "date": "2026-06-20",
+  "generated_at": "2026-06-19T22:03:15.864Z",
   "top": [
-    {
-      "id": "gh-topic-1201173969",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 82,
-      "summary_oneline": "Claude Codeのスキルで原始人語を使い65%のトークン削減を実現するユーモラスな最適化手法",
-      "tags": [
-        "claude-code",
-        "skills",
-        "token-optimization"
-      ],
-      "published_at": "2026-06-12T13:51:06Z"
-    },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・Cursor対応のスキル・メモリ・セキュリティを統合したエージェントハーネス最適化システム",
+      "score": 88,
+      "summary_oneline": "Claude CodeやCodex向けエージェントハーネス最適化。Skills・記憶・セキュリティを統合した開発手法を提供",
       "tags": [
         "claude-code",
         "agent-sdk",
         "skills"
       ],
-      "published_at": "2026-06-18T21:07:25Z"
-    },
-    {
-      "id": "gh-trending-deusdata-codebase-memory-mcp",
-      "source": "github",
-      "title": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "score": 75,
-      "summary_oneline": "コードベースを知識グラフ化するMCPサーバー。158言語・ミリ秒インデックス・99%トークン削減、単体バイナリで動作",
-      "tags": [
-        "mcp",
-        "code-intelligence",
-        "claude-code"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1048065319",
-      "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 75,
-      "summary_oneline": "セッションをまたいでAgentの行動を圧縮・記憶し次回セッションに注入するコンテキスト永続化ツール",
-      "tags": [
-        "claude-code",
-        "memory",
-        "context-management"
-      ],
-      "published_at": "2026-06-18T21:50:00Z"
+      "published_at": "2026-06-19T02:16:07Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等複数AIコーディングエージェントを一元管理するデスクトップアシスタント",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIコーディングツールを統合管理するデスクトップアプリ",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "coding-agent"
+        "desktop-tool",
+        "ai-assistant"
       ],
-      "published_at": "2026-06-18T18:39:26Z"
+      "published_at": "2026-06-19T15:38:25Z"
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 85,
+      "summary_oneline": "セッションをまたいだ永続コンテキスト管理ツール。Claude Codeなど複数エージェントに対応しAIで圧縮・注入",
+      "tags": [
+        "claude-code",
+        "memory",
+        "context-persistence"
+      ],
+      "published_at": "2026-06-18T21:50:00Z"
+    },
+    {
+      "id": "gh-trending-deusdata-codebase-memory-mcp",
+      "source": "github",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "score": 82,
+      "summary_oneline": "コードベースを知識グラフに高速インデックス化するMCPサーバー。158言語対応、トークン99%削減、依存関係ゼロ",
+      "tags": [
+        "mcp",
+        "code-intelligence",
+        "knowledge-graph"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1201173969",
+      "source": "github",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 82,
+      "summary_oneline": "原始人語調で話すClaude Codeスキル。ユニークなアプローチでトークンを65%削減する実験的ツール",
+      "tags": [
+        "claude-code",
+        "skills",
+        "token-reduction"
+      ],
+      "published_at": "2026-06-12T13:51:06Z"
+    },
+    {
+      "id": "gh-trending-chopratejas-headroom",
+      "source": "github",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "score": 72,
+      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLM送信前に圧縮するライブラリ。60〜95%トークン削減でMCPサーバー対応",
+      "tags": [
+        "mcp",
+        "token-compression",
+        "llm-efficiency"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-obra-superpowers",
       "source": "github",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 65,
-      "summary_oneline": "機能するアジャイルスキルフレームワークとソフトウェア開発手法を組み合わせたエージェント支援ツール",
+      "score": 72,
+      "summary_oneline": "実績あるエージェント向けスキルフレームワーク＆ソフトウェア開発手法を提供するOSSプロジェクト",
       "tags": [
         "agent-sdk",
         "skills",
-        "software-methodology"
+        "software-development"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-kilo-org-kilocode",
+      "id": "gh-trending-builderio-agent-native",
       "source": "github",
-      "title": "Kilo-Org/kilocode",
-      "url": "https://github.com/Kilo-Org/kilocode",
+      "title": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
       "score": 60,
-      "summary_oneline": "オープンソースのオールインワン型エージェント・エンジニアリングプラットフォーム（Rooからフォーク）",
+      "summary_oneline": "BuilderIOが公開したエージェントネイティブアプリケーション構築用フレームワーク",
       "tags": [
-        "coding-agent",
-        "open-source",
-        "agentic-engineering"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-zai-org-glm-5",
-      "source": "github",
-      "title": "zai-org/GLM-5",
-      "url": "https://github.com/zai-org/GLM-5",
-      "score": 55,
-      "summary_oneline": "バイブコーディングからエージェント型エンジニアリングへの移行を標榜するZAI製LLMモデルGLM-5",
-      "tags": [
-        "llm",
-        "agentic-engineering",
+        "agent-sdk",
+        "framework",
         "open-source"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 53,
-      "summary_oneline": "使うほどユーザーに適応・成長するNousResearchのオープンソースエージェントフレームワーク",
-      "tags": [
-        "agent-sdk",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-06-18T21:55:31Z"
     },
     {
       "id": "gh-trending-withastro-flue",
       "source": "github",
       "title": "withastro/flue",
       "url": "https://github.com/withastro/flue",
-      "score": 52,
-      "summary_oneline": "Astroが開発したサンドボックス型エージェント実行フレームワーク",
+      "score": 60,
+      "summary_oneline": "Astroチームによるサンドボックスエージェントフレームワーク。エージェントの隔離実行基盤を提供",
       "tags": [
         "agent-sdk",
         "sandbox",
-        "open-source"
+        "framework"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 52,
-      "summary_oneline": "本番環境対応のエージェント型ワークフロー開発プラットフォーム（スター数14.5万超）",
-      "tags": [
-        "agentic-workflow",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-06-18T19:27:17Z"
-    },
-    {
-      "id": "gh-trending-google-research-timesfm",
-      "source": "github",
-      "title": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "score": 52,
-      "summary_oneline": "Googleリサーチが開発した時系列予測向けファンデーションモデルTimesFM",
-      "tags": [
-        "foundation-model",
-        "time-series",
-        "google"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 50,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム（400以上の統合に対応）",
-      "tags": [
-        "workflow-automation",
-        "ai-integration",
-        "open-source"
-      ],
-      "published_at": "2026-06-18T21:50:43Z"
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 50,
-      "summary_oneline": "Ollama・OpenAI API等に対応したセルフホスト可能なオープンソースAIチャットインターフェース",
-      "tags": [
-        "ai-interface",
-        "open-source",
-        "ollama"
-      ],
-      "published_at": "2026-06-18T15:05:10Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 50,
-      "summary_oneline": "自律型AIエージェントのパイオニアAutoGPTの最新アップデート（スター数18.5万超）",
-      "tags": [
-        "agent-sdk",
-        "open-source",
-        "ai-automation"
-      ],
-      "published_at": "2026-06-18T16:46:40Z"
-    },
-    {
-      "id": "gh-trending-lightricks-ltx-2",
-      "source": "github",
-      "title": "Lightricks/LTX-2",
-      "url": "https://github.com/Lightricks/LTX-2",
-      "score": 50,
-      "summary_oneline": "Lightricks製の音声・映像生成モデルLTX-2の公式Pythonパッケージ（推論・LoRAトレーニング対応）",
-      "tags": [
-        "video-generation",
-        "audio-ai",
-        "generative-model"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-yifanfeng97-hyper-extract",
-      "source": "github",
-      "title": "yifanfeng97/Hyper-Extract",
-      "url": "https://github.com/yifanfeng97/Hyper-Extract",
-      "score": 48,
-      "summary_oneline": "非構造テキストからグラフ・ハイパーグラフ・時空間情報をLLMで構造化知識に変換するコマンドラインツール",
-      "tags": [
-        "llm",
-        "knowledge-graph",
-        "information-extraction"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-owainlewis-awesome-artificial-intelligence",
-      "source": "github",
-      "title": "owainlewis/awesome-artificial-intelligence",
-      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
-      "score": 45,
-      "summary_oneline": "AIコース・書籍・動画・論文のキュレーションリスト（awesome-artificial-intelligence）",
-      "tags": [
-        "ai-resources",
-        "learning",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-alibaba-zvec",
-      "source": "github",
-      "title": "alibaba/zvec",
-      "url": "https://github.com/alibaba/zvec",
-      "score": 42,
-      "summary_oneline": "アリババが開発した軽量・高速なインプロセスベクターデータベース",
-      "tags": [
-        "vector-database",
-        "open-source",
-        "ai-infrastructure"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 38,
-      "summary_oneline": "旧Awesome ChatGPT PromptsのプロンプトコミュニティプラットフォームをOSSとして公開",
-      "tags": [
-        "prompts",
-        "chatgpt",
-        "community"
-      ],
-      "published_at": "2026-06-18T04:35:33Z"
     }
   ],
   "extras": []
