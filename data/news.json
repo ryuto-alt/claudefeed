@@ -1,20 +1,48 @@
 {
-  "date": "2026-06-21",
-  "generated_at": "2026-06-20T22:03:57.679Z",
+  "date": "2026-06-22",
+  "generated_at": "2026-06-21T22:04:30.515Z",
   "top": [
     {
       "id": "cc-release-341696059",
       "source": "anthropic",
       "title": "Claude Code v2.1.183",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
-      "score": 92,
-      "summary_oneline": "auto modeの安全性強化—破壊的git操作やterraform destroyを明示的指示なしにブロック",
+      "score": 95,
+      "summary_oneline": "auto modeで破壊的なgitコマンドやterraform destroyをデフォルトブロック、安全機能を大幅強化",
       "tags": [
         "claude-code",
-        "release-notes",
+        "safety",
         "auto-mode"
       ],
       "published_at": "2026-06-19T01:20:50Z"
+    },
+    {
+      "id": "cc-release-339741361",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.178",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.178",
+      "score": 93,
+      "summary_oneline": "Tool(param:value)構文でパーミッションルールに引数マッチを追加、ネストした.claudeスキルも読み込み可能に",
+      "tags": [
+        "claude-code",
+        "permissions",
+        "skills"
+      ],
+      "published_at": "2026-06-15T21:35:55Z"
+    },
+    {
+      "id": "cc-release-340975229",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.181",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
+      "score": 92,
+      "summary_oneline": "/config key=value でプロンプトから任意の設定変更が可能に、CLAUDE_CLIENT_PRESENCE_FILE環境変数も追加",
+      "tags": [
+        "claude-code",
+        "config",
+        "release"
+      ],
+      "published_at": "2026-06-17T22:07:41Z"
     },
     {
       "id": "cc-release-342367004",
@@ -22,79 +50,25 @@
       "title": "Claude Code v2.1.185",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
       "score": 90,
-      "summary_oneline": "ストリームストール時のヒントメッセージを改善、無応答判定タイマーを10秒から20秒に変更",
+      "summary_oneline": "API無応答時のストリーム停止ヒントを改善し、タイムアウトを10秒から20秒に延長",
       "tags": [
         "claude-code",
-        "release-notes"
+        "release",
+        "ux"
       ],
       "published_at": "2026-06-20T20:59:19Z"
-    },
-    {
-      "id": "cc-release-339741361",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.178",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.178",
-      "score": 90,
-      "summary_oneline": "Tool(param:value)のパーミッションルールとネストした.claude/ディレクトリのスキル読み込みに対応",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "skills"
-      ],
-      "published_at": "2026-06-15T21:35:55Z"
-    },
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 90,
-      "summary_oneline": "実エンジニアの.claudeディレクトリ由来のClaude Code用スキルコレクション公開",
-      "tags": [
-        "claude-code",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "cc-release-340975229",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.181",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.181",
-      "score": 88,
-      "summary_oneline": "/config key=value構文でプロンプトから設定変更が可能に、Apple Events対応サンドボックス設定も追加",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "config"
-      ],
-      "published_at": "2026-06-17T22:07:41Z"
-    },
-    {
-      "id": "gh-trending-deusdata-codebase-memory-mcp",
-      "source": "github",
-      "title": "DeusData/codebase-memory-mcp",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "score": 85,
-      "summary_oneline": "コードベースを知識グラフ化するMCPサーバー、158言語対応・サブミリ秒クエリ・99%トークン削減",
-      "tags": [
-        "mcp",
-        "code-intelligence",
-        "claude-code"
-      ],
-      "published_at": null
     },
     {
       "id": "cc-release-340316177",
       "source": "anthropic",
       "title": "Claude Code v2.1.179",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.179",
-      "score": 82,
-      "summary_oneline": "ストリーム途中切断時の部分レスポンス保持、WSL2のマウスホイール不具合など複数のバグ修正",
+      "score": 86,
+      "summary_oneline": "ストリーム途中切断時に部分レスポンスを保持、WSL2でのマウスホイールスクロール不具合を修正",
       "tags": [
         "claude-code",
-        "release-notes",
-        "bugfix"
+        "release",
+        "bug-fix"
       ],
       "published_at": "2026-06-16T20:22:14Z"
     },
@@ -103,28 +77,98 @@
       "source": "anthropic",
       "title": "Claude Code v2.1.176",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.176",
-      "score": 82,
-      "summary_oneline": "セッションタイトルを会話言語で自動生成、BedrockのAWS認証情報キャッシュロジックを改善",
+      "score": 85,
+      "summary_oneline": "セッションタイトルを会話言語で自動生成、footerLinksRegexes設定追加、Bedrockの認証情報キャッシュを改善",
       "tags": [
         "claude-code",
-        "release-notes",
-        "bedrock"
+        "release",
+        "i18n"
       ],
       "published_at": "2026-06-12T21:53:27Z"
+    },
+    {
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 85,
+      "summary_oneline": "TypeScriptエデュケーターMatt Pocock氏が実際に使用している.claudeスキル集を公開",
+      "tags": [
+        "claude-code",
+        "skills",
+        "community"
+      ],
+      "published_at": null
     },
     {
       "id": "cc-release-338335820",
       "source": "anthropic",
       "title": "Claude Code v2.1.175",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.175",
-      "score": 78,
-      "summary_oneline": "enforceAvailableModels設定でマネージド環境のモデル制限を強化、ユーザー設定での上書きも制限可能",
+      "score": 82,
+      "summary_oneline": "enforceAvailableModels管理設定でデフォルトモデルのホワイトリスト制限が可能に",
       "tags": [
         "claude-code",
-        "release-notes",
-        "managed-settings"
+        "release",
+        "enterprise"
       ],
       "published_at": "2026-06-12T04:23:51Z"
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 82,
+      "summary_oneline": "セッション間で文脈を圧縮・保持し次回セッションに注入するClaude Code向け永続メモリツール",
+      "tags": [
+        "claude-code",
+        "memory",
+        "agent-sdk"
+      ],
+      "published_at": "2026-06-21T21:21:34Z"
+    },
+    {
+      "id": "cc-release-338280944",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.174",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.174",
+      "score": 80,
+      "summary_oneline": "マウスホイール加速度設定を追加、/modelピッカーでデフォルトモデルの解決先が正しく表示されるよう修正",
+      "tags": [
+        "claude-code",
+        "release",
+        "ui"
+      ],
+      "published_at": "2026-06-12T01:16:36Z"
+    },
+    {
+      "id": "gh-trending-deusdata-codebase-memory-mcp",
+      "source": "github",
+      "title": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "score": 80,
+      "summary_oneline": "コードベースをミリ秒でインデックス化し99%少ないトークンでクエリできるMCPサーバー",
+      "tags": [
+        "mcp",
+        "codebase-index",
+        "performance"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等を切り替えて使えるクロスプラットフォームのデスクトップ統合ツール",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "cli"
+      ],
+      "published_at": "2026-06-19T15:38:25Z"
     },
     {
       "id": "cc-release-337625010",
@@ -132,39 +176,25 @@
       "title": "Claude Code v2.1.173",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.173",
       "score": 78,
-      "summary_oneline": "Fable 5モデル名の[1m]サフィックスを自動除去、Windows環境の誤ったサンドボックス警告を修正",
+      "summary_oneline": "Fable 5モデル名の[1m]サフィックスを自動除去、Windows sandboxの誤警告を修正",
       "tags": [
         "claude-code",
-        "release-notes",
-        "fable-5"
+        "release",
+        "fable"
       ],
       "published_at": "2026-06-11T05:41:54Z"
     },
     {
-      "id": "cc-release-338280944",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.174",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.174",
+      "id": "gh-trending-mukul975-anthropic-cybersecurity-skills",
+      "source": "github",
+      "title": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "score": 76,
-      "summary_oneline": "マウスホイール加速の無効化設定追加、/modelピッカーのデフォルトモデル表示不具合を修正",
+      "summary_oneline": "MITRE ATT&CKなど5フレームワーク対応の754個のサイバーセキュリティスキル、Claude Codeに対応",
       "tags": [
         "claude-code",
-        "release-notes",
-        "ui"
-      ],
-      "published_at": "2026-06-12T01:16:36Z"
-    },
-    {
-      "id": "gh-trending-chopratejas-headroom",
-      "source": "github",
-      "title": "chopratejas/headroom",
-      "url": "https://github.com/chopratejas/headroom",
-      "score": 75,
-      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLM送信前に圧縮するMCPサーバー兼プロキシ、60〜95%トークン削減",
-      "tags": [
-        "mcp",
-        "token-optimization",
-        "llm-tools"
+        "skills",
+        "cybersecurity"
       ],
       "published_at": null
     },
@@ -173,14 +203,28 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 70,
-      "summary_oneline": "Claude Code等向けエージェントハーネス最適化システム、スキル・記憶・セキュリティ機能を統合",
+      "score": 76,
+      "summary_oneline": "スキル・インスティンクト・メモリ・セキュリティを統合したClaude Code向けエージェントハーネス最適化システム",
       "tags": [
         "claude-code",
         "agent-sdk",
-        "skills"
+        "performance"
       ],
-      "published_at": "2026-06-20T21:30:53Z"
+      "published_at": "2026-06-21T00:49:17Z"
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 72,
+      "summary_oneline": "マルチプラットフォーム対応のUIUXデザインインテリジェンスを提供するAIスキル",
+      "tags": [
+        "claude-code",
+        "skills",
+        "ui-ux"
+      ],
+      "published_at": "2026-06-21T20:58:29Z"
     },
     {
       "id": "cc-release-338862765",
@@ -188,55 +232,70 @@
       "title": "Claude Code v2.1.177",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.177",
       "score": 70,
-      "summary_oneline": "Claude Code v2.1.177リリース（詳細な変更内容は未記載）",
+      "summary_oneline": "Claude Code v2.1.177リリース（変更内容の詳細は未公開）",
       "tags": [
         "claude-code",
-        "release-notes"
+        "release"
       ],
       "published_at": "2026-06-13T01:25:15Z"
     },
     {
-      "id": "gh-topic-1048065319",
+      "id": "gh-trending-chopratejas-headroom",
       "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 67,
-      "summary_oneline": "Claude Code等の複数エージェント向け、セッション横断の永続コンテキスト管理ツール",
+      "title": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "score": 68,
+      "summary_oneline": "ツール出力・ログ・RAGチャンクをLLMに送る前に60〜95%圧縮、ライブラリ・プロキシ・MCPサーバーとして使用可能",
       "tags": [
-        "claude-code",
-        "memory",
-        "agent-sdk"
+        "mcp",
+        "llm-optimization",
+        "tools"
       ],
-      "published_at": "2026-06-20T07:05:21Z"
+      "published_at": null
     },
     {
-      "id": "gh-topic-1106996539",
+      "id": "gh-trending-asgeirtj-system-prompts-leaks",
       "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "score": 63,
+      "summary_oneline": "Claude Code・Fable 5・Opus 4.8・ChatGPT・Geminiなど主要AIのシステムプロンプト抽出情報を集約",
+      "tags": [
+        "claude-code",
+        "system-prompt",
+        "research"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-bytedance-deer-flow",
+      "source": "github",
+      "title": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
       "score": 62,
-      "summary_oneline": "マルチプラットフォーム対応のUI/UXデザイン知性を提供するClaude Code向けAIスキル",
+      "summary_oneline": "ByteDanceのオープンソースSuperAgentハーネス、サンドボックス・スキル・サブエージェント機能を搭載",
       "tags": [
-        "skills",
-        "claude-code",
-        "ui-ux"
+        "agent-sdk",
+        "open-source",
+        "superagent"
       ],
-      "published_at": "2026-06-20T19:00:04Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 60,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等の複数AIコーディングツールを統合管理するデスクトップアプリ",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "ai-tools"
-      ],
-      "published_at": "2026-06-19T15:38:25Z"
+      "published_at": null
     }
   ],
-  "extras": []
+  "extras": [
+    {
+      "id": "gh-trending-topoteretes-cognee",
+      "source": "github",
+      "title": "topoteretes/cognee",
+      "url": "https://github.com/topoteretes/cognee",
+      "score": 60,
+      "summary_oneline": "エージェントに永続的な長期記憶を提供するオープンソースAIメモリプラットフォーム",
+      "tags": [
+        "agent-memory",
+        "knowledge-graph",
+        "open-source"
+      ],
+      "published_at": null
+    }
+  ]
 }
