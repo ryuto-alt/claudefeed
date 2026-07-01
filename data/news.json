@@ -1,200 +1,60 @@
 {
   "date": "2026-07-01",
-  "generated_at": "2026-06-30T22:03:44.178Z",
+  "generated_at": "2026-07-01T22:10:45.082Z",
   "top": [
     {
-      "id": "cc-release-346856026",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.197",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.197",
-      "score": 95,
-      "summary_oneline": "Claude Sonnet 5がデフォルトモデルに。100万トークンコンテキスト対応、8月末まで割引価格で提供。",
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 85,
+      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス性能最適化システム。スキル・記憶・セキュリティ機能を統合。",
       "tags": [
         "claude-code",
-        "claude-sonnet-5",
-        "release-notes"
-      ],
-      "published_at": "2026-06-30T17:56:37Z"
-    },
-    {
-      "id": "cc-release-343079393",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.186",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.186",
-      "score": 90,
-      "summary_oneline": "CLIからMCPサーバーの認証が可能に。/workflowsフィルター機能と/pluginへのSkillsセクションを追加。",
-      "tags": [
-        "claude-code",
-        "mcp",
+        "agent-harness",
         "skills"
       ],
-      "published_at": "2026-06-22T20:37:34Z"
-    },
-    {
-      "id": "cc-release-346482381",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.196",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.196",
-      "score": 88,
-      "summary_oneline": "組織デフォルトモデル設定、セッションへの自動命名、ファイル添付のクリック表示対応などを追加。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "ux"
-      ],
-      "published_at": "2026-06-29T23:27:32Z"
-    },
-    {
-      "id": "cc-release-341696059",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.183",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.183",
-      "score": 84,
-      "summary_oneline": "オートモードで破壊的なgitコマンドやterraform destroyを自動ブロック。安全性を強化。",
-      "tags": [
-        "claude-code",
-        "auto-mode",
-        "safety"
-      ],
-      "published_at": "2026-06-19T01:20:50Z"
-    },
-    {
-      "id": "cc-release-345467919",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.195",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.195",
-      "score": 84,
-      "summary_oneline": "マウス操作制御の環境変数を追加。ハイフン入りフックマッチャーの誤動作とmacOS音声入力を修正。",
-      "tags": [
-        "claude-code",
-        "hooks",
-        "bug-fix"
-      ],
-      "published_at": "2026-06-26T21:29:42Z"
-    },
-    {
-      "id": "cc-release-343665388",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.187",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.187",
-      "score": 83,
-      "summary_oneline": "sandbox.credentials設定追加でクレデンシャル保護を強化。組織レベルのモデル制限にも対応。",
-      "tags": [
-        "claude-code",
-        "sandbox",
-        "release-notes"
-      ],
-      "published_at": "2026-06-23T21:03:48Z"
-    },
-    {
-      "id": "cc-release-344307226",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.191",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.191",
-      "score": 83,
-      "summary_oneline": "/clearより前の会話に戻れる/rewindコマンドを追加。バックグラウンドエージェントの誤復活を修正。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "agent"
-      ],
-      "published_at": "2026-06-24T21:58:12Z"
-    },
-    {
-      "id": "cc-release-344922230",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.193",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.193",
-      "score": 82,
-      "summary_oneline": "全シェルコマンドをオートモード分類器で処理するautoMode.classifyAllShell設定追加。OTel対応強化。",
-      "tags": [
-        "claude-code",
-        "auto-mode",
-        "observability"
-      ],
-      "published_at": "2026-06-25T21:45:57Z"
+      "published_at": "2026-07-01T00:43:50Z"
     },
     {
       "id": "gh-topic-1048065319",
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 78,
-      "summary_oneline": "Claude CodeなどAIエージェントのセッション間記憶をAIで圧縮し次回セッションへ注入するツール。",
+      "score": 82,
+      "summary_oneline": "Claude Codeや主要エージェントツールで使えるセッション横断の永続コンテキスト管理ツール。",
       "tags": [
         "claude-code",
-        "memory",
-        "agent"
+        "context-memory",
+        "agent-sdk"
       ],
-      "published_at": "2026-06-30T02:52:42Z"
+      "published_at": "2026-07-01T04:52:44Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数コーディングアシスタントを一元管理するデスクトップアプリ。",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等をまとめて管理するクロスプラットフォーム対応デスクトップアシスタント。",
       "tags": [
         "claude-code",
         "desktop-app",
-        "tool"
+        "multi-agent"
       ],
-      "published_at": "2026-06-30T15:26:51Z"
-    },
-    {
-      "id": "cc-release-344172504",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.190",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.190",
-      "score": 72,
-      "summary_oneline": "バグ修正と安定性改善のみのマイナーリリース。",
-      "tags": [
-        "claude-code",
-        "release-notes",
-        "bug-fix"
-      ],
-      "published_at": "2026-06-24T15:53:56Z"
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを強化。",
-      "tags": [
-        "claude-code",
-        "agent",
-        "skills"
-      ],
-      "published_at": "2026-06-30T21:56:55Z"
-    },
-    {
-      "id": "cc-release-342367004",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.185",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.185",
-      "score": 70,
-      "summary_oneline": "APIレスポンス待機中のストリーム停止ヒントを改善。トリガー時間を10秒から20秒に延長。",
-      "tags": [
-        "claude-code",
-        "ux",
-        "release-notes"
-      ],
-      "published_at": "2026-06-20T20:59:19Z"
+      "published_at": "2026-07-01T18:26:55Z"
     },
     {
       "id": "gh-trending-diegosouzapw-omniroute",
       "source": "github",
       "title": "diegosouzapw/OmniRoute",
       "url": "https://github.com/diegosouzapw/OmniRoute",
-      "score": 65,
-      "summary_oneline": "Claude Code・Cursor等を231以上の無料AIプロバイダへ接続するゲートウェイ。MCP/A2A対応。",
+      "score": 72,
+      "summary_oneline": "Claude CodeやCursorを含む50以上の無料プロバイダーに接続できるAIゲートウェイ。MCPとA2Aにも対応。",
       "tags": [
         "claude-code",
         "mcp",
-        "api-gateway"
+        "ai-gateway"
       ],
       "published_at": null
     },
@@ -203,40 +63,222 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 65,
-      "summary_oneline": "Claude Code向けのUI/UXデザインインテリジェンスを提供するAIスキル。マルチプラットフォーム対応。",
+      "score": 68,
+      "summary_oneline": "マルチプラットフォーム向けのプロUI/UXデザイン知識を提供するAIスキル。",
       "tags": [
-        "claude-code",
         "skills",
-        "ui-ux"
+        "ui-ux",
+        "claude-code"
       ],
-      "published_at": "2026-06-29T21:25:11Z"
+      "published_at": "2026-07-01T12:56:25Z"
     },
     {
-      "id": "gh-trending-obra-superpowers",
+      "id": "gh-trending-unclecheng-li-vulnclaw",
       "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 65,
-      "summary_oneline": "ターミナルで動作するエージェント向けスキルフレームワーク。実績のあるソフトウェア開発方法論を提供。",
+      "title": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "score": 60,
+      "summary_oneline": "AI AgentとMCPツールチェーンを活用し、情報収集から脆弱性報告まで自動化するペンテストシステム。",
       "tags": [
-        "agent",
-        "skills",
-        "framework"
+        "mcp",
+        "ai-agent",
+        "security"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-xbtlin-ai-berkshire",
+      "id": "gh-trending-ogulcancelik-herdr",
       "source": "github",
-      "title": "xbtlin/ai-berkshire",
-      "url": "https://github.com/xbtlin/ai-berkshire",
-      "score": 60,
-      "summary_oneline": "Claude Code/Codex向けのバフェット・マンガー流価値投資研究フレームワーク。マルチエージェント並列分析。",
+      "title": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "score": 58,
+      "summary_oneline": "ターミナル上で動作するエージェントマルチプレクサ。複数エージェントを同時管理できる。",
       "tags": [
-        "claude-code",
-        "finance",
+        "agent-multiplexer",
+        "terminal",
+        "ai-agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 55,
+      "summary_oneline": "NousResearch製の成長型エージェントフレームワーク。使い続けるほど進化する設計。",
+      "tags": [
+        "agent-sdk",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-07-01T21:34:52Z"
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 55,
+      "summary_oneline": "AIネイティブなワークフロー自動化プラットフォーム。400以上のインテグレーションとセルフホスト対応。",
+      "tags": [
+        "workflow-automation",
+        "ai-integration",
+        "open-source"
+      ],
+      "published_at": "2026-07-01T21:56:52Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 55,
+      "summary_oneline": "エージェントワークフロー開発向けの本番対応プラットフォーム。高スター数の定番AIツール。",
+      "tags": [
+        "agentic-workflow",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-07-01T22:04:43Z"
+    },
+    {
+      "id": "gh-trending-browser-use-video-use",
+      "source": "github",
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "score": 52,
+      "summary_oneline": "コーディングエージェントを活用して動画編集を行うオープンソースツール。",
+      "tags": [
+        "coding-agent",
+        "video-editing",
+        "ai-agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-tencentcloud-cubesandbox",
+      "source": "github",
+      "title": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "score": 50,
+      "summary_oneline": "AIエージェント向けの高速・安全・軽量なサンドボックス環境をTencentが提供。",
+      "tags": [
+        "ai-agent",
+        "sandbox",
+        "security"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-0xnyk-council-of-high-intelligence",
+      "source": "github",
+      "title": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "score": 50,
+      "summary_oneline": "複数LLMプロバイダーを使った18のAIペルソナが構造化討議で意思決定を支援するツール。",
+      "tags": [
+        "multi-agent",
+        "llm",
+        "decision-making"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 50,
+      "summary_oneline": "誰もが使えるアクセシブルなAIエージェントプラットフォームAutoGPTのオープンソース版。",
+      "tags": [
+        "ai-agent",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-07-01T20:39:50Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 50,
+      "summary_oneline": "Ollama・OpenAI APIなど多様なLLMバックエンドに対応するWebUI。ユーザーフレンドリーな設計。",
+      "tags": [
+        "llm",
+        "web-ui",
+        "open-source"
+      ],
+      "published_at": "2026-07-01T08:41:05Z"
+    },
+    {
+      "id": "gh-trending-allenai-olmocr",
+      "source": "github",
+      "title": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "score": 50,
+      "summary_oneline": "LLMデータセット・学習向けにPDFをテキスト化するAI2のツールキット。",
+      "tags": [
+        "llm",
+        "pdf",
+        "dataset"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-msitarzewski-agency-agents",
+      "source": "github",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "score": 48,
+      "summary_oneline": "フロントエンドからコミュニティ管理まで、専門エージェントが揃うAIエージェンシーフレームワーク。",
+      "tags": [
+        "ai-agent",
+        "open-source",
         "multi-agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-facebook-astryx",
+      "source": "github",
+      "title": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "score": 46,
+      "summary_oneline": "Facebookがオープンソース公開した、エージェント対応の完全カスタマイズ可能なデザインシステム。",
+      "tags": [
+        "design-system",
+        "ai-agent",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-logto-io-logto",
+      "source": "github",
+      "title": "logto-io/logto",
+      "url": "https://github.com/logto-io/logto",
+      "score": 45,
+      "summary_oneline": "SaaS・AIアプリ向けのOIDC/OAuth 2.1ベースの認証・認可インフラ。マルチテナンシー対応。",
+      "tags": [
+        "authentication",
+        "ai-apps",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-microsoft-ai-for-beginners",
+      "source": "github",
+      "title": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "score": 45,
+      "summary_oneline": "Microsoftが提供する12週間・24レッスンのAI入門カリキュラム。全員に向けたAI学習コース。",
+      "tags": [
+        "ai-education",
+        "beginner",
+        "open-source"
       ],
       "published_at": null
     }
