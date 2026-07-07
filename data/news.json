@@ -1,28 +1,42 @@
 {
-  "date": "2026-07-07",
-  "generated_at": "2026-07-06T22:08:09.005Z",
+  "date": "2026-07-08",
+  "generated_at": "2026-07-07T22:07:51.958Z",
   "top": [
     {
-      "id": "gh-trending-openai-codex-plugin-cc",
+      "id": "gh-trending-hesreallyhim-awesome-claude-code",
       "source": "github",
-      "title": "openai/codex-plugin-cc",
-      "url": "https://github.com/openai/codex-plugin-cc",
+      "title": "hesreallyhim/awesome-claude-code",
+      "url": "https://github.com/hesreallyhim/awesome-claude-code",
       "score": 88,
-      "summary_oneline": "Claude CodeからOpenAI Codexを呼び出してコードレビューやタスク委任を行えるプラグイン",
+      "summary_oneline": "Claude Codeの厳選リソース集。スキル・エージェント・プラグイン・開発ツールなどを網羅的に紹介。",
       "tags": [
         "claude-code",
-        "codex",
-        "plugin"
+        "skills",
+        "resources"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-1048065319",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 84,
+      "summary_oneline": "セッションをまたいで文脈を保持するメモリシステム。Claude Code・Codex・Gemini等に対応。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "memory"
+      ],
+      "published_at": "2026-07-06T19:34:01Z"
     },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 87,
-      "summary_oneline": "Claude Code・Codex等のエージェント向けにスキル・記憶・セキュリティ最適化を提供するハーネスシステム",
+      "score": 82,
+      "summary_oneline": "Claude Code/Codex向けエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
       "tags": [
         "claude-code",
         "agent-sdk",
@@ -31,58 +45,44 @@
       "published_at": "2026-07-06T04:55:16Z"
     },
     {
-      "id": "gh-trending-alirezarezvani-claude-skills",
-      "source": "github",
-      "title": "alirezarezvani/claude-skills",
-      "url": "https://github.com/alirezarezvani/claude-skills",
-      "score": 85,
-      "summary_oneline": "Claude Code向けの345個のスキル・30以上のエージェント・70以上のカスタムコマンドを収録したコレクション",
-      "tags": [
-        "claude-code",
-        "skills",
-        "agent"
-      ],
-      "published_at": null
-    },
-    {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 85,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなどを一元管理するクロスプラットフォームのデスクトップAIアシスタント",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど主要AIエージェントを一元管理するクロスプラットフォームデスクトップアプリ。",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "multi-agent"
+        "desktop-tool",
+        "tools"
       ],
-      "published_at": "2026-07-06T01:11:56Z"
+      "published_at": "2026-07-07T16:02:23Z"
     },
     {
-      "id": "gh-topic-1048065319",
+      "id": "gh-trending-steipete-codexbar",
       "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 84,
-      "summary_oneline": "Claude Code等の複数AIエージェントでセッション間の記憶をAI圧縮・引き継ぎする永続コンテキストツール",
+      "title": "steipete/CodexBar",
+      "url": "https://github.com/steipete/CodexBar",
+      "score": 78,
+      "summary_oneline": "ログイン不要でOpenAI CodexとClaude Codeの使用統計をメニューバーに表示するmacOSツール。",
       "tags": [
         "claude-code",
-        "memory",
-        "agent"
+        "usage-stats",
+        "tools"
       ],
-      "published_at": "2026-07-06T19:34:01Z"
+      "published_at": null
     },
     {
       "id": "gh-trending-addyosmani-agent-skills",
       "source": "github",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "score": 82,
-      "summary_oneline": "AIコーディングエージェント向けのプロダクションレベルのエンジニアリングスキル集",
+      "score": 75,
+      "summary_oneline": "AIコーディングエージェント向けプロダクション品質のスキル集（Addy Osmani著）。",
       "tags": [
-        "agent-skills",
-        "claude-code",
-        "engineering"
+        "skills",
+        "agent-sdk",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -91,54 +91,54 @@
       "source": "github",
       "title": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
-      "score": 78,
-      "summary_oneline": "Claudeが動画を視聴・解析できるようにフレーム抽出・文字起こしを行うツール",
-      "tags": [
-        "claude",
-        "video",
-        "multimodal"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-steipete-codexbar",
-      "source": "github",
-      "title": "steipete/CodexBar",
-      "url": "https://github.com/steipete/CodexBar",
-      "score": 76,
-      "summary_oneline": "ログイン不要でOpenAI CodexとClaude Codeの使用統計を表示するメニューバーアプリ",
+      "score": 74,
+      "summary_oneline": "Claudeが動画を視聴できるようにするツール。フレーム抽出・文字起こし・要約をサポート。",
       "tags": [
         "claude-code",
-        "codex",
-        "usage-stats"
+        "multimodal",
+        "tools"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-mvanhorn-last30days-skill",
+      "id": "gh-trending-madslorentzen-ai-job-search",
       "source": "github",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
       "score": 72,
-      "summary_oneline": "Reddit・YouTube・HNなど複数ソースから任意トピックを調査・要約するAIエージェントスキル",
+      "summary_oneline": "Claude Code上に構築したAI就職活動フレームワーク。CV作成・書類選考・面接対策を自動化。",
       "tags": [
-        "agent-skills",
-        "research",
-        "claude-code"
+        "claude-code",
+        "automation",
+        "practical"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-leonxlnx-taste-skill",
+      "id": "gh-trending-asgeirtj-system-prompts-leaks",
       "source": "github",
-      "title": "Leonxlnx/taste-skill",
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "score": 70,
-      "summary_oneline": "AIが生成する凡庸なコンテンツを抑制し、個性・質を向上させるためのエージェントスキル",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "score": 68,
+      "summary_oneline": "Claude Code・Fable 5・Opus 4.8等から抽出されたシステムプロンプト集。定期的に更新中。",
       "tags": [
-        "agent-skills",
-        "code-quality",
-        "skill"
+        "claude-code",
+        "system-prompts",
+        "research"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-dotnet-skills",
+      "source": "github",
+      "title": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "score": 68,
+      "summary_oneline": ".NETとC#向けAIコーディングエージェント用スキルリポジトリ（dotnet公式）。",
+      "tags": [
+        "skills",
+        "dotnet",
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -147,42 +147,14 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 66,
-      "summary_oneline": "マルチプラットフォームのプロUI/UX構築に特化したAIデザインインテリジェンススキル",
+      "score": 65,
+      "summary_oneline": "マルチプラットフォーム対応のプロUI/UXデザイン知識を提供するAIスキル。",
       "tags": [
-        "agent-skills",
+        "skills",
         "ui-ux",
         "design"
       ],
       "published_at": "2026-07-06T15:33:37Z"
-    },
-    {
-      "id": "gh-trending-asgeirtj-system-prompts-leaks",
-      "source": "github",
-      "title": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "score": 63,
-      "summary_oneline": "AnthropicのClaude Code・Fable 5やOpenAI・Google等の主要AIシステムプロンプトを公開するリポジトリ",
-      "tags": [
-        "claude-code",
-        "system-prompt",
-        "research"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-ogulcancelik-herdr",
-      "source": "github",
-      "title": "ogulcancelik/herdr",
-      "url": "https://github.com/ogulcancelik/herdr",
-      "score": 60,
-      "summary_oneline": "ターミナル上で複数AIエージェントを束ねて管理できるエージェントマルチプレクサ",
-      "tags": [
-        "agent",
-        "terminal",
-        "multi-agent"
-      ],
-      "published_at": null
     }
   ],
   "extras": []
