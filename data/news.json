@@ -1,18 +1,60 @@
 {
-  "date": "2026-07-10",
-  "generated_at": "2026-07-09T22:08:35.817Z",
+  "date": "2026-07-11",
+  "generated_at": "2026-07-10T22:08:33.613Z",
   "top": [
     {
-      "id": "gh-trending-wonderwhy-er-desktopcommandermcp",
+      "id": "gh-trending-mattpocock-skills",
       "source": "github",
-      "title": "wonderwhy-er/DesktopCommanderMCP",
-      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "score": 85,
-      "summary_oneline": "Claude向けMCPサーバー。ターミナル制御・ファイル検索・差分編集機能を提供するオープンソースツール。",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 90,
+      "summary_oneline": "MattPocock氏が.claudeディレクトリから公開した実践的なClaude Codeスキル集。",
       "tags": [
+        "claude-code",
+        "skills",
+        "engineering"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-davila7-claude-code-templates",
+      "source": "github",
+      "title": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "score": 87,
+      "summary_oneline": "Claude Codeの設定・モニタリングを支援するCLIツール。テンプレートも提供。",
+      "tags": [
+        "claude-code",
+        "cli",
+        "templates"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-google-labs-code-stitch-skills",
+      "source": "github",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "score": 86,
+      "summary_oneline": "Google Labs製Agent Skillsライブラリ。Claude Code・Cursor等と互換のオープン標準。",
+      "tags": [
+        "agent-skills",
         "mcp",
-        "claude",
-        "terminal"
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 84,
+      "summary_oneline": "AIコーディングエージェント向けプロダクショングレードのエンジニアリングスキル集。",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "engineering"
       ],
       "published_at": null
     },
@@ -21,96 +63,26 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 85,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティを統合提供。",
+      "score": 83,
+      "summary_oneline": "Claude Code等向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを統合。",
       "tags": [
         "claude-code",
-        "agent-sdk",
+        "agent-harness",
         "skills"
       ],
       "published_at": "2026-07-09T07:53:52Z"
     },
     {
-      "id": "gh-trending-addyosmani-agent-skills",
+      "id": "gh-trending-wonderwhy-er-desktopcommandermcp",
       "source": "github",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "title": "wonderwhy-er/DesktopCommanderMCP",
+      "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "score": 82,
-      "summary_oneline": "AIコーディングエージェント向けの本番品質エンジニアリングスキルコレクション。Claude Code等で利用可能。",
+      "summary_oneline": "Claudeにターミナル制御・ファイル検索・差分編集機能を提供するMCPサーバー。",
       "tags": [
-        "skills",
-        "claude-code",
-        "agent-sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1201173969",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 82,
-      "summary_oneline": "原始人語でトークン使用量を最大65%削減するClaude Codeスキル。コスト最適化の実験的アプローチ。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "token-optimization"
-      ],
-      "published_at": "2026-07-03T11:10:42Z"
-    },
-    {
-      "id": "gh-trending-anthropics-claude-cookbooks",
-      "source": "github",
-      "title": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "score": 78,
-      "summary_oneline": "Anthropic公式のClaude活用レシピ集。Jupyter Notebookで実践的なユースケースを紹介。",
-      "tags": [
+        "mcp",
         "claude",
-        "tutorials",
-        "anthropic"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 78,
-      "summary_oneline": "マルチプラットフォーム向けUIUXデザイン知識をAIエージェントに提供するClaude Codeスキル。",
-      "tags": [
-        "skills",
-        "claude-code",
-        "ui-ux"
-      ],
-      "published_at": "2026-07-06T15:33:37Z"
-    },
-    {
-      "id": "gh-trending-bradautomates-claude-video",
-      "source": "github",
-      "title": "bradautomates/claude-video",
-      "url": "https://github.com/bradautomates/claude-video",
-      "score": 75,
-      "summary_oneline": "Claudeに動画視聴能力を付与するツール。/watchコマンドでフレーム抽出・文字起こしを自動処理。",
-      "tags": [
-        "claude",
-        "skills",
-        "video"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-madslorentzen-ai-job-search",
-      "source": "github",
-      "title": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "score": 72,
-      "summary_oneline": "Claude Code上に構築されたAI就職活動フレームワーク。CV最適化・カバーレター作成・面接準備を自動化。",
-      "tags": [
-        "claude-code",
-        "automation",
-        "practical"
+        "terminal"
       ],
       "published_at": null
     },
@@ -119,44 +91,85 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等を一元管理するクロスプラットフォームデスクトップアシスタント。",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等を統合したクロスプラットフォームデスクトップAIアシスタント。",
       "tags": [
         "claude-code",
         "desktop-app",
-        "tooling"
+        "multi-agent"
       ],
-      "published_at": "2026-07-09T18:39:52Z"
-    }
-  ],
-  "extras": [
+      "published_at": "2026-07-10T15:06:31Z"
+    },
     {
-      "id": "gh-trending-asgeirtj-system-prompts-leaks",
+      "id": "gh-trending-obra-superpowers",
       "source": "github",
-      "title": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "score": 62,
-      "summary_oneline": "Claude Code・Fable 5・Opus 4.8等AnthropicモデルのシステムプロンプトをOpenAI・Googleと共に公開。",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 78,
+      "summary_oneline": "エージェント向けスキルフレームワーク＆ソフトウェア開発手法。実用的なアプローチを提供。",
       "tags": [
-        "claude-code",
-        "system-prompts",
-        "research"
+        "agent-skills",
+        "methodology",
+        "agentic"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-voltagent-awesome-design-md",
+      "id": "gh-topic-1201173969",
       "source": "github",
-      "title": "VoltAgent/awesome-design-md",
-      "url": "https://github.com/VoltAgent/awesome-design-md",
-      "score": 60,
-      "summary_oneline": "人気ブランドのDESIGN.mdファイルコレクション。コーディングエージェントが一貫したUIを生成するために活用。",
+      "title": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "score": 76,
+      "summary_oneline": "「原始人語」でプロンプトを簡略化し、トークンを65%削減するClaude Codeスキル。",
       "tags": [
-        "agent-sdk",
+        "claude-code",
+        "skills",
+        "token-optimization"
+      ],
+      "published_at": "2026-07-03T11:10:42Z"
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 68,
+      "summary_oneline": "マルチプラットフォーム向けのUI/UXデザインインテリジェンスを提供するAIスキル。",
+      "tags": [
+        "ai-skill",
         "ui-ux",
         "design"
       ],
+      "published_at": "2026-07-10T14:30:06Z"
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 63,
+      "summary_oneline": "NousResearch製の継続学習型AIエージェントフレームワーク。スター数212kの注目プロジェクト。",
+      "tags": [
+        "agent",
+        "framework",
+        "llm"
+      ],
+      "published_at": "2026-07-10T22:03:40Z"
+    },
+    {
+      "id": "gh-trending-tencentcloud-tencentdb-agent-memory",
+      "source": "github",
+      "title": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "score": 60,
+      "summary_oneline": "外部API不要でAIエージェントにローカル長期記憶を提供する4段階パイプライン実装。",
+      "tags": [
+        "agent-memory",
+        "ai-agent",
+        "open-source"
+      ],
       "published_at": null
     }
-  ]
+  ],
+  "extras": []
 }
