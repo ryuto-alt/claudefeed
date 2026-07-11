@@ -1,83 +1,27 @@
 {
-  "date": "2026-07-11",
-  "generated_at": "2026-07-10T22:08:33.613Z",
+  "date": "2026-07-12",
+  "generated_at": "2026-07-11T22:08:38.760Z",
   "top": [
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 90,
-      "summary_oneline": "MattPocock氏が.claudeディレクトリから公開した実践的なClaude Codeスキル集。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "engineering"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-davila7-claude-code-templates",
-      "source": "github",
-      "title": "davila7/claude-code-templates",
-      "url": "https://github.com/davila7/claude-code-templates",
-      "score": 87,
-      "summary_oneline": "Claude Codeの設定・モニタリングを支援するCLIツール。テンプレートも提供。",
-      "tags": [
-        "claude-code",
-        "cli",
-        "templates"
-      ],
-      "published_at": null
-    },
     {
       "id": "gh-trending-google-labs-code-stitch-skills",
       "source": "github",
       "title": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
-      "score": 86,
-      "summary_oneline": "Google Labs製Agent Skillsライブラリ。Claude Code・Cursor等と互換のオープン標準。",
+      "score": 90,
+      "summary_oneline": "Google製MCPサーバー向けエージェントスキルライブラリ。Claude Code等と互換のオープン標準準拠。",
       "tags": [
-        "agent-skills",
         "mcp",
+        "agent-skills",
         "claude-code"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-trending-addyosmani-agent-skills",
-      "source": "github",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "score": 84,
-      "summary_oneline": "AIコーディングエージェント向けプロダクショングレードのエンジニアリングスキル集。",
-      "tags": [
-        "agent-skills",
-        "claude-code",
-        "engineering"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 83,
-      "summary_oneline": "Claude Code等向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを統合。",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": "2026-07-09T07:53:52Z"
     },
     {
       "id": "gh-trending-wonderwhy-er-desktopcommandermcp",
       "source": "github",
       "title": "wonderwhy-er/DesktopCommanderMCP",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
-      "score": 82,
+      "score": 90,
       "summary_oneline": "Claudeにターミナル制御・ファイル検索・差分編集機能を提供するMCPサーバー。",
       "tags": [
         "mcp",
@@ -87,30 +31,30 @@
       "published_at": null
     },
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-trending-davila7-claude-code-templates",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等を統合したクロスプラットフォームデスクトップAIアシスタント。",
+      "title": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "score": 85,
+      "summary_oneline": "Claude Codeの設定・監視用CLIツール。テンプレートで素早く環境構築が可能。",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "multi-agent"
+        "cli",
+        "templates"
       ],
-      "published_at": "2026-07-10T15:06:31Z"
+      "published_at": null
     },
     {
-      "id": "gh-trending-obra-superpowers",
+      "id": "gh-trending-anthropics-claude-cookbooks",
       "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 78,
-      "summary_oneline": "エージェント向けスキルフレームワーク＆ソフトウェア開発手法。実用的なアプローチを提供。",
+      "title": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "score": 85,
+      "summary_oneline": "Anthropic公式Claudeのユースケースレシピ集。活用事例のノートブックを多数収録。",
       "tags": [
-        "agent-skills",
-        "methodology",
-        "agentic"
+        "claude",
+        "anthropic",
+        "tutorials"
       ],
       "published_at": null
     },
@@ -119,8 +63,8 @@
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 76,
-      "summary_oneline": "「原始人語」でプロンプトを簡略化し、トークンを65%削減するClaude Codeスキル。",
+      "score": 82,
+      "summary_oneline": "Claude Codeのトークン使用量を最大65%削減するスキル。原始的な短文で命令するアプローチ。",
       "tags": [
         "claude-code",
         "skills",
@@ -129,44 +73,212 @@
       "published_at": "2026-07-03T11:10:42Z"
     },
     {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等に対応したクロスプラットフォーム統合デスクトップ支援ツール。",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "multi-agent"
+      ],
+      "published_at": "2026-07-11T12:11:14Z"
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 78,
+      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス性能最適化システム。スキル・記憶・セキュリティ機能搭載。",
+      "tags": [
+        "claude-code",
+        "agent-harness",
+        "skills"
+      ],
+      "published_at": "2026-07-09T07:53:52Z"
+    },
+    {
+      "id": "gh-trending-obra-superpowers",
+      "source": "github",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 68,
+      "summary_oneline": "機能するアジャイルスキルフレームワーク＆ソフトウェア開発手法。エージェント開発に特化。",
+      "tags": [
+        "agent-skills",
+        "framework",
+        "methodology"
+      ],
+      "published_at": null
+    },
+    {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 68,
-      "summary_oneline": "マルチプラットフォーム向けのUI/UXデザインインテリジェンスを提供するAIスキル。",
+      "score": 62,
+      "summary_oneline": "AIコーディングエージェント向けUI/UXデザインインテリジェンスを提供するスキルライブラリ。",
       "tags": [
-        "ai-skill",
+        "agent-skills",
         "ui-ux",
         "design"
       ],
       "published_at": "2026-07-10T14:30:06Z"
     },
     {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 58,
+      "summary_oneline": "エージェントワークフロー開発向けプロダクション対応AIプラットフォーム。14万超スター。",
+      "tags": [
+        "ai-platform",
+        "agentic-workflow",
+        "open-source"
+      ],
+      "published_at": "2026-07-11T13:22:51Z"
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 55,
+      "summary_oneline": "ネイティブAI機能搭載の自動化プラットフォーム。400超インテグレーションでワークフロー構築可能。",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "self-host"
+      ],
+      "published_at": "2026-07-11T19:45:20Z"
+    },
+    {
       "id": "gh-topic-1024554267",
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 63,
-      "summary_oneline": "NousResearch製の継続学習型AIエージェントフレームワーク。スター数212kの注目プロジェクト。",
+      "score": 52,
+      "summary_oneline": "NousResearchが開発した成長型AIエージェントフレームワーク。21万超スター獲得。",
       "tags": [
-        "agent",
-        "framework",
+        "ai-agent",
+        "open-source",
         "llm"
       ],
-      "published_at": "2026-07-10T22:03:40Z"
+      "published_at": "2026-07-11T18:16:13Z"
     },
     {
-      "id": "gh-trending-tencentcloud-tencentdb-agent-memory",
+      "id": "gh-trending-dayuanjiang-next-ai-draw-io",
       "source": "github",
-      "title": "TencentCloud/TencentDB-Agent-Memory",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "score": 60,
-      "summary_oneline": "外部API不要でAIエージェントにローカル長期記憶を提供する4段階パイプライン実装。",
+      "title": "DayuanJiang/next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "score": 48,
+      "summary_oneline": "自然言語でdraw.ioダイアグラムを作成・修正できるAI統合Next.jsアプリ。",
       "tags": [
-        "agent-memory",
+        "ai-app",
+        "diagram",
+        "nextjs"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-oven-sh-bun",
+      "source": "github",
+      "title": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "score": 45,
+      "summary_oneline": "JavaScript・TypeScript向け高速ランタイム、バンドラー、テストランナー統合ツール。",
+      "tags": [
+        "javascript",
+        "runtime",
+        "bun"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-malisper-pgrust",
+      "source": "github",
+      "title": "malisper/pgrust",
+      "url": "https://github.com/malisper/pgrust",
+      "score": 45,
+      "summary_oneline": "Rustで書き直されたPostgres互換DB。Postgres回帰テスト100%通過を達成。",
+      "tags": [
+        "rust",
+        "postgres",
+        "database"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 45,
+      "summary_oneline": "誰でもAIを使い・構築できることを目指したAutoGPTプラットフォーム。18万超スター。",
+      "tags": [
         "ai-agent",
+        "autogpt",
         "open-source"
+      ],
+      "published_at": "2026-07-11T20:00:23Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 42,
+      "summary_oneline": "OllamaやOpenAI API等に対応したユーザーフレンドリーAIインターフェース。",
+      "tags": [
+        "ai-ui",
+        "ollama",
+        "open-source"
+      ],
+      "published_at": "2026-07-10T23:32:22Z"
+    },
+    {
+      "id": "gh-trending-openai-plugins",
+      "source": "github",
+      "title": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "score": 40,
+      "summary_oneline": "OpenAI公式のプラグインリポジトリ。各種拡張機能の仕様・実装例を収録。",
+      "tags": [
+        "openai",
+        "plugins",
+        "ai"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-vercel-next-js",
+      "source": "github",
+      "title": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "score": 35,
+      "summary_oneline": "Vercel製Reactフレームワーク。AIアプリ開発でも広く利用されるフルスタックフレームワーク。",
+      "tags": [
+        "nextjs",
+        "react",
+        "web-framework"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-hashicorp-terraform",
+      "source": "github",
+      "title": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "score": 35,
+      "summary_oneline": "インフラをコードとして安全に構築・変更できるオープンソースIaCツール。",
+      "tags": [
+        "terraform",
+        "infrastructure",
+        "iac"
       ],
       "published_at": null
     }
