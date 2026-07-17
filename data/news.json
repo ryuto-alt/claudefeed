@@ -1,48 +1,20 @@
 {
-  "date": "2026-07-17",
-  "generated_at": "2026-07-16T22:09:00.810Z",
+  "date": "2026-07-18",
+  "generated_at": "2026-07-17T22:09:10.476Z",
   "top": [
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 88,
-      "summary_oneline": "Claude CodeやCodexなど向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティを強化。",
-      "tags": [
-        "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": "2026-07-14T01:31:12Z"
-    },
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
       "score": 85,
-      "summary_oneline": "TypeScript界の著名人mattpocock氏が.claudeディレクトリのスキルをオープンソース公開。",
+      "summary_oneline": "Claude CodeやCodex向けのスキル・記憶・セキュリティ対応エージェントハーネス最適化システム",
       "tags": [
         "claude-code",
         "skills",
-        "open-source"
+        "agent-sdk"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1201173969",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 84,
-      "summary_oneline": "原始人語でトークンを65%削減するClaude Codeスキル。低コストでの高速コーディング支援。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "token-optimization"
-      ],
-      "published_at": "2026-07-03T11:10:42Z"
+      "published_at": "2026-07-17T21:16:52Z"
     },
     {
       "id": "gh-trending-nutlope-hallmark",
@@ -50,25 +22,11 @@
       "title": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "score": 82,
-      "summary_oneline": "Claude Code・Cursor・Codex向けのAIスラップ防止デザインスキル。",
+      "summary_oneline": "Claude CodeやCursorで使えるAIスロップ防止デザインスキル",
       "tags": [
         "claude-code",
         "skills",
         "design"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-graphify-labs-graphify",
-      "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 80,
-      "summary_oneline": "Claude CodeやCursor向けのコード・スキーマ・ドキュメントをグラフ化するAIコーディング支援スキル。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "knowledge-graph"
       ],
       "published_at": null
     },
@@ -77,26 +35,40 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数AIコーディングツールを統合するクロスプラットフォームデスクトップアシスタント。",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・OpenCode等を統合したクロスプラットフォームデスクトップAIアシスタント",
       "tags": [
         "claude-code",
         "desktop-app",
-        "ai-tools"
+        "tools"
       ],
-      "published_at": "2026-07-16T18:38:18Z"
+      "published_at": "2026-07-17T13:52:03Z"
     },
     {
-      "id": "gh-trending-ibelick-ui-skills",
+      "id": "gh-topic-1200597263",
       "source": "github",
-      "title": "ibelick/ui-skills",
-      "url": "https://github.com/ibelick/ui-skills",
-      "score": 65,
-      "summary_oneline": "デザインエンジニア向けのUIスキルコレクション。AIコーディングアシスタントに対応。",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "score": 80,
+      "summary_oneline": "Claude Code等向けにコードベースを知識グラフ化するAIコーディングアシスタントスキル",
       "tags": [
+        "claude-code",
         "skills",
-        "ui",
-        "design-engineering"
+        "knowledge-graph"
+      ],
+      "published_at": "2026-07-17T13:57:35Z"
+    },
+    {
+      "id": "gh-trending-anthropics-cwc-workshops",
+      "source": "github",
+      "title": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "score": 78,
+      "summary_oneline": "AnthropicによるCWCワークショップの公式リポジトリ",
+      "tags": [
+        "anthropic",
+        "claude-code",
+        "workshop"
       ],
       "published_at": null
     },
@@ -105,26 +77,26 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 62,
-      "summary_oneline": "マルチプラットフォーム対応のUI/UXプロフェッショナルデザイン支援AIスキル。",
+      "score": 78,
+      "summary_oneline": "Claude Code向けのマルチプラットフォームUI/UXデザイン支援AIスキル",
       "tags": [
+        "claude-code",
         "skills",
-        "ui-ux",
-        "design"
+        "ui-ux"
       ],
       "published_at": "2026-07-14T18:32:51Z"
     },
     {
-      "id": "gh-trending-shubhamsaboo-awesome-llm-apps",
+      "id": "gh-trending-tirth8205-code-review-graph",
       "source": "github",
-      "title": "Shubhamsaboo/awesome-llm-apps",
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "score": 58,
-      "summary_oneline": "実際に動かせる100以上のAIエージェント・RAGアプリのコレクション。",
+      "title": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "score": 75,
+      "summary_oneline": "MCPとCLI向けのローカルファーストなコードインテリジェンスグラフ、AIツールのコンテキスト削減を実現",
       "tags": [
-        "llm",
-        "ai-agent",
-        "rag"
+        "mcp",
+        "code-review",
+        "cli"
       ],
       "published_at": null
     },
@@ -133,12 +105,26 @@
       "source": "github",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
-      "score": 56,
-      "summary_oneline": "AIオブザバビリティ・分析・セッション再生などを搭載した自律製品開発プラットフォーム。MCP対応。",
+      "score": 60,
+      "summary_oneline": "MCP対応のAI観測・分析・セッションリプレイ等を備えたセルフドリブンプロダクトプラットフォーム",
       "tags": [
-        "analytics",
         "mcp",
+        "analytics",
         "ai-observability"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-github-copilot-sdk",
+      "source": "github",
+      "title": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "score": 52,
+      "summary_oneline": "アプリやサービスにGitHub Copilotエージェントを統合するマルチプラットフォームSDK",
+      "tags": [
+        "agent-sdk",
+        "github-copilot",
+        "llm"
       ],
       "published_at": null
     },
@@ -147,26 +133,26 @@
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 54,
-      "summary_oneline": "成長するAIエージェント「Hermes」。22万以上のスターを持つNousResearchの最新プロジェクト。",
+      "score": 50,
+      "summary_oneline": "NousResearchによる自己成長型AIエージェントフレームワーク",
       "tags": [
         "ai-agent",
         "llm",
         "open-source"
       ],
-      "published_at": "2026-07-16T22:04:31Z"
+      "published_at": "2026-07-17T22:04:45Z"
     },
     {
-      "id": "gh-trending-github-copilot-sdk",
+      "id": "gh-trending-openinterpreter-openinterpreter",
       "source": "github",
-      "title": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "score": 53,
-      "summary_oneline": "GitHub CopilotエージェントをアプリやサービスへSDKで統合するマルチプラットフォーム対応ライブラリ。",
+      "title": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "score": 50,
+      "summary_oneline": "Kimi K3などオープンモデル向けのコーディングエージェント",
       "tags": [
-        "copilot",
-        "agent-sdk",
-        "github"
+        "ai-agent",
+        "coding",
+        "open-source"
       ],
       "published_at": null
     },
@@ -175,96 +161,96 @@
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 52,
-      "summary_oneline": "エージェントワークフロー開発のためのプロダクション対応プラットフォーム。14万9千スター。",
-      "tags": [
-        "agentic-workflow",
-        "llm",
-        "platform"
-      ],
-      "published_at": "2026-07-16T21:58:46Z"
-    },
-    {
-      "id": "gh-trending-lobehub-lobehub",
-      "source": "github",
-      "title": "lobehub/lobehub",
-      "url": "https://github.com/lobehub/lobehub",
       "score": 50,
-      "summary_oneline": "AIチームを24時間体制で運用するチーフエージェントオペレーターシステム。",
+      "summary_oneline": "エージェンティックワークフロー開発向けプロダクションレディプラットフォーム",
       "tags": [
         "ai-agent",
-        "orchestration",
+        "workflow",
         "open-source"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-openinterpreter-openinterpreter",
-      "source": "github",
-      "title": "openinterpreter/openinterpreter",
-      "url": "https://github.com/openinterpreter/openinterpreter",
-      "score": 48,
-      "summary_oneline": "Kimi K3などオープンモデル向けのCodex互換コーディングエージェント。",
-      "tags": [
-        "coding-agent",
-        "open-source",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 46,
-      "summary_oneline": "Ollama・OpenAI APIなど多数のAIバックエンドに対応したユーザーフレンドリーなWebUI。",
-      "tags": [
-        "llm",
-        "open-source",
-        "web-ui"
-      ],
-      "published_at": "2026-07-16T21:09:17Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 45,
-      "summary_oneline": "誰でも使えるAIエージェント基盤「AutoGPT」。ツール提供でユーザーが本質的な作業に集中できる設計。",
-      "tags": [
-        "ai-agent",
-        "llm",
-        "automation"
-      ],
-      "published_at": "2026-07-16T22:00:43Z"
+      "published_at": "2026-07-17T14:59:12Z"
     },
     {
       "id": "gh-topic-193215554",
       "source": "github",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 44,
-      "summary_oneline": "ネイティブAI機能を持つワークフロー自動化プラットフォーム。400以上のインテグレーションに対応。",
+      "score": 48,
+      "summary_oneline": "ネイティブAI機能を持つフェアコードライセンスのワークフロー自動化プラットフォーム",
       "tags": [
         "workflow-automation",
         "ai",
         "open-source"
       ],
-      "published_at": "2026-07-16T22:06:03Z"
+      "published_at": "2026-07-17T21:52:33Z"
     },
     {
-      "id": "gh-trending-apache-ossie",
+      "id": "gh-topic-614765452",
       "source": "github",
-      "title": "apache/ossie",
-      "url": "https://github.com/apache/ossie",
-      "score": 42,
-      "summary_oneline": "AI・分析・BIプラットフォーム間でセマンティックメタデータを標準化するApacheのオープン仕様。",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 47,
+      "summary_oneline": "誰もが使えるアクセシブルなAIを目指すAutoGPTプラットフォーム",
       "tags": [
-        "open-source",
-        "semantic-metadata",
-        "ai-standard"
+        "ai-agent",
+        "automation",
+        "open-source"
+      ],
+      "published_at": "2026-07-17T21:54:31Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 45,
+      "summary_oneline": "OllamaやOpenAI API等に対応したユーザーフレンドリーなAIインターフェース",
+      "tags": [
+        "ai-interface",
+        "ollama",
+        "open-source"
+      ],
+      "published_at": "2026-07-17T20:20:23Z"
+    },
+    {
+      "id": "gh-trending-henryndubuaku-maths-cs-ai-compendium",
+      "source": "github",
+      "title": "HenryNdubuaku/maths-cs-ai-compendium",
+      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+      "score": 38,
+      "summary_oneline": "AIとML研究エンジニアになるための数学・CS・AI総合学習リポジトリ",
+      "tags": [
+        "ai-education",
+        "machine-learning",
+        "resources"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-codecrafters-io-build-your-own-x",
+      "source": "github",
+      "title": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "score": 38,
+      "summary_oneline": "好きな技術をゼロから再実装してプログラミングをマスターするハンズオンガイド集",
+      "tags": [
+        "programming",
+        "education",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-hkuds-deeptutor",
+      "source": "github",
+      "title": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "score": 38,
+      "summary_oneline": "生涯学習向けパーソナライズドAIチュータリングシステム",
+      "tags": [
+        "ai-education",
+        "tutoring",
+        "llm"
       ],
       "published_at": null
     },
@@ -273,14 +259,28 @@
       "source": "github",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 40,
-      "summary_oneline": "かつてのAwesome ChatGPT Promptsが進化。コミュニティでプロンプトを共有・発見・収集できるオープンソースプラットフォーム。",
+      "score": 38,
+      "summary_oneline": "コミュニティ発のプロンプト共有・発見・収集オープンソースプラットフォーム",
       "tags": [
         "prompts",
-        "open-source",
-        "llm"
+        "chatgpt",
+        "open-source"
       ],
-      "published_at": "2026-07-16T10:33:12Z"
+      "published_at": "2026-07-17T19:32:52Z"
+    },
+    {
+      "id": "gh-trending-ryancodrai-turbovec",
+      "source": "github",
+      "title": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "score": 30,
+      "summary_oneline": "TurboQuantベースのRust製Pythonバインディングありベクターインデックス",
+      "tags": [
+        "vector-db",
+        "rust",
+        "machine-learning"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
