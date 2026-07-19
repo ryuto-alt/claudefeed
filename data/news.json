@@ -1,74 +1,214 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-18T22:07:57.330Z",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-19T22:10:55.048Z",
   "top": [
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
+      "score": 90,
+      "summary_oneline": "Claude Code向けエージェントハーネス強化システム。スキル・直感・メモリ・セキュリティ機能を統合。",
       "tags": [
         "claude-code",
-        "skills",
-        "agent-sdk"
+        "agent-harness",
+        "skills"
       ],
-      "published_at": "2026-07-17T21:16:52Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 75,
-      "summary_oneline": "Claude Code等向けのAIコーディングアシスタントスキル。コードやDBスキーマを知識グラフ化してクエリ可能にする。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "knowledge-graph"
-      ],
-      "published_at": "2026-07-18T21:29:17Z"
-    },
-    {
-      "id": "gh-trending-tirth8205-code-review-graph",
-      "source": "github",
-      "title": "tirth8205/code-review-graph",
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "score": 72,
-      "summary_oneline": "MCPとCLI向けのローカルファーストなコードインテリジェンスグラフ。コードベースの永続マップを構築しAIのコンテキスト使用を最適化。",
-      "tags": [
-        "mcp",
-        "code-intelligence",
-        "claude-code"
-      ],
-      "published_at": null
+      "published_at": "2026-07-19T19:47:10Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等複数のCLIエージェントをまとめて管理するクロスプラットフォームデスクトップアシスタント。",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex等複数CLIエージェントを一元管理するクロスプラットフォームデスクトップツール。",
       "tags": [
         "claude-code",
-        "cli-tools",
-        "desktop-app"
+        "desktop-app",
+        "cli-agent"
       ],
-      "published_at": "2026-07-18T10:07:04Z"
+      "published_at": "2026-07-19T03:39:30Z"
+    },
+    {
+      "id": "gh-topic-1200597263",
+      "source": "github",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "score": 80,
+      "summary_oneline": "Claude Code等向けスキル。コードベースをナレッジグラフ化しAIコーディング支援のコンテキストを強化。",
+      "tags": [
+        "claude-code",
+        "skill",
+        "knowledge-graph"
+      ],
+      "published_at": "2026-07-18T21:29:17Z"
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 78,
+      "summary_oneline": "複数プラットフォーム向けプロUI/UXデザインインテリジェンスを提供するClaude Codeスキル。",
+      "tags": [
+        "claude-code",
+        "skill",
+        "ui-ux"
+      ],
+      "published_at": "2026-07-19T20:57:14Z"
     },
     {
       "id": "gh-trending-knockoutez-wigolo",
       "source": "github",
       "title": "KnockOutEZ/wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
-      "score": 68,
-      "summary_oneline": "AIコーディングエージェント向けのMCPベースのローカルファーストWebサーチ・クロールツール。APIキー不要・無料で利用可能。",
+      "score": 76,
+      "summary_oneline": "AIコーディングエージェント向けMCP経由ローカルファーストWebサーチ・クロールツール。APIキー不要。",
       "tags": [
         "mcp",
         "web-search",
-        "ai-agent"
+        "ai-coding"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-tirth8205-code-review-graph",
+      "source": "github",
+      "title": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "score": 75,
+      "summary_oneline": "MCPとCLI向けローカルファーストコードインテリジェンスグラフ。コードレビュー時のコンテキスト量を削減。",
+      "tags": [
+        "mcp",
+        "code-review",
+        "cli"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-moonshotai-kimi-cli",
+      "source": "github",
+      "title": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "score": 40,
+      "summary_oneline": "MoonshotAIが公開したKimi Code CLIエージェント。Claude Codeに類似したコーディング支援CLI。",
+      "tags": [
+        "cli-agent",
+        "llm",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-bojieli-ai-agent-book",
+      "source": "github",
+      "title": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "score": 38,
+      "summary_oneline": "AIエージェントの設計原理と工程実践を解説した中国語オープンソース書籍（PDF・コード付き）。",
+      "tags": [
+        "ai-agent",
+        "book",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-github-copilot-sdk",
+      "source": "github",
+      "title": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "score": 38,
+      "summary_oneline": "GitHub Copilotエージェントをアプリ・サービスに統合するためのマルチプラットフォーム公式SDK。",
+      "tags": [
+        "agent-sdk",
+        "github-copilot",
+        "sdk"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-trycua-cua",
+      "source": "github",
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "score": 38,
+      "summary_oneline": "オープンソースドライバーとクロスOSフリートでコンピュータユース2.0をスケールするフレームワーク。",
+      "tags": [
+        "computer-use",
+        "benchmark",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 38,
+      "summary_oneline": "本番対応のエージェントワークフロー開発プラットフォーム。AIアプリ構築を加速するオープンソースツール。",
+      "tags": [
+        "agent-workflow",
+        "platform",
+        "open-source"
+      ],
+      "published_at": "2026-07-19T15:27:29Z"
+    },
+    {
+      "id": "gh-trending-kvcache-ai-ktransformers",
+      "source": "github",
+      "title": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "score": 36,
+      "summary_oneline": "ヘテロジニアスなLLM推論・ファインチューニング最適化のためのフレキシブルフレームワーク。",
+      "tags": [
+        "llm",
+        "inference",
+        "optimization"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 35,
+      "summary_oneline": "NousResearchによる自己成長型エージェント。利用を重ねるにつれて能力が向上する設計。",
+      "tags": [
+        "ai-agent",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-07-19T21:39:04Z"
+    },
+    {
+      "id": "gh-trending-1jehuang-jcode",
+      "source": "github",
+      "title": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "score": 35,
+      "summary_oneline": "AIコーディングエージェントの評価・実行を支援するコーディングエージェントハーネス実装。",
+      "tags": [
+        "coding-agent",
+        "harness",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-astrbotdevs-astrbot",
+      "source": "github",
+      "title": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "score": 33,
+      "summary_oneline": "複数のIMプラットフォームとLLMを統合したAIエージェントアシスタント・開発フレームワーク。",
+      "tags": [
+        "ai-agent",
+        "llm",
+        "framework"
       ],
       "published_at": null
     },
@@ -77,28 +217,70 @@
       "source": "github",
       "title": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
-      "score": 62,
-      "summary_oneline": "AI観測・アナリティクス・セッションリプレイ等を備えた開発者向けプラットフォーム。MCP経由での操作に対応。",
+      "score": 33,
+      "summary_oneline": "AI観察可能性・分析・セッションリプレイ・MCP統合を持つ自己駆動型プロダクト開発プラットフォーム。",
       "tags": [
+        "ai-observability",
         "mcp",
-        "analytics",
-        "developer-tools"
+        "analytics"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1106996539",
+      "id": "gh-topic-193215554",
       "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 60,
-      "summary_oneline": "Claude Code等のAIコーディングツール向けのUI/UXデザインインテリジェンス提供スキル。マルチプラットフォームに対応。",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 33,
+      "summary_oneline": "ネイティブAI機能を持つオープンソースワークフロー自動化プラットフォーム。400以上の統合をサポート。",
       "tags": [
-        "claude-code",
-        "skills",
-        "ui-ux"
+        "workflow-automation",
+        "ai",
+        "open-source"
       ],
-      "published_at": "2026-07-14T18:32:51Z"
+      "published_at": "2026-07-19T19:45:48Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 32,
+      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなオープンソースAIインターフェース。",
+      "tags": [
+        "ai-interface",
+        "ollama",
+        "open-source"
+      ],
+      "published_at": "2026-07-18T03:39:50Z"
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 32,
+      "summary_oneline": "誰もがAIを活用・構築できるビジョンを持つ汎用自律型AIエージェントフレームワーク。",
+      "tags": [
+        "ai-agent",
+        "autonomous",
+        "open-source"
+      ],
+      "published_at": "2026-07-19T14:56:38Z"
+    },
+    {
+      "id": "gh-trending-lyogavin-airllm",
+      "source": "github",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "score": 32,
+      "summary_oneline": "単一4GB GPUで70B LLM推論を実現するAirLLMフレームワーク。ローカルLLM実行の敷居を大幅に下げる。",
+      "tags": [
+        "llm",
+        "inference",
+        "low-resource"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
