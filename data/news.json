@@ -1,284 +1,256 @@
 {
-  "date": "2026-07-20",
-  "generated_at": "2026-07-19T22:10:55.048Z",
+  "date": "2026-07-21",
+  "generated_at": "2026-07-20T22:09:55.385Z",
   "top": [
     {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 90,
-      "summary_oneline": "Claude Code向けエージェントハーネス強化システム。スキル・直感・メモリ・セキュリティ機能を統合。",
+      "id": "cc-release-355310036",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.212",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.212",
+      "score": 92,
+      "summary_oneline": "/forkがバックグラウンドセッションにコピーを作成。従来のサブエージェント起動は/subtaskに分離された。",
       "tags": [
         "claude-code",
-        "agent-harness",
-        "skills"
+        "release-notes",
+        "agent-sdk"
       ],
-      "published_at": "2026-07-19T19:47:10Z"
+      "published_at": "2026-07-17T00:26:27Z"
     },
     {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 85,
-      "summary_oneline": "Claude Code・Codex等複数CLIエージェントを一元管理するクロスプラットフォームデスクトップツール。",
+      "id": "cc-release-355973317",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.214",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+      "score": 90,
+      "summary_oneline": "Windows PowerShell 5.1の権限バイパスとBashファイルディスクリプタリダイレクトの脆弱性を修正。",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "cli-agent"
+        "release-notes",
+        "security"
       ],
-      "published_at": "2026-07-19T03:39:30Z"
+      "published_at": "2026-07-18T01:20:30Z"
+    },
+    {
+      "id": "cc-release-356226333",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.215",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+      "score": 88,
+      "summary_oneline": "/verifyと/code-reviewスキルが自動実行されなくなり、明示的な呼び出しが必要になった。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "skills"
+      ],
+      "published_at": "2026-07-19T02:56:01Z"
+    },
+    {
+      "id": "cc-release-352355755",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.207",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.207",
+      "score": 88,
+      "summary_oneline": "Bedrock・Vertex AI・Foundryでオートモードが正式利用可能に。長いレスポンス時のターミナルフリーズも修正。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "auto-mode"
+      ],
+      "published_at": "2026-07-11T00:52:10Z"
+    },
+    {
+      "id": "cc-release-354658856",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.211",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
+      "score": 86,
+      "summary_oneline": "--forward-subagent-textフラグ追加。権限プレビューへの不可視文字挿入攻撃を修正。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "security"
+      ],
+      "published_at": "2026-07-15T23:02:35Z"
+    },
+    {
+      "id": "cc-release-354034085",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.210",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
+      "score": 84,
+      "summary_oneline": "ツール実行中に経過時間を表示。Write(path)等の非推奨権限ルールに起動時警告を追加。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "permissions"
+      ],
+      "published_at": "2026-07-14T23:45:25Z"
+    },
+    {
+      "id": "cc-release-353442054",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.208",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.208",
+      "score": 84,
+      "summary_oneline": "スクリーンリーダーモード追加。vimインサートモードのキーリマップ(jj→Esc等)が設定可能に。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "accessibility"
+      ],
+      "published_at": "2026-07-14T01:10:42Z"
+    },
+    {
+      "id": "cc-release-351694341",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.206",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.206",
+      "score": 82,
+      "summary_oneline": "/doctorでCLAUDE.mdの冗長コンテンツ削減を提案。/commit-push-prでgit pushが自動許可に。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "developer-tools"
+      ],
+      "published_at": "2026-07-10T01:45:26Z"
+    },
+    {
+      "id": "cc-release-351140412",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.205",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.205",
+      "score": 80,
+      "summary_oneline": "オートモードにトランスクリプト改ざん防止ルール追加。--json-schemaの不正スキーマ処理を修正。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "auto-mode"
+      ],
+      "published_at": "2026-07-08T21:22:06Z"
+    },
+    {
+      "id": "cc-release-353572404",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.209",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.209",
+      "score": 76,
+      "summary_oneline": "バックグラウンドセッションで/modelダイアログが操作できなくなっていた不具合を修正。",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "bug-fix"
+      ],
+      "published_at": "2026-07-14T06:36:28Z"
+    },
+    {
+      "id": "gh-trending-prefecthq-fastmcp",
+      "source": "github",
+      "title": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "score": 76,
+      "summary_oneline": "PrefectHQによるPython製MCPサーバー・クライアント構築フレームワーク。高速でPythonらしい記法が特徴。",
+      "tags": [
+        "mcp",
+        "python",
+        "open-source"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 80,
-      "summary_oneline": "Claude Code等向けスキル。コードベースをナレッジグラフ化しAIコーディング支援のコンテキストを強化。",
+      "score": 76,
+      "summary_oneline": "コードベースを知識グラフに変換するClaude Code向け/graphifyスキル。AST解析でベクトルストア不要。",
       "tags": [
         "claude-code",
-        "skill",
+        "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-07-18T21:29:17Z"
+      "published_at": "2026-07-20T16:08:17Z"
     },
     {
-      "id": "gh-topic-1106996539",
+      "id": "gh-topic-1136590548",
       "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 78,
-      "summary_oneline": "複数プラットフォーム向けプロUI/UXデザインインテリジェンスを提供するClaude Codeスキル。",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 72,
+      "summary_oneline": "Claude Code・Codex向けエージェントハーネス性能最適化システム。スキル・記憶・セキュリティを統合。",
       "tags": [
         "claude-code",
-        "skill",
-        "ui-ux"
+        "agent-sdk",
+        "optimization"
       ],
-      "published_at": "2026-07-19T20:57:14Z"
-    },
-    {
-      "id": "gh-trending-knockoutez-wigolo",
-      "source": "github",
-      "title": "KnockOutEZ/wigolo",
-      "url": "https://github.com/KnockOutEZ/wigolo",
-      "score": 76,
-      "summary_oneline": "AIコーディングエージェント向けMCP経由ローカルファーストWebサーチ・クロールツール。APIキー不要。",
-      "tags": [
-        "mcp",
-        "web-search",
-        "ai-coding"
-      ],
-      "published_at": null
+      "published_at": "2026-07-20T20:21:03Z"
     },
     {
       "id": "gh-trending-tirth8205-code-review-graph",
       "source": "github",
       "title": "tirth8205/code-review-graph",
       "url": "https://github.com/tirth8205/code-review-graph",
-      "score": 75,
-      "summary_oneline": "MCPとCLI向けローカルファーストコードインテリジェンスグラフ。コードレビュー時のコンテキスト量を削減。",
+      "score": 72,
+      "summary_oneline": "MCPとCLI向けのローカルファーストなコード知識グラフ。AIツールの参照コンテキストを最適化。",
       "tags": [
         "mcp",
         "code-review",
-        "cli"
+        "context-management"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-moonshotai-kimi-cli",
+      "id": "gh-trending-knockoutez-wigolo",
       "source": "github",
-      "title": "MoonshotAI/kimi-cli",
-      "url": "https://github.com/MoonshotAI/kimi-cli",
-      "score": 40,
-      "summary_oneline": "MoonshotAIが公開したKimi Code CLIエージェント。Claude Codeに類似したコーディング支援CLI。",
+      "title": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "score": 72,
+      "summary_oneline": "AIコーディングエージェント向けMCPローカル検索・クロールツール。APIキー不要・$0/クエリで利用可能。",
       "tags": [
-        "cli-agent",
-        "llm",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-bojieli-ai-agent-book",
-      "source": "github",
-      "title": "bojieli/ai-agent-book",
-      "url": "https://github.com/bojieli/ai-agent-book",
-      "score": 38,
-      "summary_oneline": "AIエージェントの設計原理と工程実践を解説した中国語オープンソース書籍（PDF・コード付き）。",
-      "tags": [
-        "ai-agent",
-        "book",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-github-copilot-sdk",
-      "source": "github",
-      "title": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "score": 38,
-      "summary_oneline": "GitHub Copilotエージェントをアプリ・サービスに統合するためのマルチプラットフォーム公式SDK。",
-      "tags": [
-        "agent-sdk",
-        "github-copilot",
-        "sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-trycua-cua",
-      "source": "github",
-      "title": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "score": 38,
-      "summary_oneline": "オープンソースドライバーとクロスOSフリートでコンピュータユース2.0をスケールするフレームワーク。",
-      "tags": [
-        "computer-use",
-        "benchmark",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 38,
-      "summary_oneline": "本番対応のエージェントワークフロー開発プラットフォーム。AIアプリ構築を加速するオープンソースツール。",
-      "tags": [
-        "agent-workflow",
-        "platform",
-        "open-source"
-      ],
-      "published_at": "2026-07-19T15:27:29Z"
-    },
-    {
-      "id": "gh-trending-kvcache-ai-ktransformers",
-      "source": "github",
-      "title": "kvcache-ai/ktransformers",
-      "url": "https://github.com/kvcache-ai/ktransformers",
-      "score": 36,
-      "summary_oneline": "ヘテロジニアスなLLM推論・ファインチューニング最適化のためのフレキシブルフレームワーク。",
-      "tags": [
-        "llm",
-        "inference",
-        "optimization"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 35,
-      "summary_oneline": "NousResearchによる自己成長型エージェント。利用を重ねるにつれて能力が向上する設計。",
-      "tags": [
-        "ai-agent",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-07-19T21:39:04Z"
-    },
-    {
-      "id": "gh-trending-1jehuang-jcode",
-      "source": "github",
-      "title": "1jehuang/jcode",
-      "url": "https://github.com/1jehuang/jcode",
-      "score": 35,
-      "summary_oneline": "AIコーディングエージェントの評価・実行を支援するコーディングエージェントハーネス実装。",
-      "tags": [
-        "coding-agent",
-        "harness",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-astrbotdevs-astrbot",
-      "source": "github",
-      "title": "AstrBotDevs/AstrBot",
-      "url": "https://github.com/AstrBotDevs/AstrBot",
-      "score": 33,
-      "summary_oneline": "複数のIMプラットフォームとLLMを統合したAIエージェントアシスタント・開発フレームワーク。",
-      "tags": [
-        "ai-agent",
-        "llm",
-        "framework"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-posthog-posthog",
-      "source": "github",
-      "title": "PostHog/posthog",
-      "url": "https://github.com/PostHog/posthog",
-      "score": 33,
-      "summary_oneline": "AI観察可能性・分析・セッションリプレイ・MCP統合を持つ自己駆動型プロダクト開発プラットフォーム。",
-      "tags": [
-        "ai-observability",
         "mcp",
-        "analytics"
+        "web-search",
+        "claude-code"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-193215554",
+      "id": "gh-topic-1106996539",
       "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 33,
-      "summary_oneline": "ネイティブAI機能を持つオープンソースワークフロー自動化プラットフォーム。400以上の統合をサポート。",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 67,
+      "summary_oneline": "マルチプラットフォーム向けUI/UXデザイン設計インテリジェンスを提供するAIスキル。",
       "tags": [
-        "workflow-automation",
-        "ai",
-        "open-source"
+        "claude-code",
+        "skills",
+        "ui-ux"
       ],
-      "published_at": "2026-07-19T19:45:48Z"
+      "published_at": "2026-07-19T20:57:14Z"
     },
     {
-      "id": "gh-topic-701547123",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 32,
-      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなオープンソースAIインターフェース。",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 65,
+      "summary_oneline": "Claude Code・Codex・Gemini CLIなど複数エージェントを統合するクロスプラットフォームデスクトップアシスタント。",
       "tags": [
-        "ai-interface",
-        "ollama",
-        "open-source"
+        "claude-code",
+        "desktop-app",
+        "multi-agent"
       ],
-      "published_at": "2026-07-18T03:39:50Z"
+      "published_at": "2026-07-19T03:39:30Z"
     },
     {
-      "id": "gh-topic-614765452",
+      "id": "gh-trending-diegosouzapw-omniroute",
       "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 32,
-      "summary_oneline": "誰もがAIを活用・構築できるビジョンを持つ汎用自律型AIエージェントフレームワーク。",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "score": 62,
+      "summary_oneline": "Claude CodeやCodexと互換のAIゲートウェイ。268+プロバイダー・500+モデルをMCP/A2A対応で提供。",
       "tags": [
-        "ai-agent",
-        "autonomous",
-        "open-source"
-      ],
-      "published_at": "2026-07-19T14:56:38Z"
-    },
-    {
-      "id": "gh-trending-lyogavin-airllm",
-      "source": "github",
-      "title": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "score": 32,
-      "summary_oneline": "単一4GB GPUで70B LLM推論を実現するAirLLMフレームワーク。ローカルLLM実行の敷居を大幅に下げる。",
-      "tags": [
-        "llm",
-        "inference",
-        "low-resource"
+        "llm-gateway",
+        "mcp",
+        "claude-code"
       ],
       "published_at": null
     }
