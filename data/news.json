@@ -1,74 +1,46 @@
 {
-  "date": "2026-07-26",
-  "generated_at": "2026-07-25T22:09:03.781Z",
+  "date": "2026-07-27",
+  "generated_at": "2026-07-26T22:09:11.976Z",
   "top": [
     {
-      "id": "gh-trending-mattpocock-skills",
+      "id": "gh-topic-1136590548",
       "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 83,
-      "summary_oneline": "エンジニア向けのAgentsディレクトリから直接公開された実践的なClaudeスキルコレクション",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 88,
+      "summary_oneline": "Claude Code・Codex・Cursor向けエージェントハーネス最適化システム。スキル・本能・記憶・セキュリティ機能を提供",
       "tags": [
         "claude-code",
-        "skills",
-        "agent-sdk"
+        "agent-sdk",
+        "skills"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-anthropics-claude-cookbooks",
-      "source": "github",
-      "title": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "score": 82,
-      "summary_oneline": "AnthropicによるClaudeの実践的な使い方をまとめたノートブック＆レシピ集",
-      "tags": [
-        "claude-code",
-        "anthropic",
-        "tutorial"
-      ],
-      "published_at": null
+      "published_at": "2026-07-26T10:26:33Z"
     },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 82,
-      "summary_oneline": "コードベースをナレッジグラフに変換するClaude Code向け/graphifyスキル",
+      "score": 87,
+      "summary_oneline": "コードベースや設定ファイルを知識グラフ化するClaude Code向け/graphifyスキル。ベクトルストア不要",
       "tags": [
         "claude-code",
         "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-07-24T23:10:00Z"
+      "published_at": "2026-07-26T12:01:51Z"
     },
     {
-      "id": "gh-trending-affaan-m-ecc",
+      "id": "gh-trending-anthropics-claude-cookbooks",
       "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude Code・Cursor向けのSkills・記憶・セキュリティ機能を備えたエージェントハーネス最適化システム",
+      "title": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "score": 85,
+      "summary_oneline": "AnthropicがClaudeの活用レシピをJupyterノートブック形式で公開するオープンソースコレクション",
       "tags": [
-        "claude-code",
-        "skills",
-        "agent-harness"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-composiohq-awesome-claude-skills",
-      "source": "github",
-      "title": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "score": 80,
-      "summary_oneline": "Claudeのワークフローをカスタマイズするための厳選されたスキル・ツール・リソース一覧",
-      "tags": [
-        "claude-code",
-        "skills",
-        "curated-list"
+        "claude",
+        "anthropic",
+        "tutorials"
       ],
       "published_at": null
     },
@@ -77,95 +49,67 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 77,
-      "summary_oneline": "Claude Code・Codex・Grok Buildなど複数エージェントを統合管理するクロスプラットフォームデスクトップツール",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・OpenCode等の複数AIコーディングアシスタントを一元管理するデスクトップアプリ",
       "tags": [
         "claude-code",
-        "tools",
+        "developer-tools",
         "desktop-app"
       ],
-      "published_at": "2026-07-24T04:52:43Z"
-    },
-    {
-      "id": "gh-trending-citrolabs-ego-lite",
-      "source": "github",
-      "title": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "score": 73,
-      "summary_oneline": "Claude CodeなどAIエージェントとブラウザのログイン状態を安全に共有するウェブ自動化ブラウザ",
-      "tags": [
-        "claude-code",
-        "web-automation",
-        "browser"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-obra-superpowers",
-      "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 65,
-      "summary_oneline": "AIエージェント向けのスキルフレームワーク＆ソフトウェア開発方法論",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "methodology"
-      ],
-      "published_at": null
+      "published_at": "2026-07-26T13:17:12Z"
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 65,
-      "summary_oneline": "複数プラットフォームに対応したUI/UXデザインインテリジェンスを提供するAIスキル",
+      "score": 78,
+      "summary_oneline": "複数プラットフォーム対応のUI/UXデザイン知識を提供するAIスキル",
       "tags": [
         "skills",
         "ui-ux",
-        "design"
+        "claude-code"
       ],
       "published_at": "2026-07-21T15:51:36Z"
+    },
+    {
+      "id": "gh-trending-citrolabs-ego-lite",
+      "source": "github",
+      "title": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "score": 72,
+      "summary_oneline": "Claude CodeなどのAIエージェントと認証済みブラウザセッションを共有できる無料・設定不要のブラウザ",
+      "tags": [
+        "web-automation",
+        "claude-code",
+        "ai-agents"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-alibaba-open-code-review",
       "source": "github",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 52,
-      "summary_oneline": "AlibabaによるLLMエージェントを使った行単位コードレビューツール、Anthropic互換",
+      "score": 62,
+      "summary_oneline": "AlibabaのLLMエージェント型コードレビューツール。Anthropic互換でNPE・XSS・SQLインジェクション検出対応",
       "tags": [
         "code-review",
-        "llm",
-        "open-source"
+        "llm-agent",
+        "anthropic"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1024554267",
+      "id": "gh-trending-pbakaus-impeccable",
       "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 50,
-      "summary_oneline": "ユーザーとともに成長する汎用AIエージェントフレームワーク（スター22万超）",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "score": 55,
+      "summary_oneline": "AIハーネスのデザイン品質を高めるためのデザイン言語・設計指針",
       "tags": [
-        "agent-sdk",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-07-25T21:58:07Z"
-    },
-    {
-      "id": "gh-trending-andrewyng-aisuite",
-      "source": "github",
-      "title": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "score": 50,
-      "summary_oneline": "複数の生成AIプロバイダーへの統一インターフェースライブラリ",
-      "tags": [
-        "llm",
-        "multi-provider",
+        "design",
+        "ai-harness",
         "open-source"
       ],
       "published_at": null
@@ -175,26 +119,82 @@
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 50,
-      "summary_oneline": "RAGパイプラインと多様なAIモデルをサポートするアジェンティックワークフロー構築プラットフォーム",
+      "score": 55,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できる協調型AIワークスペース。クラウドまたはセルフホスト対応",
       "tags": [
-        "llm",
-        "workflow-automation",
-        "rag"
+        "ai-agents",
+        "rag",
+        "workflow"
       ],
-      "published_at": "2026-07-25T19:51:52Z"
+      "published_at": "2026-07-26T14:23:40Z"
     },
     {
-      "id": "gh-trending-lordog-dive-into-llms",
+      "id": "gh-topic-1024554267",
       "source": "github",
-      "title": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "score": 48,
-      "summary_oneline": "LLMを実践的に学ぶプログラミングチュートリアルシリーズ（中国語）",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 52,
+      "summary_oneline": "NousResearchによる自己成長型オープンソースエージェントフレームワーク",
       "tags": [
+        "ai-agents",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-07-26T22:04:24Z"
+    },
+    {
+      "id": "gh-trending-andrewyng-aisuite",
+      "source": "github",
+      "title": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "score": 52,
+      "summary_oneline": "Andrew Ng氏によるマルチ生成AIプロバイダーへの統一インターフェースライブラリ",
+      "tags": [
+        "ai-providers",
         "llm",
-        "tutorial",
-        "education"
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-ottermind-chat2db",
+      "source": "github",
+      "title": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "score": 48,
+      "summary_oneline": "MySQL・PostgreSQL等20種類以上のDBに対応するAI駆動データベースツール・SQLクライアント",
+      "tags": [
+        "database",
+        "ai-tool",
+        "sql"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 48,
+      "summary_oneline": "誰もがAIを構築・活用できることを目指すオープンソースのアクセシブルAIフレームワーク",
+      "tags": [
+        "ai-agents",
+        "autogpt",
+        "open-source"
+      ],
+      "published_at": "2026-07-26T17:49:58Z"
+    },
+    {
+      "id": "gh-trending-corebunch-instatic",
+      "source": "github",
+      "title": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "score": 45,
+      "summary_oneline": "Webflow・Framer代替のアジェンティックなオープンソースビジュアルCMS。クリーンな静的ページを生成",
+      "tags": [
+        "agentic",
+        "cms",
+        "open-source"
       ],
       "published_at": null
     },
@@ -203,82 +203,81 @@
       "source": "github",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 48,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム、400以上の統合",
+      "score": 45,
+      "summary_oneline": "ネイティブAI機能搭載のフェアコード型ワークフロー自動化プラットフォーム。400以上のインテグレーション対応",
       "tags": [
         "workflow-automation",
-        "llm",
-        "open-source"
+        "ai",
+        "self-hosted"
       ],
-      "published_at": "2026-07-25T21:33:30Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 48,
-      "summary_oneline": "誰もが使えるアクセス可能なAI構築・利用を目指すオープンソースエージェント",
-      "tags": [
-        "agent-sdk",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-07-25T16:23:15Z"
+      "published_at": "2026-07-26T21:50:03Z"
     },
     {
       "id": "gh-topic-701547123",
       "source": "github",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 45,
-      "summary_oneline": "OllamaやOpenAI APIをサポートするユーザーフレンドリーなAIチャットインターフェース",
+      "score": 42,
+      "summary_oneline": "Ollama・OpenAI APIなど複数AIバックエンドに対応したユーザーフレンドリーなセルフホストウェブUI",
       "tags": [
-        "llm",
-        "open-source",
-        "ui"
+        "ai-interface",
+        "ollama",
+        "open-source"
       ],
-      "published_at": "2026-07-24T22:59:54Z"
+      "published_at": "2026-07-26T22:06:05Z"
     },
     {
       "id": "gh-topic-574523116",
       "source": "github",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 42,
-      "summary_oneline": "コミュニティによるプロンプト共有・発見・収集プラットフォーム（旧Awesome ChatGPT Prompts）",
+      "score": 32,
+      "summary_oneline": "コミュニティでAIプロンプトを共有・発見・収集できるオープンソースプラットフォーム（旧Awesome ChatGPT Prompts）",
       "tags": [
         "prompts",
-        "llm",
+        "chatgpt",
         "open-source"
       ],
-      "published_at": "2026-07-25T04:04:54Z"
+      "published_at": "2026-07-25T04:04:33Z"
     },
     {
-      "id": "gh-trending-ottermind-chat2db",
+      "id": "gh-trending-shiyu-coder-kronos",
       "source": "github",
-      "title": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "score": 40,
-      "summary_oneline": "MySQL・PostgreSQL等複数DBをサポートするAI駆動のデータベースツール＆SQLクライアント",
+      "title": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "score": 28,
+      "summary_oneline": "金融市場の言語モデルとなることを目指すファウンデーションモデル",
       "tags": [
-        "llm",
-        "database",
-        "sql"
+        "finance",
+        "foundation-model",
+        "ai"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-corebunch-instatic",
+      "id": "gh-trending-pingdotgg-t3code",
       "source": "github",
-      "title": "CoreBunch/Instatic",
-      "url": "https://github.com/CoreBunch/Instatic",
-      "score": 38,
-      "summary_oneline": "Webflow代替のオープンソースアジェンティックCMS、静的ページを出力",
+      "title": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "score": 22,
+      "summary_oneline": "Ping.gg（Theo Browne）によるコーディングツール（詳細未公開）",
       "tags": [
         "open-source",
-        "cms",
-        "agentic"
+        "developer-tools"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-nodejs-node",
+      "source": "github",
+      "title": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "score": 22,
+      "summary_oneline": "Google V8エンジン搭載のクロスプラットフォームJavaScriptランタイム",
+      "tags": [
+        "nodejs",
+        "javascript",
+        "runtime"
       ],
       "published_at": null
     }
