@@ -1,88 +1,116 @@
 {
-  "date": "2026-07-28",
-  "generated_at": "2026-07-27T22:15:56.526Z",
+  "date": "2026-07-29",
+  "generated_at": "2026-07-28T22:09:43.788Z",
   "top": [
+    {
+      "id": "gh-trending-virgiliojr94-book-to-skill",
+      "source": "github",
+      "title": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "score": 85,
+      "summary_oneline": "技術書PDFをClaude Codeのスキルに自動変換するツール。作業中の参照・学習用途に活用できる。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "productivity"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-affaan-m-ecc",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 82,
+      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合提供。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": null
+    },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 83,
-      "summary_oneline": "コードベース・ドキュメント・SQL等を知識グラフ化するClaude Code向け/graphifyスキル",
+      "score": 82,
+      "summary_oneline": "コードベース・ドキュメント・SQLスキーマをナレッジグラフ化するClaude Codeスキル。ベクトルストア不要でAST解析を使用。",
       "tags": [
         "claude-code",
-        "skill",
+        "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-07-27T09:58:32Z"
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude Code・Cursor等向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを強化",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": "2026-07-27T20:45:18Z"
+      "published_at": "2026-07-28T09:52:46Z"
     },
     {
       "id": "gh-trending-bradautomates-claude-video",
       "source": "github",
       "title": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
-      "score": 78,
-      "summary_oneline": "Claudeが動画を視聴できるようにするツール。フレーム抽出と文字起こしをClaudeに渡す",
-      "tags": [
-        "claude",
-        "video",
-        "tool"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 77,
-      "summary_oneline": "Claude Code・Codex・OpenCode等複数AIコーディングエージェントを統合管理するデスクトップアプリ",
+      "score": 80,
+      "summary_oneline": "Claudeに動画視聴能力を付与するスキル。動画をダウンロードしフレーム抽出・文字起こしをClaudeに渡す。",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "agent"
+        "skills",
+        "video"
       ],
-      "published_at": "2026-07-27T15:09:37Z"
+      "published_at": null
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 73,
-      "summary_oneline": "マルチプラットフォーム向けプロ品質UI/UXデザイン支援を提供するAIスキル",
+      "score": 78,
+      "summary_oneline": "Claude Code向けのUI/UXデザイン知識を提供するAIスキル。複数プラットフォームのデザインに対応。",
       "tags": [
-        "skill",
-        "ui-ux",
-        "design"
+        "claude-code",
+        "skills",
+        "ui-ux"
       ],
-      "published_at": "2026-07-27T06:30:54Z"
+      "published_at": "2026-07-28T05:00:36Z"
     },
     {
-      "id": "gh-trending-mvanhorn-last30days-skill",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "score": 72,
-      "summary_oneline": "Reddit・X・YouTube・HN等を横断して任意トピックをリサーチするAIエージェントスキル",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 73,
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数のAIコーディングツールに対応したクロスプラットフォームデスクトップアシスタント。",
       "tags": [
-        "skill",
-        "agent",
-        "research"
+        "claude-code",
+        "desktop-app",
+        "ai-tools"
+      ],
+      "published_at": "2026-07-28T15:37:56Z"
+    },
+    {
+      "id": "gh-trending-microsoft-agent-governance-toolkit",
+      "source": "github",
+      "title": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "score": 62,
+      "summary_oneline": "MicrosoftによるAIエージェントのポリシー管理・ゼロトラスト・セキュリティツールキット。OWASP Agentic Top 10に対応。",
+      "tags": [
+        "ai-agent",
+        "governance",
+        "security"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-andrewyng-aisuite",
+      "source": "github",
+      "title": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "score": 55,
+      "summary_oneline": "Andrew Ngが公開した複数の生成AIプロバイダーへの統一インターフェースライブラリ。",
+      "tags": [
+        "llm",
+        "ai-providers",
+        "open-source"
       ],
       "published_at": null
     },
@@ -91,70 +119,28 @@
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 63,
-      "summary_oneline": "使い込むほど進化するNousResearch製AIエージェントフレームワーク",
+      "score": 55,
+      "summary_oneline": "NousResearchが開発した汎用AIエージェントフレームワーク「Hermes Agent」。",
       "tags": [
-        "agent",
-        "llm",
-        "open-source"
+        "ai-agent",
+        "open-source",
+        "llm"
       ],
-      "published_at": "2026-07-27T22:13:02Z"
+      "published_at": "2026-07-28T22:02:55Z"
     },
     {
       "id": "gh-topic-626805178",
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 57,
-      "summary_oneline": "エージェントワークフロー・RAGパイプライン構築基盤。クラウド・セルフホスト両対応",
-      "tags": [
-        "llm",
-        "agentic-workflow",
-        "rag"
-      ],
-      "published_at": "2026-07-27T19:43:49Z"
-    },
-    {
-      "id": "gh-trending-alibaba-open-code-review",
-      "source": "github",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
       "score": 55,
-      "summary_oneline": "Alibaba製OSSコードレビューツール。LLMエージェント+決定論的パイプラインのハイブリッド構成",
+      "summary_oneline": "RAGパイプラインとエージェントワークフローをビジュアル構築できるオープンソースAIプラットフォーム。",
       "tags": [
-        "code-review",
-        "llm",
-        "open-source"
+        "ai-platform",
+        "rag",
+        "workflow"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 55,
-      "summary_oneline": "誰でも使えるAI自動化を目指すAutoGPTプロジェクト。ツール提供でユーザーの創造に集中",
-      "tags": [
-        "agent",
-        "ai",
-        "automation"
-      ],
-      "published_at": "2026-07-27T18:14:52Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 52,
-      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化ツール。400以上のインテグレーション",
-      "tags": [
-        "workflow-automation",
-        "ai",
-        "integration"
-      ],
-      "published_at": "2026-07-27T21:57:03Z"
+      "published_at": "2026-07-28T21:11:23Z"
     },
     {
       "id": "gh-topic-701547123",
@@ -162,25 +148,39 @@
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
       "score": 52,
-      "summary_oneline": "Ollama・OpenAI API等対応のユーザーフレンドリーなAIインターフェース",
+      "summary_oneline": "OllamaやOpenAI APIに対応したユーザーフレンドリーなローカルAIインターフェース。",
       "tags": [
-        "ai",
-        "ui",
+        "local-llm",
+        "ai-interface",
         "ollama"
       ],
-      "published_at": "2026-07-27T10:47:11Z"
+      "published_at": "2026-07-27T23:39:39Z"
     },
     {
-      "id": "gh-trending-pbakaus-impeccable",
+      "id": "gh-topic-614765452",
       "source": "github",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "score": 48,
-      "summary_oneline": "AIハーネスのデザイン品質向上を目的としたデザイン言語定義プロジェクト",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 52,
+      "summary_oneline": "一般公開向け自律AIエージェントプラットフォームAutoGPTのオープンソース実装。",
       "tags": [
-        "design",
-        "ai-harness",
-        "framework"
+        "ai-agent",
+        "autonomous",
+        "open-source"
+      ],
+      "published_at": "2026-07-28T16:14:04Z"
+    },
+    {
+      "id": "gh-trending-huggingface-speech-to-speech",
+      "source": "github",
+      "title": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "score": 52,
+      "summary_oneline": "HuggingFaceによるオープンソースモデルを使ったローカル音声エージェント構築フレームワーク。",
+      "tags": [
+        "voice-ai",
+        "open-source",
+        "local-llm"
       ],
       "published_at": null
     },
@@ -189,40 +189,54 @@
       "source": "github",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 46,
-      "summary_oneline": "コミュニティでプロンプトを共有・発見・収集できる旧AwesomeChatGPTPromptsのOSS版",
+      "score": 50,
+      "summary_oneline": "コミュニティでプロンプトを共有・発見できるオープンソースプラットフォーム。セルフホスト可能。",
       "tags": [
         "prompts",
-        "ai",
-        "community"
+        "community",
+        "open-source"
       ],
-      "published_at": "2026-07-27T04:19:55Z"
-    },
-    {
-      "id": "gh-trending-shiyu-coder-kronos",
-      "source": "github",
-      "title": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "score": 45,
-      "summary_oneline": "金融市場の言語に特化したファウンデーションモデルKronos",
-      "tags": [
-        "llm",
-        "finance",
-        "foundation-model"
-      ],
-      "published_at": null
+      "published_at": "2026-07-28T04:04:58Z"
     },
     {
       "id": "gh-trending-moeru-ai-airi",
       "source": "github",
       "title": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
-      "score": 38,
-      "summary_oneline": "セルフホスト型AIコンパニオン。リアルタイム音声会話・Minecraft/Factorioプレイに対応",
+      "score": 45,
+      "summary_oneline": "セルフホスト型AIコンパニオン。マインクラフトやFactorioのプレイ、リアルタイム音声チャット機能を持つ。",
       "tags": [
-        "ai-companion",
-        "voice",
-        "minecraft"
+        "ai",
+        "minecraft",
+        "voice-chat"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 45,
+      "summary_oneline": "セルフホスト可能なネイティブAI対応ワークフロー自動化プラットフォーム。400以上のインテグレーション対応。",
+      "tags": [
+        "workflow",
+        "automation",
+        "no-code"
+      ],
+      "published_at": "2026-07-28T22:03:36Z"
+    },
+    {
+      "id": "gh-trending-jenkinsci-jenkins",
+      "source": "github",
+      "title": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "score": 20,
+      "summary_oneline": "Javaベースのオープンソース継続的インテグレーション・デリバリーサーバー。",
+      "tags": [
+        "ci-cd",
+        "automation",
+        "java"
       ],
       "published_at": null
     },
@@ -231,8 +245,8 @@
       "source": "github",
       "title": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
-      "score": 25,
-      "summary_oneline": "モダンでおしゃれなターミナルファイルマネージャー",
+      "score": 20,
+      "summary_oneline": "Goで実装されたモダンなターミナルファイルマネージャー。",
       "tags": [
         "terminal",
         "file-manager",
@@ -241,44 +255,30 @@
       "published_at": null
     },
     {
+      "id": "gh-trending-pascalorg-editor",
+      "source": "github",
+      "title": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "score": 18,
+      "summary_oneline": "3D建築プロジェクトの作成と共有に特化したオープンソースエディタ。",
+      "tags": [
+        "3d",
+        "architecture",
+        "editor"
+      ],
+      "published_at": null
+    },
+    {
       "id": "gh-trending-opengeos-geolibre",
       "source": "github",
       "title": "opengeos/GeoLibre",
       "url": "https://github.com/opengeos/GeoLibre",
-      "score": 22,
-      "summary_oneline": "ブラウザ・デスクトップ・Jupyter対応の軽量クラウドネイティブGISプラットフォーム",
+      "score": 15,
+      "summary_oneline": "ブラウザ・デスクトップ・Jupyter対応の軽量クラウドネイティブGISプラットフォーム。",
       "tags": [
         "gis",
-        "cloud-native",
-        "jupyter"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-permissionlesstech-bitchat",
-      "source": "github",
-      "title": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "score": 18,
-      "summary_oneline": "BluetoothメッシュネットワークベースのIRCスタイルチャットアプリ",
-      "tags": [
-        "bluetooth",
-        "chat",
-        "mesh"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-ocornut-imgui",
-      "source": "github",
-      "title": "ocornut/imgui",
-      "url": "https://github.com/ocornut/imgui",
-      "score": 15,
-      "summary_oneline": "最小依存のC++向けブロートフリーGUIライブラリDear ImGui",
-      "tags": [
-        "c++",
-        "gui",
-        "library"
+        "geospatial",
+        "open-source"
       ],
       "published_at": null
     }
