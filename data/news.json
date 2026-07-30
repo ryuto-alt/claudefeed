@@ -1,14 +1,14 @@
 {
-  "date": "2026-07-30",
-  "generated_at": "2026-07-29T22:10:51.545Z",
+  "date": "2026-07-31",
+  "generated_at": "2026-07-30T22:10:10.976Z",
   "top": [
     {
       "id": "cc-release-359412713",
       "source": "anthropic",
       "title": "Claude Code v2.1.219",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.219",
-      "score": 95,
-      "summary_oneline": "Claude Opus 5をデフォルトOpusモデルとして追加、sandbox.network.strictAllowlist設定とDirectoryAddedフックも導入",
+      "score": 97,
+      "summary_oneline": "Opus 5をデフォルトOpusモデルに追加（1Mコンテキスト）、sandboxネットワーク制限設定とDirectoryAddedフックを新設",
       "tags": [
         "claude-code",
         "release",
@@ -17,18 +17,18 @@
       "published_at": "2026-07-24T17:14:23Z"
     },
     {
-      "id": "cc-release-355310036",
+      "id": "cc-release-355973317",
       "source": "anthropic",
-      "title": "Claude Code v2.1.212",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.212",
+      "title": "Claude Code v2.1.214",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
       "score": 92,
-      "summary_oneline": "/forkが独立したバックグラウンドセッションを作成する形に変更、WebSearch呼び出し回数の上限も追加",
+      "summary_oneline": "Windowsパーミッションバイパスとbashのfd-redirect許可回避を修正したセキュリティアップデート",
       "tags": [
         "claude-code",
-        "release",
-        "agent"
+        "security",
+        "release"
       ],
-      "published_at": "2026-07-17T00:26:27Z"
+      "published_at": "2026-07-18T01:20:30Z"
     },
     {
       "id": "cc-release-358276841",
@@ -36,7 +36,7 @@
       "title": "Claude Code v2.1.218",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.218",
       "score": 90,
-      "summary_oneline": "/code-reviewがバックグラウンドサブエージェントで実行されるよう変更、スクリーンリーダー対応も強化",
+      "summary_oneline": "/code-reviewがバックグラウンドサブエージェントとして動作するよう変更、スタックされたスラッシュコマンドも対象に",
       "tags": [
         "claude-code",
         "release",
@@ -45,30 +45,30 @@
       "published_at": "2026-07-22T21:24:56Z"
     },
     {
-      "id": "cc-release-355973317",
+      "id": "cc-release-355310036",
       "source": "anthropic",
-      "title": "Claude Code v2.1.214",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+      "title": "Claude Code v2.1.212",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.212",
       "score": 90,
-      "summary_oneline": "Windows PowerShell 5.1とbashリダイレクトでのパーミッションチェックバイパス脆弱性を修正",
+      "summary_oneline": "/forkがバックグラウンドセッションへコピーとして動作変更、/subtaskコマンド追加、WebSearch上限を設定",
       "tags": [
         "claude-code",
         "release",
-        "security"
+        "agents"
       ],
-      "published_at": "2026-07-18T01:20:30Z"
+      "published_at": "2026-07-17T00:26:27Z"
     },
     {
       "id": "cc-release-356972381",
       "source": "anthropic",
       "title": "Claude Code v2.1.216",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.216",
-      "score": 85,
-      "summary_oneline": "sandbox.filesystem.disabled設定追加、長期セッションでのメッセージ処理の二次コスト問題を修正",
+      "score": 88,
+      "summary_oneline": "長いセッションでのメッセージ正規化コスト二乗増大による速度低下を修正、sandbox.filesystem.disabledを追加",
       "tags": [
         "claude-code",
         "release",
-        "sandbox"
+        "performance"
       ],
       "published_at": "2026-07-20T22:14:00Z"
     },
@@ -78,49 +78,21 @@
       "title": "Claude Code v2.1.211",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
       "score": 85,
-      "summary_oneline": "--forward-subagent-textフラグ追加、チャット承認メッセージへの不正操作防止セキュリティ修正も含む",
+      "summary_oneline": "サブエージェントテキスト転送フラグを追加、許可プレビューでの双方向テキスト偽装によるセキュリティ問題を修正",
       "tags": [
         "claude-code",
-        "release",
-        "security"
+        "security",
+        "release"
       ],
       "published_at": "2026-07-15T23:02:35Z"
-    },
-    {
-      "id": "cc-release-354034085",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.210",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
-      "score": 84,
-      "summary_oneline": "長時間実行ツールの経過時間表示追加、Write(path)等の権限ルール廃止予告とworktreeのgit保護修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "worktree"
-      ],
-      "published_at": "2026-07-14T23:45:25Z"
-    },
-    {
-      "id": "cc-release-356226333",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.215",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
-      "score": 83,
-      "summary_oneline": "/verifyと/code-reviewスキルが自動実行されなくなり、明示的な呼び出しが必要になった",
-      "tags": [
-        "claude-code",
-        "release",
-        "skills"
-      ],
-      "published_at": "2026-07-19T02:56:01Z"
     },
     {
       "id": "cc-release-357601516",
       "source": "anthropic",
       "title": "Claude Code v2.1.217",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
-      "score": 82,
-      "summary_oneline": "プロンプト入力で:emoji:形式の絵文字ショートコード補完に対応、トランスクリプト保存失敗時の警告も追加",
+      "score": 84,
+      "summary_oneline": "絵文字ショートコード補完を追加（:heart:等）、トランスクリプト書き込み失敗時の警告を実装",
       "tags": [
         "claude-code",
         "release",
@@ -129,57 +101,100 @@
       "published_at": "2026-07-21T21:35:10Z"
     },
     {
+      "id": "cc-release-356226333",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.215",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+      "score": 83,
+      "summary_oneline": "/verifyと/code-reviewが自動実行されなくなり、明示的な呼び出しが必要になる動作変更",
+      "tags": [
+        "claude-code",
+        "release",
+        "skills"
+      ],
+      "published_at": "2026-07-19T02:56:01Z"
+    },
+    {
+      "id": "cc-release-354034085",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.210",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
+      "score": 83,
+      "summary_oneline": "ツール実行中のリアルタイムタイマー表示を追加、Write/NotebookEdit/Globのパーミッション警告を実装",
+      "tags": [
+        "claude-code",
+        "release",
+        "ux"
+      ],
+      "published_at": "2026-07-14T23:45:25Z"
+    },
+    {
+      "id": "gh-trending-chromedevtools-chrome-devtools-mcp",
+      "source": "github",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "score": 81,
+      "summary_oneline": "ChromeチームがコーディングエージェントのためのChrome DevTools MCPサーバーを公開",
+      "tags": [
+        "mcp",
+        "chrome-devtools",
+        "coding-agents"
+      ],
+      "published_at": null
+    },
+    {
       "id": "cc-release-359590812",
       "source": "anthropic",
       "title": "Claude Code v2.1.220",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
       "score": 80,
-      "summary_oneline": "バグ修正と信頼性向上を含む最新のマイナーリリース",
+      "summary_oneline": "バグ修正と安定性改善のマイナーアップデート",
       "tags": [
         "claude-code",
-        "release"
+        "release",
+        "bugfix"
       ],
       "published_at": "2026-07-25T01:35:55Z"
-    },
-    {
-      "id": "gh-trending-virgiliojr94-book-to-skill",
-      "source": "github",
-      "title": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
-      "score": 76,
-      "summary_oneline": "技術書PDFをClaude Codeスキルに変換し、作業中に参照・活用できるようにするツール",
-      "tags": [
-        "claude-code",
-        "skills",
-        "productivity"
-      ],
-      "published_at": null
     },
     {
       "id": "gh-trending-affaan-m-ecc",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・Cursor等に対応したエージェントハーネス最適化（スキル・メモリ・セキュリティ）",
+      "score": 71,
+      "summary_oneline": "Claude Code・Codex・Cursor向けのエージェントハーネス最適化システム（スキル・記憶・セキュリティ・リサーチ優先開発）",
       "tags": [
         "claude-code",
-        "agent",
+        "agent-sdk",
         "skills"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-different-ai-openwork",
+      "id": "gh-topic-1200597263",
       "source": "github",
-      "title": "different-ai/openwork",
-      "url": "https://github.com/different-ai/openwork",
-      "score": 70,
-      "summary_oneline": "opencode基盤のClaude Coworkオープンソース代替品",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "score": 67,
+      "summary_oneline": "コードベース・ドキュメント・SQLスキーマをクエリ可能な知識グラフ化するClaude Code向け/graphifyスキル",
       "tags": [
-        "claude-cowork",
-        "open-source",
-        "agent"
+        "claude-code",
+        "skills",
+        "knowledge-graph"
+      ],
+      "published_at": "2026-07-30T18:15:48Z"
+    },
+    {
+      "id": "gh-trending-mvanhorn-last30days-skill",
+      "source": "github",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 65,
+      "summary_oneline": "Reddit・HN・X・YouTube等を横断調査して30日間のトピックサマリーを生成するAIエージェントスキル",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "research"
       ],
       "published_at": null
     },
@@ -188,98 +203,28 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・OpenCode等を一元管理するクロスプラットフォームデスクトップAll-in-Oneアシスタント",
+      "score": 61,
+      "summary_oneline": "Claude Code・Codex・OpenCode・Grok Build等に対応するクロスプラットフォームAll-in-Oneデスクトップアシスタント",
       "tags": [
         "claude-code",
-        "desktop",
-        "tool"
+        "tools",
+        "desktop-app"
       ],
-      "published_at": "2026-07-29T16:08:04Z"
+      "published_at": "2026-07-30T18:40:16Z"
     },
     {
-      "id": "gh-topic-1200597263",
+      "id": "gh-trending-different-ai-openwork",
       "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 70,
-      "summary_oneline": "コードベースをAST解析ベースのクエリ可能な知識グラフに変換するClaude Codeスキル",
+      "title": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "score": 60,
+      "summary_oneline": "Claude Coworkのオープンソース代替ツール、opencodeを採用したワークスペースアプリ",
       "tags": [
         "claude-code",
-        "skills",
-        "knowledge-graph"
-      ],
-      "published_at": "2026-07-29T16:34:47Z"
-    },
-    {
-      "id": "gh-trending-obra-superpowers",
-      "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 68,
-      "summary_oneline": "動作実績のあるアジェンティックスキルフレームワーク＆ソフトウェア開発手法",
-      "tags": [
-        "agent",
-        "skills",
-        "framework"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 65,
-      "summary_oneline": "複数プラットフォームでプロフェッショナルなUI/UXを構築するためのAIスキル",
-      "tags": [
-        "claude-code",
-        "skills",
-        "ui-ux"
-      ],
-      "published_at": "2026-07-28T05:00:36Z"
-    },
-    {
-      "id": "gh-trending-alibaba-open-code-review",
-      "source": "github",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "score": 57,
-      "summary_oneline": "アリババが公開したLLMエージェントベースのコードレビューツール、Anthropic API互換のハイブリッド構成",
-      "tags": [
-        "code-review",
-        "llm",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 55,
-      "summary_oneline": "成長するエージェント「Hermes Agent」、スター数22万超を誇るAIエージェントプロジェクト",
-      "tags": [
-        "agent",
         "open-source",
-        "llm"
+        "cowork"
       ],
-      "published_at": "2026-07-29T22:05:36Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 55,
-      "summary_oneline": "RAGパイプラインとアジェンティックワークフローを構築できるAIプラットフォーム、クラウド・セルフホスト対応",
-      "tags": [
-        "agent",
-        "rag",
-        "llm-platform"
-      ],
-      "published_at": "2026-07-29T17:57:29Z"
+      "published_at": null
     }
   ],
   "extras": []
