@@ -1,70 +1,167 @@
 {
-  "date": "2026-08-02",
-  "generated_at": "2026-08-01T22:10:08.239Z",
+  "date": "2026-08-03",
+  "generated_at": "2026-08-02T22:12:02.794Z",
   "top": [
     {
-      "id": "gh-topic-1200597263",
-      "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 85,
-      "summary_oneline": "コードや設定をナレッジグラフ化するClaude Code向け/graphifyスキル。ローカルAST解析でベクターストア不要。",
+      "id": "cc-release-359412713",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.219",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.219",
+      "score": 95,
+      "summary_oneline": "Claude Opus 5を標準Opusモデルに追加、DirectoryAddedフックとネットワーク制限allowlistも搭載",
       "tags": [
         "claude-code",
-        "skills",
-        "knowledge-graph"
+        "release",
+        "claude-opus-5"
       ],
-      "published_at": "2026-08-01T14:44:12Z"
+      "published_at": "2026-07-24T17:14:23Z"
     },
     {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 82,
-      "summary_oneline": "Claude Code/Codex/OpenCode等に対応するクロスプラットフォームのAll-in-Oneデスクトップアシスタント。",
+      "id": "cc-release-355310036",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.212",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.212",
+      "score": 92,
+      "summary_oneline": "/forkがバックグラウンドセッションにコピー、auto-mode resetとWebSearch上限を追加",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "multi-agent"
+        "release",
+        "agent-sdk"
       ],
-      "published_at": "2026-08-01T18:26:06Z"
+      "published_at": "2026-07-17T00:26:27Z"
+    },
+    {
+      "id": "cc-release-358276841",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.218",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.218",
+      "score": 90,
+      "summary_oneline": "/code-reviewがバックグラウンドサブエージェントで実行されるよう変更",
+      "tags": [
+        "claude-code",
+        "release",
+        "subagent"
+      ],
+      "published_at": "2026-07-22T21:24:56Z"
+    },
+    {
+      "id": "cc-release-355973317",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.214",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
+      "score": 90,
+      "summary_oneline": "パーミッションチェックのバイパスバグ2件を修正、WindowsとBashの脆弱性に対応",
+      "tags": [
+        "claude-code",
+        "release",
+        "security"
+      ],
+      "published_at": "2026-07-18T01:20:30Z"
+    },
+    {
+      "id": "cc-release-356972381",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.216",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.216",
+      "score": 88,
+      "summary_oneline": "ファイルシステム隔離を無効化する設定を追加、長時間セッションの処理遅延を修正",
+      "tags": [
+        "claude-code",
+        "release",
+        "sandbox"
+      ],
+      "published_at": "2026-07-20T22:14:00Z"
+    },
+    {
+      "id": "cc-release-354658856",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.211",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.211",
+      "score": 87,
+      "summary_oneline": "サブエージェントテキスト転送フラグを追加、双方向オーバーライド文字による承認偽装を修正",
+      "tags": [
+        "claude-code",
+        "release",
+        "security"
+      ],
+      "published_at": "2026-07-15T23:02:35Z"
+    },
+    {
+      "id": "cc-release-357601516",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.217",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
+      "score": 85,
+      "summary_oneline": "絵文字ショートコード補完を追加、トランスクリプト書き込み失敗時の警告を実装",
+      "tags": [
+        "claude-code",
+        "release",
+        "ux"
+      ],
+      "published_at": "2026-07-21T21:35:10Z"
+    },
+    {
+      "id": "cc-release-354034085",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.210",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.210",
+      "score": 85,
+      "summary_oneline": "ツール実行の経過タイム表示を追加、worktreeサブエージェントのgit操作を制限",
+      "tags": [
+        "claude-code",
+        "release",
+        "worktree"
+      ],
+      "published_at": "2026-07-14T23:45:25Z"
+    },
+    {
+      "id": "cc-release-356226333",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.215",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
+      "score": 83,
+      "summary_oneline": "/verifyと/code-reviewが自律実行されなくなり、明示的な呼び出しのみに変更",
+      "tags": [
+        "claude-code",
+        "release",
+        "skills"
+      ],
+      "published_at": "2026-07-19T02:56:01Z"
+    },
+    {
+      "id": "cc-release-359590812",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.220",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
+      "score": 80,
+      "summary_oneline": "バグ修正と信頼性改善のみのマイナーアップデート",
+      "tags": [
+        "claude-code",
+        "release"
+      ],
+      "published_at": "2026-07-25T01:35:55Z"
     },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス最適化システム。スキル・本能・メモリ・セキュリティを統合。",
+      "score": 75,
+      "summary_oneline": "Claude Codeなど向けのエージェントハーネス最適化システム、スキル・メモリ・セキュリティ機能を統合",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": "2026-07-29T18:11:01Z"
-    },
-    {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 74,
-      "summary_oneline": "複数プラットフォームのUI/UX設計インテリジェンスをAIスキルとして提供するリポジトリ。",
-      "tags": [
         "skills",
-        "ui-ux",
-        "claude-code"
+        "agent-sdk"
       ],
-      "published_at": "2026-08-01T01:29:53Z"
+      "published_at": "2026-08-02T19:17:27Z"
     },
     {
       "id": "gh-trending-zhaoxuya520-reverse-skill",
       "source": "github",
       "title": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "score": 72,
-      "summary_oneline": "Claude Code/Cursor/Kiro向けの逆向・ペネトレーションテスト・セキュリティ研究スキルルーターパック。",
+      "score": 73,
+      "summary_oneline": "Claude Codeなど対応のリバースエンジニアリング・ペネトレーションテスト向けスキルルーターパック",
       "tags": [
         "claude-code",
         "skills",
@@ -73,18 +170,88 @@
       "published_at": null
     },
     {
+      "id": "gh-trending-mvanhorn-last30days-skill",
+      "source": "github",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 72,
+      "summary_oneline": "Reddit・X・HN・YouTubeなど複数ソースをリサーチし要約するAIエージェントスキル",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "research"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 72,
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数AIコーディングツールに対応したデスクトップオールインワンツール",
+      "tags": [
+        "claude-code",
+        "desktop",
+        "tools"
+      ],
+      "published_at": "2026-08-02T14:02:06Z"
+    },
+    {
+      "id": "gh-topic-1200597263",
+      "source": "github",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "score": 72,
+      "summary_oneline": "コードベース・ドキュメント・SQLスキーマをクエリ可能なグラフに変換するClaude Codeスキル",
+      "tags": [
+        "claude-code",
+        "skills",
+        "knowledge-graph"
+      ],
+      "published_at": "2026-08-01T14:44:12Z"
+    },
+    {
       "id": "gh-trending-nomadamas-k-skill",
       "source": "github",
       "title": "NomaDamas/k-skill",
       "url": "https://github.com/NomaDamas/k-skill",
       "score": 70,
-      "summary_oneline": "韓国人向けのAIエージェントスキル集。エージェントを韓国語ネイティブに対応させる。",
+      "summary_oneline": "韓国語利用者向けにAIエージェントを最適化するスキルコレクション",
       "tags": [
+        "claude-code",
         "skills",
-        "agent-sdk",
         "localization"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-trending-different-ai-openwork",
+      "source": "github",
+      "title": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "score": 68,
+      "summary_oneline": "opencodeベースで構築されたClaude Coworkのオープンソース代替プロジェクト",
+      "tags": [
+        "claude-code",
+        "cowork",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 65,
+      "summary_oneline": "複数プラットフォーム向けにプロ品質のUI/UXデザイン支援を行うAIスキル",
+      "tags": [
+        "skills",
+        "ui-ux",
+        "claude-code"
+      ],
+      "published_at": "2026-08-01T01:29:53Z"
     },
     {
       "id": "gh-trending-tencentcloud-tencentdb-agent-memory",
@@ -92,39 +259,11 @@
       "title": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "score": 62,
-      "summary_oneline": "AIエージェント向けチームレベルメモリハブ。会話・ドキュメント・コードを4種のメモリ資産として共有管理。",
+      "summary_oneline": "AIエージェント向けチームレベルメモリハブ、会話・ドキュメント・コードを4種のメモリに変換",
       "tags": [
         "agent-sdk",
         "memory",
         "mcp"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-bytedance-deer-flow",
-      "source": "github",
-      "title": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "score": 58,
-      "summary_oneline": "ByteDance製のオープンソース長時間スーパーエージェントハーネス。スキル・サブエージェント・サンドボックスを統合。",
-      "tags": [
-        "agent-sdk",
-        "open-source",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-github-copilot-sdk",
-      "source": "github",
-      "title": "github/copilot-sdk",
-      "url": "https://github.com/github/copilot-sdk",
-      "score": 55,
-      "summary_oneline": "GitHub Copilotエージェントをアプリやサービスへ統合するためのマルチプラットフォームSDK。",
-      "tags": [
-        "agent-sdk",
-        "github-copilot",
-        "open-source"
       ],
       "published_at": null
     },
@@ -134,153 +273,13 @@
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "score": 55,
-      "summary_oneline": "NousResearch製オープンソースエージェントフレームワーク。成長するエージェントとして設計。",
+      "summary_oneline": "成長する汎用AIエージェントフレームワーク",
       "tags": [
         "agent-sdk",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-08-01T21:59:25Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 52,
-      "summary_oneline": "エージェントワークフロー・RAGパイプラインをセルフホスト可能なコラボワークスペースで構築できるAIプラットフォーム。",
-      "tags": [
-        "agent-sdk",
-        "rag",
-        "open-source"
-      ],
-      "published_at": "2026-08-01T20:15:43Z"
-    },
-    {
-      "id": "gh-trending-huggingface-speech-to-speech",
-      "source": "github",
-      "title": "huggingface/speech-to-speech",
-      "url": "https://github.com/huggingface/speech-to-speech",
-      "score": 50,
-      "summary_oneline": "HuggingFace製のオープンソースモデルを使ったローカル音声エージェント構築フレームワーク。",
-      "tags": [
-        "open-source",
-        "voice-ai",
-        "local-llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 48,
-      "summary_oneline": "Ollama・OpenAI APIなど対応のセルフホスト型AI Webインターフェース。ユーザーフレンドリーな設計。",
-      "tags": [
-        "open-source",
-        "local-llm",
-        "llm"
-      ],
-      "published_at": "2026-08-01T07:57:17Z"
-    },
-    {
-      "id": "gh-trending-microsoft-generative-ai-for-beginners",
-      "source": "github",
-      "title": "microsoft/generative-ai-for-beginners",
-      "url": "https://github.com/microsoft/generative-ai-for-beginners",
-      "score": 45,
-      "summary_oneline": "Microsoftによる21レッスン構成の生成AI入門カリキュラム。実際に構築しながら学べる。",
-      "tags": [
         "llm",
-        "tutorial",
         "open-source"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-microsoft-trellis-2",
-      "source": "github",
-      "title": "microsoft/TRELLIS.2",
-      "url": "https://github.com/microsoft/TRELLIS.2",
-      "score": 45,
-      "summary_oneline": "Microsoft製の3D生成AIモデル。ネイティブかつコンパクトな構造化潜在表現を活用。",
-      "tags": [
-        "llm",
-        "3d-generation",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 44,
-      "summary_oneline": "誰もが使えるアクセシブルなAIを目指すAutoGPT。ツール提供に特化したオープンソースエージェントフレームワーク。",
-      "tags": [
-        "agent-sdk",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-08-01T16:26:01Z"
-    },
-    {
-      "id": "gh-trending-microsoft-ai-for-beginners",
-      "source": "github",
-      "title": "microsoft/AI-For-Beginners",
-      "url": "https://github.com/microsoft/AI-For-Beginners",
-      "score": 42,
-      "summary_oneline": "Microsoftによる12週間・24レッスン構成のAI入門カリキュラム。初学者向けの網羅的な教材。",
-      "tags": [
-        "llm",
-        "tutorial",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 42,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム。400以上のインテグレーション対応。",
-      "tags": [
-        "open-source",
-        "automation",
-        "llm"
-      ],
-      "published_at": "2026-08-01T18:45:02Z"
-    },
-    {
-      "id": "gh-trending-abus-aikorea-voice-pro",
-      "source": "github",
-      "title": "abus-aikorea/voice-pro",
-      "url": "https://github.com/abus-aikorea/voice-pro",
-      "score": 40,
-      "summary_oneline": "TTS・ゼロショット音声クローン・Whisperオーディオ処理を統合したGradio WebUIクリエイター向けツール。",
-      "tags": [
-        "open-source",
-        "voice-ai",
-        "tts"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 40,
-      "summary_oneline": "Awesome ChatGPT Prompts後継のプロンプト共有プラットフォーム。オープンソースでセルフホスト可能。",
-      "tags": [
-        "open-source",
-        "prompts",
-        "llm"
-      ],
-      "published_at": "2026-08-01T04:10:51Z"
+      "published_at": "2026-08-02T22:08:47Z"
     }
   ],
   "extras": []
