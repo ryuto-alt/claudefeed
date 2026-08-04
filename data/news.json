@@ -1,14 +1,14 @@
 {
-  "date": "2026-08-04",
-  "generated_at": "2026-08-03T22:10:45.920Z",
+  "date": "2026-08-05",
+  "generated_at": "2026-08-04T22:12:17.059Z",
   "top": [
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 85,
-      "summary_oneline": "コードベースやドキュメントをナレッジグラフ化するClaude Code対応の/graphifyスキル",
+      "score": 78,
+      "summary_oneline": "コードベース・ドキュメント・スキーマをクエリ可能な知識グラフに変換するClaude Codeスキル",
       "tags": [
         "claude-code",
         "skills",
@@ -17,40 +17,54 @@
       "published_at": "2026-08-01T14:44:12Z"
     },
     {
+      "id": "gh-trending-everyinc-compound-engineering-plugin",
+      "source": "github",
+      "title": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "score": 72,
+      "summary_oneline": "Claude Code・Codex・Cursor向けの公式Compound Engineeringプラグイン",
+      "tags": [
+        "claude-code",
+        "plugin",
+        "codex"
+      ],
+      "published_at": null
+    },
+    {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "スキル・記憶・セキュリティを統合したClaude Code向けエージェントハーネス最適化システム",
+      "score": 70,
+      "summary_oneline": "Claude Code・Codex・Cursor等に対応したエージェントハーネスのパフォーマンス最適化システム",
       "tags": [
         "claude-code",
         "agent-sdk",
-        "skills"
+        "performance"
       ],
-      "published_at": "2026-08-03T04:55:19Z"
+      "published_at": "2026-08-04T21:14:37Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数AIコーディングクライアントに対応するデスクトップ統合アシスタント",
+      "score": 68,
+      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームのAIコーディング統合デスクトップツール",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "ai-tooling"
+        "desktop",
+        "all-in-one"
       ],
-      "published_at": "2026-08-03T15:49:27Z"
+      "published_at": "2026-08-04T15:36:24Z"
     },
     {
       "id": "gh-trending-zhaoxuya520-reverse-skill",
       "source": "github",
       "title": "zhaoxuya520/reverse-skill",
       "url": "https://github.com/zhaoxuya520/reverse-skill",
-      "score": 72,
-      "summary_oneline": "リバースエンジニアリング・侵入テスト向けAIスキルルーターパック（Claude Code / Cursorなど対応）",
+      "score": 68,
+      "summary_oneline": "Claude Code・Cursor等に対応したリバースエンジニアリング・ペネトレーションテスト用スキルルーターパック",
       "tags": [
         "claude-code",
         "skills",
@@ -59,44 +73,44 @@
       "published_at": null
     },
     {
-      "id": "gh-topic-1106996539",
+      "id": "gh-trending-obra-superpowers",
       "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 72,
-      "summary_oneline": "マルチプラットフォーム向けUI/UXデザインインテリジェンスを提供するAIスキル",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 65,
+      "summary_oneline": "エージェント型スキルフレームワークとソフトウェア開発方法論を組み合わせた実用的なツール",
       "tags": [
         "skills",
-        "ui-ux",
-        "ai-tooling"
-      ],
-      "published_at": "2026-08-03T12:31:24Z"
-    },
-    {
-      "id": "gh-trending-alishahryar1-free-claude-code",
-      "source": "github",
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "score": 62,
-      "summary_oneline": "ターミナル・IDE・スマートフォンからClaude Codeを無料で利用するためのオープンソースツール",
-      "tags": [
-        "claude-code",
-        "open-source",
-        "ai-tooling"
+        "agentic",
+        "methodology"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-livekit-agents",
+      "id": "gh-topic-1106996539",
       "source": "github",
-      "title": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "score": 60,
-      "summary_oneline": "リアルタイム音声AIエージェントを構築するためのオープンソースフレームワーク",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 62,
+      "summary_oneline": "マルチプラットフォームのプロフェッショナルUI/UXを設計するAIスキルパック",
       "tags": [
-        "agent-sdk",
-        "voice-ai",
-        "open-source"
+        "skills",
+        "ui-ux",
+        "design"
+      ],
+      "published_at": "2026-08-03T12:31:24Z"
+    },
+    {
+      "id": "gh-trending-uber-adr",
+      "source": "github",
+      "title": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "score": 50,
+      "summary_oneline": "Uberが導入したAIエージェントの監視・セキュリティベンチマーク・脅威検出フレームワーク",
+      "tags": [
+        "agent-security",
+        "observability",
+        "enterprise"
       ],
       "published_at": null
     },
@@ -105,68 +119,109 @@
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 58,
-      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるオープンソースAIプラットフォーム",
+      "score": 48,
+      "summary_oneline": "クラウド・セルフホスト対応のエージェントワークフロー・RAGパイプライン構築プラットフォーム",
       "tags": [
         "agent-sdk",
         "rag",
-        "ai-platform"
+        "workflow"
       ],
-      "published_at": "2026-08-03T21:43:24Z"
+      "published_at": "2026-08-04T21:56:56Z"
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 45,
+      "summary_oneline": "ユーザーと共に成長することを目指したNousResearchのエージェントフレームワーク",
+      "tags": [
+        "agent-sdk",
+        "open-source"
+      ],
+      "published_at": "2026-08-04T21:51:47Z"
+    },
+    {
+      "id": "gh-trending-livekit-agents",
+      "source": "github",
+      "title": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "score": 45,
+      "summary_oneline": "リアルタイム音声AIエージェントを構築するためのPythonフレームワーク",
+      "tags": [
+        "agent-sdk",
+        "voice-ai",
+        "realtime"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-tencentcloud-tencentdb-agent-memory",
       "source": "github",
       "title": "TencentCloud/TencentDB-Agent-Memory",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "score": 58,
-      "summary_oneline": "AIエージェント向けにチャット・スキル・コードグラフを再利用可能な記憶資産として管理するハブ",
+      "score": 45,
+      "summary_oneline": "AIエージェント間でチャット・ドキュメント・コードを4種の再利用可能メモリとして管理するチームレベルメモリハブ",
       "tags": [
         "agent-sdk",
         "memory",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-panniantong-agent-reach",
-      "source": "github",
-      "title": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "score": 55,
-      "summary_oneline": "Twitter・Reddit・YouTube等をAPIなしで検索できるAIエージェント向けCLIツール",
-      "tags": [
-        "agent-sdk",
-        "web-search",
         "open-source"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-193215554",
+      "id": "gh-trending-microsoft-generative-ai-for-beginners",
       "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 55,
-      "summary_oneline": "400以上のインテグレーションとネイティブAI機能を持つノーコード対応ワークフロー自動化プラットフォーム",
+      "title": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "score": 42,
+      "summary_oneline": "生成AIの基礎を学ぶ21レッスン構成のMicrosoftオープンソース入門コース",
       "tags": [
-        "automation",
-        "ai-tooling",
-        "open-source"
+        "generative-ai",
+        "education",
+        "microsoft"
       ],
-      "published_at": "2026-08-03T21:58:42Z"
+      "published_at": null
     },
     {
-      "id": "gh-trending-antirez-ds4",
+      "id": "gh-trending-lyogavin-airllm",
       "source": "github",
-      "title": "antirez/ds4",
-      "url": "https://github.com/antirez/ds4",
-      "score": 52,
-      "summary_oneline": "DeepSeek 4のMetal・CUDA・ROCm対応ローカル推論エンジン",
+      "title": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "score": 42,
+      "summary_oneline": "4GB単一GPUで70Bパラメータモデルを推論できる省メモリLLMフレームワーク",
       "tags": [
         "llm",
-        "local-inference",
-        "deepseek"
+        "inference",
+        "gpu"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-browser-use-video-use",
+      "source": "github",
+      "title": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "score": 42,
+      "summary_oneline": "AIコーディングエージェントを使って動画を編集するオープンソースツール",
+      "tags": [
+        "video-editing",
+        "coding-agent",
+        "automation"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-esengine-deepseek-reasonix",
+      "source": "github",
+      "title": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "score": 42,
+      "summary_oneline": "プレフィックスキャッシュ安定性を重視したDeepSeek採用のターミナル用AIコーディングエージェント",
+      "tags": [
+        "coding-agent",
+        "deepseek",
+        "terminal"
       ],
       "published_at": null
     },
@@ -175,112 +230,56 @@
       "source": "github",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 52,
-      "summary_oneline": "Ollama・OpenAI APIなど多様なバックエンドに対応するユーザーフレンドリーなAIインターフェース",
+      "score": 42,
+      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなセルフホストAIインターフェース",
       "tags": [
         "llm",
-        "open-source",
-        "ai-interface"
+        "ui",
+        "self-hosted"
       ],
-      "published_at": "2026-08-02T20:39:10Z"
-    },
-    {
-      "id": "gh-trending-lyogavin-airllm",
-      "source": "github",
-      "title": "lyogavin/airllm",
-      "url": "https://github.com/lyogavin/airllm",
-      "score": 50,
-      "summary_oneline": "4GBのGPUで70BクラスのLLMを推論できるAirLLMフレームワーク",
-      "tags": [
-        "llm",
-        "local-inference",
-        "gpu"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 50,
-      "summary_oneline": "使い込むほど成長するNousResearch製AIエージェントフレームワーク",
-      "tags": [
-        "agent-sdk",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-08-03T22:04:46Z"
-    },
-    {
-      "id": "gh-trending-esengine-deepseek-reasonix",
-      "source": "github",
-      "title": "esengine/DeepSeek-Reasonix",
-      "url": "https://github.com/esengine/DeepSeek-Reasonix",
-      "score": 48,
-      "summary_oneline": "DeepSeekネイティブのターミナル向けAIコーディングエージェント（プレフィックスキャッシュ安定性重視）",
-      "tags": [
-        "ai-coding",
-        "deepseek",
-        "terminal"
-      ],
-      "published_at": null
+      "published_at": "2026-08-04T21:55:25Z"
     },
     {
       "id": "gh-topic-614765452",
       "source": "github",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 45,
-      "summary_oneline": "誰でもAIを利用・構築できることを目指すAutoGPTオープンソースプラットフォーム",
+      "score": 38,
+      "summary_oneline": "誰でも使える・構築できることを目指したオープンソースの自律型AIエージェントプラットフォーム",
       "tags": [
-        "agent-sdk",
+        "agent",
         "open-source",
-        "ai-platform"
+        "autogpt"
       ],
-      "published_at": "2026-08-03T18:16:05Z"
-    },
-    {
-      "id": "gh-trending-firecrawl-pdf-inspector",
-      "source": "github",
-      "title": "firecrawl/pdf-inspector",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "score": 42,
-      "summary_oneline": "スキャン済みPDFと通常PDFを自動判別してテキスト抽出するRust製高速ライブラリ",
-      "tags": [
-        "open-source",
-        "rust",
-        "pdf"
-      ],
-      "published_at": null
+      "published_at": "2026-08-04T20:35:05Z"
     },
     {
       "id": "gh-topic-574523116",
       "source": "github",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 42,
-      "summary_oneline": "コミュニティ向けプロンプト共有・発見プラットフォーム（旧Awesome ChatGPT Prompts）",
+      "score": 35,
+      "summary_oneline": "コミュニティがAIプロンプトを共有・発見・収集できるオープンソースプラットフォーム",
       "tags": [
         "prompts",
-        "llm",
-        "open-source"
+        "open-source",
+        "community"
       ],
-      "published_at": "2026-08-03T04:16:11Z"
+      "published_at": "2026-08-04T04:05:23Z"
     },
     {
-      "id": "gh-trending-jamiepine-voicebox",
+      "id": "gh-topic-193215554",
       "source": "github",
-      "title": "jamiepine/voicebox",
-      "url": "https://github.com/jamiepine/voicebox",
-      "score": 38,
-      "summary_oneline": "音声クローン・ディクテーション・生成を備えたオープンソースAI音声スタジオ",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 35,
+      "summary_oneline": "ネイティブAI機能搭載・400以上のインテグレーション対応のフェアコードワークフロー自動化プラットフォーム",
       "tags": [
-        "voice-ai",
-        "open-source",
-        "ai-tooling"
+        "workflow-automation",
+        "ai",
+        "self-hosted"
       ],
-      "published_at": null
+      "published_at": "2026-08-04T22:05:25Z"
     }
   ],
   "extras": []
