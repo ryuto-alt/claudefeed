@@ -1,172 +1,60 @@
 {
-  "date": "2026-08-06",
-  "generated_at": "2026-08-05T22:12:20.417Z",
+  "date": "2026-08-07",
+  "generated_at": "2026-08-06T22:10:45.719Z",
   "top": [
-    {
-      "id": "cc-release-365137491",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.222",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.222",
-      "score": 95,
-      "summary_oneline": "worktree分離セッションの破壊的gitコマンド実行を禁止、PreToolUseフックのバイパス問題と/usage-credits表示を修正",
-      "tags": [
-        "claude-code",
-        "security",
-        "worktree"
-      ],
-      "published_at": "2026-08-04T22:39:55Z"
-    },
-    {
-      "id": "cc-release-359412713",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.219",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.219",
-      "score": 95,
-      "summary_oneline": "Claude Opus 5をデフォルトOpusモデルに追加（1Mコンテキスト）、ネットワーク厳格許可リスト設定とDirectoryAddedフックを追加",
-      "tags": [
-        "claude-code",
-        "claude-opus-5",
-        "hooks"
-      ],
-      "published_at": "2026-07-24T17:14:23Z"
-    },
-    {
-      "id": "cc-release-364520051",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.221",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.221",
-      "score": 92,
-      "summary_oneline": "VSCodeにFocus viewを追加しツール活動を折りたたみ表示（Ctrl+Alt+F）、LinuxのサンドボックスにmaskモードCレッド追加",
-      "tags": [
-        "claude-code",
-        "vscode",
-        "sandbox"
-      ],
-      "published_at": "2026-08-04T00:14:23Z"
-    },
-    {
-      "id": "cc-release-355310036",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.212",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.212",
-      "score": 89,
-      "summary_oneline": "/forkが会話を新しいバックグラウンドセッションにコピーする動作に変更、auto-mode resetとWebSearch上限設定を追加",
-      "tags": [
-        "claude-code",
-        "background-agent",
-        "auto-mode"
-      ],
-      "published_at": "2026-07-17T00:26:27Z"
-    },
-    {
-      "id": "cc-release-358276841",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.218",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.218",
-      "score": 88,
-      "summary_oneline": "/code-reviewがバックグラウンドサブエージェントとして実行されるように変更、スクリーンリーダー対応も強化",
-      "tags": [
-        "claude-code",
-        "code-review",
-        "background-agent"
-      ],
-      "published_at": "2026-07-22T21:24:56Z"
-    },
-    {
-      "id": "cc-release-355973317",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.214",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.214",
-      "score": 86,
-      "summary_oneline": "Edit許可ルールのパス解釈バグとWindows PowerShell 5.1のパーミッションチェックバイパスを修正",
-      "tags": [
-        "claude-code",
-        "security",
-        "permissions"
-      ],
-      "published_at": "2026-07-18T01:20:30Z"
-    },
-    {
-      "id": "cc-release-356972381",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.216",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.216",
-      "score": 85,
-      "summary_oneline": "ファイルシステム分離を無効化するsandbox設定を追加、長いセッションでのメッセージ正規化コスト二次増加問題を修正",
-      "tags": [
-        "claude-code",
-        "sandbox",
-        "performance"
-      ],
-      "published_at": "2026-07-20T22:14:00Z"
-    },
-    {
-      "id": "cc-release-357601516",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.217",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.217",
-      "score": 83,
-      "summary_oneline": "絵文字ショートコード補完機能を追加、トランスクリプト書き込み失敗時の警告表示とメモリリークを修正",
-      "tags": [
-        "claude-code",
-        "ux",
-        "emoji"
-      ],
-      "published_at": "2026-07-21T21:35:10Z"
-    },
-    {
-      "id": "cc-release-356226333",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.215",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.215",
-      "score": 82,
-      "summary_oneline": "/verifyと/code-reviewスキルの自動実行を廃止、明示的な呼び出しが必要になる動作変更",
-      "tags": [
-        "claude-code",
-        "skills",
-        "behavior-change"
-      ],
-      "published_at": "2026-07-19T02:56:01Z"
-    },
-    {
-      "id": "gh-topic-1200597263",
-      "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 82,
-      "summary_oneline": "コードベースをナレッジグラフ化するClaude Codeスキル、ローカルAST解析でベクターストア不要",
-      "tags": [
-        "claude-code",
-        "skills",
-        "knowledge-graph"
-      ],
-      "published_at": "2026-08-05T21:12:15Z"
-    },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "score": 80,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス性能最適化、スキル・記憶・セキュリティ機能を提供",
+      "summary_oneline": "Claude Code/Codex/OpenCode/Cursor向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティを統合。",
       "tags": [
         "claude-code",
-        "agent-harness",
+        "agent-sdk",
         "skills"
       ],
-      "published_at": "2026-08-05T20:58:23Z"
+      "published_at": "2026-08-06T21:42:23Z"
+    },
+    {
+      "id": "gh-topic-1200597263",
+      "source": "github",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "score": 80,
+      "summary_oneline": "Claude Code向け/graphifyスキル。コードベースをAST解析で知識グラフ化し、ベクトルDB不要でクエリ可能に。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "knowledge-graph"
+      ],
+      "published_at": "2026-08-06T16:45:55Z"
     },
     {
       "id": "gh-trending-huangruiteng-loopx",
       "source": "github",
       "title": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
-      "score": 76,
-      "summary_oneline": "Claude CodeやCodex対応の長期稼働AIエージェント向け軽量ループカーネル、クォータ管理と目標継続機能を実装",
+      "score": 78,
+      "summary_oneline": "Claude Code含む複数AIコーディングエージェント対応の長期実行ステートカーネル。目標管理・クォータ監視機能付き。",
       "tags": [
         "claude-code",
-        "agent",
-        "loop-engineering"
+        "agent-loop",
+        "coding-agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 73,
+      "summary_oneline": "TypeScript著名開発者Matt Pocock作。実エンジニア向けのAIエージェントスキル集を公開。",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "engineering"
       ],
       "published_at": null
     },
@@ -175,55 +63,28 @@
       "source": "github",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "score": 75,
-      "summary_oneline": "AIコーディングエージェント向けプロダクショングレードのエンジニアリングスキルコレクション",
+      "score": 72,
+      "summary_oneline": "Addy Osmaniによる本番レベルのAIコーディングエージェント向けエンジニアリングスキルコレクション。",
       "tags": [
-        "agent-skills",
-        "claude-code",
+        "skills",
+        "agent-sdk",
         "coding-agent"
       ],
       "published_at": null
     },
     {
-      "id": "cc-release-359590812",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.220",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.220",
+      "id": "gh-trending-tirth8205-code-review-graph",
+      "source": "github",
+      "title": "tirth8205/code-review-graph",
+      "url": "https://github.com/tirth8205/code-review-graph",
       "score": 72,
-      "summary_oneline": "バグ修正と信頼性改善のみのマイナーアップデート",
+      "summary_oneline": "MCPとCLI向けのローカルファーストコードインテリジェンスグラフ。AIツールのコンテキスト削減に効果的。",
       "tags": [
-        "claude-code",
-        "bugfix"
+        "mcp",
+        "code-review",
+        "knowledge-graph"
       ],
-      "published_at": "2026-07-25T01:35:55Z"
-    },
-    {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 70,
-      "summary_oneline": "マルチプラットフォーム対応のUI/UXデザイン支援AIスキル",
-      "tags": [
-        "skills",
-        "ui-ux",
-        "claude-code"
-      ],
-      "published_at": "2026-08-03T12:31:24Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 68,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数エージェントを管理するクロスプラットフォームデスクトップアシスタント",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-08-05T16:30:39Z"
+      "published_at": null
     },
     {
       "id": "gh-trending-obra-superpowers",
@@ -231,41 +92,27 @@
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
       "score": 65,
-      "summary_oneline": "エージェント型スキルフレームワークとソフトウェア開発手法の統合パッケージ",
+      "summary_oneline": "実績あるエージェントスキルフレームワーク兼ソフトウェア開発メソドロジー。",
       "tags": [
-        "agent-skills",
-        "methodology",
-        "framework"
+        "skills",
+        "agent-sdk",
+        "development-methodology"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-cloudflare-computer",
+      "id": "gh-topic-1106996539",
       "source": "github",
-      "title": "cloudflare/computer",
-      "url": "https://github.com/cloudflare/computer",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "score": 62,
-      "summary_oneline": "CloudflareがAIエージェントにコンピュータ操作能力を付与するオープンソースツールを公開",
+      "summary_oneline": "マルチプラットフォームでUI/UXデザインを支援するAIスキル。プロフェッショナルデザイン知識を提供。",
       "tags": [
-        "agent",
-        "computer-use",
-        "cloudflare"
+        "skills",
+        "ui-ux",
+        "ai"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-uber-adr",
-      "source": "github",
-      "title": "uber/ADR",
-      "url": "https://github.com/uber/ADR",
-      "score": 62,
-      "summary_oneline": "UberがエンタープライズAIエージェント向けの可観測性・セキュリティ・脅威検出システムをOSS公開",
-      "tags": [
-        "agent-security",
-        "observability",
-        "enterprise"
-      ],
-      "published_at": null
+      "published_at": "2026-08-06T01:29:27Z"
     }
   ],
   "extras": []
