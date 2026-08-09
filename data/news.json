@@ -1,60 +1,32 @@
 {
-  "date": "2026-08-09",
-  "generated_at": "2026-08-08T22:11:14.993Z",
+  "date": "2026-08-10",
+  "generated_at": "2026-08-09T22:15:46.194Z",
   "top": [
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・Cursor向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合提供。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "agent-sdk"
-      ],
-      "published_at": "2026-08-08T21:06:19Z"
-    },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 77,
-      "summary_oneline": "コードベースをナレッジグラフ化するClaude Code用「/graphifyスキル。AST解析でベクトルストア不要。",
+      "score": 85,
+      "summary_oneline": "コードベースをClaudeコード用スキルとして知識グラフ化するgraphify；AST解析でベクトルストア不要",
       "tags": [
         "claude-code",
         "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-08-07T21:58:19Z"
+      "published_at": "2026-08-08T22:42:11Z"
     },
     {
       "id": "gh-trending-addyosmani-agent-skills",
       "source": "github",
       "title": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
-      "score": 75,
-      "summary_oneline": "Addy OsmaniによるAIコーディングエージェント向けプロダクションレベルのエンジニアリングスキル集。",
+      "score": 80,
+      "summary_oneline": "Addy Osmani製・AIコーディングエージェント向けプロダクション品質エンジニアリングスキル集",
       "tags": [
-        "skills",
-        "claude-code",
-        "ai-coding"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 71,
-      "summary_oneline": "TypeScript著名エンジニアMatt Pocockによる実用的なエージェントスキル集（.agentsディレクトリより）。",
-      "tags": [
-        "skills",
         "agent-sdk",
-        "typescript"
+        "skills",
+        "engineering"
       ],
       "published_at": null
     },
@@ -63,12 +35,250 @@
       "source": "github",
       "title": "google/skills",
       "url": "https://github.com/google/skills",
+      "score": 80,
+      "summary_oneline": "Google公式のエージェントスキル集；Googleプロダクト・技術向けのスキルをまとめたOSSリポジトリ",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "google"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・OpenCode等を一元管理するクロスプラットフォームデスクトップアシスタント",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "tools"
+      ],
+      "published_at": "2026-08-09T13:28:38Z"
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 75,
+      "summary_oneline": "Claude Code等向けのエージェントハーネス最適化システム；スキル・記憶・セキュリティ機能を統合",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "optimization"
+      ],
+      "published_at": "2026-08-09T21:42:20Z"
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
       "score": 68,
-      "summary_oneline": "Google製品・技術向けエージェントスキル集。GoogleがGitHubで公式公開。",
+      "summary_oneline": "マルチプラットフォーム対応・プロ品質のUI/UXデザインインテリジェンスを提供するAIスキル",
       "tags": [
         "skills",
-        "google",
-        "agent-sdk"
+        "ui-ux",
+        "design"
+      ],
+      "published_at": "2026-08-06T01:29:27Z"
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 52,
+      "summary_oneline": "NousResearchによる自己成長型AIエージェントフレームワーク",
+      "tags": [
+        "agent-sdk",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-08-09T22:02:30Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 52,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるオープンソースAIプラットフォーム",
+      "tags": [
+        "agentic-workflow",
+        "rag",
+        "llm"
+      ],
+      "published_at": "2026-08-09T18:50:36Z"
+    },
+    {
+      "id": "gh-trending-primeintellect-ai-prime-agent",
+      "source": "github",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "score": 52,
+      "summary_oneline": "コーディングワークフローと長時間自律タスク向けの自己改善型RLMエージェント",
+      "tags": [
+        "agent-sdk",
+        "coding-agent",
+        "rlm"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-vitali87-code-graph-rag",
+      "source": "github",
+      "title": "vitali87/code-graph-rag",
+      "url": "https://github.com/vitali87/code-graph-rag",
+      "score": 52,
+      "summary_oneline": "AIと知識グラフでモノレポをクエリ・理解・編集するための究極のRAGシステム",
+      "tags": [
+        "rag",
+        "codebase",
+        "knowledge-graph"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 50,
+      "summary_oneline": "誰もがAIを使いこなせることを目指す汎用AIエージェントフレームワークAutoGPT",
+      "tags": [
+        "agent-sdk",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-08-09T11:54:23Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 50,
+      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなオープンソースAIチャットインターフェース",
+      "tags": [
+        "llm",
+        "open-source",
+        "web-ui"
+      ],
+      "published_at": "2026-08-09T19:22:50Z"
+    },
+    {
+      "id": "gh-trending-msitarzewski-agency-agents",
+      "source": "github",
+      "title": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "score": 50,
+      "summary_oneline": "フロントエンドからコミュニティ管理まで専門化された複数AIエージェントのオールインワンパッケージ",
+      "tags": [
+        "agent-sdk",
+        "multi-agent",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-harveyai-harvey-labs",
+      "source": "github",
+      "title": "harveyai/harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "score": 50,
+      "summary_oneline": "法務支援向けエージェント能力を評価・改善するためのベンチマークフレームワーク",
+      "tags": [
+        "agent-sdk",
+        "benchmark",
+        "legal"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 48,
+      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォームn8n",
+      "tags": [
+        "workflow-automation",
+        "llm",
+        "self-hosted"
+      ],
+      "published_at": "2026-08-09T09:56:53Z"
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 48,
+      "summary_oneline": "プロンプトの共有・発見・収集ができるオープンソースコミュニティプラットフォーム（旧Awesome ChatGPT Prompts）",
+      "tags": [
+        "prompts",
+        "community",
+        "open-source"
+      ],
+      "published_at": "2026-08-09T03:35:50Z"
+    },
+    {
+      "id": "gh-trending-comfy-org-comfyui",
+      "source": "github",
+      "title": "Comfy-Org/ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "score": 45,
+      "summary_oneline": "グラフ/ノードインターフェース採用の高機能拡散モデルGUIおよびAPI",
+      "tags": [
+        "image-generation",
+        "diffusion",
+        "gui"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-pranshuparmar-witr",
+      "source": "github",
+      "title": "pranshuparmar/witr",
+      "url": "https://github.com/pranshuparmar/witr",
+      "score": 42,
+      "summary_oneline": "プロセス・ポート・コンテナの起動元をトレースするCLI+TUIデバッグツール",
+      "tags": [
+        "cli",
+        "debugging",
+        "tui"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-google-deepmind-weathernext",
+      "source": "github",
+      "title": "google-deepmind/weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "score": 42,
+      "summary_oneline": "Google DeepMindによる次世代天気予報モデルのOSS実装",
+      "tags": [
+        "deepmind",
+        "weather",
+        "ml"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-zhulinsen-daily-stock-analysis",
+      "source": "github",
+      "title": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "score": 42,
+      "summary_oneline": "LLM駆動のマルチマーケット株式分析システム；リアルタイムニュースと自動通知でゼロコスト定時実行",
+      "tags": [
+        "llm",
+        "finance",
+        "automation"
       ],
       "published_at": null
     }
