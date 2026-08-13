@@ -1,62 +1,286 @@
 {
-  "date": "2026-08-13",
-  "generated_at": "2026-08-12T22:14:38.125Z",
+  "date": "2026-08-14",
+  "generated_at": "2026-08-13T22:23:28.626Z",
   "top": [
     {
-      "id": "gh-topic-1136590548",
+      "id": "gh-trending-anthropics-skills",
       "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Codeなど向けのエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を統合した開発基盤。",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "score": 95,
+      "summary_oneline": "Anthropicが公開したエージェントスキルの公式リポジトリ",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "anthropic"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-cathrynlavery-diagram-design",
+      "source": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 85,
+      "summary_oneline": "Claude Code向け29種類の図解テンプレート集。Mermaid不要のHTML+SVG",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
+        "diagrams",
+        "svg"
       ],
-      "published_at": "2026-08-12T22:12:49Z"
+      "published_at": null
     },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 76,
-      "summary_oneline": "コードベースをナレッジグラフ化するClaude Codeスキル。AST解析でドキュメントやSQLスキーマも対象。",
+      "score": 83,
+      "summary_oneline": "コードベースをナレッジグラフ化するClaude Code向け/graphifyスキル",
       "tags": [
         "claude-code",
         "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-08-12T13:28:38Z"
+      "published_at": "2026-08-13T14:15:04Z"
     },
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-topic-1136590548",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex等に対応したクロスプラットフォームのAll-in-Oneデスクトップアシスタント。",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 80,
+      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ対応",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "tooling"
+        "agent-sdk",
+        "skills"
       ],
-      "published_at": "2026-08-12T15:05:47Z"
+      "published_at": "2026-08-13T22:17:27Z"
+    },
+    {
+      "id": "gh-trending-kepano-obsidian-skills",
+      "source": "github",
+      "title": "kepano/obsidian-skills",
+      "url": "https://github.com/kepano/obsidian-skills",
+      "score": 78,
+      "summary_oneline": "ObsidianのCLIとMarkdown/JSONを使えるようにするエージェントスキル集",
+      "tags": [
+        "skills",
+        "obsidian",
+        "agent-sdk"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-holaboss-ai-holaos",
+      "source": "github",
+      "title": "holaboss-ai/holaOS",
+      "url": "https://github.com/holaboss-ai/holaOS",
+      "score": 72,
+      "summary_oneline": "Claude CodeとCodexをMCP経由で100以上のツールに接続できるOSSエージェントワークスペース",
+      "tags": [
+        "claude-code",
+        "mcp",
+        "agent-sdk"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 62,
-      "summary_oneline": "複数プラットフォームでプロUI/UXを構築するためのAIデザインスキル。",
+      "score": 68,
+      "summary_oneline": "複数プラットフォームでプロ品質のUI/UXを構築するAIスキル",
       "tags": [
         "skills",
         "ui-ux",
-        "ai"
+        "claude-code"
       ],
-      "published_at": "2026-08-12T10:20:40Z"
+      "published_at": "2026-08-13T17:10:11Z"
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 62,
+      "summary_oneline": "Claude Code・Codex・Grok Buildなどのマルチエージェントをまとめるデスクトップアシスタント",
+      "tags": [
+        "claude-code",
+        "multi-agent",
+        "desktop"
+      ],
+      "published_at": "2026-08-13T18:40:21Z"
+    },
+    {
+      "id": "gh-trending-nvidia-nemo-switchyard",
+      "source": "github",
+      "title": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "score": 60,
+      "summary_oneline": "OpenAI/Anthropic API互換でLLMトラフィックを複数プロバイダにルーティングするNVIDIAのOSSツール",
+      "tags": [
+        "llm",
+        "anthropic",
+        "model-routing"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-infiniflow-ragflow",
+      "source": "github",
+      "title": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "score": 55,
+      "summary_oneline": "エージェント機能を備えたOSSのRAGエンジン。複数ドキュメント形式に対応",
+      "tags": [
+        "rag",
+        "agent-sdk",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 54,
+      "summary_oneline": "ビジュアル+コードでアジェンティックなRAGワークフローを構築できるOSSプラットフォーム",
+      "tags": [
+        "rag",
+        "agent-sdk",
+        "workflow"
+      ],
+      "published_at": "2026-08-13T20:37:44Z"
+    },
+    {
+      "id": "gh-trending-unslothai-unsloth",
+      "source": "github",
+      "title": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "score": 52,
+      "summary_oneline": "Qwen3やDeepSeek-V4など主要LLMのローカル実行・ファインチューニングUIツール",
+      "tags": [
+        "llm",
+        "fine-tuning",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-semantica-agi-semantica",
+      "source": "github",
+      "title": "semantica-agi/semantica",
+      "url": "https://github.com/semantica-agi/semantica",
+      "score": 50,
+      "summary_oneline": "グラフネイティブなAIコンテキスト管理インフラ。説明可能AIシステム向け",
+      "tags": [
+        "llm",
+        "knowledge-graph",
+        "ai-infrastructure"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 50,
+      "summary_oneline": "ネイティブAI機能を持つノーコード/コードワークフロー自動化プラットフォーム",
+      "tags": [
+        "workflow-automation",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-08-13T22:20:46Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 48,
+      "summary_oneline": "Ollama・OpenAI APIなど複数バックエンドに対応したオープンソースLLM UI",
+      "tags": [
+        "llm",
+        "open-source",
+        "ui"
+      ],
+      "published_at": "2026-08-13T22:16:11Z"
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 47,
+      "summary_oneline": "誰でも使えるアクセシブルなAIを目指すAutoGPTフレームワーク",
+      "tags": [
+        "agent-sdk",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-08-13T22:05:02Z"
+    },
+    {
+      "id": "gh-trending-macro-inc-macro",
+      "source": "github",
+      "title": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "score": 45,
+      "summary_oneline": "メール・チャット・ドキュメント・タスク・AIエージェントを統合したチームワークスペース",
+      "tags": [
+        "agent-sdk",
+        "workspace",
+        "productivity"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 44,
+      "summary_oneline": "NousResearchが開発する自己成長型AIエージェント",
+      "tags": [
+        "agent-sdk",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-08-13T22:19:53Z"
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 43,
+      "summary_oneline": "コミュニティでAIプロンプトを共有・発見・収集できるOSSプラットフォーム",
+      "tags": [
+        "prompts",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-08-13T03:49:04Z"
+    },
+    {
+      "id": "gh-trending-cactus-compute-needle",
+      "source": "github",
+      "title": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "score": 40,
+      "summary_oneline": "スマートフォン・ウェアラブル向けの14MB軽量ファンデーションモデル",
+      "tags": [
+        "llm",
+        "edge-ai",
+        "foundation-model"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
