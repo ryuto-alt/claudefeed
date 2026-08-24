@@ -1,6 +1,6 @@
 {
-  "date": "2026-08-24",
-  "generated_at": "2026-08-23T22:09:19.314Z",
+  "date": "2026-08-25",
+  "generated_at": "2026-08-24T22:13:33.712Z",
   "top": [
     {
       "id": "gh-trending-anthropics-claude-plugins-community",
@@ -8,11 +8,11 @@
       "title": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
       "score": 85,
-      "summary_oneline": "Claude CoworkとClaude Code向けコミュニティプラグインの公式マーケットプレース（読み取り専用ミラー）",
+      "summary_oneline": "Claude CodeとCoworkのコミュニティプラグインマーケットプレイスの公式ミラー。",
       "tags": [
         "claude-code",
-        "plugins",
-        "community"
+        "skills",
+        "plugins"
       ],
       "published_at": null
     },
@@ -21,12 +21,40 @@
       "source": "github",
       "title": "VoltAgent/awesome-agent-skills",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・Cursor対応の1000以上のエージェントスキルを集めたキュレーションコレクション",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex・Gemini CLI等に対応したエージェントスキル1000件以上のコレクション。",
       "tags": [
         "claude-code",
-        "agent-skills",
-        "awesome-list"
+        "skills",
+        "agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 82,
+      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
+      "tags": [
+        "claude-code",
+        "agent",
+        "skills"
+      ],
+      "published_at": "2026-08-24T05:00:04Z"
+    },
+    {
+      "id": "gh-trending-multica-ai-andrej-karpathy-skills",
+      "source": "github",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "score": 80,
+      "summary_oneline": "Karpathy氏のLLMコーディング知見をまとめたCLAUDE.mdファイル。Claude Codeの動作改善に活用できる。",
+      "tags": [
+        "claude-code",
+        "claude-md",
+        "tips"
       ],
       "published_at": null
     },
@@ -35,14 +63,14 @@
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 76,
-      "summary_oneline": "コードベース・ドキュメント・DBスキーマをナレッジグラフ化するClaude Code対応の/graphifyスキル",
+      "score": 80,
+      "summary_oneline": "コードベースをナレッジグラフ化するClaude Code向けスキル。AST解析でベクトルストア不要。",
       "tags": [
         "claude-code",
         "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-08-20T16:39:37Z"
+      "published_at": "2026-08-24T13:19:04Z"
     },
     {
       "id": "gh-topic-1031912724",
@@ -50,53 +78,39 @@
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "score": 75,
-      "summary_oneline": "Claude Code・Codex等複数のAIコーディングツールを統合するオールインワンデスクトップアプリ",
+      "summary_oneline": "Claude Code・Codex・OpenCode等を一元管理するクロスプラットフォームデスクトップツール。",
       "tags": [
         "claude-code",
         "desktop-app",
-        "multi-tool"
+        "tooling"
       ],
-      "published_at": "2026-08-21T14:55:47Z"
+      "published_at": "2026-08-24T09:03:55Z"
     },
     {
-      "id": "gh-trending-virgiliojr94-book-to-skill",
+      "id": "gh-trending-agricidaniel-claude-obsidian",
       "source": "github",
-      "title": "virgiliojr94/book-to-skill",
-      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "title": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "score": 72,
-      "summary_oneline": "技術書のPDFをClaude Codeスキルに変換し、作業中に参照・活用できるようにするツール",
+      "summary_oneline": "Obsidian + Claude Codeで自己組織化する第二の脳。ソースを追加するだけで知識グラフを自動生成。",
       "tags": [
         "claude-code",
-        "skills",
-        "learning"
+        "obsidian",
+        "knowledge-management"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-mattpocock-skills",
+      "id": "gh-trending-madslorentzen-ai-job-search",
       "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 71,
-      "summary_oneline": "Matt Pocock氏の.agentsディレクトリ由来のエンジニア向けエージェントスキル集",
-      "tags": [
-        "agent-skills",
-        "claude-code",
-        "engineer"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-affaan-m-ecc",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 68,
-      "summary_oneline": "Claude Code・Codex等向けのスキル・メモリ・セキュリティを統合したエージェントハーネス最適化システム",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "score": 70,
+      "summary_oneline": "Claude Codeを活用した就活自動化フレームワーク。求人評価・CV調整・面接準備を自動化。",
       "tags": [
         "claude-code",
-        "agent-harness",
-        "optimization"
+        "automation",
+        "workflow"
       ],
       "published_at": null
     },
@@ -105,26 +119,26 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 67,
-      "summary_oneline": "マルチプラットフォームでプロ品質のUI/UXデザインインテリジェンスを提供するAIスキル",
+      "score": 70,
+      "summary_oneline": "マルチプラットフォーム対応のプロUI/UX設計インテリジェンスを提供するAIスキル。",
       "tags": [
         "skills",
         "ui-ux",
         "design"
       ],
-      "published_at": "2026-08-20T11:49:07Z"
+      "published_at": "2026-08-24T16:56:41Z"
     },
     {
       "id": "gh-trending-alishahryar1-free-claude-code",
       "source": "github",
       "title": "Alishahryar1/free-claude-code",
       "url": "https://github.com/Alishahryar1/free-claude-code",
-      "score": 65,
-      "summary_oneline": "ターミナル・IDE・スマートフォンから13億以上の無料トークンでClaude Code等を利用できるツール",
+      "score": 60,
+      "summary_oneline": "Claude Code・Codex等を無料で使うためのツール。ターミナル・アプリ・IDEから1.3B以上のトークンを活用。",
       "tags": [
         "claude-code",
         "free-tokens",
-        "terminal"
+        "tooling"
       ],
       "published_at": null
     },
@@ -133,40 +147,12 @@
       "source": "github",
       "title": "apache/maka",
       "url": "https://github.com/apache/maka",
-      "score": 62,
-      "summary_oneline": "ツール呼び出しや権限決定を追記専用ログに記録するローカルファーストAIエージェントワークスペース（Apache孵化中）",
-      "tags": [
-        "agent-workspace",
-        "local-first",
-        "apache"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-ruvnet-ruflo",
-      "source": "github",
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "score": 61,
-      "summary_oneline": "Claude Codeや多数のAIツールと統合するRAG・適応メモリ搭載のマルチエージェントオーケストレーションハーネス",
-      "tags": [
-        "claude-code",
-        "agent-orchestration",
-        "multi-agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-openai-codex",
-      "source": "github",
-      "title": "openai/codex",
-      "url": "https://github.com/openai/codex",
       "score": 60,
-      "summary_oneline": "OpenAIがリリースしたターミナルで動作する軽量コーディングエージェント（Claude Codeの競合）",
+      "summary_oneline": "ローカルファーストのAIエージェントワークスペース。全アクションをappend-onlyログとして記録。",
       "tags": [
-        "openai",
-        "coding-agent",
-        "terminal"
+        "agent",
+        "local-first",
+        "workspace"
       ],
       "published_at": null
     }
