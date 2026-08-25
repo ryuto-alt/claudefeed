@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-25",
-  "generated_at": "2026-08-24T22:13:33.712Z",
+  "date": "2026-08-26",
+  "generated_at": "2026-08-25T22:12:57.034Z",
   "top": [
+    {
+      "id": "gh-trending-anthropics-claude-plugins-official",
+      "source": "github",
+      "title": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "score": 93,
+      "summary_oneline": "Anthropic管理の高品質Claude Codeプラグイン公式ディレクトリ。公式認定プラグインの一覧リポジトリ。",
+      "tags": [
+        "claude-code",
+        "plugins",
+        "official"
+      ],
+      "published_at": null
+    },
     {
       "id": "gh-trending-anthropics-claude-plugins-community",
       "source": "github",
       "title": "anthropics/claude-plugins-community",
       "url": "https://github.com/anthropics/claude-plugins-community",
-      "score": 85,
-      "summary_oneline": "Claude CodeとCoworkのコミュニティプラグインマーケットプレイスの公式ミラー。",
+      "score": 90,
+      "summary_oneline": "Claude CoworkとClaude Code向けコミュニティプラグインマーケットプレイス。読み取り専用ミラーで投稿は専用フォームから。",
       "tags": [
         "claude-code",
-        "skills",
-        "plugins"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-voltagent-awesome-agent-skills",
-      "source": "github",
-      "title": "VoltAgent/awesome-agent-skills",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills",
-      "score": 85,
-      "summary_oneline": "Claude Code・Codex・Gemini CLI等に対応したエージェントスキル1000件以上のコレクション。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "agent"
+        "plugins",
+        "community"
       ],
       "published_at": null
     },
@@ -35,22 +35,22 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
+      "score": 84,
+      "summary_oneline": "Claude Code・Codex・Cursorなど向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合。",
       "tags": [
         "claude-code",
-        "agent",
+        "agent-sdk",
         "skills"
       ],
-      "published_at": "2026-08-24T05:00:04Z"
+      "published_at": "2026-08-25T21:27:27Z"
     },
     {
       "id": "gh-trending-multica-ai-andrej-karpathy-skills",
       "source": "github",
       "title": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "score": 80,
-      "summary_oneline": "Karpathy氏のLLMコーディング知見をまとめたCLAUDE.mdファイル。Claude Codeの動作改善に活用できる。",
+      "score": 83,
+      "summary_oneline": "KarpathyのLLMコーディング知見を基に、Claude Codeの動作を改善するCLAUDE.mdファイル単一リポジトリ。",
       "tags": [
         "claude-code",
         "claude-md",
@@ -64,39 +64,39 @@
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "score": 80,
-      "summary_oneline": "コードベースをナレッジグラフ化するClaude Code向けスキル。AST解析でベクトルストア不要。",
+      "summary_oneline": "コードベース・ドキュメント・SQLスキーマをクエリ可能な知識グラフに変換するClaude Codeスキル。ベクトルストア不要。",
       "tags": [
         "claude-code",
         "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-08-24T13:19:04Z"
+      "published_at": "2026-08-25T17:43:30Z"
     },
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-topic-1106996539",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・OpenCode等を一元管理するクロスプラットフォームデスクトップツール。",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 78,
+      "summary_oneline": "複数プラットフォームで高品質UI/UX設計を実現するAIスキル。Claude Code向けの設計インテリジェンス提供。",
       "tags": [
-        "claude-code",
-        "desktop-app",
-        "tooling"
+        "skills",
+        "ui-ux",
+        "claude-code"
       ],
-      "published_at": "2026-08-24T09:03:55Z"
+      "published_at": "2026-08-25T15:27:04Z"
     },
     {
       "id": "gh-trending-agricidaniel-claude-obsidian",
       "source": "github",
       "title": "AgriciDaniel/claude-obsidian",
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
-      "score": 72,
-      "summary_oneline": "Obsidian + Claude Codeで自己組織化する第二の脳。ソースを追加するだけで知識グラフを自動生成。",
+      "score": 75,
+      "summary_oneline": "Obsidian + Claude Codeで構築する自己組織化AIセカンドブレイン。Markdownで管理するナレッジグラフを自動生成。",
       "tags": [
         "claude-code",
         "obsidian",
-        "knowledge-management"
+        "pkm"
       ],
       "published_at": null
     },
@@ -105,40 +105,54 @@
       "source": "github",
       "title": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "score": 70,
-      "summary_oneline": "Claude Codeを活用した就活自動化フレームワーク。求人評価・CV調整・面接準備を自動化。",
+      "score": 72,
+      "summary_oneline": "Claude Code上に構築された求人応募AIフレームワーク。CV作成・カバーレター生成・面接準備を自動化。",
       "tags": [
         "claude-code",
         "automation",
-        "workflow"
+        "job-search"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1106996539",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 70,
-      "summary_oneline": "マルチプラットフォーム対応のプロUI/UX設計インテリジェンスを提供するAIスキル。",
-      "tags": [
-        "skills",
-        "ui-ux",
-        "design"
-      ],
-      "published_at": "2026-08-24T16:56:41Z"
-    },
-    {
-      "id": "gh-trending-alishahryar1-free-claude-code",
-      "source": "github",
-      "title": "Alishahryar1/free-claude-code",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "score": 60,
-      "summary_oneline": "Claude Code・Codex等を無料で使うためのツール。ターミナル・アプリ・IDEから1.3B以上のトークンを活用。",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 72,
+      "summary_oneline": "Claude Code・Codex・OpenCode・Grok Build等の複数AIコーディングエージェントを統合するクロスプラットフォームデスクトップツール。",
       "tags": [
         "claude-code",
-        "free-tokens",
-        "tooling"
+        "desktop-app",
+        "multi-agent"
+      ],
+      "published_at": "2026-08-24T09:03:55Z"
+    },
+    {
+      "id": "gh-trending-openai-codex",
+      "source": "github",
+      "title": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "score": 55,
+      "summary_oneline": "OpenAIによるターミナル動作の軽量コーディングエージェント。Claude Codeの競合ツール。",
+      "tags": [
+        "coding-agent",
+        "openai",
+        "terminal"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-shubhamsaboo-awesome-llm-apps",
+      "source": "github",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "score": 52,
+      "summary_oneline": "100以上のAIエージェント・スキル・RAGアプリを収録したオープンソースキュレーションリスト。",
+      "tags": [
+        "llm",
+        "agent",
+        "rag"
       ],
       "published_at": null
     },
@@ -147,12 +161,124 @@
       "source": "github",
       "title": "apache/maka",
       "url": "https://github.com/apache/maka",
-      "score": 60,
-      "summary_oneline": "ローカルファーストのAIエージェントワークスペース。全アクションをappend-onlyログとして記録。",
+      "score": 52,
+      "summary_oneline": "全操作を追記専用ログとして記録するローカルファーストAIエージェントワークスペース。Apacheインキュベーター。",
       "tags": [
-        "agent",
+        "ai-agent",
         "local-first",
-        "workspace"
+        "apache"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-dietrichgebert-ponytail",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 50,
+      "summary_oneline": "AIエージェントをシニア開発者的思考で動作させるツール。不要なコード生成を最小化する設計思想。",
+      "tags": [
+        "ai-agent",
+        "developer-tools",
+        "optimization"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 50,
+      "summary_oneline": "ネイティブAI機能を搭載したワークフロー自動化プラットフォーム。400以上のインテグレーションに対応。",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "self-hosted"
+      ],
+      "published_at": "2026-08-25T21:08:08Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 50,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを一元管理するコラボレーション型AIプラットフォーム。",
+      "tags": [
+        "llm",
+        "rag",
+        "workflow"
+      ],
+      "published_at": "2026-08-25T16:48:39Z"
+    },
+    {
+      "id": "gh-trending-tinyhumansai-openhuman",
+      "source": "github",
+      "title": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "score": 48,
+      "summary_oneline": "ライフメモリ管理・エージェントオーケストレーション・調査機能を統合するパーソナルAIプロジェクト。",
+      "tags": [
+        "ai-agent",
+        "memory",
+        "personal-ai"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 48,
+      "summary_oneline": "Ollama・OpenAI API対応のユーザーフレンドリーなオープンソースAIインターフェース。",
+      "tags": [
+        "ai-ui",
+        "ollama",
+        "open-source"
+      ],
+      "published_at": "2026-08-25T21:24:38Z"
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 48,
+      "summary_oneline": "誰でも使えるAIを目指すAutoGPTプロジェクト。ツールとフレームワークを提供するオープンソース。",
+      "tags": [
+        "ai-agent",
+        "autogpt",
+        "open-source"
+      ],
+      "published_at": "2026-08-25T22:04:33Z"
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 47,
+      "summary_oneline": "NousResearchによる成長型AIエージェントプロジェクト。詳細スニペットは限定的。",
+      "tags": [
+        "ai-agent",
+        "nous-research",
+        "open-source"
+      ],
+      "published_at": "2026-08-25T22:03:09Z"
+    },
+    {
+      "id": "gh-trending-marin-community-marin",
+      "source": "github",
+      "title": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "score": 46,
+      "summary_oneline": "基盤モデルの研究・開発向けオープンソースフレームワーク。コミュニティ主導で開発中。",
+      "tags": [
+        "foundation-model",
+        "research",
+        "open-source"
       ],
       "published_at": null
     }
