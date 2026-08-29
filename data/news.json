@@ -1,14 +1,14 @@
 {
   "date": "2026-08-29",
-  "generated_at": "2026-08-28T22:10:25.264Z",
+  "generated_at": "2026-08-29T22:08:10.819Z",
   "top": [
     {
       "id": "gh-trending-anthropics-claude-plugins-official",
       "source": "github",
       "title": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
-      "score": 90,
-      "summary_oneline": "AnthropicがClaude Code公式プラグインの高品質ディレクトリリポジトリを公開",
+      "score": 92,
+      "summary_oneline": "AnthropicがClaude Code向け公式プラグインディレクトリを公開",
       "tags": [
         "claude-code",
         "plugins",
@@ -17,86 +17,100 @@
       "published_at": null
     },
     {
-      "id": "gh-trending-chromedevtools-chrome-devtools-mcp",
+      "id": "gh-trending-addyosmani-agent-skills",
       "source": "github",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "score": 85,
-      "summary_oneline": "Chrome DevToolsチームがコーディングエージェント向けMCPサーバーを公式公開",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 76,
+      "summary_oneline": "AIコーディングエージェント向けのプロダクション品質エンジニアリングスキル集",
       "tags": [
-        "mcp",
-        "chrome-devtools",
-        "coding-agent"
+        "agent-skills",
+        "claude-code",
+        "engineering"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1136590548",
+      "id": "gh-trending-composiohq-awesome-claude-skills",
       "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude CodeなどAIエージェント向けのスキル・メモリ・セキュリティを統合した最適化ハーネス",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "score": 74,
+      "summary_oneline": "Claude AIワークフローカスタマイズ向けのスキルとリソースのキュレーションリスト",
       "tags": [
+        "claude-skills",
         "claude-code",
-        "agent-harness",
-        "skills"
+        "resources"
       ],
-      "published_at": "2026-08-28T22:06:02Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex・OpenCode等を統合するクロスプラットフォームデスクトップアシスタント",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-08-28T00:29:46Z"
+      "published_at": null
     },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 80,
-      "summary_oneline": "コードベースをローカルASTで知識グラフ化するClaude Code対応の/graphifyスキル",
+      "score": 72,
+      "summary_oneline": "コードベースをクエリ可能なナレッジグラフに変換するClaude Code対応スキル",
       "tags": [
         "claude-code",
-        "skills",
+        "agent-skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-08-28T00:29:00Z"
-    },
-    {
-      "id": "gh-trending-k-dense-ai-scientific-agent-skills",
-      "source": "github",
-      "title": "K-Dense-AI/scientific-agent-skills",
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "score": 70,
-      "summary_oneline": "Claude Code対応の科学研究向けエージェントスキルライブラリ（163スキル・100以上のDB収録）",
-      "tags": [
-        "claude-code",
-        "skills",
-        "science"
-      ],
-      "published_at": null
+      "published_at": "2026-08-29T18:41:12Z"
     },
     {
       "id": "gh-trending-tt-a1i-archify",
       "source": "github",
       "title": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "score": 68,
-      "summary_oneline": "AIエージェント向けの検証可能なアーキテクチャ・フロー図を生成するエージェントスキル",
+      "score": 70,
+      "summary_oneline": "アーキテクチャ・ワークフロー・シーケンス図を生成するエージェントスキル",
       "tags": [
-        "agent-skill",
-        "diagram",
-        "visualization"
+        "agent-skills",
+        "diagramming",
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 68,
+      "summary_oneline": "Claude Code・Codex等に対応したクロスプラットフォームデスクトップAll-in-Oneアシスタント",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "ai-assistant"
+      ],
+      "published_at": "2026-08-29T14:55:03Z"
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 66,
+      "summary_oneline": "Claude Code向けエージェントハーネスの性能最適化・スキル・メモリ管理システム",
+      "tags": [
+        "claude-code",
+        "agent-harness",
+        "performance"
+      ],
+      "published_at": "2026-08-29T20:55:37Z"
+    },
+    {
+      "id": "gh-trending-k-dense-ai-scientific-agent-skills",
+      "source": "github",
+      "title": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "score": 65,
+      "summary_oneline": "Claude Code対応の生物・化学・医学分野向け165件以上の科学スキルライブラリ",
+      "tags": [
+        "agent-skills",
+        "science",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -105,182 +119,14 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 67,
-      "summary_oneline": "マルチプラットフォーム対応のプロフェッショナルUI/UX設計インテリジェンスAIスキル",
+      "score": 60,
+      "summary_oneline": "複数プラットフォームでプロフェッショナルなUI/UXデザインを支援するAIスキル",
       "tags": [
-        "skills",
+        "agent-skills",
         "ui-ux",
         "design"
       ],
       "published_at": "2026-08-27T09:15:37Z"
-    },
-    {
-      "id": "gh-trending-jetbrains-go-modern-guidelines",
-      "source": "github",
-      "title": "JetBrains/go-modern-guidelines",
-      "url": "https://github.com/JetBrains/go-modern-guidelines",
-      "score": 55,
-      "summary_oneline": "JetBrainsがAIコーディングエージェント向けのモダンGoコーディングガイドラインを公開",
-      "tags": [
-        "go",
-        "coding-agent",
-        "guidelines"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-marin-community-marin",
-      "source": "github",
-      "title": "marin-community/marin",
-      "url": "https://github.com/marin-community/marin",
-      "score": 55,
-      "summary_oneline": "基盤モデルの研究・開発向けオープンソースフレームワーク",
-      "tags": [
-        "llm",
-        "foundation-models",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-dietrichgebert-ponytail",
-      "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 55,
-      "summary_oneline": "シニア開発者的思考でAIエージェントのコード生成を最適化する軽量ツール",
-      "tags": [
-        "ai-agent",
-        "code-optimization",
-        "tooling"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-livekit-agents",
-      "source": "github",
-      "title": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "score": 55,
-      "summary_oneline": "リアルタイム音声・映像AIエージェントを構築するためのオープンソースフレームワーク",
-      "tags": [
-        "ai-agent",
-        "voice",
-        "realtime"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 55,
-      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できる協調型AIプラットフォーム",
-      "tags": [
-        "ai-agent",
-        "rag",
-        "workflow"
-      ],
-      "published_at": "2026-08-28T20:05:21Z"
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 52,
-      "summary_oneline": "Nous Researchが公開した継続的に成長する汎用AIエージェント",
-      "tags": [
-        "ai-agent",
-        "llm",
-        "open-source"
-      ],
-      "published_at": "2026-08-28T22:08:08Z"
-    },
-    {
-      "id": "gh-trending-tashfeenahmed-freellmapi",
-      "source": "github",
-      "title": "tashfeenahmed/freellmapi",
-      "url": "https://github.com/tashfeenahmed/freellmapi",
-      "score": 50,
-      "summary_oneline": "34プロバイダー・635モデルを1つのAPIエンドポイントで利用できる無料LLMアグリゲーター",
-      "tags": [
-        "llm",
-        "api",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-abhigyanpatwari-gitnexus",
-      "source": "github",
-      "title": "abhigyanpatwari/GitNexus",
-      "url": "https://github.com/abhigyanpatwari/GitNexus",
-      "score": 50,
-      "summary_oneline": "ブラウザ上でGitリポジトリを対話型知識グラフ化するゼロサーバーコードインテリジェンスエンジン",
-      "tags": [
-        "code-exploration",
-        "knowledge-graph",
-        "browser"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-abi-screenshot-to-code",
-      "source": "github",
-      "title": "abi/screenshot-to-code",
-      "url": "https://github.com/abi/screenshot-to-code",
-      "score": 50,
-      "summary_oneline": "スクリーンショットをHTML/Tailwind/React/VueなどのコードへAI変換するツール",
-      "tags": [
-        "ai-coding",
-        "screenshot-to-code",
-        "ui"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 50,
-      "summary_oneline": "ネイティブAI機能を備えた400以上のインテグレーション対応オープンソースワークフロー自動化ツール",
-      "tags": [
-        "workflow-automation",
-        "ai",
-        "open-source"
-      ],
-      "published_at": "2026-08-28T20:04:40Z"
-    },
-    {
-      "id": "gh-trending-rohitg00-ai-engineering-from-scratch",
-      "source": "github",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "score": 50,
-      "summary_oneline": "AIエンジニアリングをゼロから学べる実践的な学習リポジトリ",
-      "tags": [
-        "ai-engineering",
-        "tutorial",
-        "learning"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-calesthio-openmontage",
-      "source": "github",
-      "title": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "score": 48,
-      "summary_oneline": "12制作パイプラインと700以上のエージェントスキルを持つオープンソース動画制作システム",
-      "tags": [
-        "video-production",
-        "agent-skill",
-        "open-source"
-      ],
-      "published_at": null
     }
   ],
   "extras": []
