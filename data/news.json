@@ -1,242 +1,60 @@
 {
-  "date": "2026-08-31",
-  "generated_at": "2026-08-30T22:10:26.216Z",
+  "date": "2026-09-01",
+  "generated_at": "2026-08-31T22:09:23.377Z",
   "top": [
     {
-      "id": "cc-release-378586104",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.251",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.251",
-      "score": 95,
-      "summary_oneline": "PreModelSwitch/PostModelSwitchフックを追加、フォアグラウンドサブエージェントのツール呼び出しをリモートへライブ配信",
-      "tags": [
-        "claude-code",
-        "release",
-        "hooks"
-      ],
-      "published_at": "2026-08-28T18:19:32Z"
-    },
-    {
-      "id": "cc-release-378106990",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.248",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.248",
-      "score": 90,
-      "summary_oneline": "--restrictedモードでコマンドツールを無効化するサンドボックスを追加、エージェントにcacheTtl設定を導入",
-      "tags": [
-        "claude-code",
-        "release",
-        "security"
-      ],
-      "published_at": "2026-08-27T22:12:20Z"
-    },
-    {
-      "id": "cc-release-374556322",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.239",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.239",
-      "score": 88,
-      "summary_oneline": "データ居住ワークスペースの推論コストをコスト見積もりに反映、/claude-api upgradeでPython SDK移行を自動サポート",
-      "tags": [
-        "claude-code",
-        "release",
-        "cost-management"
-      ],
-      "published_at": "2026-08-21T19:54:23Z"
-    },
-    {
-      "id": "cc-release-377320078",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.247",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.247",
-      "score": 85,
-      "summary_oneline": "SendFeedbackツールでClaudeがフィードバックレポートを自動作成、組織独自のスピナーヒント設定にも対応",
-      "tags": [
-        "claude-code",
-        "release",
-        "feedback"
-      ],
-      "published_at": "2026-08-26T23:06:39Z"
-    },
-    {
-      "id": "cc-release-373927029",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.238",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.238",
-      "score": 84,
-      "summary_oneline": "keybindingFlavorでreadlineスタイルのCtrl+Wを選択可能に、プラグインにヘッダーヘルパー機能を追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "plugins"
-      ],
-      "published_at": "2026-08-20T20:33:51Z"
-    },
-    {
-      "id": "cc-release-376644211",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.246",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.246",
-      "score": 82,
-      "summary_oneline": "Bash allowルールのワイルドカード警告を追加、/permissionsにAutoモードタブを新設し分類ルール管理が可能に",
-      "tags": [
-        "claude-code",
-        "release",
-        "permissions"
-      ],
-      "published_at": "2026-08-25T22:31:52Z"
-    },
-    {
-      "id": "gh-topic-1136590548",
+      "id": "gh-topic-1200597263",
       "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・Cursor向けのエージェントハーネス最適化システム、スキル・記憶・セキュリティを統合（★244k）",
+      "title": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "score": 82,
+      "summary_oneline": "コードベース・ドキュメント・スキーマをナレッジグラフ化するClaude Code向け/graphifyスキル（ベクトルストア不要）",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "open-source"
+        "skills",
+        "knowledge-graph"
       ],
-      "published_at": "2026-08-30T19:52:28Z"
+      "published_at": "2026-08-30T15:03:47Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・OpenCode等を一元管理するクロスプラットフォームデスクトップアシスタント（★130k）",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・OpenCode等を横断管理できるクロスプラットフォームのデスクトップ統合アシスタント",
       "tags": [
         "claude-code",
         "desktop-app",
-        "open-source"
+        "coding-assistant"
       ],
-      "published_at": "2026-08-30T16:30:53Z"
-    },
-    {
-      "id": "cc-release-376149254",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.245",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.245",
-      "score": 75,
-      "summary_oneline": "glibc 2.44搭載Linux（Arch・CachyOS・Fedora Rawhide等）での起動クラッシュを修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "bug-fix"
-      ],
-      "published_at": "2026-08-25T05:13:24Z"
-    },
-    {
-      "id": "gh-topic-1200597263",
-      "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 75,
-      "summary_oneline": "コードベース・SQL・PDFをクエリ可能な知識グラフに変換するClaude Code対応スキル（★112k）",
-      "tags": [
-        "claude-code",
-        "agent-skills",
-        "knowledge-graph"
-      ],
-      "published_at": "2026-08-30T15:03:47Z"
-    },
-    {
-      "id": "cc-release-378158541",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.250",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.250",
-      "score": 72,
-      "summary_oneline": "バグ修正と安定性改善のみの小規模リリース",
-      "tags": [
-        "claude-code",
-        "release",
-        "bug-fix"
-      ],
-      "published_at": "2026-08-28T00:49:16Z"
-    },
-    {
-      "id": "cc-release-375069504",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.241",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.241",
-      "score": 72,
-      "summary_oneline": "バグ修正と安定性改善のみの小規模リリース",
-      "tags": [
-        "claude-code",
-        "release",
-        "bug-fix"
-      ],
-      "published_at": "2026-08-23T00:52:16Z"
-    },
-    {
-      "id": "cc-release-374931975",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.240",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.240",
-      "score": 72,
-      "summary_oneline": "バグ修正と安定性改善のみの小規模リリース",
-      "tags": [
-        "claude-code",
-        "release",
-        "bug-fix"
-      ],
-      "published_at": "2026-08-22T14:45:30Z"
-    },
-    {
-      "id": "gh-trending-punkpeye-awesome-mcp-servers",
-      "source": "github",
-      "title": "punkpeye/awesome-mcp-servers",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "score": 72,
-      "summary_oneline": "コミュニティ管理のMCPサーバーまとめリスト（awesome list形式）",
-      "tags": [
-        "mcp",
-        "resources",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 62,
-      "summary_oneline": "複数プラットフォームで使えるプロUI/UX設計インテリジェンスを提供するAIスキル（★123k）",
-      "tags": [
-        "agent-skills",
-        "ui-ux",
-        "open-source"
-      ],
-      "published_at": "2026-08-27T09:15:37Z"
+      "published_at": "2026-08-31T15:00:27Z"
     },
     {
       "id": "gh-trending-k-dense-ai-scientific-agent-skills",
       "source": "github",
       "title": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "score": 62,
-      "summary_oneline": "Claude Code等に対応した科学者向けAIエージェントスキル集、生物・化学・医療など165スキルを提供",
+      "score": 78,
+      "summary_oneline": "Claude Code互換の科学系エージェントスキルライブラリ（165スキル・100以上のデータベース対応）",
       "tags": [
-        "agent-skills",
         "claude-code",
+        "skills",
         "science"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-mvanhorn-last30days-skill",
+      "id": "gh-trending-affaan-m-ecc",
       "source": "github",
-      "title": "mvanhorn/last30days-skill",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "score": 62,
-      "summary_oneline": "Reddit・X・YouTube・HN等を横断してトピックを調査・要約するAIエージェントスキル",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 75,
+      "summary_oneline": "Claude Code・Codex向けのエージェントハーネス最適化システム（スキル・メモリ・セキュリティ・研究重視開発）",
       "tags": [
-        "agent-skills",
-        "research",
-        "open-source"
+        "claude-code",
+        "agent",
+        "skills"
       ],
       "published_at": null
     },
@@ -245,40 +63,40 @@
       "source": "github",
       "title": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
-      "score": 58,
-      "summary_oneline": "アーキテクチャ・シーケンス図等をアニメーション付きHTMLで生成するエージェントスキル",
+      "score": 72,
+      "summary_oneline": "アーキテクチャ・シーケンス・データフロー図等を生成する検証可能なHTML出力エージェントスキル",
       "tags": [
-        "agent-skills",
+        "skills",
         "diagramming",
-        "open-source"
+        "agent"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-handsomestwei-patent-disclosure-skill",
+      "id": "gh-topic-1106996539",
       "source": "github",
-      "title": "handsomestWei/patent-disclosure-skill",
-      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
-      "score": 58,
-      "summary_oneline": "中国特許の発掘・交底書作成・審査応答をAIが支援するエージェントスキル",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 68,
+      "summary_oneline": "マルチプラットフォーム向けにプロフェッショナルなUI/UXデザイン知識を提供するAIスキル",
       "tags": [
-        "agent-skills",
-        "patent",
-        "chinese"
+        "skills",
+        "ui-ux",
+        "design"
       ],
-      "published_at": null
+      "published_at": "2026-08-31T18:42:36Z"
     },
     {
-      "id": "gh-trending-livekit-agents",
+      "id": "gh-trending-zhaoxuya520-reverse-skill",
       "source": "github",
-      "title": "livekit/agents",
-      "url": "https://github.com/livekit/agents",
-      "score": 55,
-      "summary_oneline": "リアルタイム音声AIエージェントを構築するオープンソースフレームワーク",
+      "title": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "score": 65,
+      "summary_oneline": "Claude Code・Cursor等に対応したリバースエンジニアリング・認定ペネトレーションテスト用スキルルーターパック",
       "tags": [
-        "agents",
-        "voice-ai",
-        "open-source"
+        "claude-code",
+        "security",
+        "skills"
       ],
       "published_at": null
     }
