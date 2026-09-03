@@ -1,60 +1,102 @@
 {
-  "date": "2026-09-03",
-  "generated_at": "2026-09-02T22:10:14.718Z",
+  "date": "2026-09-04",
+  "generated_at": "2026-09-03T22:12:31.069Z",
   "top": [
+    {
+      "id": "gh-trending-anthropics-skills",
+      "source": "github",
+      "title": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "score": 87,
+      "summary_oneline": "AnthropicのAgent Skills公式リポジトリ。Claude Codeで利用可能なスキルの実装が公開されている。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "anthropic"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 78,
+      "summary_oneline": "TypeScript開発者のエージェントスキル集。.agentsディレクトリから実際に使用しているスキルを公開。",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "coding"
+      ],
+      "published_at": null
+    },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex等複数エージェントを一括管理するクロスプラットフォームデスクトップ向けオールインワンアシスタント",
+      "score": 73,
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数のAIコーディングエージェントを統合管理するデスクトップアプリ。",
       "tags": [
         "claude-code",
-        "coding-agent",
-        "desktop-app"
+        "desktop-app",
+        "multi-agent"
       ],
-      "published_at": "2026-09-02T04:57:57Z"
-    },
-    {
-      "id": "gh-trending-affaan-m-ecc",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Code向けエージェントハーネス最適化システム。スキル・メモリ・セキュリティ面での開発効率化をサポート",
-      "tags": [
-        "claude-code",
-        "agent-optimization",
-        "skills"
-      ],
-      "published_at": null
+      "published_at": "2026-09-03T18:35:19Z"
     },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 75,
-      "summary_oneline": "コードベース・SQL・設定ファイル等をナレッジグラフ化するClaude Code向けスキル。AST解析を使用",
+      "score": 72,
+      "summary_oneline": "コードベース・SQL・設定ファイル等を知識グラフ化するClaude Codeスキル。ベクトルストア不要でAST解析を活用。",
       "tags": [
         "claude-code",
-        "knowledge-graph",
-        "skills"
+        "skills",
+        "knowledge-graph"
       ],
       "published_at": "2026-08-30T15:03:47Z"
     },
     {
-      "id": "gh-trending-chromedevtools-chrome-devtools-mcp",
+      "id": "gh-trending-addyosmani-agent-skills",
       "source": "github",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "score": 73,
-      "summary_oneline": "コーディングエージェント向けにChrome DevToolsをMCPサーバーとして公開するGoogle公式ツール",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 72,
+      "summary_oneline": "Addy OsmaniによるAIコーディングエージェント向けのプロダクション品質エンジニアリングスキル集。",
       "tags": [
-        "mcp",
-        "chrome-devtools",
-        "coding-agent"
+        "skills",
+        "agent-sdk",
+        "engineering"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-magnitudedev-magnitude",
+      "source": "github",
+      "title": "magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "score": 70,
+      "summary_oneline": "Claude Codeなど複数エージェントと連携できるオープンソースのローカル推論サーバー。ハードウェアに最適なモデルを自動選択。",
+      "tags": [
+        "claude-code",
+        "local-llm",
+        "inference"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-affaan-m-ecc",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 68,
+      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を統合提供。",
+      "tags": [
+        "claude-code",
+        "agent-harness",
+        "skills"
       ],
       "published_at": null
     },
@@ -63,8 +105,8 @@
       "source": "github",
       "title": "JuliusBrussee/caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 72,
-      "summary_oneline": "原始人語でプロンプトを圧縮しトークン使用量を約65%削減するClaude Code向けスキル",
+      "score": 66,
+      "summary_oneline": "トークンを65%削減するClaude Codeスキル。原始人風の短縮表現でコンテキスト消費を大幅に抑制する。",
       "tags": [
         "claude-code",
         "skills",
@@ -77,12 +119,12 @@
       "source": "github",
       "title": "Imbad0202/academic-research-skills",
       "url": "https://github.com/Imbad0202/academic-research-skills",
-      "score": 68,
-      "summary_oneline": "研究・執筆・レビュー・改訂・仕上げの流れを自動化するClaude Code向け学術研究スキル集",
+      "score": 64,
+      "summary_oneline": "Claude Code向け学術研究スキル。リサーチから執筆・レビュー・修正・最終化までの一連ワークフローを提供。",
       "tags": [
         "claude-code",
         "skills",
-        "academic-research"
+        "research"
       ],
       "published_at": null
     },
@@ -91,26 +133,26 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 63,
-      "summary_oneline": "複数プラットフォームに対応したプロ品質のUI/UX設計をサポートするAIスキル",
+      "score": 62,
+      "summary_oneline": "複数プラットフォーム向けのプロUI/UX設計を支援するAIスキル。デザインインテリジェンスを提供。",
       "tags": [
         "skills",
         "ui-ux",
         "design"
       ],
-      "published_at": "2026-09-02T10:45:33Z"
+      "published_at": "2026-09-03T14:13:39Z"
     },
     {
-      "id": "gh-trending-mattpocock-skills",
+      "id": "gh-trending-obra-superpowers",
       "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 62,
-      "summary_oneline": "エンジニア向けエージェントスキル集。.agentsディレクトリから実践的なスキルを提供",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 60,
+      "summary_oneline": "実用的なエージェントスキルフレームワーク兼ソフトウェア開発手法。エージェント向け統合アプローチを提供。",
       "tags": [
         "skills",
-        "agent",
-        "engineering"
+        "agent-sdk",
+        "methodology"
       ],
       "published_at": null
     }
