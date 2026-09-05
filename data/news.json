@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-05",
-  "generated_at": "2026-09-04T22:10:18.109Z",
+  "date": "2026-09-06",
+  "generated_at": "2026-09-05T22:08:51.888Z",
   "top": [
     {
       "id": "gh-trending-anthropics-skills",
@@ -8,67 +8,25 @@
       "title": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "score": 88,
-      "summary_oneline": "Anthropic公式エージェントスキルの公開リポジトリ。Claude Codeなどで活用できるスキル集を提供。",
+      "summary_oneline": "Anthropic公式のエージェントスキルを公開するリポジトリ。",
       "tags": [
         "claude-code",
         "skills",
-        "official"
+        "anthropic"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-juliusbrussee-caveman",
+      "id": "gh-trending-worldflowai-everything-claude-code",
       "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 82,
-      "summary_oneline": "トークンを65%削減するClaude Code専用スキル。原始的な文体でLLMへの入力コストを大幅に抑える。",
+      "title": "WorldFlowAI/everything-claude-code",
+      "url": "https://github.com/WorldFlowAI/everything-claude-code",
+      "score": 85,
+      "summary_oneline": "Claude Codeのエージェント・コマンド・スキル・ルール・フックを網羅したツールキット。",
       "tags": [
         "claude-code",
         "skills",
-        "token-optimization"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 80,
-      "summary_oneline": "実務エンジニア向けスキル集。.agentsディレクトリから直接利用できる実践的なスキルを提供。",
-      "tags": [
-        "skills",
-        "agent",
-        "developer-tools"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 76,
-      "summary_oneline": "Claude Code、Codex、OpenCodeなど複数AIエージェントに対応したクロスプラットフォームデスクトップ統合ツール。",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-09-04T13:43:14Z"
-    },
-    {
-      "id": "gh-trending-cathrynlavery-diagram-design",
-      "source": "github",
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "score": 73,
-      "summary_oneline": "Claude CodeやCodex向け38種類の図形テンプレート。自己完結型HTML+SVGで追加依存なし。",
-      "tags": [
-        "claude-code",
-        "diagrams",
-        "templates"
+        "hooks"
       ],
       "published_at": null
     },
@@ -77,207 +35,82 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 70,
-      "summary_oneline": "Claude Code・Codex・Cursorなど複数AIコーディングツール向けエージェントハーネス最適化システム。",
+      "score": 80,
+      "summary_oneline": "Claude CodeやCursorなど向けのエージェントハーネス最適化システム（スキル・メモリ・セキュリティ）。",
       "tags": [
         "claude-code",
-        "agent-harness",
-        "optimization"
+        "agent-sdk",
+        "skills"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1106996539",
+      "id": "gh-trending-mattpocock-skills",
       "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 68,
-      "summary_oneline": "複数プラットフォームで専門的なUI/UX設計を支援するAIスキル。",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 75,
+      "summary_oneline": "実際の.agentsディレクトリから生まれたリアルエンジニア向けスキル集。",
       "tags": [
         "skills",
-        "ui-ux",
-        "design"
+        "agent-sdk",
+        "claude-code"
       ],
-      "published_at": "2026-09-03T14:13:39Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-cathrynlavery-diagram-design",
+      "source": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 72,
+      "summary_oneline": "Claude CodeやCodexで使える38種類の図表テンプレート（HTMLとSVG）。",
+      "tags": [
+        "claude-code",
+        "diagram",
+        "codex"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-ruvnet-ruflo",
+      "source": "github",
+      "title": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "score": 68,
+      "summary_oneline": "Claude CodeやCodexと連携するマルチエージェントスウォームとワークフロー自動化ハーネス。",
+      "tags": [
+        "claude-code",
+        "multi-agent",
+        "workflow"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-magnitudedev-magnitude",
       "source": "github",
       "title": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "score": 63,
-      "summary_oneline": "Claude CodeやCodexなど複数エージェントに対応したオープンソースのローカル推論サーバー。",
+      "score": 65,
+      "summary_oneline": "Claude Codeなど主要コーディングエージェントに対応したローカルモデル推論サーバー。",
       "tags": [
         "claude-code",
-        "local-inference",
-        "open-source"
+        "local-model",
+        "inference"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-anomalyco-opencode",
+      "id": "gh-trending-humanlayer-skills",
       "source": "github",
-      "title": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "score": 52,
-      "summary_oneline": "オープンソースのコーディングエージェント。",
-      "tags": [
-        "coding-agent",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 52,
-      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるオープンソースAIプラットフォーム。",
-      "tags": [
-        "agent",
-        "rag",
-        "workflow"
-      ],
-      "published_at": "2026-09-04T15:37:01Z"
-    },
-    {
-      "id": "gh-trending-dietrichgebert-ponytail",
-      "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 50,
-      "summary_oneline": "AIエージェントを「怠惰なシニア開発者」として動作させ、コード生成量を最小化するツール。",
-      "tags": [
-        "ai-agent",
-        "coding",
-        "developer-tools"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-nousresearch-hermes-agent",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 48,
-      "summary_oneline": "NousResearch製の汎用AIエージェントフレームワーク。",
-      "tags": [
-        "agent",
-        "llm",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 48,
-      "summary_oneline": "Ollama・OpenAI APIなどに対応したオープンソースのAIチャットUI。",
-      "tags": [
-        "llm",
-        "chat-ui",
-        "open-source"
-      ],
-      "published_at": "2026-09-04T21:39:36Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 46,
-      "summary_oneline": "誰でも利用・構築できるオープンソースAIエージェントフレームワーク。",
-      "tags": [
-        "agent",
-        "ai",
-        "open-source"
-      ],
-      "published_at": "2026-09-04T22:05:40Z"
-    },
-    {
-      "id": "gh-topic-574523116",
-      "source": "github",
-      "title": "f/prompts.chat",
-      "url": "https://github.com/f/prompts.chat",
-      "score": 42,
-      "summary_oneline": "コミュニティでAIプロンプトを共有・発見・収集できるオープンソースプラットフォーム。",
-      "tags": [
-        "prompts",
-        "community",
-        "open-source"
-      ],
-      "published_at": "2026-09-04T03:17:56Z"
-    },
-    {
-      "id": "gh-trending-google-research-timesfm",
-      "source": "github",
-      "title": "google-research/timesfm",
-      "url": "https://github.com/google-research/timesfm",
-      "score": 40,
-      "summary_oneline": "Google Research製の時系列予測向け基盤モデル（TimesFM）。",
-      "tags": [
-        "time-series",
-        "foundation-model",
-        "google"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-radixark-miles",
-      "source": "github",
-      "title": "radixark/miles",
-      "url": "https://github.com/radixark/miles",
-      "score": 38,
-      "summary_oneline": "LLM・VLMのポストトレーニング向けエンタープライズ対応強化学習フレームワーク。",
-      "tags": [
-        "reinforcement-learning",
-        "llm",
-        "post-training"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-blader-humanizer",
-      "source": "github",
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "score": 38,
-      "summary_oneline": "AIが生成したテキストの特徴を除去するエージェントスキル。",
+      "title": "humanlayer/skills",
+      "url": "https://github.com/humanlayer/skills",
+      "score": 60,
+      "summary_oneline": "humanlayerによるエージェントスキルリポジトリ。",
       "tags": [
         "skills",
-        "ai-writing",
-        "text"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 38,
-      "summary_oneline": "ネイティブAI機能を搭載したオープンソースワークフロー自動化プラットフォーム。400以上の連携に対応。",
-      "tags": [
-        "workflow-automation",
-        "ai",
-        "self-hosted"
-      ],
-      "published_at": "2026-09-04T20:22:37Z"
-    },
-    {
-      "id": "gh-trending-debpalash-voicestudio",
-      "source": "github",
-      "title": "debpalash/VoiceStudio",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "score": 25,
-      "summary_oneline": "646言語対応のローカル動作音声クローニング・動画吹き替え・文字起こしツール。ElevenLabsの代替。",
-      "tags": [
-        "voice-cloning",
-        "local",
-        "open-source"
+        "agent",
+        "humanlayer"
       ],
       "published_at": null
     }
