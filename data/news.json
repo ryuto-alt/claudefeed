@@ -1,32 +1,46 @@
 {
-  "date": "2026-09-06",
-  "generated_at": "2026-09-05T22:08:51.888Z",
+  "date": "2026-09-07",
+  "generated_at": "2026-09-06T22:10:23.846Z",
   "top": [
     {
-      "id": "gh-trending-anthropics-skills",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "anthropics/skills",
-      "url": "https://github.com/anthropics/skills",
-      "score": 88,
-      "summary_oneline": "Anthropic公式のエージェントスキルを公開するリポジトリ。",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・OpenCode等を一括管理できるクロスプラットフォームのデスクトップオールインワンアシスタント。",
+      "tags": [
+        "claude-code",
+        "desktop-tool",
+        "multi-agent"
+      ],
+      "published_at": "2026-09-06T14:00:29Z"
+    },
+    {
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 73,
+      "summary_oneline": "Matt Pocockが実務エンジニア向けに公開したAgentsディレクトリのスキル集。Claude Codeでそのまま活用可能。",
       "tags": [
         "claude-code",
         "skills",
-        "anthropic"
+        "engineering"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-worldflowai-everything-claude-code",
+      "id": "gh-trending-coreyhaines31-marketingskills",
       "source": "github",
-      "title": "WorldFlowAI/everything-claude-code",
-      "url": "https://github.com/WorldFlowAI/everything-claude-code",
-      "score": 85,
-      "summary_oneline": "Claude Codeのエージェント・コマンド・スキル・ルール・フックを網羅したツールキット。",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "score": 69,
+      "summary_oneline": "Claude CodeとAIエージェント向けのマーケティングスキル集。CRO・SEO・コピーライティング等をカバー。",
       "tags": [
         "claude-code",
         "skills",
-        "hooks"
+        "marketing"
       ],
       "published_at": null
     },
@@ -35,26 +49,12 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude CodeやCursorなど向けのエージェントハーネス最適化システム（スキル・メモリ・セキュリティ）。",
+      "score": 68,
+      "summary_oneline": "Claude Code・Codex・Cursor等向けエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合。",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 75,
-      "summary_oneline": "実際の.agentsディレクトリから生まれたリアルエンジニア向けスキル集。",
-      "tags": [
         "skills",
-        "agent-sdk",
-        "claude-code"
+        "agent-harness"
       ],
       "published_at": null
     },
@@ -63,26 +63,40 @@
       "source": "github",
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
-      "score": 72,
-      "summary_oneline": "Claude CodeやCodexで使える38種類の図表テンプレート（HTMLとSVG）。",
+      "score": 66,
+      "summary_oneline": "Claude Code向けの38種類ダイアグラムテンプレート集。シャドウなしの自己完結型HTML+SVGで提供。",
       "tags": [
         "claude-code",
-        "diagram",
-        "codex"
+        "diagrams",
+        "templates"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 65,
+      "summary_oneline": "複数プラットフォームでプロ品質のUI/UXを構築するためのAIスキル。デザイン知識をエージェントに注入。",
+      "tags": [
+        "skills",
+        "ui-ux",
+        "agent"
+      ],
+      "published_at": "2026-09-06T11:29:23Z"
     },
     {
       "id": "gh-trending-ruvnet-ruflo",
       "source": "github",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
-      "score": 68,
-      "summary_oneline": "Claude CodeやCodexと連携するマルチエージェントスウォームとワークフロー自動化ハーネス。",
+      "score": 63,
+      "summary_oneline": "Claude Codeを含む複数エージェントに対応したメタハーネス。マルチエージェントスウォームと自律ワークフローを実現。",
       "tags": [
         "claude-code",
         "multi-agent",
-        "workflow"
+        "agent-harness"
       ],
       "published_at": null
     },
@@ -91,26 +105,180 @@
       "source": "github",
       "title": "magnitudedev/magnitude",
       "url": "https://github.com/magnitudedev/magnitude",
-      "score": 65,
-      "summary_oneline": "Claude Codeなど主要コーディングエージェントに対応したローカルモデル推論サーバー。",
+      "score": 62,
+      "summary_oneline": "Claude Code等のエージェントに接続できるオープンソースのローカル推論サーバー。ハードウェアに合わせた最適モデルを選択。",
       "tags": [
         "claude-code",
-        "local-model",
+        "local-llm",
         "inference"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-trending-openai-skills",
+      "source": "github",
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "score": 55,
+      "summary_oneline": "OpenAIが公式公開したCodex向けスキルカタログ。Claude Codeスキル設計の比較参考として有用。",
+      "tags": [
+        "skills",
+        "codex",
+        "openai"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 52,
+      "summary_oneline": "アジェンティックワークフロー・RAGパイプラインを視覚的に構築できるオープンソースAIプラットフォーム。",
+      "tags": [
+        "workflow",
+        "rag",
+        "ai-platform"
+      ],
+      "published_at": "2026-09-06T15:26:54Z"
+    },
+    {
+      "id": "gh-trending-anomalyco-opencode",
+      "source": "github",
+      "title": "anomalyco/opencode",
+      "url": "https://github.com/anomalyco/opencode",
+      "score": 50,
+      "summary_oneline": "オープンソースのコーディングエージェント。Claude Codeの代替として注目を集めているプロジェクト。",
+      "tags": [
+        "coding-agent",
+        "open-source",
+        "ai-coding"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 50,
+      "summary_oneline": "ネイティブAI機能を備えたフェアコードのワークフロー自動化プラットフォーム。400以上の統合をサポート。",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "open-source"
+      ],
+      "published_at": "2026-09-06T20:02:05Z"
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 48,
+      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなAIインターフェース。セルフホスト可能。",
+      "tags": [
+        "ai-ui",
+        "open-source",
+        "ollama"
+      ],
+      "published_at": "2026-09-06T22:01:00Z"
+    },
+    {
+      "id": "gh-trending-dietrichgebert-ponytail",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 45,
+      "summary_oneline": "AIエージェントに「最も怠惰なシニア開発者」の思考を持たせるツール。コードを書かない選択を促す設計。",
+      "tags": [
+        "ai-agent",
+        "coding",
+        "productivity"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-nousresearch-hermes-agent",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 45,
+      "summary_oneline": "NousResearchが開発した成長型AIエージェント。オープンソースのエージェントフレームワーク。",
+      "tags": [
+        "ai-agent",
+        "open-source",
+        "llm"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-aipoch-open-science",
+      "source": "github",
+      "title": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "score": 45,
+      "summary_oneline": "macOS・Windows・Linux対応のローカルファーストなAI研究ワークベンチ。Python/Rノートブックと科学エージェントを搭載。",
+      "tags": [
+        "ai-research",
+        "open-source",
+        "data-science"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 45,
+      "summary_oneline": "誰もが使えるアクセシブルなAIを目指すAutoGPT。ツールとインフラを提供するオープンソースプロジェクト。",
+      "tags": [
+        "ai-agent",
+        "open-source",
+        "autonomous"
+      ],
+      "published_at": "2026-09-06T22:00:32Z"
     },
     {
       "id": "gh-trending-humanlayer-skills",
       "source": "github",
       "title": "humanlayer/skills",
       "url": "https://github.com/humanlayer/skills",
-      "score": 60,
-      "summary_oneline": "humanlayerによるエージェントスキルリポジトリ。",
+      "score": 42,
+      "summary_oneline": "humanlayerが公開したスキルリポジトリ。人間監視型AIエージェント向けのスキル集。",
       "tags": [
         "skills",
-        "agent",
-        "humanlayer"
+        "human-in-loop",
+        "agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-blader-humanizer",
+      "source": "github",
+      "title": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "score": 40,
+      "summary_oneline": "テキストからAI生成の痕跡を除去するエージェントスキル。ライティングの自然さを向上させる。",
+      "tags": [
+        "skill",
+        "writing",
+        "ai-detection"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-the-swarm-corporation-autohedge",
+      "source": "github",
+      "title": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "score": 40,
+      "summary_oneline": "AIエージェントと群知能を活用した自律型ヘッジファンド構築ツール。市場分析とリスク管理を自動化。",
+      "tags": [
+        "ai-agent",
+        "finance",
+        "automation"
       ],
       "published_at": null
     }
