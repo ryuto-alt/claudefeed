@@ -1,18 +1,60 @@
 {
-  "date": "2026-09-08",
-  "generated_at": "2026-09-07T22:10:25.309Z",
+  "date": "2026-09-09",
+  "generated_at": "2026-09-08T22:10:26.143Z",
   "top": [
     {
       "id": "gh-trending-mksglu-context-mode",
       "source": "github",
       "title": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
-      "score": 82,
-      "summary_oneline": "AIコーディングエージェント向けコンテキスト最適化ツール。MCPとフックで17プラットフォームを横断管理し出力を98%削減。",
+      "score": 85,
+      "summary_oneline": "AIコーディングエージェントのコンテキストウィンドウをMCP+フックで最適化するツール。",
       "tags": [
         "mcp",
+        "hooks",
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-multica-ai-andrej-karpathy-skills",
+      "source": "github",
+      "title": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "score": 80,
+      "summary_oneline": "KarpathyのLLMコーディング知見に基づいたClaude Code動作改善用CLAUDE.mdファイル。",
+      "tags": [
         "claude-code",
-        "agent-sdk"
+        "claude-md",
+        "tips"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-cathrynlavery-diagram-design",
+      "source": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 75,
+      "summary_oneline": "Claude Code向けの38種類のSVGダイアグラムテンプレート集（Mermaid不使用）。",
+      "tags": [
+        "claude-code",
+        "diagrams",
+        "svg"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-ayghri-i-have-adhd",
+      "source": "github",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "score": 72,
+      "summary_oneline": "コーディングエージェントの回答を簡潔に整理するADHD対応スキル。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "agent"
       ],
       "published_at": null
     },
@@ -21,11 +63,11 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex・Grok Build等に対応したクロスプラットフォーム統合デスクトップアシスタント。13万スター超。",
+      "score": 71,
+      "summary_oneline": "Claude Code・Codex等を統合したクロスプラットフォーム対応デスクトップAIアシスタント。",
       "tags": [
         "claude-code",
-        "desktop-tool",
+        "desktop-app",
         "multi-agent"
       ],
       "published_at": "2026-09-07T14:03:57Z"
@@ -35,50 +77,64 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 74,
-      "summary_oneline": "Claude Codeなど向けエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を統合して提供。",
+      "score": 70,
+      "summary_oneline": "Claude Code等向けのスキル・記憶・セキュリティを含むエージェントハーネス最適化フレームワーク。",
       "tags": [
         "claude-code",
-        "agent-harness",
+        "agent-sdk",
         "skills"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-openai-skills",
+      "id": "gh-trending-obra-superpowers",
       "source": "github",
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "score": 72,
-      "summary_oneline": "OpenAI公式のCodex向けスキルカタログ。AIコーディングエージェントのスキル設計の参考資料として公開。",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 66,
+      "summary_oneline": "ソフトウェア開発向けのエージェント型スキルフレームワークと開発方法論。",
       "tags": [
         "skills",
-        "codex",
-        "agent"
+        "agent",
+        "methodology"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-ruvnet-ruflo",
+      "id": "gh-topic-1266797999",
       "source": "github",
-      "title": "ruvnet/ruflo",
-      "url": "https://github.com/ruvnet/ruflo",
-      "score": 68,
-      "summary_oneline": "Claude Code・Codex対応エージェントメタハーネス。マルチプレイヤースウォームと自律ワークフローを実現。",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 65,
+      "summary_oneline": "AIエージェントにシニア開発者的な判断で不要なコードを省かせる手法。",
       "tags": [
-        "claude-code",
-        "multi-agent",
-        "agent-harness"
+        "agent",
+        "coding",
+        "methodology"
       ],
-      "published_at": null
+      "published_at": "2026-09-07T16:27:01Z"
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 63,
+      "summary_oneline": "複数プラットフォーム向けUI/UXデザインを支援するAIスキル（Star数126K）。",
+      "tags": [
+        "skills",
+        "ui-ux",
+        "design"
+      ],
+      "published_at": "2026-09-06T11:29:23Z"
     },
     {
       "id": "gh-trending-coreyhaines31-marketingskills",
       "source": "github",
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
-      "score": 65,
-      "summary_oneline": "Claude CodeとAIエージェント向けマーケティングスキル集。SEO・CRO・コピーライティングなど実務用スキルを収録。",
+      "score": 62,
+      "summary_oneline": "Claude CodeとAIエージェント向けのマーケティング・SEO・CROスキル集。",
       "tags": [
         "claude-code",
         "skills",
@@ -87,86 +143,72 @@
       "published_at": null
     },
     {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 65,
-      "summary_oneline": "複数プラットフォームに対応したUI/UXデザインインテリジェンスを提供するAIスキル。12万5千スター超獲得。",
-      "tags": [
-        "skills",
-        "ui-ux",
-        "agent"
-      ],
-      "published_at": "2026-09-06T11:29:23Z"
-    },
-    {
       "id": "gh-topic-1024554267",
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 60,
-      "summary_oneline": "NousResearch製の汎用AIエージェント。GitHubで24万以上のスターを持つ主要オープンソースエージェント実装。",
+      "score": 44,
+      "summary_oneline": "適応型成長機能を持つ汎用AIエージェントフレームワーク（Star数243K）。",
       "tags": [
         "agent",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-09-07T21:54:28Z"
-    },
-    {
-      "id": "gh-topic-1266797999",
-      "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 58,
-      "summary_oneline": "AIエージェントの思考を効率化するツール。最小限のコードで最大の効果を狙うアプローチで13万スター超。",
-      "tags": [
-        "agent",
-        "code-generation",
-        "optimization"
-      ],
-      "published_at": "2026-09-07T16:27:01Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 58,
-      "summary_oneline": "ネイティブAI機能を備えたフェアコードのワークフロー自動化プラットフォーム。400以上の連携に対応、20万スター超。",
-      "tags": [
-        "workflow-automation",
-        "ai",
+        "llm",
         "open-source"
       ],
-      "published_at": "2026-09-07T21:09:28Z"
+      "published_at": "2026-09-08T22:05:03Z"
     },
     {
       "id": "gh-topic-626805178",
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 56,
-      "summary_oneline": "エージェントワークフローとRAGパイプラインの構築プラットフォーム。クラウドとセルフホスト両対応、15万スター超。",
+      "score": 42,
+      "summary_oneline": "RAGパイプラインとエージェントワークフロー構築に対応したAIプラットフォーム。",
       "tags": [
-        "rag",
         "agent",
+        "rag",
         "workflow"
       ],
-      "published_at": "2026-09-07T16:30:07Z"
+      "published_at": "2026-09-08T21:30:23Z"
     },
     {
-      "id": "gh-trending-bytedance-deer-flow",
+      "id": "gh-topic-193215554",
       "source": "github",
-      "title": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "score": 55,
-      "summary_oneline": "ByteDance製の長時間タスク対応スーパーエージェントハーネス。サブエージェントとサンドボックスで複雑タスクを処理。",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 41,
+      "summary_oneline": "ネイティブAI機能を持つオープンソースのワークフロー自動化プラットフォーム。",
+      "tags": [
+        "workflow",
+        "automation",
+        "ai"
+      ],
+      "published_at": "2026-09-08T21:57:12Z"
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 40,
+      "summary_oneline": "誰でも利用・構築できるAIアクセシビリティを目指す自律型AIエージェントプラットフォーム。",
       "tags": [
         "agent",
-        "multi-agent",
-        "research"
+        "autogpt",
+        "open-source"
+      ],
+      "published_at": "2026-09-08T22:02:13Z"
+    },
+    {
+      "id": "gh-trending-openai-skills",
+      "source": "github",
+      "title": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "score": 38,
+      "summary_oneline": "OpenAI CodexのスキルカタログとAPIリファレンス。",
+      "tags": [
+        "codex",
+        "skills",
+        "openai"
       ],
       "published_at": null
     },
@@ -175,40 +217,12 @@
       "source": "github",
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "score": 55,
-      "summary_oneline": "OfficeドキュメントやPDFをMarkdownに変換するMicrosoft公式のPythonライブラリ。",
+      "score": 37,
+      "summary_oneline": "ファイルやOffice文書をMarkdownに変換するMicrosoft製Pythonツール。",
       "tags": [
-        "document-conversion",
-        "python",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 55,
-      "summary_oneline": "汎用AIエージェントの先駆けAutGPT。アクセシブルなAIビジョンを掲げたオープンソースエージェント基盤、18万スター超。",
-      "tags": [
-        "agent",
-        "autogpt",
-        "open-source"
-      ],
-      "published_at": "2026-09-07T22:06:21Z"
-    },
-    {
-      "id": "gh-trending-the-swarm-corporation-autohedge",
-      "source": "github",
-      "title": "The-Swarm-Corporation/AutoHedge",
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "score": 52,
-      "summary_oneline": "スウォームインテリジェンスを活用した自律型ヘッジファンド構築システム。AIエージェントで市場分析と取引を自動化。",
-      "tags": [
-        "agent",
-        "finance-automation",
-        "swarm"
+        "markdown",
+        "tool",
+        "python"
       ],
       "published_at": null
     },
@@ -217,66 +231,52 @@
       "source": "github",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 50,
-      "summary_oneline": "Ollama・OpenAI API対応のオープンソースAIインターフェース。15万以上のスターを持つ人気のUIツール。",
+      "score": 36,
+      "summary_oneline": "Ollama・OpenAI API等に対応するオープンソースのAI WebUI。",
       "tags": [
-        "ai-ui",
-        "open-source",
-        "ollama"
+        "llm",
+        "webui",
+        "open-source"
       ],
-      "published_at": "2026-09-07T18:46:50Z"
+      "published_at": "2026-09-08T20:54:17Z"
+    },
+    {
+      "id": "gh-trending-browser-use-browser-use",
+      "source": "github",
+      "title": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "score": 35,
+      "summary_oneline": "AIエージェントによるWebブラウザ操作を可能にするオープンソースライブラリ。",
+      "tags": [
+        "web-automation",
+        "agent",
+        "browser"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-574523116",
       "source": "github",
       "title": "f/prompts.chat",
       "url": "https://github.com/f/prompts.chat",
-      "score": 48,
-      "summary_oneline": "AIプロンプト共有・発見コミュニティ（旧Awesome ChatGPT Prompts）。セルフホスト対応のオープンソース版も提供。",
+      "score": 35,
+      "summary_oneline": "AIプロンプトをコミュニティで共有・発見できるオープンソースプラットフォーム。",
       "tags": [
         "prompts",
         "community",
-        "open-source"
+        "llm"
       ],
       "published_at": "2026-09-06T03:17:52Z"
-    },
-    {
-      "id": "gh-trending-lightpanda-io-browser",
-      "source": "github",
-      "title": "lightpanda-io/browser",
-      "url": "https://github.com/lightpanda-io/browser",
-      "score": 45,
-      "summary_oneline": "AI・自動化向けに設計された軽量ヘッドレスブラウザ。オープンソースで高速なブラウザ操作を提供。",
-      "tags": [
-        "headless-browser",
-        "automation",
-        "ai"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-jo-inc-camofox-browser",
-      "source": "github",
-      "title": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "score": 44,
-      "summary_oneline": "Cloudflare等のボット検知を回避するAIエージェント向けステルスヘッドレスブラウザ。Playwright互換のドロップイン代替。",
-      "tags": [
-        "headless-browser",
-        "stealth",
-        "agent"
-      ],
-      "published_at": null
     },
     {
       "id": "gh-trending-heygen-com-hyperframes",
       "source": "github",
       "title": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "score": 42,
-      "summary_oneline": "HTMLを記述して動画をレンダリングするエージェント向けフレームワーク。HeyGen製のオープンソースツール。",
+      "score": 34,
+      "summary_oneline": "HTMLからビデオをレンダリングするエージェント向けフレームワーク。",
       "tags": [
-        "video-generation",
+        "video",
         "agent",
         "html"
       ],
