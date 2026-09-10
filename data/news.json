@@ -1,34 +1,48 @@
 {
   "date": "2026-09-10",
-  "generated_at": "2026-09-09T22:09:31.284Z",
+  "generated_at": "2026-09-10T22:09:25.545Z",
   "top": [
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 85,
+      "summary_oneline": "Claude CodeやCodexなど向けエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を提供。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": "2026-09-10T20:57:26Z"
+    },
+    {
+      "id": "gh-trending-vercel-labs-skills",
+      "source": "github",
+      "title": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "score": 83,
+      "summary_oneline": "Vercel公式のオープンエージェントスキルツール。npxコマンドで即実行できるスキルフレームワーク。",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "claude-code"
+      ],
+      "published_at": null
+    },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 85,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応するクロスプラットフォーム統合デスクトップアシスタント",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・OpenCode等に対応するクロスプラットフォームAll-in-Oneデスクトップアシスタント。",
       "tags": [
         "claude-code",
         "desktop-app",
-        "multi-agent"
+        "agent-tools"
       ],
-      "published_at": "2026-09-09T14:14:10Z"
-    },
-    {
-      "id": "gh-trending-affaan-m-ecc",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude Code向けエージェントハーネス最適化システム。Skills・メモリ・セキュリティ機能を含む",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": null
+      "published_at": "2026-09-10T18:35:24Z"
     },
     {
       "id": "gh-trending-cathrynlavery-diagram-design",
@@ -36,39 +50,25 @@
       "title": "cathrynlavery/diagram-design",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "score": 78,
-      "summary_oneline": "Claude Code・Codex向け38種類の編集ダイアグラムタイプ。HTML+SVGで自己完結",
+      "summary_oneline": "Claude Code・Codex向けの38種類エディトリアルダイアグラム集。HTML+SVGで自己完結型、Mermaid不使用。",
       "tags": [
         "claude-code",
-        "diagram",
+        "diagrams",
         "svg"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-pascalorg-editor",
+      "id": "gh-trending-diegosouzapw-omniroute",
       "source": "github",
-      "title": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "score": 68,
-      "summary_oneline": "ローカルCLI・MCPツール・AIエージェントワークフローを備えたオープンソース3D建築エディタ",
+      "title": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "score": 76,
+      "summary_oneline": "352プロバイダ・1200以上モデル対応のMIT AIゲートウェイ。Claude Code・Cursor等と互換性あり。",
       "tags": [
-        "mcp",
-        "3d-editor",
-        "agent-workflow"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-obra-superpowers",
-      "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 65,
-      "summary_oneline": "実用的なSkillsフレームワークとソフトウェア開発メソドロジーを組み合わせたエージェント基盤",
-      "tags": [
-        "agent-sdk",
-        "skills",
-        "methodology"
+        "claude-code",
+        "ai-gateway",
+        "llm-providers"
       ],
       "published_at": null
     },
@@ -77,26 +77,54 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 63,
-      "summary_oneline": "マルチプラットフォーム向けプロフェッショナルUI/UX設計知能を提供するAIスキル",
+      "score": 75,
+      "summary_oneline": "マルチプラットフォームでプロ品質のUI/UXを構築するためのAIスキル。デザインインテリジェンスを提供。",
       "tags": [
         "skills",
         "ui-ux",
-        "ai-skill"
+        "claude-code"
       ],
-      "published_at": "2026-09-06T11:29:23Z"
+      "published_at": "2026-09-10T06:53:40Z"
+    },
+    {
+      "id": "gh-trending-obra-superpowers",
+      "source": "github",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 72,
+      "summary_oneline": "実績のあるエージェンティックスキルフレームワーク兼ソフトウェア開発方法論。",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "methodology"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-vastsa-pi-desktop",
+      "source": "github",
+      "title": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "score": 70,
+      "summary_oneline": "Electron+Rustベースのローカルファーストなコーディングエージェントデスクトップ。プラグイン対応。",
+      "tags": [
+        "coding-agent",
+        "desktop-app",
+        "plugins"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-ayghri-i-have-adhd",
       "source": "github",
       "title": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "score": 60,
-      "summary_oneline": "コーディングエージェントの出力を整理しADHDフレンドリーな表示にするスキル",
+      "score": 68,
+      "summary_oneline": "コーディングエージェントの出力をADHDフレンドリーに整理するスキル。回答を埋もれさせない工夫。",
       "tags": [
-        "agent-skill",
-        "coding-agent",
-        "ux"
+        "skills",
+        "claude-code",
+        "productivity"
       ],
       "published_at": null
     }
