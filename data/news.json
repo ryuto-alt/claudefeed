@@ -1,20 +1,20 @@
 {
-  "date": "2026-09-12",
-  "generated_at": "2026-09-11T22:09:23.369Z",
+  "date": "2026-09-13",
+  "generated_at": "2026-09-12T22:08:42.416Z",
   "top": [
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 88,
-      "summary_oneline": "Claude Codeなどのコーディングエージェント向けハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
+      "score": 85,
+      "summary_oneline": "Claude CodeやCodexなど向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を提供。",
       "tags": [
         "claude-code",
-        "agent-harness",
+        "agent-sdk",
         "skills"
       ],
-      "published_at": "2026-09-10T20:57:26Z"
+      "published_at": "2026-09-12T11:45:41Z"
     },
     {
       "id": "gh-topic-1031912724",
@@ -22,53 +22,39 @@
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "score": 80,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数エージェントに対応するオールインワンデスクトップ管理ツール。",
+      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームのAll-in-OneデスクトップアシスタントOSS。",
       "tags": [
         "claude-code",
-        "desktop-tool",
-        "agent"
+        "desktop-app",
+        "tool"
       ],
-      "published_at": "2026-09-11T15:33:41Z"
+      "published_at": "2026-09-12T12:29:06Z"
     },
     {
-      "id": "gh-trending-obra-superpowers",
+      "id": "gh-trending-asgeirtj-system-prompts-leaks",
       "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 73,
-      "summary_oneline": "ソフトウェア開発に特化したエージェントスキルフレームワークと開発方法論。",
+      "title": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "score": 75,
+      "summary_oneline": "Claude Code・Fable 5.1・Opus 5等のシステムプロンプトを抽出・公開しているリポジトリ。定期更新あり。",
       "tags": [
-        "agent-sdk",
-        "skills",
-        "methodology"
+        "claude-code",
+        "system-prompt",
+        "security"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-pascalorg-editor",
+      "id": "gh-trending-max-sixty-worktrunk",
       "source": "github",
-      "title": "pascalorg/editor",
-      "url": "https://github.com/pascalorg/editor",
-      "score": 72,
-      "summary_oneline": "MCP対応のオープンソース3D建築エディタ。AIエージェントとの実用的なワークフローをサポート。",
+      "title": "max-sixty/worktrunk",
+      "url": "https://github.com/max-sixty/worktrunk",
+      "score": 68,
+      "summary_oneline": "AIエージェントの並列ワークフロー向けにGit worktreeを管理するCLIツール。",
       "tags": [
-        "mcp",
-        "agent",
-        "3d-editor"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-ayghri-i-have-adhd",
-      "source": "github",
-      "title": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "score": 70,
-      "summary_oneline": "コーディングエージェントの出力を整理し、重要な回答を埋もれさせないためのスキル。",
-      "tags": [
-        "claude-code",
-        "skills",
-        "agent"
+        "git",
+        "agent-workflow",
+        "cli"
       ],
       "published_at": null
     },
@@ -77,26 +63,26 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 66,
-      "summary_oneline": "複数プラットフォーム向けにプロフェッショナルなUI/UXデザインを提供するAIスキル。",
+      "score": 65,
+      "summary_oneline": "複数プラットフォーム向けUIデザインインテリジェンスを提供するAIスキル。",
       "tags": [
         "skills",
         "ui-ux",
-        "agent"
+        "claude-code"
       ],
       "published_at": "2026-09-10T06:53:40Z"
     },
     {
-      "id": "gh-trending-vastsa-pi-desktop",
+      "id": "gh-trending-snailsploit-claude-red",
       "source": "github",
-      "title": "vastsa/PI-Desktop",
-      "url": "https://github.com/vastsa/PI-Desktop",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
       "score": 63,
-      "summary_oneline": "Electron＋Rustベースのローカルファーストなコーディングエージェントデスクトップアプリ。プラグイン対応。",
+      "summary_oneline": "Claudeスキルシステム向けにオフェンシブセキュリティ手法を構造化したSKILL.mdライブラリ集。",
       "tags": [
-        "agent",
-        "desktop",
-        "coding"
+        "skills",
+        "security",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -105,82 +91,26 @@
       "source": "github",
       "title": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
-      "score": 62,
-      "summary_oneline": "Claude基盤の自律型AIトレーディングエージェント。1000以上の市場とDEXに対応してセルフホスト可能。",
+      "score": 55,
+      "summary_oneline": "Claude上に構築した1000以上の市場で自律動作するオープンソースAIトレーディングエージェント。",
       "tags": [
         "claude",
-        "trading-agent",
-        "autonomous"
+        "agent",
+        "trading"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1266797999",
+      "id": "gh-trending-shubhamsaboo-awesome-llm-apps",
       "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 62,
-      "summary_oneline": "AIエージェントに熟練開発者的な思考を持たせ、不要なコード生成を減らすツール。",
-      "tags": [
-        "agent",
-        "coding",
-        "productivity"
-      ],
-      "published_at": "2026-09-07T16:27:01Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 58,
-      "summary_oneline": "RAGパイプラインとエージェントワークフローを統合したオープンソースAIプラットフォーム。クラウド・自己ホスト対応。",
-      "tags": [
-        "llm",
-        "rag",
-        "agent-workflow"
-      ],
-      "published_at": "2026-09-11T19:17:46Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 56,
-      "summary_oneline": "ネイティブAI機能を内蔵したセルフホスト可能なワークフロー自動化プラットフォーム。400以上のインテグレーション対応。",
-      "tags": [
-        "automation",
-        "workflow",
-        "ai"
-      ],
-      "published_at": "2026-09-11T21:17:41Z"
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
+      "title": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "score": 55,
-      "summary_oneline": "NousResearchによる「成長し続けるエージェント」をコンセプトにした汎用エージェントフレームワーク。",
+      "summary_oneline": "AIエージェント・スキル・RAGアプリ100件以上のオープンソースコレクション。",
       "tags": [
         "agent",
-        "llm",
-        "open-source"
-      ],
-      "published_at": "2026-09-11T21:10:41Z"
-    },
-    {
-      "id": "gh-trending-github-spec-kit",
-      "source": "github",
-      "title": "github/spec-kit",
-      "url": "https://github.com/github/spec-kit",
-      "score": 54,
-      "summary_oneline": "仕様駆動開発（Spec-Driven Development）を始めるためのGitHub公式ツールキット。",
-      "tags": [
-        "spec-driven",
-        "github",
-        "development"
+        "skills",
+        "llm"
       ],
       "published_at": null
     },
@@ -190,7 +120,7 @@
       "title": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "score": 52,
-      "summary_oneline": "MCP対応のオープンソースAI搭載CRM。WhatsApp連携とマルチテナントをサポート。",
+      "summary_oneline": "MCP対応のセルフホスト型AIエージェント内蔵CRM。WhatsApp統合とマルチテナント機能付き。",
       "tags": [
         "mcp",
         "crm",
@@ -199,86 +129,156 @@
       "published_at": null
     },
     {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 52,
+      "summary_oneline": "NousResearchが公開したオープンソースのエージェントフレームワーク「hermes-agent」。",
+      "tags": [
+        "agent",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-09-12T21:08:33Z"
+    },
+    {
+      "id": "gh-topic-1266797999",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 52,
+      "summary_oneline": "既存コードの再利用を促し「最も怠惰なシニアデベロッパー」的思考を実現するAIエージェントツール。",
+      "tags": [
+        "agent",
+        "coding",
+        "ai-tool"
+      ],
+      "published_at": "2026-09-07T16:27:01Z"
+    },
+    {
+      "id": "gh-trending-vxcontrol-pentagi",
+      "source": "github",
+      "title": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "score": 52,
+      "summary_oneline": "ペネトレーションテストタスクを自律実行するフルスタックAIエージェントシステム。",
+      "tags": [
+        "agent",
+        "pentesting",
+        "security"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 52,
+      "summary_oneline": "ネイティブAI機能搭載のセルフホスト可能なワークフロー自動化プラットフォーム。400以上の統合に対応。",
+      "tags": [
+        "workflow",
+        "automation",
+        "ai"
+      ],
+      "published_at": "2026-09-12T21:34:37Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 52,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるオープンソースのAI開発プラットフォーム。",
+      "tags": [
+        "rag",
+        "agent-workflow",
+        "platform"
+      ],
+      "published_at": "2026-09-12T17:38:20Z"
+    },
+    {
       "id": "gh-topic-701547123",
       "source": "github",
       "title": "open-webui/open-webui",
       "url": "https://github.com/open-webui/open-webui",
-      "score": 52,
-      "summary_oneline": "Ollama・OpenAI APIなどに対応したユーザーフレンドリーなセルフホストAIチャットUI。",
+      "score": 50,
+      "summary_oneline": "Ollama・OpenAI API等に対応したセルフホスト型AIチャットインターフェース。",
       "tags": [
         "llm",
-        "ui",
-        "open-source"
+        "open-source",
+        "ui"
       ],
-      "published_at": "2026-09-10T23:05:38Z"
+      "published_at": "2026-09-12T21:56:16Z"
     },
     {
       "id": "gh-topic-614765452",
       "source": "github",
       "title": "Significant-Gravitas/AutoGPT",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 52,
-      "summary_oneline": "誰でも利用・構築できるAIを目指すオープンソースの汎用エージェントフレームワーク。",
-      "tags": [
-        "agent",
-        "llm",
-        "autonomous"
-      ],
-      "published_at": "2026-09-11T19:54:21Z"
-    },
-    {
-      "id": "gh-trending-alphaxiv-openresearch",
-      "source": "github",
-      "title": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "score": 50,
-      "summary_oneline": "任意のモデルで並列リサーチエージェントを実行できるオープンソースツール。",
-      "tags": [
-        "agent",
-        "research",
-        "multi-model"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-jordan-gibbs-hyperresearch",
-      "source": "github",
-      "title": "jordan-gibbs/hyperresearch",
-      "url": "https://github.com/jordan-gibbs/hyperresearch",
-      "score": 50,
-      "summary_oneline": "エージェントがウェブリサーチを収集・検索・統合し、持続的な知識ベースとして管理するツール。",
-      "tags": [
-        "agent",
-        "research",
-        "knowledge-base"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-nashsu-llm-wiki",
-      "source": "github",
-      "title": "nashsu/llm_wiki",
-      "url": "https://github.com/nashsu/llm_wiki",
       "score": 48,
-      "summary_oneline": "ドキュメントを自動的に整理・相互リンクするウィキ知識ベースをインクリメンタルに構築するアプリ。",
+      "summary_oneline": "誰でも使えるオープンソースのAIエージェントプラットフォーム「AutoGPT」の最新リリース。",
       "tags": [
-        "llm",
-        "knowledge-base",
-        "rag"
+        "agent",
+        "open-source",
+        "llm"
       ],
-      "published_at": null
+      "published_at": "2026-09-12T19:12:34Z"
     },
     {
       "id": "gh-trending-jihe520-mathmodelagent",
       "source": "github",
       "title": "jihe520/MathModelAgent",
       "url": "https://github.com/jihe520/MathModelAgent",
-      "score": 45,
-      "summary_oneline": "数学モデリングを自動化し、提出可能な論文を生成するAIエージェント。",
+      "score": 48,
+      "summary_oneline": "数学モデリングに特化したAIエージェント。スキルを活用して完成論文を自動生成する。",
       "tags": [
         "agent",
         "math",
+        "ai"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 47,
+      "summary_oneline": "コミュニティでプロンプトを共有・発見・収集できるオープンソースサービス（旧Awesome ChatGPT Prompts）。",
+      "tags": [
+        "prompts",
+        "open-source",
         "llm"
+      ],
+      "published_at": "2026-09-09T10:27:05Z"
+    },
+    {
+      "id": "gh-trending-multimodal-art-projection-yue",
+      "source": "github",
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "score": 45,
+      "summary_oneline": "YuE2：シンボリックプランニングとゼロショットカバーを備えたフロンティア音楽生成モデル。",
+      "tags": [
+        "music-generation",
+        "ai",
+        "multimodal"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-bilawalsidhu-gods-eye-view",
+      "source": "github",
+      "title": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "score": 30,
+      "summary_oneline": "ブラウザ上でリアルタイムオープンソース空間インテリジェンスを表示する3D地球儀アプリ。",
+      "tags": [
+        "satellite",
+        "spatial",
+        "visualization"
       ],
       "published_at": null
     }
