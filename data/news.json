@@ -1,46 +1,46 @@
 {
-  "date": "2026-09-14",
-  "generated_at": "2026-09-13T22:09:21.898Z",
+  "date": "2026-09-15",
+  "generated_at": "2026-09-14T22:10:34.133Z",
   "top": [
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 90,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームデスクトップ統合ツール",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-09-13T15:41:36Z"
-    },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 88,
-      "summary_oneline": "Claude CodeやCursor向けエージェントハーネスの最適化システム（スキル・メモリ・セキュリティ対応）",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス性能最適化システム。スキル・記憶・セキュリティ機能を統合提供。",
       "tags": [
         "claude-code",
-        "agent-harness",
+        "agent-sdk",
         "skills"
       ],
-      "published_at": "2026-09-12T11:45:41Z"
+      "published_at": "2026-09-14T04:55:52Z"
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex・OpenCode等を統合管理するAll-in-Oneデスクトップアシスタント。クロスプラットフォーム対応。",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "coding-tools"
+      ],
+      "published_at": "2026-09-14T09:09:19Z"
     },
     {
       "id": "gh-trending-tech-leads-club-agent-skills",
       "source": "github",
       "title": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
-      "score": 85,
-      "summary_oneline": "Claude Code・Cursor等のAIコーディングエージェント向けセキュアなスキルレジストリ",
+      "score": 75,
+      "summary_oneline": "Claude Code・Cursor・Copilot等向けのセキュアで検証済みスキルレジストリ。プロのAIコーディングエージェントを安全に拡張可能。",
       "tags": [
         "claude-code",
         "skills",
-        "ai-agent"
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -49,39 +49,11 @@
       "source": "github",
       "title": "asgeirtj/system_prompts_leaks",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "score": 72,
-      "summary_oneline": "Claude Code・Opus 5等Anthropic製モデルのシステムプロンプトを収集・公開するリポジトリ",
+      "score": 65,
+      "summary_oneline": "Claude Fable 5.1・Opus 5・Claude Code等のシステムプロンプト流出集。OpenAI・Google・xAIも収録、定期更新。",
       "tags": [
         "claude-code",
-        "anthropic",
-        "system-prompts"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-snailsploit-claude-red",
-      "source": "github",
-      "title": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "score": 68,
-      "summary_oneline": "Claude Skillsシステム向けオフェンシブセキュリティスキルライブラリ（SQLi・EDR回避等）",
-      "tags": [
-        "claude-skills",
-        "security",
-        "offensive"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-alibaba-open-code-review",
-      "source": "github",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "score": 65,
-      "summary_oneline": "Alibabaのコードレビューツール、LLMエージェントとAnthropic互換APIに対応",
-      "tags": [
-        "code-review",
-        "llm-agent",
+        "system-prompt",
         "anthropic"
       ],
       "published_at": null
@@ -91,194 +63,40 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 62,
-      "summary_oneline": "複数プラットフォームのUI/UX設計に対応するAIスキル",
+      "score": 63,
+      "summary_oneline": "複数プラットフォーム向けのUI/UXデザインインテリジェンスを提供するAIスキル。プロのデザイン支援を実現。",
       "tags": [
-        "ai-skills",
+        "skills",
         "ui-ux",
-        "multi-platform"
+        "ai-design"
       ],
       "published_at": "2026-09-10T06:53:40Z"
     },
     {
-      "id": "gh-trending-justvugg-colibri",
+      "id": "gh-trending-alibaba-open-code-review",
       "source": "github",
-      "title": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 58,
-      "summary_oneline": "既存ハードウェアでフロンティアMoEモデルを動かす純Cゼロ依存軽量エンジン",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 62,
+      "summary_oneline": "Alibaba製OSSコードレビューツール。決定論的パイプライン+LLMエージェントのハイブリッド構成でAnthropicやOpenAI APIに対応。",
       "tags": [
-        "llm",
-        "inference",
-        "open-source"
+        "code-review",
+        "llm-agent",
+        "anthropic"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-alphaxiv-openresearch",
+      "id": "gh-trending-snailsploit-claude-red",
       "source": "github",
-      "title": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "score": 55,
-      "summary_oneline": "任意のモデルで並列リサーチエージェントを実行するオープンソースフレームワーク",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "score": 60,
+      "summary_oneline": "Claudeスキルシステム向けの攻撃的セキュリティスキルライブラリ。SQLiからシェルコード・EDR回避まで専門手法を収録。",
       "tags": [
-        "research-agent",
-        "multi-agent",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-huggingface-transformers",
-      "source": "github",
-      "title": "huggingface/transformers",
-      "url": "https://github.com/huggingface/transformers",
-      "score": 55,
-      "summary_oneline": "HuggingFaceのテキスト・音声・画像・マルチモーダル向け主要MLモデル定義フレームワーク",
-      "tags": [
-        "huggingface",
-        "llm",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1266797999",
-      "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 55,
-      "summary_oneline": "AIエージェントに「最もズボラなシニア開発者」の思考様式を与えるコード最適化ツール",
-      "tags": [
-        "ai-agent",
-        "developer-tools",
-        "code-generation"
-      ],
-      "published_at": "2026-09-07T16:27:01Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 55,
-      "summary_oneline": "ネイティブAI機能付きオープンソースワークフロー自動化プラットフォーム（400+統合対応）",
-      "tags": [
-        "workflow-automation",
-        "ai",
-        "open-source"
-      ],
-      "published_at": "2026-09-13T20:43:41Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 55,
-      "summary_oneline": "クラウド・VPC・セルフホスト対応のエージェントワークフロー・RAGパイプライン構築プラットフォーム",
-      "tags": [
-        "ai-agent",
-        "rag",
-        "workflow-automation"
-      ],
-      "published_at": "2026-09-13T13:38:53Z"
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 50,
-      "summary_oneline": "NousResearchが開発する自律成長型AIエージェントフレームワーク",
-      "tags": [
-        "ai-agent",
-        "open-source",
-        "nlp"
-      ],
-      "published_at": "2026-09-13T22:06:59Z"
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 50,
-      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなAIインターフェース",
-      "tags": [
-        "ai-interface",
-        "ollama",
-        "open-source"
-      ],
-      "published_at": "2026-09-13T00:23:51Z"
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 50,
-      "summary_oneline": "誰でも使えるAIの民主化を目指すAutoGPTエージェントフレームワーク",
-      "tags": [
-        "ai-agent",
-        "open-source",
-        "autonomous"
-      ],
-      "published_at": "2026-09-13T20:09:37Z"
-    },
-    {
-      "id": "gh-trending-melgarafael-deskcommcrm",
-      "source": "github",
-      "title": "melgarafael/DeskcommCRM",
-      "url": "https://github.com/melgarafael/DeskcommCRM",
-      "score": 48,
-      "summary_oneline": "WhatsApp対応のセルフホスト型AIセールスCRM（MCP対応・マルチテナント）",
-      "tags": [
-        "crm",
-        "mcp",
-        "ai-sales"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-calesthio-openmontage",
-      "source": "github",
-      "title": "calesthio/OpenMontage",
-      "url": "https://github.com/calesthio/OpenMontage",
-      "score": 45,
-      "summary_oneline": "AIコーディングアシスタントを動画プロダクションスタジオに変える100+ツール群",
-      "tags": [
-        "video-production",
-        "ai-agent",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-vxcontrol-pentagi",
-      "source": "github",
-      "title": "vxcontrol/pentagi",
-      "url": "https://github.com/vxcontrol/pentagi",
-      "score": 42,
-      "summary_oneline": "複雑なペネトレーションテストを自律実行できるAIエージェントシステム",
-      "tags": [
-        "penetration-testing",
-        "ai-agent",
+        "claude-code",
+        "skills",
         "security"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-jihe520-mathmodelagent",
-      "source": "github",
-      "title": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "score": 40,
-      "summary_oneline": "数学モデリング専用エージェント・スキル集、論文自動生成付き",
-      "tags": [
-        "math-modeling",
-        "ai-agent",
-        "paper-generation"
       ],
       "published_at": null
     }
