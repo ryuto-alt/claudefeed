@@ -1,60 +1,46 @@
 {
   "date": "2026-09-15",
-  "generated_at": "2026-09-14T22:10:34.133Z",
+  "generated_at": "2026-09-15T22:08:14.571Z",
   "top": [
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス性能最適化システム。スキル・記憶・セキュリティ機能を統合提供。",
-      "tags": [
-        "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": "2026-09-14T04:55:52Z"
-    },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex・OpenCode等を統合管理するAll-in-Oneデスクトップアシスタント。クロスプラットフォーム対応。",
+      "score": 83,
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど主要コーディングエージェントを統合管理するオールインワンデスクトップアプリ",
       "tags": [
         "claude-code",
         "desktop-app",
-        "coding-tools"
+        "coding-agent"
       ],
-      "published_at": "2026-09-14T09:09:19Z"
+      "published_at": "2026-09-15T04:33:49Z"
     },
     {
-      "id": "gh-trending-tech-leads-club-agent-skills",
+      "id": "gh-topic-1136590548",
       "source": "github",
-      "title": "tech-leads-club/agent-skills",
-      "url": "https://github.com/tech-leads-club/agent-skills",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 82,
+      "summary_oneline": "Claude Codeほか複数エージェントのパフォーマンス最適化ハーネス。スキル・メモリ・セキュリティを統合管理",
+      "tags": [
+        "claude-code",
+        "agent-optimization",
+        "skills"
+      ],
+      "published_at": "2026-09-15T19:33:00Z"
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
       "score": 75,
-      "summary_oneline": "Claude Code・Cursor・Copilot等向けのセキュアで検証済みスキルレジストリ。プロのAIコーディングエージェントを安全に拡張可能。",
+      "summary_oneline": "AIコーディングエージェント向けプロダクションレディなエンジニアリングスキル集",
       "tags": [
-        "claude-code",
-        "skills",
-        "agent-sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-asgeirtj-system-prompts-leaks",
-      "source": "github",
-      "title": "asgeirtj/system_prompts_leaks",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "score": 65,
-      "summary_oneline": "Claude Fable 5.1・Opus 5・Claude Code等のシステムプロンプト流出集。OpenAI・Google・xAIも収録、定期更新。",
-      "tags": [
-        "claude-code",
-        "system-prompt",
-        "anthropic"
+        "agent-skills",
+        "coding-agent",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -63,14 +49,42 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 63,
-      "summary_oneline": "複数プラットフォーム向けのUI/UXデザインインテリジェンスを提供するAIスキル。プロのデザイン支援を実現。",
+      "score": 67,
+      "summary_oneline": "複数プラットフォーム向けプロUI/UX構築を支援するAIスキルモジュール",
       "tags": [
         "skills",
         "ui-ux",
-        "ai-design"
+        "coding-agent"
       ],
-      "published_at": "2026-09-10T06:53:40Z"
+      "published_at": "2026-09-15T09:29:30Z"
+    },
+    {
+      "id": "gh-trending-danny-avila-librechat",
+      "source": "github",
+      "title": "danny-avila/LibreChat",
+      "url": "https://github.com/danny-avila/LibreChat",
+      "score": 65,
+      "summary_oneline": "Agents・MCP・Skills・Anthropic対応の高機能オープンソースChatGPTクローン（セルフホスト可）",
+      "tags": [
+        "mcp",
+        "skills",
+        "llm-ui"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-pacifio-atlas",
+      "source": "github",
+      "title": "pacifio/atlas",
+      "url": "https://github.com/pacifio/atlas",
+      "score": 63,
+      "summary_oneline": "複数コーディングエージェントの変更を一元追跡・クエリ可能なエージェント向けソース管理ツール",
+      "tags": [
+        "coding-agent",
+        "source-control",
+        "multi-agent"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-alibaba-open-code-review",
@@ -78,7 +92,7 @@
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
       "score": 62,
-      "summary_oneline": "Alibaba製OSSコードレビューツール。決定論的パイプライン+LLMエージェントのハイブリッド構成でAnthropicやOpenAI APIに対応。",
+      "summary_oneline": "Anthropic互換LLMエージェントを使ったハイブリッドアーキテクチャのコードレビューツール（アリババ製）",
       "tags": [
         "code-review",
         "llm-agent",
@@ -87,18 +101,32 @@
       "published_at": null
     },
     {
-      "id": "gh-trending-snailsploit-claude-red",
+      "id": "gh-trending-earendil-works-pi",
       "source": "github",
-      "title": "SnailSploit/Claude-Red",
-      "url": "https://github.com/SnailSploit/Claude-Red",
-      "score": 60,
-      "summary_oneline": "Claudeスキルシステム向けの攻撃的セキュリティスキルライブラリ。SQLiからシェルコード・EDR回避まで専門手法を収録。",
+      "title": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "score": 62,
+      "summary_oneline": "統合LLM API・エージェントループ・TUI・コーディングエージェントCLIを備えたAIエージェントツールキット",
       "tags": [
-        "claude-code",
-        "skills",
-        "security"
+        "agent-toolkit",
+        "coding-agent",
+        "cli"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-1266797999",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 60,
+      "summary_oneline": "「最も怠惰な上級開発者」の思考パターンを模倣し、AIエージェントに最小コードで最大効果を出させるツール",
+      "tags": [
+        "coding-agent",
+        "ai-agent",
+        "optimization"
+      ],
+      "published_at": "2026-09-14T14:34:56Z"
     }
   ],
   "extras": []
