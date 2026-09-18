@@ -1,46 +1,18 @@
 {
   "date": "2026-09-18",
-  "generated_at": "2026-09-17T22:10:07.573Z",
+  "generated_at": "2026-09-18T22:08:00.601Z",
   "top": [
-    {
-      "id": "gh-trending-cloudflare-security-audit-skill",
-      "source": "github",
-      "title": "cloudflare/security-audit-skill",
-      "url": "https://github.com/cloudflare/security-audit-skill",
-      "score": 82,
-      "summary_oneline": "CloudflareがClaudeスキル形式対応のマルチフェーズセキュリティ監査スキルをOSSとして公開した",
-      "tags": [
-        "claude-code",
-        "skills",
-        "security"
-      ],
-      "published_at": null
-    },
     {
       "id": "gh-trending-anthropics-claude-code",
       "source": "github",
       "title": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "score": 82,
-      "summary_oneline": "AnthropicのClaude CodeリポジトリがGitHubトレンドに登場（ターミナル常駐型agentic CLIコーディングツール）",
+      "score": 90,
+      "summary_oneline": "Claude CodeのGitHub公式リポジトリがトレンド入り。ターミナルで動作するAIコーディングエージェント。",
       "tags": [
         "claude-code",
-        "anthropic",
-        "github-trending"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-addyosmani-agent-skills",
-      "source": "github",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "score": 78,
-      "summary_oneline": "Addy OsmaniがAIコーディングエージェント向けのプロダクション品質スキル集を公開した",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "claude-code"
+        "agentic-coding",
+        "official"
       ],
       "published_at": null
     },
@@ -49,12 +21,12 @@
       "source": "github",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "score": 78,
-      "summary_oneline": "AnthropicがClaude Cowork向けナレッジワーカー用プラグイン集をOSSとして公開した",
+      "score": 88,
+      "summary_oneline": "Anthropic公式のClaude Coworkナレッジワーカー向けプラグイン集がオープンソース公開。",
       "tags": [
-        "anthropic",
-        "claude-cowork",
-        "plugins"
+        "claude-code",
+        "plugins",
+        "official"
       ],
       "published_at": null
     },
@@ -63,12 +35,40 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex等に対応したエージェントハーネス最適化システム（スキル・記憶・セキュリティ機能付き）",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex等の複数エージェント向けスキル・記憶・セキュリティ最適化ハーネスシステム。",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "skills"
+        "skills",
+        "agent-optimization"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 85,
+      "summary_oneline": "AIコーディングエージェント向けのプロダクション品質スキル集。addyosmaniによる公開。",
+      "tags": [
+        "skills",
+        "claude-code",
+        "coding-agents"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-cloudflare-security-audit-skill",
+      "source": "github",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "score": 82,
+      "summary_oneline": "Cloudflareによるコーディングエージェント向け多段階セキュリティ監査スキル。機械可読な検証済み結果を出力。",
+      "tags": [
+        "skills",
+        "security",
+        "coding-agents"
       ],
       "published_at": null
     },
@@ -77,12 +77,12 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数AIコーディングエージェントを一括管理するクロスプラットフォームデスクトップツール",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex・OpenCode等の複数エージェントを一元管理するクロスプラットフォームデスクトップアシスタント。",
       "tags": [
         "claude-code",
-        "tools",
-        "productivity"
+        "desktop-app",
+        "multi-agent"
       ],
       "published_at": "2026-09-17T18:35:01Z"
     },
@@ -91,8 +91,8 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 68,
-      "summary_oneline": "複数プラットフォーム向けのUI/UX設計インテリジェンスを提供するAIスキルが公開された（128k stars）",
+      "score": 72,
+      "summary_oneline": "複数プラットフォームでプロ品質のUI/UXを構築するためのAIスキル（128k星）。",
       "tags": [
         "skills",
         "ui-ux",
@@ -101,72 +101,30 @@
       "published_at": "2026-09-15T09:29:30Z"
     },
     {
+      "id": "gh-trending-tradesdontlie-tradingview-mcp",
+      "source": "github",
+      "title": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "score": 72,
+      "summary_oneline": "Claude CodeをTradingViewデスクトップに接続するMCPサーバー。チャート分析・個人ワークフロー自動化向け。",
+      "tags": [
+        "mcp",
+        "claude-code",
+        "workflow-automation"
+      ],
+      "published_at": null
+    },
+    {
       "id": "gh-trending-tencent-browserskill",
       "source": "github",
       "title": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
-      "score": 64,
-      "summary_oneline": "TencentがAIエージェント向けにログイン済みブラウザをそのまま使わせるCLI拡張ツールを公開した",
+      "score": 70,
+      "summary_oneline": "テンセントがAIエージェントからログイン済みブラウザを操作可能にするCLI+拡張機能を公開。",
       "tags": [
+        "skills",
         "browser-automation",
-        "agent-sdk",
-        "tools"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-alibaba-open-code-review",
-      "source": "github",
-      "title": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "score": 55,
-      "summary_oneline": "AlibabaがAnthropicとOpenAI互換のLLMエージェント搭載ハイブリッドコードレビューツールをOSSとして公開した",
-      "tags": [
-        "code-review",
-        "llm",
-        "anthropic"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-cline-cline",
-      "source": "github",
-      "title": "cline/cline",
-      "url": "https://github.com/cline/cline",
-      "score": 52,
-      "summary_oneline": "ClineがSDK・IDE拡張・CLIとして利用できる自律コーディングエージェントを提供している",
-      "tags": [
-        "coding-agent",
-        "ide",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 52,
-      "summary_oneline": "NousResearchが公開したアダプティブエージェントフレームワーク「Hermes Agent」（246k stars獲得）",
-      "tags": [
-        "agent-sdk",
-        "llm",
-        "open-source"
-      ],
-      "published_at": "2026-09-17T21:40:57Z"
-    },
-    {
-      "id": "gh-trending-coder-coder",
-      "source": "github",
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "score": 45,
-      "summary_oneline": "CoderがAIエージェントも利用可能なセキュアな開発環境プラットフォームをOSSとして提供している",
-      "tags": [
-        "dev-environment",
-        "agents",
-        "devops"
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -175,110 +133,40 @@
       "source": "github",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 42,
-      "summary_oneline": "AIエージェントがシニア開発者のように「最小限のコード」で思考するよう最適化するツール（141k stars）",
+      "score": 62,
+      "summary_oneline": "AIエージェントに「最も怠惰なシニアエンジニア」の発想を与えるコード最小化哲学ツール（141k星）。",
       "tags": [
-        "agent-sdk",
-        "productivity",
-        "llm"
+        "coding-agents",
+        "best-practices",
+        "open-source"
       ],
       "published_at": "2026-09-14T14:34:56Z"
     },
     {
-      "id": "gh-topic-626805178",
+      "id": "gh-trending-alibaba-open-code-review",
       "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 42,
-      "summary_oneline": "クラウド・VPC・セルフホスト対応のアジェンティックワークフロー・RAGパイプライン構築プラットフォーム（156k stars）",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 62,
+      "summary_oneline": "アリババ発のLLMエージェント利用ハイブリッドコードレビューツール。Anthropic API対応。",
       "tags": [
-        "agentic-workflow",
-        "rag",
-        "llm"
-      ],
-      "published_at": "2026-09-17T17:54:21Z"
-    },
-    {
-      "id": "gh-trending-alphaxiv-openresearch",
-      "source": "github",
-      "title": "alphaXiv/OpenResearch",
-      "url": "https://github.com/alphaXiv/OpenResearch",
-      "score": 38,
-      "summary_oneline": "コーディングエージェントをリサーチエージェントに変換するOSSツール",
-      "tags": [
-        "research-agent",
-        "agent-sdk",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-tencent-weknora",
-      "source": "github",
-      "title": "Tencent/WeKnora",
-      "url": "https://github.com/Tencent/WeKnora",
-      "score": 38,
-      "summary_oneline": "ドキュメントをRAG・自律推論エージェント・自動更新Wikiに変換するOSSナレッジプラットフォーム",
-      "tags": [
-        "rag",
-        "knowledge-management",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-tencentcloud-octop",
-      "source": "github",
-      "title": "TencentCloud/Octop",
-      "url": "https://github.com/TencentCloud/Octop",
-      "score": 38,
-      "summary_oneline": "TencentCloudがマルチユーザー・マルチエージェント対応のセルフホスト型AIアシスタントを公開した",
-      "tags": [
-        "multi-agent",
-        "self-hosted",
-        "llm"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 38,
-      "summary_oneline": "AutoGPTがAIエージェントの構築・利用のためのオープンプラットフォームを提供している（187k stars）",
-      "tags": [
-        "agent-sdk",
-        "automation",
-        "llm"
-      ],
-      "published_at": "2026-09-17T20:52:56Z"
-    },
-    {
-      "id": "gh-trending-n8n-io-n8n",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 38,
-      "summary_oneline": "ネイティブAI機能を持つオープンソースのワークフロー自動化プラットフォーム（400以上のインテグレーション対応）",
-      "tags": [
-        "workflow-automation",
-        "ai-integration",
-        "self-hosted"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-justvugg-colibri",
-      "source": "github",
-      "title": "JustVugg/colibri",
-      "url": "https://github.com/JustVugg/colibri",
-      "score": 35,
-      "summary_oneline": "自前ハードウェアでフロンティアMoEモデルをゼロ依存のピュアC実装で動かす軽量推論エンジン",
-      "tags": [
-        "local-llm",
-        "inference",
+        "code-review",
+        "llm",
         "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-fission-ai-openspec",
+      "source": "github",
+      "title": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "score": 60,
+      "summary_oneline": "AIコーディングアシスタント向けの仕様駆動開発(SDD)フレームワーク。",
+      "tags": [
+        "coding-agents",
+        "spec-driven",
+        "workflow"
       ],
       "published_at": null
     }
