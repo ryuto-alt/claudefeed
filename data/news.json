@@ -1,130 +1,18 @@
 {
-  "date": "2026-09-20",
-  "generated_at": "2026-09-19T22:08:45.416Z",
+  "date": "2026-09-21",
+  "generated_at": "2026-09-20T22:08:08.487Z",
   "top": [
     {
-      "id": "cc-release-391616593",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.277",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.277",
-      "score": 95,
-      "summary_oneline": "AGENTS.mdのサポートを追加。CLAUDE.mdがない場合に代替として参照され、/configから変更可能",
-      "tags": [
-        "claude-code",
-        "release",
-        "agents-md"
-      ],
-      "published_at": "2026-09-18T18:06:32Z"
-    },
-    {
-      "id": "cc-release-387243742",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.269",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.269",
-      "score": 93,
-      "summary_oneline": "claude plugin evalコマンド追加、出力スタイル切替、Bashツール変更差分の表示機能を追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "plugin-eval"
-      ],
-      "published_at": "2026-09-11T19:17:55Z"
-    },
-    {
-      "id": "cc-release-391877760",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.278",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.278",
-      "score": 92,
-      "summary_oneline": "Auto ModeのデフォルトをサーバーサイドClassifierに変更し、分類器の請求オーバーヘッドを削減",
-      "tags": [
-        "claude-code",
-        "release",
-        "auto-mode"
-      ],
-      "published_at": "2026-09-19T03:10:40Z"
-    },
-    {
-      "id": "cc-release-391032307",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.275",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.275",
-      "score": 88,
-      "summary_oneline": "Ctrl+Enterで即時送信キー追加、ゲートウェイサインイン改善、コンテキスト超過時の警告表示",
-      "tags": [
-        "claude-code",
-        "release",
-        "ux"
-      ],
-      "published_at": "2026-09-17T22:33:17Z"
-    },
-    {
-      "id": "gh-trending-addyosmani-agent-skills",
+      "id": "gh-trending-anthropics-claude-code",
       "source": "github",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
-      "score": 88,
-      "summary_oneline": "Addy OsmaniによるAIコーディングエージェント向け本番グレードのエンジニアリングスキル集",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "claude-code"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "cc-release-388664071",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.271",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.271",
-      "score": 87,
-      "summary_oneline": "リモートセッションでのFastモード対応、/configパネルでのマウス操作サポートを追加",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "score": 90,
+      "summary_oneline": "公式Claude Codeリポジトリ。GitHubトレンドに登場し、最新の開発状況が追える。",
       "tags": [
         "claude-code",
-        "release",
-        "remote"
-      ],
-      "published_at": "2026-09-14T22:12:54Z"
-    },
-    {
-      "id": "cc-release-389362239",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.273",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.273",
-      "score": 86,
-      "summary_oneline": "LLMゲートウェイ向けリクエストヒントヘッダー追加（opt-in）、MCPサーバー切断時の通知機能",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-09-15T20:23:03Z"
-    },
-    {
-      "id": "cc-release-390317660",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.274",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.274",
-      "score": 85,
-      "summary_oneline": "メモリ使用量警告の追加、MCP起動待機時間の設定、OpenTelemetryスパン属性の追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-09-17T00:12:02Z"
-    },
-    {
-      "id": "gh-trending-anthropics-knowledge-work-plugins",
-      "source": "github",
-      "title": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "score": 85,
-      "summary_oneline": "AnthropicがClaudeナレッジワーカー向けオープンソースプラグイン集を公開（Claude Cowork対応）",
-      "tags": [
-        "plugins",
-        "claude-code",
-        "anthropic"
+        "anthropic",
+        "github-trending"
       ],
       "published_at": null
     },
@@ -133,82 +21,54 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 84,
-      "summary_oneline": "Claude Code・Codex・Grok Build等を一元管理するクロスプラットフォームAll-in-Oneアシスタント",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex等の複数AIコーディングツールを統合管理するクロスプラットフォームデスクトップアプリ。",
       "tags": [
         "claude-code",
-        "tools",
+        "desktop-tool",
         "multi-agent"
       ],
-      "published_at": "2026-09-17T18:35:01Z"
+      "published_at": "2026-09-20T14:27:20Z"
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 85,
+      "summary_oneline": "Addy OsmaniがAIコーディングエージェント向けのプロダクション品質スキル集を公開。",
+      "tags": [
+        "agent-skills",
+        "coding-agent",
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-affaan-m-ecc",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 80,
+      "summary_oneline": "Claude Codeなど向けのエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を搭載。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-cloudflare-security-audit-skill",
       "source": "github",
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "score": 82,
-      "summary_oneline": "CloudflareがコーディングエージェントSkill向けマルチフェーズセキュリティ監査ツールを公開",
-      "tags": [
-        "skills",
-        "security-audit",
-        "agent-sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "Claude Code・Codex等向けエージェントハーネス最適化システム（Skills・記憶・セキュリティ対応）",
-      "tags": [
-        "claude-code",
-        "skills",
-        "agent-sdk"
-      ],
-      "published_at": "2026-09-19T21:09:21Z"
-    },
-    {
-      "id": "gh-trending-yynxxxxx-codex-x",
-      "source": "github",
-      "title": "yynxxxxx/Codex-X",
-      "url": "https://github.com/yynxxxxx/Codex-X",
-      "score": 80,
-      "summary_oneline": "Claude Code・CodexのVisual管理ツール、Skills/MCP管理・TOML設定可視化機能搭載",
-      "tags": [
-        "claude-code",
-        "mcp",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "cc-release-391158184",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.276",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.276",
       "score": 78,
-      "summary_oneline": "プロキシ・ゲートウェイ経由時に400エラーが発生する2.1.275のリグレッションを修正",
+      "summary_oneline": "Cloudflareがコーディングエージェント向けの多段階セキュリティ監査スキルをOSSで公開。",
       "tags": [
-        "claude-code",
-        "release",
-        "bugfix"
-      ],
-      "published_at": "2026-09-18T02:12:26Z"
-    },
-    {
-      "id": "gh-trending-anthropics-claude-code",
-      "source": "github",
-      "title": "anthropics/claude-code",
-      "url": "https://github.com/anthropics/claude-code",
-      "score": 78,
-      "summary_oneline": "anthropics/claude-codeリポジトリがGitHubトレンドにランクイン",
-      "tags": [
-        "claude-code",
-        "github",
-        "trending"
+        "agent-skills",
+        "security",
+        "cloudflare"
       ],
       "published_at": null
     },
@@ -217,86 +77,43 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 78,
-      "summary_oneline": "複数プラットフォーム向けプロUI/UXデザインインテリジェンスを提供するAIスキル",
+      "score": 72,
+      "summary_oneline": "複数プラットフォーム対応のUI/UXデザイン支援AIスキルが129K超のスターを獲得。",
       "tags": [
-        "skills",
+        "agent-skills",
         "ui-ux",
-        "agent-sdk"
+        "design"
       ],
       "published_at": "2026-09-19T00:58:38Z"
     },
     {
-      "id": "cc-release-387670363",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.270",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.270",
-      "score": 74,
-      "summary_oneline": "読み取り専用gitコマンドが不要な権限要求を行う2.1.269リグレッションを修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "bugfix"
-      ],
-      "published_at": "2026-09-12T19:45:44Z"
-    },
-    {
-      "id": "cc-release-388773284",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.272",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.272",
-      "score": 72,
-      "summary_oneline": "バグ修正と信頼性改善のみのマイナーパッチリリース",
-      "tags": [
-        "claude-code",
-        "release",
-        "bugfix"
-      ],
-      "published_at": "2026-09-15T00:42:25Z"
-    },
-    {
-      "id": "gh-trending-coder-coder",
+      "id": "gh-trending-trycua-cua",
       "source": "github",
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "score": 65,
-      "summary_oneline": "開発者とAIエージェント向けのセキュアなリモート開発環境プラットフォーム",
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "score": 62,
+      "summary_oneline": "コンピューター操作自動化のOSSフレームワーク。クロスOS対応フリートと評価ベンチマークを提供。",
       "tags": [
-        "agent",
-        "devenv",
-        "security"
+        "computer-use",
+        "ai-automation",
+        "benchmark"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1266797999",
+      "id": "gh-topic-1024554267",
       "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 62,
-      "summary_oneline": "AIエージェントをシニア開発者的思考パターン（最小限のコード原則）に誘導するツール",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 60,
+      "summary_oneline": "NousResearchによるAIエージェントフレームワーク。247K超のスターを持つ注目OSSプロジェクト。",
       "tags": [
-        "agent",
-        "productivity",
-        "ai"
+        "ai-agent",
+        "llm",
+        "open-source"
       ],
-      "published_at": "2026-09-14T14:34:56Z"
+      "published_at": "2026-09-20T22:06:24Z"
     }
   ],
-  "extras": [
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 60,
-      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築・デプロイできるオープンソースAIプラットフォーム",
-      "tags": [
-        "agent",
-        "rag",
-        "workflow"
-      ],
-      "published_at": "2026-09-19T10:30:07Z"
-    }
-  ]
+  "extras": []
 }
