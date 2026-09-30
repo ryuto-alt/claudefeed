@@ -1,18 +1,32 @@
 {
   "date": "2026-09-30",
-  "generated_at": "2026-09-29T22:14:07.549Z",
+  "generated_at": "2026-09-30T22:13:41.190Z",
   "top": [
     {
-      "id": "gh-trending-mvschwarz-openrig",
+      "id": "gh-trending-composiohq-awesome-claude-skills",
       "source": "github",
-      "title": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "score": 85,
-      "summary_oneline": "Claude CodeとCodexを組み合わせて動作するマルチエージェントハーネス「OpenRig」がGitHubトレンド入り",
+      "title": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "score": 90,
+      "summary_oneline": "Claudeスキルとカスタムワークフロー向けリソース・ツールのキュレーションリスト",
       "tags": [
         "claude-code",
-        "multi-agent",
-        "codex"
+        "skills",
+        "resources"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mksglu-context-mode",
+      "source": "github",
+      "title": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "score": 90,
+      "summary_oneline": "MCP＋フックでAIコーディングエージェントのコンテキストを98%削減するセッションメモリ最適化ツール",
+      "tags": [
+        "claude-code",
+        "mcp",
+        "hooks"
       ],
       "published_at": null
     },
@@ -21,54 +35,110 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 82,
-      "summary_oneline": "スキル・本能・メモリ・セキュリティ機能を持つClaude Code向けエージェントハーネス最適化システム「ECC」",
+      "score": 88,
+      "summary_oneline": "Claude Code・Codex等のエージェントハーネス向け性能最適化システム（スキル・メモリ・セキュリティ対応）",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "skills"
+      ],
+      "published_at": "2026-09-30T18:45:04Z"
+    },
+    {
+      "id": "gh-trending-modelcontextprotocol-servers",
+      "source": "github",
+      "title": "modelcontextprotocol/servers",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "score": 88,
+      "summary_oneline": "Model Context Protocolの公式サーバーコレクション",
+      "tags": [
+        "mcp",
+        "claude-code",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 87,
+      "summary_oneline": "実務エンジニアが.agentsディレクトリから公開したClaudeスキル集",
       "tags": [
         "claude-code",
         "skills",
-        "agent-harness"
+        "tips"
       ],
-      "published_at": "2026-09-29T19:08:37Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mvschwarz-openrig",
+      "source": "github",
+      "title": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "score": 85,
+      "summary_oneline": "Claude CodeとCodexを一つのシステムとして統合するマルチエージェントハーネス",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "multi-agent"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-colbymchenry-codegraph",
+      "source": "github",
+      "title": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex等に対応したローカル動作のコード知識グラフ（自動同期・トークン削減）",
+      "tags": [
+        "claude-code",
+        "knowledge-graph",
+        "local"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1200597263",
       "source": "github",
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 82,
-      "summary_oneline": "コードベースを知識グラフ化するClaude Codeスキル「/graphify」、ベクトルDB不要でAST解析",
+      "score": 85,
+      "summary_oneline": "コードベース・ドキュメント・スキーマをClaudeスキルで照会可能な知識グラフに変換するツール",
       "tags": [
         "claude-code",
         "skills",
         "knowledge-graph"
       ],
-      "published_at": "2026-09-29T18:42:58Z"
+      "published_at": "2026-09-30T19:53:37Z"
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex・Cursorなど複数AIコーディングアシスタントを一括管理するデスクトップアプリ「cc-switch」",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・OpenCode・Grok Buildなどに対応したクロスプラットフォームデスクトップ管理ツール",
       "tags": [
         "claude-code",
         "desktop-app",
-        "agent-tools"
+        "multi-agent"
       ],
-      "published_at": "2026-09-29T16:22:35Z"
+      "published_at": "2026-09-30T12:06:23Z"
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 78,
-      "summary_oneline": "Claude Code向けUIUXデザインスキル「ui-ux-pro-max」がマルチプラットフォーム対応で公開",
+      "score": 75,
+      "summary_oneline": "複数プラットフォームでプロ品質のUI/UXを構築するためのAIスキル",
       "tags": [
-        "claude-code",
         "skills",
-        "ui-design"
+        "claude-code",
+        "ui-ux"
       ],
       "published_at": "2026-09-27T11:30:41Z"
     },
@@ -77,54 +147,12 @@
       "source": "anthropic",
       "title": "How Claude's text watermark works",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "score": 65,
-      "summary_oneline": "Anthropicが公開、Claudeのテキスト透かし機能の仕組み解説",
+      "score": 68,
+      "summary_oneline": "Claudeのテキスト透かし機能の技術的な仕組みをAnthropicが解説",
       "tags": [
-        "claude",
+        "anthropic",
         "watermark",
-        "content-safety"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-t8y2-dbx",
-      "source": "github",
-      "title": "t8y2/dbx",
-      "url": "https://github.com/t8y2/dbx",
-      "score": 63,
-      "summary_oneline": "MCPサーバー内蔵の軽量データベースクライアント「dbx」、MySQL・PostgreSQL等100以上に対応",
-      "tags": [
-        "mcp",
-        "database",
-        "developer-tools"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-science-claude-discovers-a-novel-enzyme-system-with-crispr-l",
-      "source": "anthropic",
-      "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 60,
-      "summary_oneline": "ClaudeがCRISPRに類似した反復配列を持つ新規酵素システムを科学研究で発見",
-      "tags": [
-        "claude",
-        "science",
-        "research"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-improving-fable-5-s-biology-safeguards",
-      "source": "anthropic",
-      "title": "Improving Fable 5's biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "score": 60,
-      "summary_oneline": "Fable 5モデルの生物学関連セーフガードが強化、悪用防止対策を改善",
-      "tags": [
-        "fable-5",
-        "biology",
-        "safety"
+        "technical"
       ],
       "published_at": null
     },
@@ -133,68 +161,40 @@
       "source": "github",
       "title": "NVIDIA/OpenShell",
       "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 58,
-      "summary_oneline": "NVIDIA、自律AIエージェント向けの安全でプライベートなランタイム「OpenShell」をOSS公開",
+      "score": 65,
+      "summary_oneline": "自律AIエージェント向けの安全でプライベートなランタイム環境（NVIDIA製）",
       "tags": [
-        "ai-agents",
-        "nvidia",
-        "runtime"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-vectorize-io-hindsight",
-      "source": "github",
-      "title": "vectorize-io/hindsight",
-      "url": "https://github.com/vectorize-io/hindsight",
-      "score": 57,
-      "summary_oneline": "エージェント向け学習型メモリシステム「Hindsight」がGitHubトレンドに",
-      "tags": [
-        "agent-memory",
-        "ai-agents",
-        "rag"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-paperclipai-paperclip",
-      "source": "github",
-      "title": "paperclipai/paperclip",
-      "url": "https://github.com/paperclipai/paperclip",
-      "score": 55,
-      "summary_oneline": "職場でのAIエージェント管理に特化したOSSアプリ「Paperclip」が公開",
-      "tags": [
-        "ai-agents",
-        "open-source",
-        "productivity"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-dream-num-univer",
-      "source": "github",
-      "title": "dream-num/univer",
-      "url": "https://github.com/dream-num/univer",
-      "score": 55,
-      "summary_oneline": "AIエージェント向けオフィスハーネス「Univer」、スプレッドシートやドキュメント等を統合",
-      "tags": [
-        "ai-agents",
-        "office-tools",
+        "agent-sdk",
+        "runtime",
         "open-source"
       ],
       "published_at": null
     },
     {
-      "id": "anthropic-improving-our-alignment-and-security-efforts",
+      "id": "gh-trending-t8y2-dbx",
+      "source": "github",
+      "title": "t8y2/dbx",
+      "url": "https://github.com/t8y2/dbx",
+      "score": 65,
+      "summary_oneline": "MySQL・PostgreSQL・Redisなど100以上のDBに対応したMCPサーバー内蔵の25MB軽量DBクライアント",
+      "tags": [
+        "mcp",
+        "database",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-science-claude-discovers-a-novel-enzyme-system-with-crispr-l",
       "source": "anthropic",
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "score": 55,
-      "summary_oneline": "Anthropicがアライメントとセキュリティの取り組み強化を発表",
+      "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 63,
+      "summary_oneline": "AnthropicのClaudeがCRISPRライクリピートを持つ新規酵素システムを科学研究で発見",
       "tags": [
         "anthropic",
-        "alignment",
-        "security"
+        "claude",
+        "science"
       ],
       "published_at": null
     },
@@ -203,12 +203,40 @@
       "source": "anthropic",
       "title": "Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "score": 55,
-      "summary_oneline": "Anthropicが「モデルハードウェア標準」のリサーチプレビューを公開",
+      "score": 62,
+      "summary_oneline": "Anthropicがモデルハードウェア標準のリサーチプレビューを公開",
       "tags": [
         "anthropic",
-        "hardware",
-        "ai-infrastructure"
+        "model-standard",
+        "hardware"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-improving-fable-5-s-biology-safeguards",
+      "source": "anthropic",
+      "title": "Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "score": 62,
+      "summary_oneline": "Fable 5モデルの生物学的安全対策を改善したことをAnthropicが報告",
+      "tags": [
+        "anthropic",
+        "fable-5",
+        "safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-improving-our-alignment-and-security-efforts",
+      "source": "anthropic",
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "score": 61,
+      "summary_oneline": "AnthropicがAIアライメントとセキュリティ取り組みの改善内容を公表",
+      "tags": [
+        "anthropic",
+        "alignment",
+        "security"
       ],
       "published_at": null
     },
@@ -217,68 +245,40 @@
       "source": "github",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 53,
-      "summary_oneline": "ネイティブAI機能搭載のワークフロー自動化プラットフォーム「n8n」、400以上の統合に対応",
+      "score": 56,
+      "summary_oneline": "ネイティブAI機能とビジュアルビルダー・400以上の統合を備えたワークフロー自動化プラットフォーム",
       "tags": [
         "workflow-automation",
-        "ai-agents",
+        "ai",
         "open-source"
       ],
-      "published_at": "2026-09-29T21:35:22Z"
+      "published_at": "2026-09-30T21:47:49Z"
     },
     {
       "id": "gh-topic-626805178",
       "source": "github",
       "title": "langgenius/dify",
       "url": "https://github.com/langgenius/dify",
-      "score": 53,
-      "summary_oneline": "AIエージェントワークフローとRAGパイプラインを構築できるプラットフォーム「Dify」",
+      "score": 56,
+      "summary_oneline": "RAGパイプラインとエージェントワークフローをセルフホストで構築できるオープンソースAIプラットフォーム",
       "tags": [
-        "ai-agents",
+        "agent-workflow",
         "rag",
-        "workflow"
-      ],
-      "published_at": "2026-09-29T16:22:52Z"
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 50,
-      "summary_oneline": "NousResearchが開発した成長型エージェント「hermes-agent」が活発更新中",
-      "tags": [
-        "ai-agents",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-09-29T22:07:17Z"
-    },
-    {
-      "id": "gh-topic-701547123",
-      "source": "github",
-      "title": "open-webui/open-webui",
-      "url": "https://github.com/open-webui/open-webui",
-      "score": 50,
-      "summary_oneline": "Ollama・OpenAI APIに対応したユーザーフレンドリーなAIインターフェース「Open WebUI」",
-      "tags": [
-        "llm-ui",
-        "ollama",
         "open-source"
       ],
-      "published_at": "2026-09-29T16:25:29Z"
+      "published_at": "2026-09-30T21:31:05Z"
     },
     {
-      "id": "gh-trending-rohitg00-ai-engineering-from-scratch",
+      "id": "gh-trending-openclaw-openclaw",
       "source": "github",
-      "title": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "score": 50,
-      "summary_oneline": "ゼロからAIエンジニアリングを学べるオープンソースカリキュラム",
+      "title": "openclaw/openclaw",
+      "url": "https://github.com/openclaw/openclaw",
+      "score": 54,
+      "summary_oneline": "任意のOSとプラットフォームで動作する自律AIエージェントフレームワーク",
       "tags": [
-        "ai-education",
-        "open-source",
-        "tutorial"
+        "agent",
+        "autonomous",
+        "open-source"
       ],
       "published_at": null
     }
