@@ -1,284 +1,74 @@
 {
-  "date": "2026-10-03",
-  "generated_at": "2026-10-02T22:14:51.238Z",
+  "date": "2026-10-04",
+  "generated_at": "2026-10-03T22:13:35.605Z",
   "top": [
-    {
-      "id": "gh-trending-mksglu-context-mode",
-      "source": "github",
-      "title": "mksglu/context-mode",
-      "url": "https://github.com/mksglu/context-mode",
-      "score": 88,
-      "summary_oneline": "AIコーディングエージェントのコンテキストを最適化、ツール出力を98%削減しMCP+フックで17プラットフォームにルーティング",
-      "tags": [
-        "mcp",
-        "hooks",
-        "context-optimization"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 88,
-      "summary_oneline": "Claude Code/Codex/Cursor対応のエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合（★271K）",
-      "tags": [
-        "claude-code",
-        "agent-harness",
-        "skills"
-      ],
-      "published_at": "2026-10-02T02:01:14Z"
-    },
-    {
-      "id": "gh-trending-colbymchenry-codegraph",
-      "source": "github",
-      "title": "colbymchenry/codegraph",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "score": 85,
-      "summary_oneline": "Claude Code等主要AIコーディングツール向けのローカル動作コード知識グラフ、トークン数とツール呼び出し数を削減",
-      "tags": [
-        "claude-code",
-        "knowledge-graph",
-        "token-optimization"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-mvschwarz-openrig",
-      "source": "github",
-      "title": "mvschwarz/openrig",
-      "url": "https://github.com/mvschwarz/openrig",
-      "score": 83,
-      "summary_oneline": "Claude Code/Codex/Piを組み合わせてロール分担・共有コンテキストを持つ永続的エージェントネットワークを構築するフレームワーク",
-      "tags": [
-        "claude-code",
-        "multi-agent",
-        "agent-sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-mattpocock-skills",
-      "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 82,
-      "summary_oneline": "Matt Pocockが自身の.agentsディレクトリから公開した実践的なエンジニア向けスキルコレクション",
-      "tags": [
-        "skills",
-        "agent-sdk",
-        "claude-code"
-      ],
-      "published_at": null
-    },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "score": 82,
-      "summary_oneline": "Claude Code/Codex/OpenCode等を一括管理できるクロスプラットフォームのAll-in-Oneデスクトップアシスタント（★139K）",
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数のAIコーディングアシスタントを統合したクロスプラットフォームデスクトップアプリ。",
       "tags": [
         "claude-code",
         "desktop-app",
         "multi-agent"
       ],
-      "published_at": "2026-10-02T17:45:32Z"
+      "published_at": "2026-10-03T16:17:56Z"
     },
     {
-      "id": "gh-trending-coreyhaines31-marketingskills",
+      "id": "gh-topic-1136590548",
       "source": "github",
-      "title": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
       "score": 80,
-      "summary_oneline": "Claude Codeおよびエージェント向けマーケティングスキル集（CRO・コピーライティング・SEO・アナリティクス・グロース）",
+      "summary_oneline": "Claude Codeなどに対応したエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を搭載した研究開発向けフレームワーク。",
       "tags": [
         "claude-code",
-        "skills",
-        "marketing"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-juliusbrussee-caveman",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 78,
-      "summary_oneline": "コーディングエージェントのトークンを65%削減する「原始人語」スキル＋プロキシ。バイラルなトークン最適化手法",
-      "tags": [
-        "claude-code",
-        "skills",
-        "token-optimization"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-nvidia-openshell",
-      "source": "github",
-      "title": "NVIDIA/OpenShell",
-      "url": "https://github.com/NVIDIA/OpenShell",
-      "score": 75,
-      "summary_oneline": "NVIDIAが開発した自律AIエージェント向けの安全でプライベートなオープンソースランタイム環境",
-      "tags": [
-        "agent-runtime",
-        "nvidia",
-        "ai-agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-google-skills",
-      "source": "github",
-      "title": "google/skills",
-      "url": "https://github.com/google/skills",
-      "score": 75,
-      "summary_oneline": "Googleが公開したGoogleプロダクト・技術向けエージェントスキル公式コレクション",
-      "tags": [
-        "google",
-        "skills",
-        "agent-sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-obra-superpowers",
-      "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 72,
-      "summary_oneline": "実用的なエージェント向けスキルフレームワークとソフトウェア開発手法のオープンソース実装",
-      "tags": [
-        "skills",
         "agent-sdk",
-        "methodology"
+        "skills"
       ],
-      "published_at": null
+      "published_at": "2026-10-02T02:01:14Z"
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 72,
-      "summary_oneline": "複数プラットフォームでプロ品質のUI/UXを生成するAIデザインインテリジェンススキル（★132K）",
+      "score": 74,
+      "summary_oneline": "複数プラットフォーム向けにプロ品質のUI/UXデザイン知識を提供するAIスキル。",
       "tags": [
         "skills",
         "ui-ux",
-        "design"
+        "claude-code"
       ],
-      "published_at": "2026-09-27T11:30:41Z"
-    },
-    {
-      "id": "gh-trending-dietrichgebert-ponytail",
-      "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 70,
-      "summary_oneline": "AIエージェントを「最もレイジーな上級エンジニア」として動作させ、不要なコードを書かせないようにするツール",
-      "tags": [
-        "ai-agent",
-        "coding",
-        "optimization"
-      ],
-      "published_at": null
+      "published_at": "2026-10-03T16:05:26Z"
     },
     {
       "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
       "source": "anthropic",
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 70,
-      "summary_oneline": "Anthropicが1億ドルを投資し1万人のエンジニア育成を目指す「Claude Frontier Academy」を発表",
+      "score": 65,
+      "summary_oneline": "Anthropicが1億ドルを投資しClaudeを活用したエンタープライズAI人材育成プログラム「Claude Frontier Academy」を発表。",
       "tags": [
         "anthropic",
-        "training",
+        "developer-training",
         "enterprise"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-panniantong-agent-reach",
-      "source": "github",
-      "title": "Panniantong/Agent-Reach",
-      "url": "https://github.com/Panniantong/Agent-Reach",
-      "score": 65,
-      "summary_oneline": "AIエージェントがTwitter/Reddit/YouTube/GitHubなど主要サービスをAPIコスト不要で検索・閲覧できるCLIツール",
-      "tags": [
-        "ai-agent",
-        "web-search",
-        "cli"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-pbakaus-impeccable",
-      "source": "github",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "score": 65,
-      "summary_oneline": "AIハーネスのデザイン品質を向上させるためのデザイン言語仕様",
-      "tags": [
-        "design",
-        "ai-harness",
-        "agent-sdk"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 62,
-      "summary_oneline": "NousResearchが開発した成長し続ける汎用AIエージェント「Hermes Agent」（★250K）",
-      "tags": [
-        "ai-agent",
-        "nous-research",
-        "llm"
-      ],
-      "published_at": "2026-10-02T22:11:08Z"
-    },
-    {
-      "id": "gh-trending-cursor-plugins",
-      "source": "github",
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "score": 60,
-      "summary_oneline": "Cursorが公開した公式プラグイン仕様と公式プラグイン集",
-      "tags": [
-        "cursor",
-        "plugins",
-        "ai-coding"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 60,
-      "summary_oneline": "エージェントワークフローとRAGパイプラインを統合AIモデル・ツールサポートで構築できるオープンソースプラットフォーム（★157K）",
-      "tags": [
-        "dify",
-        "rag",
-        "agent-workflow"
-      ],
-      "published_at": "2026-10-02T20:45:55Z"
-    },
-    {
-      "id": "anthropic-improving-our-alignment-and-security-efforts",
+      "id": "anthropic-previewing-the-model-hardware-standard",
       "source": "anthropic",
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "score": 58,
-      "summary_oneline": "Anthropicがアライメント研究とセキュリティ強化への継続的な取り組みについて報告",
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "score": 62,
+      "summary_oneline": "AnthropicがAIモデル実行に必要なハードウェア要件を標準化する「モデルハードウェア標準」をプレビュー公開。",
       "tags": [
         "anthropic",
-        "alignment",
-        "security"
+        "hardware",
+        "ai-infrastructure"
       ],
       "published_at": null
     }
