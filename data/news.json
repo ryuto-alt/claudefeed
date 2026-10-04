@@ -1,42 +1,98 @@
 {
-  "date": "2026-10-04",
-  "generated_at": "2026-10-03T22:13:35.605Z",
+  "date": "2026-10-05",
+  "generated_at": "2026-10-04T22:13:54.618Z",
   "top": [
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-trending-garrytan-gstack",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 82,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数のAIコーディングアシスタントを統合したクロスプラットフォームデスクトップアプリ。",
+      "title": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "score": 90,
+      "summary_oneline": "Garry TanのClaude Code設定を再現する23ツール一式。CEO・デザイナー・エンジニア等の役割別スキルを提供。",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "multi-agent"
+        "skills",
+        "setup"
       ],
-      "published_at": "2026-10-03T16:17:56Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-thedotmack-claude-mem",
+      "source": "github",
+      "title": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "score": 88,
+      "summary_oneline": "セッション間で記憶を永続化するエージェントツール。Claude Code・Codex・Gemini等に対応したコンテキスト圧縮・注入機能。",
+      "tags": [
+        "claude-code",
+        "memory",
+        "agent"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude Codeなどに対応したエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を搭載した研究開発向けフレームワーク。",
+      "score": 88,
+      "summary_oneline": "Claude Codeなどのエージェントハーネス向けパフォーマンス最適化システム。スキル・記憶・セキュリティ機能を統合。",
       "tags": [
         "claude-code",
-        "agent-sdk",
+        "agent-harness",
         "skills"
       ],
       "published_at": "2026-10-02T02:01:14Z"
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 85,
+      "summary_oneline": "AIコーディングエージェント向けのプロダクショングレードなエンジニアリングスキル集。",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex・OpenCode等を統合したクロスプラットフォームのデスクトップAll-in-Oneアシスタント。",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "multi-agent"
+      ],
+      "published_at": "2026-10-04T15:50:40Z"
+    },
+    {
+      "id": "gh-trending-coreyhaines31-marketingskills",
+      "source": "github",
+      "title": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "score": 82,
+      "summary_oneline": "Claude CodeとAIエージェント向けのマーケティングスキル集。CRO・コピーライティング・SEO・アナリティクスを収録。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "marketing"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 74,
-      "summary_oneline": "複数プラットフォーム向けにプロ品質のUI/UXデザイン知識を提供するAIスキル。",
+      "score": 78,
+      "summary_oneline": "複数プラットフォームでプロ品質のUI/UXを構築するためのAIスキル。デザインインテリジェンスを提供。",
       "tags": [
         "skills",
         "ui-ux",
@@ -50,11 +106,11 @@
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "score": 65,
-      "summary_oneline": "Anthropicが1億ドルを投資しClaudeを活用したエンタープライズAI人材育成プログラム「Claude Frontier Academy」を発表。",
+      "summary_oneline": "Anthropicが1億ドルを投資し、エンタープライズAI人材育成のため1万人のエンジニア訓練計画を発表。",
       "tags": [
         "anthropic",
-        "developer-training",
-        "enterprise"
+        "enterprise",
+        "education"
       ],
       "published_at": null
     },
@@ -64,11 +120,165 @@
       "title": "Previewing the Model Hardware Standard",
       "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "score": 62,
-      "summary_oneline": "AnthropicがAIモデル実行に必要なハードウェア要件を標準化する「モデルハードウェア標準」をプレビュー公開。",
+      "summary_oneline": "AnthropicがAIモデルのハードウェア要件を標準化するモデルハードウェア標準のリサーチプレビューを公開。",
       "tags": [
         "anthropic",
         "hardware",
-        "ai-infrastructure"
+        "standards"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-pbakaus-impeccable",
+      "source": "github",
+      "title": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "score": 62,
+      "summary_oneline": "AIハーネスのデザイン品質を向上させるデザイン言語仕様。AIコーディングアシスタントに向けた設計ガイド。",
+      "tags": [
+        "agent-harness",
+        "design",
+        "ai-tools"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-calesthio-openmontage",
+      "source": "github",
+      "title": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "score": 60,
+      "summary_oneline": "12の制作パイプラインと100以上のツール、700以上のエージェントスキルを持つオープンソース映像制作エージェントシステム。",
+      "tags": [
+        "agent",
+        "skills",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 58,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるオープンソースのLLMアプリ開発プラットフォーム。",
+      "tags": [
+        "agent",
+        "rag",
+        "llm"
+      ],
+      "published_at": "2026-10-04T15:17:46Z"
+    },
+    {
+      "id": "anthropic-improving-our-alignment-and-security-efforts",
+      "source": "anthropic",
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "score": 57,
+      "summary_oneline": "AnthropicがAIアライメントとセキュリティへの取り組みを強化する方針を発表。",
+      "tags": [
+        "anthropic",
+        "alignment",
+        "security"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-developing-enterprise-frontier-safeguards-with-our-customers",
+      "source": "anthropic",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "score": 55,
+      "summary_oneline": "AnthropicがエンタープライズAIの安全基準をパートナー企業と共同開発していることを発表。",
+      "tags": [
+        "anthropic",
+        "enterprise",
+        "safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-science-claude-discovers-a-novel-enzyme-system-with-crispr-l",
+      "source": "anthropic",
+      "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 55,
+      "summary_oneline": "ClaudeがCRISPR様の繰り返し配列を持つ新規酵素システムを発見。AIの科学的発見への活用事例。",
+      "tags": [
+        "anthropic",
+        "science",
+        "research"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 55,
+      "summary_oneline": "NousResearchが開発した、利用を通じて成長するAIエージェントフレームワーク。",
+      "tags": [
+        "agent",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-10-04T21:56:17Z"
+    },
+    {
+      "id": "gh-trending-dietrichgebert-ponytail",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 55,
+      "summary_oneline": "AIエージェントを「最も怠惰なシニアエンジニア」的な思考で動作させるフレームワーク。不要なコードを書かせない思想。",
+      "tags": [
+        "agent",
+        "coding",
+        "ai-tools"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-panniantong-agent-reach",
+      "source": "github",
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "score": 55,
+      "summary_oneline": "Twitter・Reddit・YouTube・GitHub等をAPIコストなしで検索・読み取りできるAIエージェント向けCLIツール。",
+      "tags": [
+        "agent",
+        "web-automation",
+        "cli"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-antirez-ds4",
+      "source": "github",
+      "title": "antirez/ds4",
+      "url": "https://github.com/antirez/ds4",
+      "score": 52,
+      "summary_oneline": "Metal・CUDA・ROCm対応のDeepSeek 4 Flash/PROローカル推論エンジン。",
+      "tags": [
+        "llm",
+        "local-inference",
+        "deepseek"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-barclays-scales-claude-to-upgrade-operations-and-improve-cli",
+      "source": "anthropic",
+      "title": "Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "score": 45,
+      "summary_oneline": "BarclaysがClaudeを業務効率化と顧客体験向上に活用した導入事例。",
+      "tags": [
+        "anthropic",
+        "enterprise",
+        "case-study"
       ],
       "published_at": null
     }
