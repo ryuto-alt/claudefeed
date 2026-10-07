@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-07",
-  "generated_at": "2026-10-06T22:14:03.699Z",
+  "date": "2026-10-08",
+  "generated_at": "2026-10-07T22:13:57.815Z",
   "top": [
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 85,
-      "summary_oneline": "Claudeコードを中心にスキル・記憶・セキュリティを最適化するエージェントハーネス強化システム",
+      "score": 88,
+      "summary_oneline": "Claude Codeほか主要エージェント対応のハーネス最適化システム。スキル・記憶・セキュリティを統合した開発基盤。",
       "tags": [
         "claude-code",
         "agent-sdk",
@@ -21,40 +21,12 @@
       "source": "github",
       "title": "thedotmack/claude-mem",
       "url": "https://github.com/thedotmack/claude-mem",
-      "score": 80,
-      "summary_oneline": "ClaudeコードなどのAIエージェントでセッション間のコンテキストを永続化するメモリシステム",
+      "score": 85,
+      "summary_oneline": "Claude Codeなど複数エージェントのセッション間で文脈を永続化するOSSメモリツール。",
       "tags": [
         "claude-code",
         "memory",
-        "agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 80,
-      "summary_oneline": "ClaudeコードやCodex等に対応したクロスプラットフォームのデスクトップオールインワンアシスタント",
-      "tags": [
-        "claude-code",
-        "desktop",
-        "productivity"
-      ],
-      "published_at": "2026-10-06T14:14:49Z"
-    },
-    {
-      "id": "gh-trending-cathrynlavery-diagram-design",
-      "source": "github",
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "score": 75,
-      "summary_oneline": "ClaudeコードやCodex向けの42種類の図解デザインスキル（HTML+SVG、シャドウなし）",
-      "tags": [
-        "claude-code",
-        "skills",
-        "diagram"
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -63,12 +35,96 @@
       "source": "github",
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
-      "score": 72,
-      "summary_oneline": "エンジニアの.agentsディレクトリから直接取得した実践的AIスキルコレクション",
+      "score": 82,
+      "summary_oneline": "実務エンジニアが.agentsディレクトリで実際に使うスキル集をOSSで公開したリポジトリ。",
       "tags": [
         "skills",
-        "agent",
-        "developer-tools"
+        "agent-sdk",
+        "claude-code"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
+      "score": 82,
+      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームのAIコーディング統合デスクトップアシスタント。",
+      "tags": [
+        "claude-code",
+        "desktop-app",
+        "ai-coding"
+      ],
+      "published_at": "2026-10-07T16:10:45Z"
+    },
+    {
+      "id": "gh-trending-cathrynlavery-diagram-design",
+      "source": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 80,
+      "summary_oneline": "Claude Code向けの図解デザインスキル。42種のダイアグラムをシャドウなしのHTML+SVGで提供。",
+      "tags": [
+        "claude-code",
+        "skills",
+        "diagram"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 78,
+      "summary_oneline": "AIコーディングエージェント向けのプロダクショングレードなエンジニアリングスキル集。",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "ai-coding"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-cloudflare-security-audit-skill",
+      "source": "github",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "score": 78,
+      "summary_oneline": "Cloudflareによるコーディングエージェント向けの多段階セキュリティ監査スキル。機械読み取り可能な形式で検証。",
+      "tags": [
+        "skills",
+        "security",
+        "agent-sdk"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-ayghri-i-have-adhd",
+      "source": "github",
+      "title": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "score": 72,
+      "summary_oneline": "コーディングエージェントが回答を埋もれさせないよう出力を整理するADHDフレンドリーなスキル。",
+      "tags": [
+        "skills",
+        "ux",
+        "agent-sdk"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-manaflow-ai-cmux",
+      "source": "github",
+      "title": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "score": 70,
+      "summary_oneline": "AIコーディングエージェント向けに設計されたGhosttyベースのmacOSターミナル。縦タブと通知機能付き。",
+      "tags": [
+        "claude-code",
+        "terminal",
+        "tooling"
       ],
       "published_at": null
     },
@@ -77,210 +133,42 @@
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 68,
-      "summary_oneline": "複数プラットフォーム向けプロUI/UX構築を支援するAIスキル（13万スター超え）",
+      "score": 70,
+      "summary_oneline": "複数プラットフォームで高品質なUI/UXを構築するためのAIエージェント向けデザインスキル。",
       "tags": [
         "skills",
         "ui-ux",
-        "agent"
+        "agent-sdk"
       ],
       "published_at": "2026-10-03T16:05:26Z"
-    },
-    {
-      "id": "gh-trending-ayghri-i-have-adhd",
-      "source": "github",
-      "title": "ayghri/i-have-adhd",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "score": 68,
-      "summary_oneline": "コーディングエージェントが答えを埋もれさせないようにするADHDフレンドリーなスキル",
-      "tags": [
-        "skills",
-        "claude-code",
-        "developer-tools"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
-      "source": "anthropic",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 65,
-      "summary_oneline": "Anthropicが1億ドルを投じ1万人のエンジニアを育成するエンタープライズAI人材育成プログラムを発表",
-      "tags": [
-        "anthropic",
-        "enterprise",
-        "education"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-previewing-the-model-hardware-standard",
-      "source": "anthropic",
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "score": 62,
-      "summary_oneline": "Anthropicがモデルハードウェア標準のリサーチプレビューを公開",
-      "tags": [
-        "anthropic",
-        "hardware",
-        "research"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-pbakaus-impeccable",
-      "source": "github",
-      "title": "pbakaus/impeccable",
-      "url": "https://github.com/pbakaus/impeccable",
-      "score": 60,
-      "summary_oneline": "AIハーネスのデザイン品質を向上させるデザイン言語ライブラリ",
-      "tags": [
-        "ai-harness",
-        "design",
-        "developer-tools"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-expanding-the-cyber-verification-program",
-      "source": "anthropic",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "score": 55,
-      "summary_oneline": "Anthropicのサイバーセキュリティ検証プログラムを拡大するアナウンス",
-      "tags": [
-        "anthropic",
-        "security",
-        "policy"
-      ],
-      "published_at": null
     },
     {
       "id": "gh-topic-1266797999",
       "source": "github",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 55,
-      "summary_oneline": "AIエージェントを「最も怠惰なシニア開発者」思考に変えるツール——余分なコードを書かない哲学",
+      "score": 68,
+      "summary_oneline": "「書かないコードが最良」をモットーに、AIエージェントを最もシンプルな解に誘導するツール。",
       "tags": [
-        "agent",
-        "developer-tools",
-        "productivity"
+        "agent-sdk",
+        "ai-coding",
+        "tooling"
       ],
       "published_at": "2026-10-05T20:46:39Z"
     },
     {
-      "id": "anthropic-improving-our-alignment-and-security-efforts",
-      "source": "anthropic",
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "score": 50,
-      "summary_oneline": "AnthropicのアライメントとAIセキュリティ強化への取り組みアップデート",
-      "tags": [
-        "anthropic",
-        "alignment",
-        "security"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-morluto-rea",
+      "id": "gh-topic-626805178",
       "source": "github",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "score": 50,
-      "summary_oneline": "エージェントを活用してアプリ動作からネイティブバイナリまでリバースエンジニアリングするツール",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 60,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるOSSのAIコラボレーション開発プラットフォーム。",
       "tags": [
-        "agent",
-        "reverse-engineering",
-        "tools"
+        "agent-sdk",
+        "rag",
+        "ai-platform"
       ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1024554267",
-      "source": "github",
-      "title": "NousResearch/hermes-agent",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 50,
-      "summary_oneline": "NousResearchが開発した成長型汎用AIエージェント（25万以上のスター獲得）",
-      "tags": [
-        "ai-agent",
-        "open-source",
-        "llm"
-      ],
-      "published_at": "2026-10-06T22:07:26Z"
-    },
-    {
-      "id": "anthropic-developing-enterprise-frontier-safeguards-with-our-customers",
-      "source": "anthropic",
-      "title": "Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "score": 48,
-      "summary_oneline": "Anthropicが顧客との協業でエンタープライズフロンティアセーフガードを開発",
-      "tags": [
-        "anthropic",
-        "enterprise",
-        "safety"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-science-claude-discovers-a-novel-enzyme-system-with-crispr-l",
-      "source": "anthropic",
-      "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-      "score": 48,
-      "summary_oneline": "ClaudeがCRISPR様リピートを持つ新規酵素システムを科学研究で発見",
-      "tags": [
-        "anthropic",
-        "science",
-        "research"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-msitarzewski-agency-agents",
-      "source": "github",
-      "title": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "score": 45,
-      "summary_oneline": "フロントエンドからReddit運用まで専門化された完全AIエージェンシーエージェントセット",
-      "tags": [
-        "ai-agent",
-        "automation",
-        "multi-agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 45,
-      "summary_oneline": "ネイティブAI対応のオープンソースワークフロー自動化プラットフォーム（400+インテグレーション）",
-      "tags": [
-        "automation",
-        "workflow",
-        "open-source"
-      ],
-      "published_at": "2026-10-06T22:00:04Z"
-    },
-    {
-      "id": "gh-trending-earthtojake-text-to-cad",
-      "source": "github",
-      "title": "earthtojake/text-to-cad",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "score": 45,
-      "summary_oneline": "エージェントにCADスーパーパワーを与えるテキストからCADへの変換ツール",
-      "tags": [
-        "ai-agent",
-        "cad",
-        "developer-tools"
-      ],
-      "published_at": null
+      "published_at": "2026-10-07T21:32:31Z"
     }
   ],
   "extras": []
