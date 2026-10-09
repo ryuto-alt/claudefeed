@@ -1,14 +1,14 @@
 {
-  "date": "2026-10-09",
-  "generated_at": "2026-10-08T22:14:41.885Z",
+  "date": "2026-10-10",
+  "generated_at": "2026-10-09T22:13:51.287Z",
   "top": [
     {
       "id": "cc-release-401174143",
       "source": "anthropic",
       "title": "Claude Code v2.1.287",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.287",
-      "score": 96,
-      "summary_oneline": "Claude Modsを導入：プラグインによるより深い動作変更が可能に。「You should know」組み込みModも追加",
+      "score": 97,
+      "summary_oneline": "Claude Modsリリース：プラグインがより深い動作を変更可能に。「You should know」組み込みモッドも追加",
       "tags": [
         "claude-code",
         "mods",
@@ -17,54 +17,40 @@
       "published_at": "2026-10-01T18:00:22Z"
     },
     {
+      "id": "cc-release-408141042",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.296",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.296",
+      "score": 95,
+      "summary_oneline": "ゲートウェイ向け`code`ポリシーキー追加、サブエージェントの自動圧縮ウィンドウ設定が可能に",
+      "tags": [
+        "claude-code",
+        "release-notes",
+        "subagent"
+      ],
+      "published_at": "2026-10-09T19:28:59Z"
+    },
+    {
       "id": "cc-release-407134589",
       "source": "anthropic",
       "title": "Claude Code v2.1.295",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.295",
-      "score": 95,
-      "summary_oneline": "フックのonFailure:\"block\"オプションとOSC 7501ターミナル状態プロトコル追加",
+      "score": 93,
+      "summary_oneline": "フックに`onFailure: block`追加でフック失敗時のアクションをブロック可能、OSC 7501ターミナル状態表示対応",
       "tags": [
         "claude-code",
         "hooks",
-        "release"
+        "release-notes"
       ],
       "published_at": "2026-10-08T19:48:38Z"
-    },
-    {
-      "id": "cc-release-405988533",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.293",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
-      "score": 92,
-      "summary_oneline": "Claude Haiku 5.5（1Mコンテキスト、$0.10/$0.50）追加、agentTypeとisDeferred APIをモッドに提供",
-      "tags": [
-        "claude-code",
-        "haiku",
-        "release"
-      ],
-      "published_at": "2026-10-07T18:10:20Z"
-    },
-    {
-      "id": "cc-release-404958910",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.292",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.292",
-      "score": 90,
-      "summary_oneline": "プラグインマーケットプレイス連携、AgentツールにeffortパラメータとオーバーロードリトライのEnv変数追加",
-      "tags": [
-        "claude-code",
-        "plugins",
-        "release"
-      ],
-      "published_at": "2026-10-06T18:59:30Z"
     },
     {
       "id": "cc-release-406385982",
       "source": "anthropic",
       "title": "Claude Code v2.1.294",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.294",
-      "score": 88,
-      "summary_oneline": "instructions形式で書かれたpromptフックとagentフックのブロック判定ロジックを修正",
+      "score": 90,
+      "summary_oneline": "promptおよびagentフックの指示形式バグ修正：Stopフックが早期終了を引き起こす問題を改善",
       "tags": [
         "claude-code",
         "hooks",
@@ -73,58 +59,86 @@
       "published_at": "2026-10-08T05:03:54Z"
     },
     {
-      "id": "cc-release-403993621",
+      "id": "cc-release-405988533",
       "source": "anthropic",
-      "title": "Claude Code v2.1.290",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
-      "score": 88,
-      "summary_oneline": "モッドのturn.stepにserverToolUses追加、tool.checkにagentIdとceilingを追加",
+      "title": "Claude Code v2.1.293",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.293",
+      "score": 90,
+      "summary_oneline": "Claude Haiku 5.5（1Mコンテキスト）をデフォルトHaikuモデルとして追加、サブエージェント識別子も拡張",
       "tags": [
         "claude-code",
-        "mods",
-        "release"
+        "haiku",
+        "subagent"
       ],
-      "published_at": "2026-10-05T23:33:17Z"
-    },
-    {
-      "id": "cc-release-402056988",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.288",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.288",
-      "score": 86,
-      "summary_oneline": "モッドに$.ui.selection()追加、クラウドセッションにgh api組み込み、プロンプトクリア時のリカバリ改善",
-      "tags": [
-        "claude-code",
-        "mods",
-        "release"
-      ],
-      "published_at": "2026-10-02T20:19:57Z"
+      "published_at": "2026-10-07T18:10:20Z"
     },
     {
       "id": "gh-trending-anthropics-knowledge-work-plugins",
       "source": "github",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "score": 85,
-      "summary_oneline": "Anthropic公式：Claude Cowork向けナレッジワーカー用プラグインのオープンソースリポジトリ",
+      "score": 88,
+      "summary_oneline": "Anthropic公式ナレッジワーカー向けClaude Coworkプラグイン集をオープンソース公開",
       "tags": [
-        "anthropic",
+        "claude-cowork",
         "plugins",
-        "claude-cowork"
+        "anthropic"
       ],
       "published_at": null
+    },
+    {
+      "id": "cc-release-404958910",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.292",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.292",
+      "score": 88,
+      "summary_oneline": "プラグインマーケットプレース直接インストール機能追加、Agentツールにeffortパラメータも追加",
+      "tags": [
+        "claude-code",
+        "plugins",
+        "agent-sdk"
+      ],
+      "published_at": "2026-10-06T18:59:30Z"
+    },
+    {
+      "id": "cc-release-402056988",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.288",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.288",
+      "score": 85,
+      "summary_oneline": "モッド向け`$.ui.selection()`追加、クラウドセッションに組み込み`gh api`コマンドを提供",
+      "tags": [
+        "claude-code",
+        "mods",
+        "cloud"
+      ],
+      "published_at": "2026-10-02T20:19:57Z"
+    },
+    {
+      "id": "cc-release-403993621",
+      "source": "anthropic",
+      "title": "Claude Code v2.1.290",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.290",
+      "score": 85,
+      "summary_oneline": "モッド向けに`serverToolUses`と`agentId`を追加、tool.checkフックのceilingフィールドも拡充",
+      "tags": [
+        "claude-code",
+        "mods",
+        "hooks"
+      ],
+      "published_at": "2026-10-05T23:33:17Z"
     },
     {
       "id": "cc-release-402671979",
       "source": "anthropic",
       "title": "Claude Code v2.1.289",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.289",
-      "score": 84,
-      "summary_oneline": "複合シェルコマンドの拒否ルール、ターミナルフリーズ、シンボリックリンク経由のRead拒否バグを修正",
+      "score": 83,
+      "summary_oneline": "ネストしたシェルコマンドへのdenyルールバグ修正、シンボリックリンク経由のReadルール適用問題も解消",
       "tags": [
         "claude-code",
         "bugfix",
-        "release"
+        "permissions"
       ],
       "published_at": "2026-10-03T23:07:17Z"
     },
@@ -134,7 +148,7 @@
       "title": "Claude Code v2.1.291",
       "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.291",
       "score": 82,
-      "summary_oneline": "クラウドセッションでの権限プロンプト欠落とセッション終了時メッセージ消失のリグレッションを修正",
+      "summary_oneline": "クラウドセッションでの権限プロンプト応答ドロップ（2.1.290リグレッション）など2件のバグを修正",
       "tags": [
         "claude-code",
         "bugfix",
@@ -143,58 +157,72 @@
       "published_at": "2026-10-06T03:55:19Z"
     },
     {
-      "id": "cc-release-400266224",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.286",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.286",
-      "score": 81,
-      "summary_oneline": "複数権限プロンプトの件数表示追加、フルスクリーンリスト操作のマウスサポート追加",
+      "id": "gh-trending-mattpocock-skills",
+      "source": "github",
+      "title": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 80,
+      "summary_oneline": "Matt Pocock氏が.agentsディレクトリのスキル集を公開、実務エンジニア向けの実用的なスキル集",
       "tags": [
         "claude-code",
-        "ui",
-        "release"
+        "skills",
+        "agent-sdk"
       ],
-      "published_at": "2026-09-30T19:10:13Z"
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-addyosmani-agent-skills",
+      "source": "github",
+      "title": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "score": 78,
+      "summary_oneline": "Addy Osmaniによる本番グレードのAIコーディングエージェント向けエンジニアリングスキル集",
+      "tags": [
+        "claude-code",
+        "skills",
+        "engineering"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス最適化システム（スキル・本能・メモリ・セキュリティ機能付き）",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codex等向けエージェントハーネス最適化システム、スキル・記憶・セキュリティを統合",
       "tags": [
         "claude-code",
         "agent-sdk",
-        "performance"
+        "skills"
       ],
-      "published_at": "2026-10-05T04:55:16Z"
+      "published_at": "2026-10-09T21:54:02Z"
     },
     {
-      "id": "gh-trending-mattpocock-skills",
+      "id": "gh-trending-cathrynlavery-diagram-design",
       "source": "github",
-      "title": "mattpocock/skills",
-      "url": "https://github.com/mattpocock/skills",
-      "score": 78,
-      "summary_oneline": "実践エンジニア向けのエージェントスキル集（.agentsディレクトリより公開）",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 75,
+      "summary_oneline": "Claude Code/Codex/Copilot向け42種の図解デザインスキル集、シャドウなしの自己完結HTML+SVG",
       "tags": [
+        "claude-code",
         "skills",
-        "agent-sdk",
-        "open-source"
+        "diagrams"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-thedotmack-claude-mem",
+      "id": "gh-trending-twostraws-swiftui-agent-skill",
       "source": "github",
-      "title": "thedotmack/claude-mem",
-      "url": "https://github.com/thedotmack/claude-mem",
-      "score": 78,
-      "summary_oneline": "Claude Codeなど複数エージェントのセッション間でコンテキストをAI圧縮して永続化するツール",
+      "title": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "score": 75,
+      "summary_oneline": "Claude CodeおよびCodex向けSwiftUIエージェントスキル、Paul Hudson（twostraws）作",
       "tags": [
         "claude-code",
-        "memory",
-        "context"
+        "skills",
+        "swiftui"
       ],
       "published_at": null
     },
@@ -203,54 +231,40 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・OpenCode・Grok Build・Hermes対応のクロスプラットフォームデスクトップ統合ツール",
-      "tags": [
-        "claude-code",
-        "desktop-app",
-        "multi-agent"
-      ],
-      "published_at": "2026-10-08T18:38:02Z"
-    },
-    {
-      "id": "gh-trending-cathrynlavery-diagram-design",
-      "source": "github",
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
       "score": 72,
-      "summary_oneline": "Claude Code・Codex等向けの42種類エディトリアル図表テンプレート集（影なし・Mermaid不使用のSVG）",
+      "summary_oneline": "Claude Code・Codex・Grok Build等に対応したクロスプラットフォームデスクトップAIアシスタント",
       "tags": [
         "claude-code",
-        "diagrams",
-        "design"
+        "desktop",
+        "tools"
       ],
-      "published_at": null
+      "published_at": "2026-10-09T14:15:15Z"
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 72,
-      "summary_oneline": "複数プラットフォーム向けプロフェッショナルUI/UXデザインを提供するAIスキル（★133K）",
+      "score": 65,
+      "summary_oneline": "複数プラットフォーム向けプロUI/UX設計AIスキル、スター13万4千を獲得",
       "tags": [
+        "claude-code",
         "skills",
-        "ui-ux",
-        "agent-sdk"
+        "ui-ux"
       ],
-      "published_at": "2026-10-08T05:06:09Z"
+      "published_at": "2026-10-09T05:06:45Z"
     },
     {
-      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
-      "source": "anthropic",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "id": "gh-trending-alibaba-open-code-review",
+      "source": "github",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
       "score": 65,
-      "summary_oneline": "Anthropicが1億ドルを投資してClaude Frontier Academyを設立、1万人のエンジニア育成を目指す",
+      "summary_oneline": "Alibaba製ハイブリッドコードレビューツール：決定論パイプライン+LLMエージェント、Anthropic互換",
       "tags": [
-        "anthropic",
-        "education",
-        "enterprise"
+        "code-review",
+        "llm",
+        "anthropic"
       ],
       "published_at": null
     },
@@ -260,11 +274,27 @@
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "score": 62,
-      "summary_oneline": "Anthropicが2026年版の利用規約を更新・公開",
+      "summary_oneline": "Anthropicが2026年版利用ポリシーを更新、ユーザー向けに適用ルールの変更点を公表",
       "tags": [
         "anthropic",
         "policy",
-        "compliance"
+        "usage"
+      ],
+      "published_at": null
+    }
+  ],
+  "extras": [
+    {
+      "id": "gh-trending-morluto-rea",
+      "source": "github",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 60,
+      "summary_oneline": "エージェントを使ってアプリ動作からネイティブバイナリまでリバースエンジニアリングするツール",
+      "tags": [
+        "agents",
+        "reverse-engineering",
+        "security"
       ],
       "published_at": null
     },
@@ -274,14 +304,13 @@
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
       "score": 60,
-      "summary_oneline": "AIエージェントに「最もコードを書かない上級開発者」的な思考をさせるオープンソースツール（★158K）",
+      "summary_oneline": "AIエージェントを「最も怠惰なシニア開発者」のように考えさせる最小コード指向のエージェントフレームワーク",
       "tags": [
         "agents",
-        "ai",
-        "open-source"
+        "engineering",
+        "tools"
       ],
       "published_at": "2026-10-08T16:19:55Z"
     }
-  ],
-  "extras": []
+  ]
 }
