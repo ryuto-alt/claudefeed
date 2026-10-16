@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-15T22:13:55.729Z",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-16T22:13:43.732Z",
   "top": [
     {
       "id": "gh-trending-anthropics-claude-plugins-official",
@@ -8,11 +8,11 @@
       "title": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "score": 90,
-      "summary_oneline": "Anthropic公式のClaude Codeプラグインディレクトリが公開。高品質プラグインを集約管理。",
+      "summary_oneline": "AnthropicがClaude Code用の公式プラグインディレクトリを公開。高品質なプラグインを一元管理。",
       "tags": [
         "claude-code",
         "plugins",
-        "anthropic"
+        "official"
       ],
       "published_at": null
     },
@@ -21,8 +21,8 @@
       "source": "github",
       "title": "mksglu/context-mode",
       "url": "https://github.com/mksglu/context-mode",
-      "score": 83,
-      "summary_oneline": "AIコーディングエージェント向けコンテキスト最適化ツール。MCP+フックで17プラットフォーム対応。",
+      "score": 82,
+      "summary_oneline": "AIコーディングエージェントのコンテキストウィンドウをMCP+フック経由で最適化し、ツール出力を98%削減するOSS。",
       "tags": [
         "claude-code",
         "mcp",
@@ -35,22 +35,36 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code・Codex等を統合管理するクロスプラットフォームデスクトップアシスタント。",
+      "score": 75,
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数AIコーディングツールを一元管理するデスクトップAll-in-Oneアシスタント。",
       "tags": [
         "claude-code",
         "desktop-app",
-        "codex"
+        "multi-agent"
       ],
-      "published_at": "2026-10-15T18:37:08Z"
+      "published_at": "2026-10-16T14:08:50Z"
+    },
+    {
+      "id": "gh-trending-affaan-m-ecc",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 72,
+      "summary_oneline": "Claude Codeなどに対応するエージェントハーネス性能最適化フレームワーク。スキル・記憶・セキュリティを統合。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "performance"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-k-dense-ai-scientific-agent-skills",
       "source": "github",
       "title": "K-Dense-AI/scientific-agent-skills",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "score": 76,
-      "summary_oneline": "Claude Code対応の科学研究向けエージェントスキルライブラリ。250,000人超の研究者が利用中。",
+      "score": 72,
+      "summary_oneline": "Claude Code対応の科学AIエージェント向けスキルライブラリ。生物・化学・医学など177種のスキルを提供。",
       "tags": [
         "claude-code",
         "agent-skills",
@@ -59,30 +73,16 @@
       "published_at": null
     },
     {
-      "id": "gh-trending-affaan-m-ecc",
+      "id": "gh-trending-madslorentzen-ai-job-search",
       "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 74,
-      "summary_oneline": "Claude Code向けエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を提供。",
+      "title": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "score": 70,
+      "summary_oneline": "Claude Code上で動くAI求職フレームワーク。求人評価・CV調整・カバーレター生成・面接準備を自動化。",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "performance"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-juliusbrussee-caveman",
-      "source": "github",
-      "title": "JuliusBrussee/caveman",
-      "url": "https://github.com/JuliusBrussee/caveman",
-      "score": 72,
-      "summary_oneline": "コーディングエージェントのトークンを65%削減するスキル兼プロキシ。原始人語で省トークン化。",
-      "tags": [
-        "claude-code",
-        "token-optimization",
-        "skills"
+        "automation",
+        "job-search"
       ],
       "published_at": null
     },
@@ -91,54 +91,12 @@
       "source": "github",
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
-      "score": 68,
-      "summary_oneline": "Claude Code統合対応のマルチエージェントハーネス。アダプティブメモリとRAG機能を搭載。",
+      "score": 65,
+      "summary_oneline": "Claude Code対応のマルチエージェントオーケストレーションフレームワーク。適応型記憶とベクターRAG統合を搭載。",
       "tags": [
         "claude-code",
         "multi-agent",
-        "rag"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-obra-superpowers",
-      "source": "github",
-      "title": "obra/superpowers",
-      "url": "https://github.com/obra/superpowers",
-      "score": 65,
-      "summary_oneline": "実用的なエージェントスキルフレームワークとソフトウェア開発方法論。",
-      "tags": [
-        "agent-skills",
-        "framework",
-        "methodology"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-2026-usage-policy-update",
-      "source": "anthropic",
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 62,
-      "summary_oneline": "Anthropicが2026年版利用ポリシーを更新。Claude APIやClaude Code利用者は要確認。",
-      "tags": [
-        "anthropic",
-        "policy",
-        "api"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-xerj-org-xerj",
-      "source": "github",
-      "title": "xerj-org/xerj",
-      "url": "https://github.com/xerj-org/xerj",
-      "score": 62,
-      "summary_oneline": "AIエージェント向けデータ検索・インデックスエンジン。grepより40倍少ないトークンで検索可能。",
-      "tags": [
-        "agent-sdk",
-        "search",
-        "rag"
+        "orchestration"
       ],
       "published_at": null
     },
@@ -147,8 +105,8 @@
       "source": "anthropic",
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 58,
-      "summary_oneline": "Anthropicがエンジニア1万人育成に1億ドルを投資。企業向けAI人材育成プログラムを発表。",
+      "score": 63,
+      "summary_oneline": "AnthropicがClaude Frontier Academyを通じ1億ドルを投資し、エンタープライズAIエンジニア1万人を育成。",
       "tags": [
         "anthropic",
         "education",
@@ -157,82 +115,152 @@
       "published_at": null
     },
     {
+      "id": "gh-trending-obra-superpowers",
+      "source": "github",
+      "title": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "score": 62,
+      "summary_oneline": "実用的なエージェント型スキルフレームワーク＆ソフトウェア開発メソドロジー。",
+      "tags": [
+        "agent-skills",
+        "framework",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-hkuds-cli-anything",
+      "source": "github",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "score": 60,
+      "summary_oneline": "あらゆるCLIソフトウェアをAIエージェントネイティブ化するフレームワーク。CLI-Hubで一元公開。",
+      "tags": [
+        "cli",
+        "agent-native",
+        "automation"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-xerj-org-xerj",
+      "source": "github",
+      "title": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "score": 60,
+      "summary_oneline": "AIエージェント向けデータ検索・自動インデックスツール。grepより40倍少ないトークンでコード・ドキュメントを検索。",
+      "tags": [
+        "agent-sdk",
+        "search",
+        "rag"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-2026-usage-policy-update",
+      "source": "anthropic",
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "score": 60,
+      "summary_oneline": "Anthropicが2026年の利用ポリシーを更新。Claude利用の規約・制約条件に変更あり。",
+      "tags": [
+        "anthropic",
+        "policy",
+        "governance"
+      ],
+      "published_at": null
+    },
+    {
       "id": "gh-topic-1266797999",
       "source": "github",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 54,
-      "summary_oneline": "「最も怠惰なシニアdev」思考でAIエージェントに最小コードを書かせる哲学的ツール。★16万超。",
+      "score": 60,
+      "summary_oneline": "AIエージェントをシニア開発者的な「最小限のコード」思考に導くフレームワーク。最良のコードは書かないコード。",
       "tags": [
-        "ai-agent",
-        "coding",
-        "productivity"
+        "agent-sdk",
+        "code-quality",
+        "open-source"
       ],
-      "published_at": "2026-10-15T01:02:15Z"
+      "published_at": "2026-10-16T13:20:54Z"
     },
     {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 53,
-      "summary_oneline": "クラウド・VPC・セルフホスト対応のエージェントワークフロー・RAGパイプラインビルダー。",
+      "id": "anthropic-science-claude-discovers-a-novel-enzyme-system-with-crispr-l",
+      "source": "anthropic",
+      "title": "Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "score": 55,
+      "summary_oneline": "ClaudeがCRISPR様リピートを持つ新規酵素システムを自律的に発見。AIによる科学的発見の最新事例。",
       "tags": [
-        "workflow-automation",
-        "rag",
-        "ai-platform"
-      ],
-      "published_at": "2026-10-15T22:11:18Z"
-    },
-    {
-      "id": "gh-trending-morluto-rea",
-      "source": "github",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "score": 52,
-      "summary_oneline": "エージェントを活用してアプリ動作からネイティブバイナリまでリバースエンジニアリングするツール。",
-      "tags": [
-        "ai-agent",
-        "reverse-engineering",
-        "security"
+        "anthropic",
+        "science",
+        "ai-research"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 55,
+      "summary_oneline": "ネイティブAI機能を備えたオープンソースのワークフロー自動化プラットフォーム。400以上のインテグレーション対応。",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "open-source"
+      ],
+      "published_at": "2026-10-16T21:49:55Z"
     },
     {
       "id": "gh-topic-1024554267",
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 52,
-      "summary_oneline": "NousResearch製の人気AIエージェントフレームワーク。GitHub★254,000超の成長中プロジェクト。",
+      "score": 55,
+      "summary_oneline": "NousResearchが開発する成長型汎用AIエージェント「Hermes Agent」。25万超のスターを獲得。",
       "tags": [
-        "ai-agent",
-        "framework",
-        "open-source"
+        "agent-sdk",
+        "open-source",
+        "llm"
       ],
-      "published_at": "2026-10-15T22:07:24Z"
+      "published_at": "2026-10-16T22:09:35Z"
     },
     {
-      "id": "gh-trending-lightseekorg-tokenspeed",
+      "id": "gh-topic-1209966933",
       "source": "github",
-      "title": "lightseekorg/tokenspeed",
-      "url": "https://github.com/lightseekorg/tokenspeed",
-      "score": 50,
-      "summary_oneline": "光速を目指すLLM推論エンジン「TokenSpeed」。高速トークン生成を実現するOSSプロジェクト。",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 55,
+      "summary_oneline": "AIエージェントを使ってアプリ動作からネイティブバイナリまでリバースエンジニアリングするツール。",
+      "tags": [
+        "agent-sdk",
+        "reverse-engineering",
+        "security"
+      ],
+      "published_at": "2026-10-16T22:10:15Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 55,
+      "summary_oneline": "RAGパイプラインとエージェント型ワークフローを構築できるAIアプリ開発プラットフォーム。",
       "tags": [
         "llm",
-        "inference",
-        "performance"
+        "rag",
+        "workflow-automation"
       ],
-      "published_at": null
+      "published_at": "2026-10-16T21:59:11Z"
     },
     {
       "id": "anthropic-expanding-the-cyber-verification-program",
       "source": "anthropic",
       "title": "Expanding the Cyber Verification Program",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "score": 50,
-      "summary_oneline": "Anthropicがサイバー検証プログラムを拡張。セキュリティ研究者向けに高度なAI機能を提供。",
+      "score": 52,
+      "summary_oneline": "Anthropicがセキュリティ研究者向けサイバー検証プログラムを拡充。高度なサイバー機能へのアクセスを提供。",
       "tags": [
         "anthropic",
         "security",
@@ -246,39 +274,11 @@
       "title": "Introducing the Anthropic Cyber Mission",
       "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
       "score": 50,
-      "summary_oneline": "AnthropicがCyber Missionを発表。サイバーセキュリティ分野でのAI活用と研究を推進。",
+      "summary_oneline": "Anthropicがサイバーセキュリティ分野での使命を発表。AIを活用した防衛力強化を目指す。",
       "tags": [
         "anthropic",
         "security",
-        "cyber"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-614765452",
-      "source": "github",
-      "title": "Significant-Gravitas/AutoGPT",
-      "url": "https://github.com/Significant-Gravitas/AutoGPT",
-      "score": 48,
-      "summary_oneline": "アクセシブルなAIを目指すAutoGPT。ツール提供でユーザーが本質的な課題に集中できる環境を構築。",
-      "tags": [
-        "ai-agent",
-        "automation",
-        "open-source"
-      ],
-      "published_at": "2026-10-15T22:09:11Z"
-    },
-    {
-      "id": "anthropic-an-update-on-independent-evaluators",
-      "source": "anthropic",
-      "title": "An update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "score": 46,
-      "summary_oneline": "Anthropicが独立評価者に関する最新情報を公開。AI安全性評価の透明性向上への取り組みを説明。",
-      "tags": [
-        "anthropic",
-        "ai-safety",
-        "evaluation"
+        "mission"
       ],
       "published_at": null
     }
