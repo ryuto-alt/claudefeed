@@ -1,18 +1,18 @@
 {
-  "date": "2026-10-19",
-  "generated_at": "2026-10-18T22:04:37.981Z",
+  "date": "2026-10-20",
+  "generated_at": "2026-10-19T22:03:34.825Z",
   "top": [
     {
-      "id": "gh-trending-anthropics-claude-plugins-official",
+      "id": "gh-trending-anthropics-claude-code",
       "source": "github",
-      "title": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
+      "title": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
       "score": 92,
-      "summary_oneline": "Anthropicが公式管理するClaude Codeプラグインの高品質ディレクトリを公開",
+      "summary_oneline": "ClaudeコードのGitHubリポジトリがトレンド入り。ターミナル常駐のAIコーディングエージェント。",
       "tags": [
         "claude-code",
-        "plugins",
-        "official"
+        "trending",
+        "github"
       ],
       "published_at": null
     },
@@ -21,40 +21,12 @@
       "source": "github",
       "title": "MadsLorentzen/ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "score": 78,
-      "summary_oneline": "Claude Codeを使った求人評価・CV調整・カバーレター作成を行うAI就職活動フレームワーク",
+      "score": 80,
+      "summary_oneline": "Claude Codeベースの求職自動化フレームワーク。求人評価・CV作成・面接準備を一括サポート。",
       "tags": [
         "claude-code",
-        "agent",
-        "automation"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 75,
-      "summary_oneline": "Claude CodeやCursorなど複数エージェントハーネス向けのパフォーマンス最適化システム",
-      "tags": [
-        "claude-code",
-        "agent",
-        "optimization"
-      ],
-      "published_at": "2026-10-15T19:17:01Z"
-    },
-    {
-      "id": "gh-trending-akitaonrails-ai-memory",
-      "source": "github",
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "score": 72,
-      "summary_oneline": "Claude Codeなどエージェント型コーディングCLIの長期記憶とベンダー間引き継ぎソリューション",
-      "tags": [
-        "claude-code",
-        "memory",
-        "agent"
+        "automation",
+        "open-source"
       ],
       "published_at": null
     },
@@ -63,14 +35,42 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数エージェントをまとめて管理するデスクトップツール",
+      "score": 80,
+      "summary_oneline": "Claude Code・Codex等を束ねるクロスプラットフォームデスクトップAll-in-Oneアシスタント。",
       "tags": [
         "claude-code",
-        "desktop",
-        "agent"
+        "desktop-app",
+        "multi-agent"
       ],
-      "published_at": "2026-10-18T03:01:30Z"
+      "published_at": "2026-10-19T10:26:56Z"
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 75,
+      "summary_oneline": "Claude Code等向けのエージェントハーネス最適化システム。スキル・メモリ・セキュリティ機能を提供。",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "performance"
+      ],
+      "published_at": "2026-10-19T05:03:15Z"
+    },
+    {
+      "id": "gh-trending-headroomlabs-ai-headroom",
+      "source": "github",
+      "title": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "score": 70,
+      "summary_oneline": "コーディングエージェント向けトークン削減ライブラリ。JSON処理で60-95%削減、MCPサーバー対応。",
+      "tags": [
+        "mcp",
+        "token-optimization",
+        "agent-sdk"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-ruvnet-ruflo",
@@ -78,11 +78,11 @@
       "title": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "score": 68,
-      "summary_oneline": "Claude Codeを含む複数AIへのマルチエージェントスウォーム展開・調整ハーネス",
+      "summary_oneline": "Claude Code対応のマルチエージェントスウォームフレームワーク。自律ワークフローと連続記憶を搭載。",
       "tags": [
         "claude-code",
         "multi-agent",
-        "automation"
+        "open-source"
       ],
       "published_at": null
     },
@@ -92,11 +92,25 @@
       "title": "stablyai/orca",
       "url": "https://github.com/stablyai/orca",
       "score": 65,
-      "summary_oneline": "Claude Codeを含む複数のコーディングエージェントをデスクトップ・モバイルで実行できるプラットフォーム",
+      "summary_oneline": "Claude Codeを含む各種AIエージェントを自サブスクで動かせるデスクトップ・モバイルアプリ。",
       "tags": [
         "claude-code",
-        "agent-platform",
-        "desktop"
+        "agent",
+        "desktop-app"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-akitaonrails-ai-memory",
+      "source": "github",
+      "title": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "score": 65,
+      "summary_oneline": "エージェントCLI向け長期記憶ソリューション。異なるエージェントベンダー間の引き継ぎも容易に。",
+      "tags": [
+        "agent-sdk",
+        "memory",
+        "cli"
       ],
       "published_at": null
     },
@@ -105,8 +119,8 @@
       "source": "anthropic",
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 62,
-      "summary_oneline": "AnthropicがAPIや製品に関する2026年版利用ポリシーを更新・公開",
+      "score": 63,
+      "summary_oneline": "AnthropicによるAPIおよびサービスの2026年版利用ポリシー更新アナウンス。",
       "tags": [
         "anthropic",
         "policy",
@@ -119,40 +133,12 @@
       "source": "anthropic",
       "title": "Expanding the Cyber Verification Program",
       "url": "https://www.anthropic.com/news/cyber-verification-program",
-      "score": 58,
-      "summary_oneline": "Anthropicがセキュリティ研究者向けサイバー検証プログラムを拡張・高度な機能を提供",
+      "score": 62,
+      "summary_oneline": "Anthropicがサイバー検証プログラムを拡張。認定セキュリティ研究者向けに高度な機能を公開。",
       "tags": [
         "anthropic",
         "security",
-        "cybersecurity"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-an-update-on-independent-evaluators",
-      "source": "anthropic",
-      "title": "An update on independent evaluators",
-      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
-      "score": 55,
-      "summary_oneline": "AnthropicがAI安全性評価のための独立評価者プログラムに関する最新情報を公開",
-      "tags": [
-        "anthropic",
-        "safety",
-        "evaluation"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
-      "source": "anthropic",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 55,
-      "summary_oneline": "Anthropicが1億ドルを投じ1万人のエンジニアを育成してエンタープライズAI人材不足に対応",
-      "tags": [
-        "anthropic",
-        "education",
-        "enterprise"
+        "cyber"
       ],
       "published_at": null
     },
@@ -161,8 +147,8 @@
       "source": "github",
       "title": "anomalyco/opencode",
       "url": "https://github.com/anomalyco/opencode",
-      "score": 52,
-      "summary_oneline": "オープンソースのコーディングエージェント",
+      "score": 62,
+      "summary_oneline": "オープンソースのコーディングエージェント実装。複数のAIプロバイダをサポート。",
       "tags": [
         "open-source",
         "coding-agent",
@@ -175,12 +161,26 @@
       "source": "github",
       "title": "HKUDS/CLI-Anything",
       "url": "https://github.com/HKUDS/CLI-Anything",
-      "score": 52,
-      "summary_oneline": "あらゆるソフトウェアをエージェントネイティブにするCLIハブプロジェクト",
+      "score": 62,
+      "summary_oneline": "すべてのソフトウェアをエージェントネイティブ化するCLIフレームワーク。CLI-Hubを公開中。",
       "tags": [
-        "agent",
         "cli",
+        "agent",
         "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
+      "source": "anthropic",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "score": 60,
+      "summary_oneline": "Anthropicが1億ドルを投資し1万人のエンジニアを育成、企業向けAIタレントギャップ解消へ。",
+      "tags": [
+        "anthropic",
+        "education",
+        "enterprise-ai"
       ],
       "published_at": null
     },
@@ -189,40 +189,54 @@
       "source": "github",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 52,
-      "summary_oneline": "エージェントを使ってアプリの動作からネイティブバイナリまでリバースエンジニアリングするツール",
+      "score": 60,
+      "summary_oneline": "エージェントを使いアプリ動作からネイティブバイナリまでリバースエンジニアリングするツール。",
       "tags": [
         "agent",
         "reverse-engineering",
         "open-source"
       ],
-      "published_at": "2026-10-18T19:40:16Z"
+      "published_at": "2026-10-19T21:30:54Z"
     },
     {
       "id": "gh-topic-1266797999",
       "source": "github",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 52,
-      "summary_oneline": "最小限のコードを書くことを志向するシニア開発者思考のAIエージェントツール",
+      "score": 60,
+      "summary_oneline": "AIエージェントに「書かないコードが最善」という思想を持たせるコーディング支援ツール。",
       "tags": [
         "agent",
-        "coding",
+        "coding-agent",
         "open-source"
       ],
       "published_at": "2026-10-18T01:55:14Z"
     },
     {
-      "id": "gh-trending-mlabonne-llm-course",
-      "source": "github",
-      "title": "mlabonne/llm-course",
-      "url": "https://github.com/mlabonne/llm-course",
+      "id": "anthropic-an-update-on-independent-evaluators",
+      "source": "anthropic",
+      "title": "An update on independent evaluators",
+      "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "score": 50,
-      "summary_oneline": "ロードマップとColabノートブック付きの大規模言語モデル入門コース",
+      "summary_oneline": "Anthropicが独立評価者プログラムの最新状況を公開。AIの安全性評価の透明性向上に取り組む。",
       "tags": [
-        "llm",
-        "education",
-        "open-source"
+        "anthropic",
+        "safety",
+        "evaluation"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-introducing-the-anthropic-cyber-mission",
+      "source": "anthropic",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "score": 50,
+      "summary_oneline": "AnthropicのサイバーセキュリティミッションCyber Missionを発表。AIとサイバーの融合へ。",
+      "tags": [
+        "anthropic",
+        "security",
+        "cyber"
       ],
       "published_at": null
     },
@@ -231,56 +245,42 @@
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 48,
-      "summary_oneline": "成長に合わせて進化する汎用AIエージェント",
+      "score": 50,
+      "summary_oneline": "ユーザーと共に成長する汎用AIエージェントHermes Agent。255K超のスターを獲得。",
       "tags": [
         "agent",
         "open-source",
         "llm"
       ],
-      "published_at": "2026-10-18T21:18:20Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 48,
-      "summary_oneline": "クラウド・オンプレミス対応のエージェントワークフローとRAGパイプライン構築プラットフォーム",
-      "tags": [
-        "agent",
-        "rag",
-        "workflow"
-      ],
-      "published_at": "2026-10-18T21:19:02Z"
-    },
-    {
-      "id": "gh-trending-cursor-plugins",
-      "source": "github",
-      "title": "cursor/plugins",
-      "url": "https://github.com/cursor/plugins",
-      "score": 45,
-      "summary_oneline": "Cursorエディタのプラグイン仕様と公式プラグイン一覧",
-      "tags": [
-        "cursor",
-        "plugins",
-        "coding"
-      ],
-      "published_at": null
+      "published_at": "2026-10-19T21:54:02Z"
     },
     {
       "id": "gh-topic-193215554",
       "source": "github",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 45,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム（400以上の統合対応）",
+      "score": 50,
+      "summary_oneline": "ネイティブAI機能を備えたフェアコードのワークフロー自動化プラットフォーム。400以上の統合をサポート。",
       "tags": [
         "workflow-automation",
         "ai",
         "open-source"
       ],
-      "published_at": "2026-10-18T20:28:02Z"
+      "published_at": "2026-10-19T21:58:43Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 50,
+      "summary_oneline": "RAGパイプラインとエージェントワークフローを統合ワークスペースで構築・デプロイできるプラットフォーム。",
+      "tags": [
+        "agent",
+        "rag",
+        "open-source"
+      ],
+      "published_at": "2026-10-19T16:07:45Z"
     }
   ],
   "extras": []
