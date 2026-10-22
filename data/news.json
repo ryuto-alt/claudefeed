@@ -1,18 +1,46 @@
 {
-  "date": "2026-10-22",
-  "generated_at": "2026-10-21T22:03:17.023Z",
+  "date": "2026-10-23",
+  "generated_at": "2026-10-22T22:03:49.102Z",
   "top": [
+    {
+      "id": "gh-trending-anthropics-knowledge-work-plugins",
+      "source": "github",
+      "title": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "score": 88,
+      "summary_oneline": "AnthropicがClaude Cowork向けナレッジワーカー用プラグインをOSSとして公開",
+      "tags": [
+        "claude-cowork",
+        "plugins",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "anthropic",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "score": 85,
+      "summary_oneline": "AnthropicがエージェントスキルをAgentic AI Foundationに寄贈",
+      "tags": [
+        "agent-skills",
+        "agentic-ai",
+        "open-source"
+      ],
+      "published_at": null
+    },
     {
       "id": "gh-trending-cloudflare-security-audit-skill",
       "source": "github",
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "score": 88,
-      "summary_oneline": "Cloudflareがマルチフェーズのセキュリティ監査を行うClaude Code向けエージェントスキルをOSSとして公開",
+      "score": 83,
+      "summary_oneline": "Cloudflareがコーディングエージェント向け多段階セキュリティ監査スキルを公開",
       "tags": [
-        "claude-code",
-        "skills",
-        "security"
+        "security-audit",
+        "agent-skill",
+        "cloudflare"
       ],
       "published_at": null
     },
@@ -22,179 +50,67 @@
       "title": "Graphify-Labs/graphify",
       "url": "https://github.com/Graphify-Labs/graphify",
       "score": 82,
-      "summary_oneline": "コードベースをクエリ可能な知識グラフに変換するClaudeコード/Cursor対応スキル（ベクトルストア不要）",
+      "summary_oneline": "コードベースをナレッジグラフ化するClaude Code向け/graphifyスキル",
       "tags": [
         "claude-code",
-        "skills",
-        "knowledge-graph"
+        "knowledge-graph",
+        "skill"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1031912724",
+      "id": "gh-trending-luongnv89-claude-howto",
       "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 82,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応したクロスプラットフォームのデスクトップAll-in-Oneアシスタント",
+      "title": "luongnv89/claude-howto",
+      "url": "https://github.com/luongnv89/claude-howto",
+      "score": 80,
+      "summary_oneline": "Claude Codeの基礎から高度なエージェントまでをコピペ可能なテンプレートで学べるガイド",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "agent"
+        "tutorial",
+        "templates"
       ],
-      "published_at": "2026-10-21T15:57:25Z"
+      "published_at": null
     },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude Code等向けのエージェントハーネス最適化システム（スキル・記憶・セキュリティ・リサーチ優先開発対応）",
+      "score": 76,
+      "summary_oneline": "Claude CodeやCodexなど向けエージェントハーネス最適化システム（スキル・記憶・セキュリティ対応）",
       "tags": [
         "claude-code",
-        "agent-sdk",
-        "optimization"
+        "agent-harness",
+        "performance"
       ],
       "published_at": "2026-10-20T23:08:28Z"
     },
     {
-      "id": "gh-trending-akitaonrails-ai-memory",
+      "id": "gh-topic-1031912724",
       "source": "github",
-      "title": "akitaonrails/ai-memory",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "score": 75,
-      "summary_oneline": "Claude Code等のコーディングエージェントCLI向け長期記憶ソリューション、ベンダー間の引き継ぎにも対応",
-      "tags": [
-        "claude-code",
-        "memory",
-        "agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-headroomlabs-ai-headroom",
-      "source": "github",
-      "title": "headroomlabs-ai/headroom",
-      "url": "https://github.com/headroomlabs-ai/headroom",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
       "score": 72,
-      "summary_oneline": "コーディングエージェント向けにツール出力・ログ・RAGを圧縮（JSON最大95%削減）、MCP Serverも提供",
+      "summary_oneline": "Claude Code・Codex・OpenCode等に対応するクロスプラットフォームAll-in-Oneデスクトップアシスタント",
       "tags": [
-        "mcp",
         "claude-code",
-        "token-optimization"
+        "desktop-app",
+        "all-in-one"
       ],
-      "published_at": null
+      "published_at": "2026-10-22T18:34:00Z"
     },
     {
       "id": "anthropic-2026-usage-policy-update",
       "source": "anthropic",
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 70,
-      "summary_oneline": "Anthropicが2026年版の使用ポリシーを更新、開発者・ユーザー向けの利用規約変更を発表",
-      "tags": [
-        "anthropic",
-        "policy",
-        "update"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-stablyai-orca",
-      "source": "github",
-      "title": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "score": 65,
-      "summary_oneline": "Claude Codeなどのコーディングエージェントをデスクトップやモバイルでフリートとして管理・実行するプラットフォーム",
-      "tags": [
-        "claude-code",
-        "agent",
-        "platform"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-previewing-the-model-hardware-standard",
-      "source": "anthropic",
-      "title": "Previewing the Model Hardware Standard",
-      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
-      "score": 65,
-      "summary_oneline": "AnthropicがAIモデル動作のためのハードウェア標準仕様のリサーチプレビューを公開",
-      "tags": [
-        "anthropic",
-        "hardware",
-        "standard"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
-      "source": "anthropic",
-      "title": "Strengthening our defenses against distillation attacks",
-      "url": "https://www.anthropic.com/news/distillation-defenses",
-      "score": 65,
-      "summary_oneline": "Anthropicがモデルのディスティレーション攻撃に対する防衛強化策を発表",
-      "tags": [
-        "anthropic",
-        "security",
-        "model"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-expanding-the-cyber-verification-programwe-re-launching-a-ne",
-      "source": "anthropic",
-      "title": "Expanding the Cyber Verification Program",
-      "url": "https://www.anthropic.com/news/cyber-verification-program",
       "score": 62,
-      "summary_oneline": "AnthropicがCyber Verification Programを拡張、認定セキュリティ専門家向けに高度な機能を提供",
+      "summary_oneline": "Anthropicが2026年の利用ポリシーを更新",
       "tags": [
         "anthropic",
-        "security",
-        "verification"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1209966933",
-      "source": "github",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "score": 60,
-      "summary_oneline": "AIエージェントを使ってアプリ動作からネイティブバイナリまでリバースエンジニアリングするOSSツール",
-      "tags": [
-        "agent",
-        "reverse-engineering",
-        "security"
-      ],
-      "published_at": "2026-10-21T21:57:57Z"
-    },
-    {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 60,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム、400以上のインテグレーション対応",
-      "tags": [
-        "workflow-automation",
-        "ai",
-        "oss"
-      ],
-      "published_at": "2026-10-21T22:00:27Z"
-    },
-    {
-      "id": "anthropic-improving-our-alignment-and-security-efforts",
-      "source": "anthropic",
-      "title": "Improving our alignment and security efforts",
-      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
-      "score": 60,
-      "summary_oneline": "Anthropicがアライメントとセキュリティへの取り組みを強化する新施策を発表",
-      "tags": [
-        "anthropic",
-        "alignment",
-        "security"
+        "usage-policy",
+        "compliance"
       ],
       "published_at": null
     },
@@ -204,7 +120,7 @@
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "score": 60,
-      "summary_oneline": "Anthropicが1億ドルを投資し1万人のエンジニアを育成、Claude Frontier Academyを設立してAI人材不足に対応",
+      "summary_oneline": "Anthropicが1億ドルを投資し1万人のエンジニア育成でエンタープライズAI人材不足に対処",
       "tags": [
         "anthropic",
         "education",
