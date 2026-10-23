@@ -1,32 +1,18 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-22T22:03:49.102Z",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-23T22:04:15.622Z",
   "top": [
     {
       "id": "gh-trending-anthropics-knowledge-work-plugins",
       "source": "github",
       "title": "anthropics/knowledge-work-plugins",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "score": 88,
-      "summary_oneline": "AnthropicがClaude Cowork向けナレッジワーカー用プラグインをOSSとして公開",
+      "score": 92,
+      "summary_oneline": "AnthropicがClaude Cowork向けナレッジワーカー用プラグインをオープンソースとして公開",
       "tags": [
-        "claude-cowork",
+        "claude-code",
         "plugins",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "anthropic",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "score": 85,
-      "summary_oneline": "AnthropicがエージェントスキルをAgentic AI Foundationに寄贈",
-      "tags": [
-        "agent-skills",
-        "agentic-ai",
-        "open-source"
+        "anthropic"
       ],
       "published_at": null
     },
@@ -35,40 +21,12 @@
       "source": "github",
       "title": "cloudflare/security-audit-skill",
       "url": "https://github.com/cloudflare/security-audit-skill",
-      "score": 83,
-      "summary_oneline": "Cloudflareがコーディングエージェント向け多段階セキュリティ監査スキルを公開",
+      "score": 86,
+      "summary_oneline": "Cloudflareがコーディングエージェント向けのマルチフェーズセキュリティ監査スキルを公開",
       "tags": [
-        "security-audit",
-        "agent-skill",
-        "cloudflare"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-graphify-labs-graphify",
-      "source": "github",
-      "title": "Graphify-Labs/graphify",
-      "url": "https://github.com/Graphify-Labs/graphify",
-      "score": 82,
-      "summary_oneline": "コードベースをナレッジグラフ化するClaude Code向け/graphifyスキル",
-      "tags": [
-        "claude-code",
-        "knowledge-graph",
-        "skill"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-luongnv89-claude-howto",
-      "source": "github",
-      "title": "luongnv89/claude-howto",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "score": 80,
-      "summary_oneline": "Claude Codeの基礎から高度なエージェントまでをコピペ可能なテンプレートで学べるガイド",
-      "tags": [
-        "claude-code",
-        "tutorial",
-        "templates"
+        "skill",
+        "security",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -77,11 +35,11 @@
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 76,
-      "summary_oneline": "Claude CodeやCodexなど向けエージェントハーネス最適化システム（スキル・記憶・セキュリティ対応）",
+      "score": 80,
+      "summary_oneline": "Claude Code等エージェントのパフォーマンス最適化システム、スキル・記憶・セキュリティ機能を提供",
       "tags": [
         "claude-code",
-        "agent-harness",
+        "agent-sdk",
         "performance"
       ],
       "published_at": "2026-10-20T23:08:28Z"
@@ -91,26 +49,82 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 72,
-      "summary_oneline": "Claude Code・Codex・OpenCode等に対応するクロスプラットフォームAll-in-Oneデスクトップアシスタント",
+      "score": 78,
+      "summary_oneline": "Claude Code・Codexなど複数AIコーディングツールを一元管理するクロスプラットフォームデスクトップアプリ",
       "tags": [
         "claude-code",
         "desktop-app",
-        "all-in-one"
+        "developer-tools"
       ],
-      "published_at": "2026-10-22T18:34:00Z"
+      "published_at": "2026-10-23T15:54:34Z"
+    },
+    {
+      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "anthropic",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "score": 71,
+      "summary_oneline": "AnthropicがAgentic AI Foundationにエージェントスキルを寄贈すると発表",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "anthropic"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-snailsploit-claude-red",
+      "source": "github",
+      "title": "SnailSploit/Claude-Red",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "score": 68,
+      "summary_oneline": "ClaudeスキルシステムベースのSQLiからEDR回避まで網羅する攻撃的セキュリティスキルライブラリ",
+      "tags": [
+        "skill",
+        "security",
+        "claude-code"
+      ],
+      "published_at": null
     },
     {
       "id": "anthropic-2026-usage-policy-update",
       "source": "anthropic",
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 62,
-      "summary_oneline": "Anthropicが2026年の利用ポリシーを更新",
+      "score": 65,
+      "summary_oneline": "Anthropicが2026年版の利用ポリシーをアップデート",
       "tags": [
         "anthropic",
-        "usage-policy",
-        "compliance"
+        "policy",
+        "api"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-nvidia-openshell",
+      "source": "github",
+      "title": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 63,
+      "summary_oneline": "NVIDIAが自律型AIエージェント向けの安全でプライベートな実行ランタイム「OpenShell」を公開",
+      "tags": [
+        "agent",
+        "runtime",
+        "nvidia"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-previewing-the-model-hardware-standard",
+      "source": "anthropic",
+      "title": "Previewing the Model Hardware Standard",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "score": 62,
+      "summary_oneline": "Anthropicがモデルハードウェア標準規格のリサーチプレビューを発表",
+      "tags": [
+        "anthropic",
+        "hardware",
+        "research"
       ],
       "published_at": null
     },
@@ -120,11 +134,151 @@
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
       "score": 60,
-      "summary_oneline": "Anthropicが1億ドルを投資し1万人のエンジニア育成でエンタープライズAI人材不足に対処",
+      "summary_oneline": "AnthropicがエンタープライズAI人材育成に1億ドル投資し1万人のエンジニアを養成する計画を発表",
       "tags": [
         "anthropic",
         "education",
         "enterprise"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1209966933",
+      "source": "github",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 60,
+      "summary_oneline": "エージェントを使いアプリ動作からネイティブバイナリまでリバースエンジニアリングできるフレームワーク",
+      "tags": [
+        "agent",
+        "reverse-engineering",
+        "developer-tools"
+      ],
+      "published_at": "2026-10-23T21:57:00Z"
+    },
+    {
+      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
+      "source": "anthropic",
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "score": 56,
+      "summary_oneline": "Anthropicがモデル蒸留攻撃への防御強化に関する取り組みを発表",
+      "tags": [
+        "anthropic",
+        "security",
+        "ai-safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 55,
+      "summary_oneline": "RAGパイプラインやエージェントワークフローを含むオープンソースAIアプリ開発プラットフォーム",
+      "tags": [
+        "agent",
+        "rag",
+        "ai-tools"
+      ],
+      "published_at": "2026-10-23T17:26:29Z"
+    },
+    {
+      "id": "anthropic-improving-our-alignment-and-security-efforts",
+      "source": "anthropic",
+      "title": "Improving our alignment and security efforts",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "score": 54,
+      "summary_oneline": "Anthropicがアライメントとセキュリティの取り組み改善状況を報告",
+      "tags": [
+        "anthropic",
+        "ai-safety",
+        "alignment"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 52,
+      "summary_oneline": "ユーザーの利用パターンに応じて成長するNousResearchのオープンソースエージェントフレームワーク",
+      "tags": [
+        "agent",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-10-23T22:00:38Z"
+    },
+    {
+      "id": "gh-topic-1266797999",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 52,
+      "summary_oneline": "AIエージェントに「最もコードを書かないシニアエンジニア」の思考スタイルを実装するフレームワーク",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "ai-tools"
+      ],
+      "published_at": "2026-10-18T01:55:14Z"
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 52,
+      "summary_oneline": "ネイティブAI機能を持つフェアコードのワークフロー自動化プラットフォーム、400以上の統合に対応",
+      "tags": [
+        "workflow-automation",
+        "ai-tools",
+        "open-source"
+      ],
+      "published_at": "2026-10-23T22:01:34Z"
+    },
+    {
+      "id": "anthropic-expanding-the-cyber-verification-programwe-re-launching-a-ne",
+      "source": "anthropic",
+      "title": "Expanding the Cyber Verification Program",
+      "url": "https://www.anthropic.com/news/cyber-verification-program",
+      "score": 48,
+      "summary_oneline": "Anthropicが認定セキュリティ専門家向けの高度なサイバー能力へのアクセスプログラムを拡張",
+      "tags": [
+        "anthropic",
+        "security",
+        "cyber"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-introducing-the-anthropic-cyber-mission",
+      "source": "anthropic",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "score": 48,
+      "summary_oneline": "AnthropicがサイバーセキュリティにおけるAI活用のミッションを発表",
+      "tags": [
+        "anthropic",
+        "security",
+        "cyber-mission"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-developing-enterprise-frontier-safeguards-with-our-customers",
+      "source": "anthropic",
+      "title": "Developing Enterprise Frontier Safeguards with our customers",
+      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
+      "score": 46,
+      "summary_oneline": "Anthropicが顧客との協働によるエンタープライズ向けフロンティアセーフガードの開発を発表",
+      "tags": [
+        "anthropic",
+        "enterprise",
+        "safety"
       ],
       "published_at": null
     }
