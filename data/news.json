@@ -1,18 +1,18 @@
 {
-  "date": "2026-11-06",
-  "generated_at": "2026-11-05T22:03:48.026Z",
+  "date": "2026-11-07",
+  "generated_at": "2026-11-06T22:03:19.914Z",
   "top": [
     {
-      "id": "gh-trending-garrytan-gstack",
+      "id": "gh-trending-cloudflare-security-audit-skill",
       "source": "github",
-      "title": "garrytan/gstack",
-      "url": "https://github.com/garrytan/gstack",
+      "title": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
       "score": 92,
-      "summary_oneline": "Garry TanのClaude Code設定：CEO・デザイナー・エンジニアマネージャー等23ツールをオープンソース公開",
+      "summary_oneline": "Cloudflareがコーディングエージェント向けのセキュリティ監査スキルをOSSで公開。多フェーズ監査と機械可読な検出結果を提供",
       "tags": [
-        "claude-code",
-        "skills",
-        "agent-setup"
+        "agent-skills",
+        "security",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -22,11 +22,11 @@
       "title": "mattpocock/skills",
       "url": "https://github.com/mattpocock/skills",
       "score": 90,
-      "summary_oneline": "Matt PocockがエンジニアのためのClaude Codeスキルコレクションを公開（.agentsディレクトリより）",
+      "summary_oneline": "Matt Pocockがエンジニア向けエージェントスキル集を公開。自身の.agentsディレクトリからの実践的なスキルを提供",
       "tags": [
+        "agent-skills",
         "claude-code",
-        "skills",
-        "open-source"
+        "developer-tools"
       ],
       "published_at": null
     },
@@ -35,12 +35,12 @@
       "source": "github",
       "title": "google/skills",
       "url": "https://github.com/google/skills",
-      "score": 90,
-      "summary_oneline": "GoogleがClaude Code向けAgent Skills公式コレクションを公開",
+      "score": 88,
+      "summary_oneline": "GoogleがGoogleプロダクト・技術向けエージェントスキル集をOSSで公開",
       "tags": [
-        "skills",
-        "agent-sdk",
-        "google"
+        "agent-skills",
+        "google",
+        "open-source"
       ],
       "published_at": null
     },
@@ -50,13 +50,13 @@
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
       "score": 88,
-      "summary_oneline": "Claude Code・Codex等向けのエージェントハーネス最適化システム（スキル・メモリ・セキュリティ強化）",
+      "summary_oneline": "Claude Code・Codex・Cursorなど向けエージェントハーネス最適化システム。スキル・記憶・セキュリティ機能を統合",
       "tags": [
         "claude-code",
         "agent-sdk",
-        "optimization"
+        "performance"
       ],
-      "published_at": "2026-11-02T04:56:08Z"
+      "published_at": "2026-11-06T21:21:50Z"
     },
     {
       "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
@@ -64,11 +64,11 @@
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
       "score": 85,
-      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI Foundationに寄贈しオープン化を推進",
+      "summary_oneline": "AnthropicがエージェントスキルをAgentic AI Foundationに寄贈。エコシステムの標準化を推進する取り組み",
       "tags": [
-        "agent-sdk",
-        "skills",
-        "anthropic"
+        "agent-skills",
+        "anthropic",
+        "open-source"
       ],
       "published_at": null
     },
@@ -78,53 +78,25 @@
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
       "score": 85,
-      "summary_oneline": "Claude Code・Codex・DeepSeek対応のクロスプラットフォームデスクトップAIアシスタント",
+      "summary_oneline": "Claude Code・Codex・DeepSeekなど複数のAIコーディングツールに対応したクロスプラットフォームデスクトップアシスタント",
       "tags": [
         "claude-code",
-        "desktop-app",
-        "multi-agent"
+        "developer-tools",
+        "cross-platform"
       ],
-      "published_at": "2026-11-05T17:15:50Z"
+      "published_at": "2026-11-06T16:07:51Z"
     },
     {
-      "id": "gh-trending-max-sixty-worktrunk",
-      "source": "github",
-      "title": "max-sixty/worktrunk",
-      "url": "https://github.com/max-sixty/worktrunk",
-      "score": 80,
-      "summary_oneline": "並列AIエージェントワークフロー向けのGit worktree管理CLIツール",
+      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
+      "source": "anthropic",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "score": 72,
+      "summary_oneline": "AnthropicがClaude Frontier Academy設立のため1億ドルを投資。企業向けAI人材1万人の育成を目指す",
       "tags": [
-        "claude-code",
-        "git-worktree",
-        "parallel-agents"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-scenario-labs-skills",
-      "source": "github",
-      "title": "scenario-labs/skills",
-      "url": "https://github.com/scenario-labs/skills",
-      "score": 78,
-      "summary_oneline": "AI画像・動画・音声・3D生成向けのMCPスキルコレクション（Scenario Labs）",
-      "tags": [
-        "skills",
-        "mcp",
-        "image-generation"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-conardli-garden-skills",
-      "source": "github",
-      "title": "ConardLi/garden-skills",
-      "url": "https://github.com/ConardLi/garden-skills",
-      "score": 75,
-      "summary_oneline": "Webデザイン・知識検索・画像生成等のオープンソーススキルコレクション",
-      "tags": [
-        "skills",
-        "open-source",
-        "web-design"
+        "anthropic",
+        "education",
+        "enterprise-ai"
       ],
       "published_at": null
     },
@@ -134,25 +106,11 @@
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
       "url": "https://www.anthropic.com/news/s1-sec",
       "score": 72,
-      "summary_oneline": "AnthropicがSECにIPO（新規株式公開）目的のS-1登録届を提出",
+      "summary_oneline": "AnthropicがIPOに向けてSECにS-1登録申請書を提出。AIスタートアップの重要な節目",
       "tags": [
         "anthropic",
         "ipo",
-        "funding"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-vercel-labs-agent-desktop",
-      "source": "github",
-      "title": "vercel-labs/agent-desktop",
-      "url": "https://github.com/vercel-labs/agent-desktop",
-      "score": 68,
-      "summary_oneline": "VercelがAIエージェント向けのコンピューターUse CLIをオープンソース公開",
-      "tags": [
-        "agent-sdk",
-        "computer-use",
-        "cli"
+        "business"
       ],
       "published_at": null
     },
@@ -161,54 +119,26 @@
       "source": "github",
       "title": "DietrichGebert/ponytail",
       "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 65,
-      "summary_oneline": "AIエージェントをベテラン開発者のように「最小コード思考」で動かすツール",
+      "score": 70,
+      "summary_oneline": "AIエージェントをベテランエンジニアのように動作させるツール。「最良のコードは書かないコード」の哲学を実装",
       "tags": [
-        "agent-sdk",
+        "ai-agent",
         "developer-tools",
         "open-source"
       ],
       "published_at": "2026-10-29T11:59:31Z"
     },
     {
-      "id": "gh-trending-vercel-labs-agent-browser",
-      "source": "github",
-      "title": "vercel-labs/agent-browser",
-      "url": "https://github.com/vercel-labs/agent-browser",
-      "score": 65,
-      "summary_oneline": "VercelがAIエージェント向けブラウザ自動化CLIをオープンソース公開",
-      "tags": [
-        "agent-sdk",
-        "browser-automation",
-        "cli"
-      ],
-      "published_at": null
-    },
-    {
       "id": "anthropic-2026-usage-policy-update",
       "source": "anthropic",
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 62,
-      "summary_oneline": "Anthropicが2026年の利用ポリシーをアップデート",
+      "score": 65,
+      "summary_oneline": "Anthropicによる2026年版Claude利用ポリシーのアップデート。許可される用途と制限事項が改訂された",
       "tags": [
         "anthropic",
         "policy",
-        "usage"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
-      "source": "anthropic",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 58,
-      "summary_oneline": "Anthropicが1億ドルを投じてエンジニア1万人を育成する企業向けAI人材育成プログラムを発表",
-      "tags": [
-        "anthropic",
-        "education",
-        "enterprise"
+        "claude"
       ],
       "published_at": null
     },
@@ -217,70 +147,140 @@
       "source": "github",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 57,
-      "summary_oneline": "エージェントでアプリ動作からネイティブバイナリまでリバースエンジニアリングするフレームワーク",
+      "score": 62,
+      "summary_oneline": "AIエージェントを使ってアプリ挙動からネイティブバイナリまでリバースエンジニアリングできるフレームワーク",
       "tags": [
-        "agent-sdk",
+        "ai-agent",
         "reverse-engineering",
         "open-source"
       ],
-      "published_at": "2026-11-05T20:30:39Z"
-    },
-    {
-      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
-      "source": "anthropic",
-      "title": "Strengthening our defenses against distillation attacks",
-      "url": "https://www.anthropic.com/news/distillation-defenses",
-      "score": 56,
-      "summary_oneline": "Anthropicがモデル蒸留攻撃への防御強化策を発表",
-      "tags": [
-        "anthropic",
-        "security",
-        "model-safety"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-nvidia-auto-ontology",
-      "source": "github",
-      "title": "NVIDIA/auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "score": 54,
-      "summary_oneline": "NVIDIAがLLM・エージェントワークフロー向けのグラフベースセマンティック推論フレームワークを公開",
-      "tags": [
-        "llm",
-        "graph-reasoning",
-        "agent-sdk"
-      ],
-      "published_at": null
+      "published_at": "2026-11-06T21:59:13Z"
     },
     {
       "id": "gh-topic-1024554267",
       "source": "github",
       "title": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
-      "score": 54,
-      "summary_oneline": "NousResearchによる成長型AIエージェント「Hermes Agent」（GitHub ★26万）",
+      "score": 60,
+      "summary_oneline": "NousResearchによる自己成長型エージェントフレームワーク「Hermes Agent」。高スター数を獲得中",
       "tags": [
-        "agent-sdk",
+        "ai-agent",
         "open-source",
         "llm"
       ],
-      "published_at": "2026-11-05T21:47:03Z"
+      "published_at": "2026-11-06T21:21:03Z"
+    },
+    {
+      "id": "gh-trending-nvidia-auto-ontology",
+      "source": "github",
+      "title": "NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "score": 60,
+      "summary_oneline": "NVIDIAがLLM・エージェントワークフロー向けグラフベース推論レイヤー構築Pythonフレームワークを公開",
+      "tags": [
+        "llm",
+        "ai-agent",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-zed-industries-zed",
+      "source": "github",
+      "title": "zed-industries/zed",
+      "url": "https://github.com/zed-industries/zed",
+      "score": 58,
+      "summary_oneline": "高性能AIファーストのマルチプレイヤーコードエディタZedがGitHubトレンド入り。AtomとTree-sitter開発者制作",
+      "tags": [
+        "code-editor",
+        "developer-tools",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
+      "source": "anthropic",
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "score": 55,
+      "summary_oneline": "AnthropicがClaudeのモデルディスティレーションアタックへの防御強化について解説",
+      "tags": [
+        "anthropic",
+        "security",
+        "ai-safety"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-topic-193215554",
       "source": "github",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 52,
-      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化プラットフォーム（統合400種以上）",
+      "score": 55,
+      "summary_oneline": "ネイティブAI機能を持つオープンソースのワークフロー自動化プラットフォーム。400以上の統合に対応",
       "tags": [
         "workflow-automation",
-        "ai-integration",
+        "ai",
         "open-source"
       ],
-      "published_at": "2026-11-05T21:03:55Z"
+      "published_at": "2026-11-06T21:14:33Z"
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 55,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを統合したAIプラットフォーム。クラウド・VPC・セルフホストに対応",
+      "tags": [
+        "ai-agent",
+        "rag",
+        "workflow-automation"
+      ],
+      "published_at": "2026-11-06T19:46:43Z"
+    },
+    {
+      "id": "gh-trending-microsoft-vscode",
+      "source": "github",
+      "title": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "score": 55,
+      "summary_oneline": "MicrosoftのVisual Studio CodeがGitHubトレンド入り。Claude CodeのIDEとしても広く利用されている",
+      "tags": [
+        "vscode",
+        "developer-tools",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-614765452",
+      "source": "github",
+      "title": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "score": 52,
+      "summary_oneline": "誰でもAIを使用・構築できることを目指すAutoGPTプラットフォームが更新",
+      "tags": [
+        "ai-agent",
+        "open-source",
+        "llm"
+      ],
+      "published_at": "2026-11-06T21:16:47Z"
+    },
+    {
+      "id": "anthropic-introducing-the-anthropic-cyber-mission",
+      "source": "anthropic",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "score": 50,
+      "summary_oneline": "AnthropicがサイバーセキュリティへのAI活用を推進するAnthropic Cyber Missionを発表",
+      "tags": [
+        "anthropic",
+        "cybersecurity",
+        "ai"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
