@@ -1,242 +1,88 @@
 {
-  "date": "2026-11-13",
-  "generated_at": "2026-11-12T22:03:27.833Z",
+  "date": "2026-11-14",
+  "generated_at": "2026-11-13T22:03:19.042Z",
   "top": [
     {
-      "id": "cc-release-439536010",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.321",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
-      "score": 95,
-      "summary_oneline": "Fable 5.2がデフォルトモデルに昇格、remote-controlに設定ファイル適用オプション追加、MCP OAuthシークレット漏洩バグを修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-11-09T19:22:30Z"
-    },
-    {
-      "id": "cc-release-432094076",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.317",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.317",
-      "score": 92,
-      "summary_oneline": "/scheduleコネクタ警告追加、メール送信前確認機能、Agent SDK hookにonFailure:blockオプションを追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "agent-sdk"
-      ],
-      "published_at": "2026-11-03T01:25:46Z"
-    },
-    {
-      "id": "cc-release-439863658",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.322",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
-      "score": 90,
-      "summary_oneline": "VertexのグローバルリージョンでFastモードをサポート、非対応時は標準速度にフォールバック",
-      "tags": [
-        "claude-code",
-        "release",
-        "vertex"
-      ],
-      "published_at": "2026-11-10T02:29:43Z"
-    },
-    {
-      "id": "cc-release-428518421",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.314",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.314",
-      "score": 90,
-      "summary_oneline": "ワーキングディレクトリ外へのWrite/Edit禁止設定を追加、GatewayでBedrockグループフィルタリング対応",
-      "tags": [
-        "claude-code",
-        "release",
-        "security"
-      ],
-      "published_at": "2026-10-30T01:06:26Z"
-    },
-    {
-      "id": "cc-release-433257014",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.318",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.318",
-      "score": 88,
-      "summary_oneline": "modフォークに実行effortオプション追加、AWS MantleにAssumeRoleとコスト帰属機能を追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "aws"
-      ],
-      "published_at": "2026-11-04T00:01:03Z"
-    },
-    {
-      "id": "cc-release-435952318",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.319",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
-      "score": 88,
-      "summary_oneline": "LLMゲートウェイでのAutoモード動作変更、テレメトリ無効時はサーバー確認が必須に",
-      "tags": [
-        "claude-code",
-        "release",
-        "gateway"
-      ],
-      "published_at": "2026-11-06T17:04:01Z"
-    },
-    {
-      "id": "cc-release-429617179",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.316",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.316",
-      "score": 87,
-      "summary_oneline": "ULTRATHINKキーワード無効化環境変数を追加、Gatewayでグループ共有予算のプーリングに対応",
-      "tags": [
-        "claude-code",
-        "release",
-        "gateway"
-      ],
-      "published_at": "2026-10-31T01:01:35Z"
-    },
-    {
-      "id": "cc-release-422315867",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.310",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.310",
-      "score": 85,
-      "summary_oneline": "BedrockとVertexでMonitorツールとプラグインモニターが利用可能に、Gateway互換性問題を修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "bedrock"
-      ],
-      "published_at": "2026-10-23T23:39:00Z"
-    },
-    {
-      "id": "gh-trending-addyosmani-agent-skills",
+      "id": "gh-trending-chromedevtools-chrome-devtools-mcp",
       "source": "github",
-      "title": "addyosmani/agent-skills",
-      "url": "https://github.com/addyosmani/agent-skills",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "score": 85,
-      "summary_oneline": "AIコーディングエージェント向けのプロダクションレベルのエンジニアリングスキルを集めたOSSリポジトリ",
+      "summary_oneline": "Chrome DevToolsチームがコーディングエージェント向けのMCPサーバーを公開",
       "tags": [
-        "agent-sdk",
-        "skills",
-        "open-source"
+        "mcp",
+        "chrome-devtools",
+        "coding-agent"
       ],
       "published_at": null
-    },
-    {
-      "id": "cc-release-425846009",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.312",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.312",
-      "score": 83,
-      "summary_oneline": "OIDC設定でid_tokenクレームをカスタマイズ可能に、フルスクリーンでクリック送信機能を追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "oidc"
-      ],
-      "published_at": "2026-10-27T20:24:20Z"
-    },
-    {
-      "id": "cc-release-424682562",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.311",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.311",
-      "score": 83,
-      "summary_oneline": "self-hosted-runnerにアイドルセッション保持オプション追加、CLAUDE.mdの長リスト起動フリーズを修正",
-      "tags": [
-        "claude-code",
-        "release",
-        "self-hosted"
-      ],
-      "published_at": "2026-10-26T21:51:23Z"
     },
     {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude CodeやCodex向けのエージェントハーネス最適化システム。スキル、記憶、セキュリティ機能を統合",
+      "score": 85,
+      "summary_oneline": "Claude CodeやCodexなどのエージェントハーネスのパフォーマンス最適化システム（スキル・メモリ・セキュリティ対応）",
       "tags": [
         "claude-code",
-        "skills",
-        "agent-harness"
+        "agent-sdk",
+        "performance"
       ],
       "published_at": "2026-11-09T04:56:24Z"
-    },
-    {
-      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "anthropic",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "score": 75,
-      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI財団に寄贈し、オープン標準としての普及を促進",
-      "tags": [
-        "agent-sdk",
-        "skills",
-        "open-source"
-      ],
-      "published_at": null
     },
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 75,
-      "summary_oneline": "Claude CodeやCodex、OpenCode等に対応するAll-in-Oneクロスプラットフォームデスクトップアシスタント",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数のAIコーディングツールをまとめるクロスプラットフォームデスクトップアプリ",
       "tags": [
         "claude-code",
         "desktop-app",
-        "tools"
+        "tooling"
       ],
-      "published_at": "2026-11-12T18:12:04Z"
+      "published_at": "2026-11-13T15:28:34Z"
     },
     {
       "id": "gh-topic-1106996539",
       "source": "github",
       "title": "nextlevelbuilder/ui-ux-pro-max-skill",
       "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 72,
-      "summary_oneline": "複数プラットフォーム向けにプロ級UI/UXを構築するAIスキル、14万8千スター獲得",
+      "score": 75,
+      "summary_oneline": "マルチプラットフォーム向けUI/UXデザインを支援するClaude Codeスキル",
       "tags": [
+        "claude-code",
         "skills",
-        "ui-ux",
-        "claude-code"
+        "ui-ux"
       ],
       "published_at": "2026-11-10T13:03:58Z"
     },
     {
-      "id": "anthropic-2026-usage-policy-update",
+      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
       "source": "anthropic",
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 65,
-      "summary_oneline": "Anthropicが2026年の利用ポリシーを更新、サービスの安全利用に関する新ガイドラインを公開",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "score": 72,
+      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI Foundationに寄贈し、スキルエコシステムのオープン化を推進",
       "tags": [
-        "anthropic",
-        "policy",
-        "safety"
+        "skills",
+        "agent-sdk",
+        "anthropic"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-googlechrome-modern-web-guidance-src",
+      "id": "gh-trending-tradermonty-claude-trading-skills",
       "source": "github",
-      "title": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "score": 65,
-      "summary_oneline": "コーディングエージェントが最新のWeb標準を学べるGoogleChromeのモダンウェブガイダンスOSS",
+      "title": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "score": 72,
+      "summary_oneline": "株式投資・トレーダー向けのClaude Codeスキル集（市場分析・テクニカルチャート・スクリーナーなど）",
       "tags": [
-        "web-standards",
-        "coding-agent",
-        "chrome"
+        "claude-code",
+        "skills",
+        "finance"
       ],
       "published_at": null
     },
@@ -245,58 +91,197 @@
       "source": "anthropic",
       "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
       "url": "https://www.anthropic.com/news/s1-sec",
-      "score": 65,
-      "summary_oneline": "AnthropicがIPOに向けSEC Form S-1を提出、初のIPO申請として大きな注目を集める",
+      "score": 70,
+      "summary_oneline": "AnthropicがSECにS-1を提出、株式上場（IPO）を正式申請",
       "tags": [
         "anthropic",
         "ipo",
-        "corporate"
+        "industry-news"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-copilotkit-openbot",
-      "source": "github",
-      "title": "CopilotKit/OpenBot",
-      "url": "https://github.com/CopilotKit/OpenBot",
+      "id": "anthropic-anthropic-launches-roadshow-for-proposed-initial-public-offe",
+      "source": "anthropic",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
       "score": 65,
-      "summary_oneline": "独自ブラウザ・ファイル・ツールを持つオープンソースAIコワーカーフレームワーク、AG-UIに対応",
+      "summary_oneline": "AnthropicがIPOに向けてロードショーを開始",
       "tags": [
-        "agent-sdk",
-        "open-source",
-        "automation"
+        "anthropic",
+        "ipo",
+        "industry-news"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-trending-backnotprop-plannotator",
+      "source": "github",
+      "title": "backnotprop/plannotator",
+      "url": "https://github.com/backnotprop/plannotator",
+      "score": 62,
+      "summary_oneline": "エージェントの作業を把握・管理し、コードレビューとフィードバックをワンクリックで送信できるワークスペース",
+      "tags": [
+        "agent-sdk",
+        "code-review",
+        "tooling"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-2026-usage-policy-update",
+      "source": "anthropic",
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "score": 60,
+      "summary_oneline": "Anthropicが2026年版の利用ポリシーを更新",
+      "tags": [
+        "anthropic",
+        "policy",
+        "developer"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-alibaba-open-code-review",
+      "source": "github",
+      "title": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 60,
+      "summary_oneline": "アリババ発のOSSコードレビューツール、LLMエージェントと決定論的パイプラインのハイブリッド構成でAnthropicに対応",
+      "tags": [
+        "code-review",
+        "llm",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-193215554",
+      "source": "github",
+      "title": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "score": 60,
+      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化プラットフォーム（400以上のインテグレーション）",
+      "tags": [
+        "workflow-automation",
+        "ai",
+        "open-source"
+      ],
+      "published_at": "2026-11-13T21:49:04Z"
     },
     {
       "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
       "source": "anthropic",
       "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
       "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 60,
-      "summary_oneline": "Anthropicが1億ドルを投資し1万人のエンジニアを育成するClaude Frontier Academyを設立",
+      "score": 58,
+      "summary_oneline": "Anthropicがエンジニア1万人育成のため1億ドルを投資、Claude Frontier Academyを設立",
       "tags": [
         "anthropic",
         "education",
         "enterprise"
       ],
       "published_at": null
-    }
-  ],
-  "extras": [
+    },
     {
-      "id": "gh-trending-qwenlm-qwen-code",
+      "id": "gh-trending-googlechrome-modern-web-guidance-src",
       "source": "github",
-      "title": "QwenLM/qwen-code",
-      "url": "https://github.com/QwenLM/qwen-code",
-      "score": 60,
-      "summary_oneline": "ターミナルで動作するQwenベースのオープンソースAIコーディングエージェント",
+      "title": "GoogleChrome/modern-web-guidance-src",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "score": 58,
+      "summary_oneline": "コーディングエージェント向けに最新Webベストプラクティスをアップデートするガイダンスリポジトリ",
       "tags": [
-        "open-source",
         "coding-agent",
-        "llm"
+        "web-dev",
+        "best-practices"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-626805178",
+      "source": "github",
+      "title": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "score": 58,
+      "summary_oneline": "エージェントワークフローとRAGパイプラインを構築できるAIプラットフォーム（クラウド・自社ホスト対応）",
+      "tags": [
+        "agent-sdk",
+        "rag",
+        "open-source"
+      ],
+      "published_at": "2026-11-13T14:54:14Z"
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 55,
+      "summary_oneline": "NousResearchによる自己成長型エージェントフレームワーク",
+      "tags": [
+        "agent-sdk",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-11-13T22:00:19Z"
+    },
+    {
+      "id": "gh-topic-574523116",
+      "source": "github",
+      "title": "f/prompts.chat",
+      "url": "https://github.com/f/prompts.chat",
+      "score": 55,
+      "summary_oneline": "コミュニティでプロンプトを共有・発見できるオープンソースプラットフォーム（旧Awesome ChatGPT Prompts）",
+      "tags": [
+        "prompts",
+        "community",
+        "open-source"
+      ],
+      "published_at": "2026-11-13T21:46:41Z"
+    },
+    {
+      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
+      "source": "anthropic",
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "score": 52,
+      "summary_oneline": "Anthropicがモデル蒸留攻撃への防御強化策を発表",
+      "tags": [
+        "anthropic",
+        "security",
+        "ai-safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-701547123",
+      "source": "github",
+      "title": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "score": 52,
+      "summary_oneline": "Ollama・OpenAI API等に対応したユーザーフレンドリーなAI操作インターフェース",
+      "tags": [
+        "llm",
+        "open-source",
+        "ui"
+      ],
+      "published_at": "2026-11-13T21:44:57Z"
+    },
+    {
+      "id": "anthropic-introducing-the-anthropic-cyber-mission",
+      "source": "anthropic",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "score": 50,
+      "summary_oneline": "Anthropicがサイバーセキュリティ強化に向けた新ミッションを発表",
+      "tags": [
+        "anthropic",
+        "security",
+        "cybersecurity"
       ],
       "published_at": null
     }
-  ]
+  ],
+  "extras": []
 }
