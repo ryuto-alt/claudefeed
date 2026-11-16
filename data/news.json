@@ -1,102 +1,18 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-15T22:03:34.891Z",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-16T22:03:40.421Z",
   "top": [
-    {
-      "id": "gh-trending-google-labs-code-stitch-skills",
-      "source": "github",
-      "title": "google-labs-code/stitch-skills",
-      "url": "https://github.com/google-labs-code/stitch-skills",
-      "score": 90,
-      "summary_oneline": "GoogleがStitch MCPサーバー向けエージェントスキルライブラリを公開。Claude CodeやCursorなど主要コーディングエージェントに対応。",
-      "tags": [
-        "claude-code",
-        "mcp",
-        "agent-skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-tencent-loopforge",
-      "source": "github",
-      "title": "Tencent/LoopForge",
-      "url": "https://github.com/Tencent/LoopForge",
-      "score": 88,
-      "summary_oneline": "TencentがClaude CodeとCodexのセルフホスト型ワークフロー管理ツールをOSS公開。人間による承認ゲートを含む配信オーケストレーション基盤。",
-      "tags": [
-        "claude-code",
-        "workflow",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-chromedevtools-chrome-devtools-mcp",
-      "source": "github",
-      "title": "ChromeDevTools/chrome-devtools-mcp",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "score": 85,
-      "summary_oneline": "Chrome DevToolsチームがコーディングエージェント向けMCPサーバーを公開。ブラウザデバッグとAIの統合が実現。",
-      "tags": [
-        "mcp",
-        "chrome-devtools",
-        "coding-agent"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "anthropic",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "score": 85,
-      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI Foundationに寄贈し、エージェントスキル標準のオープン化を推進する取り組みを発表。",
-      "tags": [
-        "agent-skills",
-        "anthropic",
-        "open-standard"
-      ],
-      "published_at": null
-    },
     {
       "id": "gh-trending-elementalsouls-claude-bughunter",
       "source": "github",
       "title": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "score": 82,
-      "summary_oneline": "Claude Code向けセキュリティ特化スキルバンドル。82スキル・681の脆弱性パターンを含む外部レッドチーム向けツール群。",
+      "summary_oneline": "Claude Codeのバグハンティング向けスキルバンドル。82スキル・15スラッシュコマンドを収録",
       "tags": [
         "claude-code",
-        "security",
-        "bug-hunting"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 80,
-      "summary_oneline": "Claude CodeやCodexなど複数エージェント向けのハーネス最適化システム。スキル・記憶・セキュリティ・研究開発支援機能を提供（★30万）。",
-      "tags": [
-        "claude-code",
-        "agent-sdk",
-        "optimization"
-      ],
-      "published_at": "2026-11-15T06:48:46Z"
-    },
-    {
-      "id": "gh-trending-nvidia-skillevaluator",
-      "source": "github",
-      "title": "NVIDIA/SkillEvaluator",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "score": 75,
-      "summary_oneline": "NVIDIAがAIエージェントスキルの多層評価フレームワークを公開。品質ゲート・意味的重複検出・ライブエージェント評価機能を備える。",
-      "tags": [
-        "agent-skills",
-        "evaluation",
-        "nvidia"
+        "skills",
+        "security"
       ],
       "published_at": null
     },
@@ -105,26 +21,82 @@
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・OpenCodeなど複数コーディングアシスタントをAll-in-Oneで管理するクロスプラットフォームデスクトップツール（★15万）。",
+      "score": 82,
+      "summary_oneline": "Claude CodeとCodex等に対応するAll-in-Oneクロスプラットフォームデスクトップアシスタント",
       "tags": [
         "claude-code",
-        "desktop-tool",
-        "multi-agent"
+        "desktop-app",
+        "tools"
       ],
-      "published_at": "2026-11-15T19:40:47Z"
+      "published_at": "2026-11-16T15:13:18Z"
+    },
+    {
+      "id": "gh-trending-chromedevtools-chrome-devtools-mcp",
+      "source": "github",
+      "title": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "score": 80,
+      "summary_oneline": "コーディングエージェント向けChrome DevToolsのMCPサーバー実装。公式DevToolsチーム提供",
+      "tags": [
+        "mcp",
+        "chrome-devtools",
+        "coding-agents"
+      ],
+      "published_at": null
     },
     {
       "id": "gh-trending-tradermonty-claude-trading-skills",
       "source": "github",
       "title": "tradermonty/claude-trading-skills",
       "url": "https://github.com/tradermonty/claude-trading-skills",
-      "score": 72,
-      "summary_oneline": "Claude Code向けの金融投資家・トレーダー用スキル集。市場分析・テクニカルチャート・経済カレンダー・スクリーナー機能を提供。",
+      "score": 78,
+      "summary_oneline": "投資家・トレーダー向けClaude Codeスキル集。市場分析・テクニカルチャート等を収録",
       "tags": [
         "claude-code",
         "skills",
         "trading"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-google-labs-code-stitch-skills",
+      "source": "github",
+      "title": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "score": 76,
+      "summary_oneline": "Claude Code等に対応するエージェントスキルライブラリ。Agent Skillsオープン標準に準拠",
+      "tags": [
+        "skills",
+        "agent-sdk",
+        "mcp"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "score": 76,
+      "summary_oneline": "Claude Code・Codex向けエージェントハーネス最適化システム。スキル・記憶・セキュリティを強化",
+      "tags": [
+        "claude-code",
+        "agent-sdk",
+        "performance"
+      ],
+      "published_at": "2026-11-16T21:39:53Z"
+    },
+    {
+      "id": "gh-trending-kajisho5-ffmpeg-skill",
+      "source": "github",
+      "title": "kajisho5/ffmpeg-skill",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "score": 73,
+      "summary_oneline": "Claude Code対応のローカル動画編集スキル。42種FFmpegツールをMCPサーバーとして提供",
+      "tags": [
+        "claude-code",
+        "skills",
+        "mcp"
       ],
       "published_at": null
     },
@@ -134,39 +106,67 @@
       "title": "ag-ui-protocol/ag-ui",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "score": 72,
-      "summary_oneline": "AIエージェントとフロントエンドアプリ間の標準インタラクションプロトコル「AG-UI」が登場。エージェントをUIに組み込む規格を定義。",
+      "summary_oneline": "フロントエンドアプリにエージェントを統合するエージェント・ユーザーインタラクションプロトコル",
       "tags": [
         "agent-sdk",
-        "protocol",
-        "frontend"
+        "frontend",
+        "protocol"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-googlechrome-modern-web-guidance-src",
-      "source": "github",
-      "title": "GoogleChrome/modern-web-guidance-src",
-      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
-      "score": 70,
-      "summary_oneline": "コーディングエージェントが最新Webベストプラクティスを常に把握できるよう、GoogleChromeが公式ガイダンスソースを公開。",
-      "tags": [
-        "coding-agent",
-        "web-dev",
-        "best-practices"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
+      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
       "source": "anthropic",
-      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 68,
-      "summary_oneline": "Anthropicが1億ドルを投じて1万人向けAIエンジニアトレーニング「Claude Frontier Academy」を設立。企業のAI人材不足解消を目指す。",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "score": 72,
+      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI Foundationに寄贈しオープン標準化を推進",
       "tags": [
-        "anthropic",
-        "education",
-        "developer"
+        "agent-sdk",
+        "skills",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-nvidia-skillevaluator",
+      "source": "github",
+      "title": "NVIDIA/SkillEvaluator",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "score": 72,
+      "summary_oneline": "AIエージェントスキルの品質評価フレームワーク。意味的重複検出・合成データ生成機能を搭載",
+      "tags": [
+        "skills",
+        "evaluation",
+        "agent-sdk"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1106996539",
+      "source": "github",
+      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "score": 65,
+      "summary_oneline": "複数プラットフォームに対応したプロ品質UI/UXデザイン知識を提供するAIスキル",
+      "tags": [
+        "skills",
+        "ui-ux",
+        "agent-sdk"
+      ],
+      "published_at": "2026-11-16T04:10:04Z"
+    },
+    {
+      "id": "gh-trending-mvanhorn-last30days-skill",
+      "source": "github",
+      "title": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "score": 64,
+      "summary_oneline": "Reddit・X・YouTube等複数ソースから任意トピックを調査して要約するエージェントスキル",
+      "tags": [
+        "skills",
+        "research",
+        "agent-sdk"
       ],
       "published_at": null
     },
@@ -175,11 +175,11 @@
       "source": "github",
       "title": "backnotprop/plannotator",
       "url": "https://github.com/backnotprop/plannotator",
-      "score": 65,
-      "summary_oneline": "エージェントの計画・作業を追跡・注釈付けし、コードレビューやフィードバックをワンクリックでエージェントに送信できるワークスペースツール。",
+      "score": 62,
+      "summary_oneline": "エージェントの進捗把握・計画・コードレビュー・フィードバック送信を一元化するワークスペース",
       "tags": [
         "agent-sdk",
-        "code-review",
+        "tools",
         "workflow"
       ],
       "published_at": null
@@ -189,68 +189,12 @@
       "source": "github",
       "title": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "score": 65,
-      "summary_oneline": "AlibabaがOSS公開したコードレビューツール。決定論的パイプラインとLLMエージェントの組み合わせでAnthropicのAPI互換の行レベルコメントを生成。",
+      "score": 62,
+      "summary_oneline": "OpenAI・Anthropic互換のハイブリッドアーキテクチャ型コードレビューツール。アリババ規模での実績あり",
       "tags": [
         "code-review",
-        "anthropic",
-        "open-source"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-2026-usage-policy-update",
-      "source": "anthropic",
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 65,
-      "summary_oneline": "Anthropicが2026年版の利用ポリシーを更新。ClaudeのAPI・製品利用者全体に影響する規約変更の内容を発表。",
-      "tags": [
-        "anthropic",
-        "policy",
-        "claude"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-anthropic-files-s-1-with-the-sec-for-proposed-initial-public",
-      "source": "anthropic",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "score": 65,
-      "summary_oneline": "AnthropicがSECにS-1登録書を提出し、新規株式公開（IPO）に向けた正式手続きを開始したと発表。",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "corporate"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1106996539",
-      "source": "github",
-      "title": "nextlevelbuilder/ui-ux-pro-max-skill",
-      "url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
-      "score": 62,
-      "summary_oneline": "複数プラットフォーム対応のUI/UX設計AIスキル。コーディングエージェントがプロ品質のインターフェース設計を支援する（★15万）。",
-      "tags": [
-        "skills",
-        "ui-ux",
-        "frontend"
-      ],
-      "published_at": "2026-11-15T19:05:27Z"
-    },
-    {
-      "id": "anthropic-anthropic-launches-roadshow-for-proposed-initial-public-offe",
-      "source": "anthropic",
-      "title": "Anthropic launches roadshow for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/roadshow-launch",
-      "score": 62,
-      "summary_oneline": "AnthropicがIPOに向けたロードショーを開始。S-1提出に続く株式公開プロセスの次段階として投資家向け説明活動を展開。",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "corporate"
+        "llm",
+        "anthropic"
       ],
       "published_at": null
     },
@@ -259,28 +203,84 @@
       "source": "github",
       "title": "morluto/rea",
       "url": "https://github.com/morluto/rea",
-      "score": 60,
-      "summary_oneline": "エージェントを活用してアプリ動作からネイティブバイナリまでをリバースエンジニアリングするツール（★46万）。セキュリティ研究・解析向け。",
+      "score": 62,
+      "summary_oneline": "アプリの挙動からネイティブバイナリまでエージェントで解析するリバースエンジニアリングツール",
       "tags": [
         "agent-sdk",
         "reverse-engineering",
         "security"
       ],
-      "published_at": "2026-11-15T22:00:59Z"
+      "published_at": "2026-11-16T21:44:55Z"
     },
     {
-      "id": "gh-topic-193215554",
-      "source": "github",
-      "title": "n8n-io/n8n",
-      "url": "https://github.com/n8n-io/n8n",
-      "score": 60,
-      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化基盤。400以上のインテグレーション対応でセルフホストまたはクラウド利用可能（★21万）。",
+      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
+      "source": "anthropic",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "score": 62,
+      "summary_oneline": "Anthropicが1億ドルを投じてエンジニア1万人を育成し企業のAI人材不足解消を目指す",
       "tags": [
-        "workflow",
-        "automation",
-        "ai-tools"
+        "anthropic",
+        "training",
+        "enterprise"
       ],
-      "published_at": "2026-11-15T19:21:55Z"
+      "published_at": null
+    },
+    {
+      "id": "anthropic-2026-usage-policy-update",
+      "source": "anthropic",
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "score": 60,
+      "summary_oneline": "Anthropicが2026年版利用ポリシーを更新。全Claudeユーザーに影響する内容を含む",
+      "tags": [
+        "anthropic",
+        "policy",
+        "safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-files-s-1-with-the-sec-for-proposed-initial-public",
+      "source": "anthropic",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "score": 60,
+      "summary_oneline": "AnthropicがIPOに向けてSECにS-1登録申請書を提出。上場準備が本格化",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "corporate"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-launches-roadshow-for-proposed-initial-public-offe",
+      "source": "anthropic",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "score": 58,
+      "summary_oneline": "AnthropicがIPO向けのロードショーを開始。株式公開に向けた投資家向け説明活動を展開",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "corporate"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
+      "source": "anthropic",
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "score": 56,
+      "summary_oneline": "Anthropicがモデル蒸留攻撃への防御策を強化。モデル知的財産保護の取り組みを発表",
+      "tags": [
+        "anthropic",
+        "security",
+        "model-safety"
+      ],
+      "published_at": null
     }
   ],
   "extras": []
