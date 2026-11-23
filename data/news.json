@@ -1,146 +1,48 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-22T22:03:27.155Z",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-23T22:03:08.348Z",
   "top": [
     {
-      "id": "cc-release-453086311",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.330",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.330",
-      "score": 95,
-      "summary_oneline": "easelモジュールによるチャート自動生成と企業認証コンソール連携を追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-11-20T22:32:56Z"
-    },
-    {
-      "id": "cc-release-443483677",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.323",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.323",
-      "score": 93,
-      "summary_oneline": "Code Mode実験的追加とplugin.jsonによるバージョン管理機能を導入",
-      "tags": [
-        "claude-code",
-        "release",
-        "code-mode"
-      ],
-      "published_at": "2026-11-12T22:12:13Z"
-    },
-    {
-      "id": "cc-release-451777787",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.329",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
-      "score": 92,
-      "summary_oneline": "フックの出所を示す信頼ダイアログ追加、/tasksに予定タスクとループ管理を統合",
-      "tags": [
-        "claude-code",
-        "release",
-        "hooks"
-      ],
-      "published_at": "2026-11-19T22:14:41Z"
-    },
-    {
-      "id": "cc-release-450696184",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.328",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
-      "score": 90,
-      "summary_oneline": "Bedrock/Vertex/Foundryでオートモード対応、mcp_toolフックにonFailure:blockを追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-11-19T01:14:04Z"
-    },
-    {
-      "id": "cc-release-449173658",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.327",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.327",
-      "score": 88,
-      "summary_oneline": "MCP設定JSONを標準入力から渡せるようにし、トークン漏洩リスクを低減",
-      "tags": [
-        "claude-code",
-        "release",
-        "mcp"
-      ],
-      "published_at": "2026-11-17T23:17:45Z"
-    },
-    {
-      "id": "cc-release-447444139",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.326",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.326",
-      "score": 87,
-      "summary_oneline": "エージェントチーム有効時にCode Modeを併用可能に、MCP管理設定の警告を整備",
-      "tags": [
-        "claude-code",
-        "release",
-        "agent-sdk"
-      ],
-      "published_at": "2026-11-16T22:11:05Z"
-    },
-    {
-      "id": "cc-release-444686509",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.325",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+      "id": "gh-topic-1136590548",
+      "source": "github",
+      "title": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
       "score": 85,
-      "summary_oneline": "zstd圧縮レスポンスのセキュリティ修正とJupyterノートブック操作ヒントを追加",
+      "summary_oneline": "Claude CodeやCodexなど向けエージェントハーネス最適化システム：スキル・記憶・セキュリティ強化",
       "tags": [
         "claude-code",
-        "release",
-        "security"
+        "agent-sdk",
+        "optimization"
       ],
-      "published_at": "2026-11-13T20:40:01Z"
+      "published_at": "2026-11-23T04:55:48Z"
     },
     {
-      "id": "cc-release-439536010",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.321",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.321",
+      "id": "gh-topic-1031912724",
+      "source": "github",
+      "title": "farion1231/cc-switch",
+      "url": "https://github.com/farion1231/cc-switch",
       "score": 85,
-      "summary_oneline": "Claude Fable 5.2（1Mコンテキスト）をデフォルトFableモデルに採用",
+      "summary_oneline": "Claude Code・Codex・DeepSeek対応のクロスプラットフォームデスクトップAIアシスタント",
       "tags": [
         "claude-code",
-        "release",
-        "models"
+        "desktop-app",
+        "developer-tools"
       ],
-      "published_at": "2026-11-09T19:22:30Z"
+      "published_at": "2026-11-23T13:26:28Z"
     },
     {
-      "id": "cc-release-435952318",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.319",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.319",
+      "id": "gh-trending-elementalsouls-claude-bughunter",
+      "source": "github",
+      "title": "elementalsouls/Claude-BugHunter",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "score": 82,
-      "summary_oneline": "LLMゲートウェイ環境でのオートモードのサーバー判定フロー変更",
+      "summary_oneline": "Claude Code向けバグハンティングスキルバンドル：82スキル・681脆弱性パターン・24脆弱性クラス収録",
       "tags": [
         "claude-code",
-        "release",
-        "auto-mode"
+        "security",
+        "skills"
       ],
-      "published_at": "2026-11-06T17:04:01Z"
-    },
-    {
-      "id": "cc-release-439863658",
-      "source": "anthropic",
-      "title": "Claude Code v2.1.322",
-      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.322",
-      "score": 80,
-      "summary_oneline": "VertexのグローバルおよびUS/EUリージョンにfastモードを追加",
-      "tags": [
-        "claude-code",
-        "release",
-        "vertex"
-      ],
-      "published_at": "2026-11-10T02:29:43Z"
+      "published_at": null
     },
     {
       "id": "gh-trending-google-labs-code-stitch-skills",
@@ -148,81 +50,11 @@
       "title": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "score": 80,
-      "summary_oneline": "Stitch MCPサーバー向けAgentスキルライブラリ、Claude Codeほか複数エージェント対応",
+      "summary_oneline": "StitchのMCPサーバー向けAgentスキルライブラリ、Claude Code対応のオープンスタンダード準拠",
       "tags": [
-        "agent-sdk",
         "mcp",
-        "skills"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-cathrynlavery-diagram-design",
-      "source": "github",
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "score": 78,
-      "summary_oneline": "Claude Code等向けの45種ダイアグラム設計集、シャドウなしSVG/HTML形式",
-      "tags": [
-        "claude-code",
-        "skills",
-        "diagram"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-topic-1136590548",
-      "source": "github",
-      "title": "affaan-m/ECC",
-      "url": "https://github.com/affaan-m/ECC",
-      "score": 78,
-      "summary_oneline": "Claude Code/Codex等向けエージェントハーネス最適化（スキル・メモリ・セキュリティ）",
-      "tags": [
-        "claude-code",
-        "agent-sdk",
-        "skills"
-      ],
-      "published_at": "2026-11-20T01:13:45Z"
-    },
-    {
-      "id": "gh-topic-1031912724",
-      "source": "github",
-      "title": "farion1231/cc-switch",
-      "url": "https://github.com/farion1231/cc-switch",
-      "score": 78,
-      "summary_oneline": "Claude Code/Codex/OpenCode等を一元管理するクロスプラットフォームデスクトップツール",
-      "tags": [
-        "claude-code",
-        "tooling",
-        "desktop"
-      ],
-      "published_at": "2026-11-22T15:46:31Z"
-    },
-    {
-      "id": "gh-trending-elementalsouls-claude-bughunter",
-      "source": "github",
-      "title": "elementalsouls/Claude-BugHunter",
-      "url": "https://github.com/elementalsouls/Claude-BugHunter",
-      "score": 75,
-      "summary_oneline": "バグ調査・レッドチーム向けClaude Codeスキルバンドル（82スキル、681脆弱性パターン）",
-      "tags": [
-        "claude-code",
-        "skills",
-        "security"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
-      "source": "anthropic",
-      "title": "Donating Agent Skills to the Agentic AI Foundation",
-      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "score": 72,
-      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI財団にオープンスタンダードとして寄贈",
-      "tags": [
-        "agent-sdk",
-        "skills",
-        "open-source"
+        "agent-skills",
+        "claude-code"
       ],
       "published_at": null
     },
@@ -231,12 +63,68 @@
       "source": "github",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 72,
-      "summary_oneline": "機能するエージェントスキルフレームワークとソフトウェア開発手法を提供するOSS",
+      "score": 78,
+      "summary_oneline": "実用的なソフトウェア開発手法を提供するエージェントスキルフレームワーク",
       "tags": [
         "agent-sdk",
         "skills",
-        "framework"
+        "developer-tools"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-donating-agent-skills-to-the-agentic-ai-foundation",
+      "source": "anthropic",
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "score": 75,
+      "summary_oneline": "AnthropicがAgent Skillsをオープンな「Agentic AI Foundation」に寄贈",
+      "tags": [
+        "agent-sdk",
+        "skills",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-files-s-1-with-the-sec-for-proposed-initial-public",
+      "source": "anthropic",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "score": 72,
+      "summary_oneline": "AnthropicがIPO向けにSECへS-1登録書類を提出、上場計画を公式発表",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "business"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-hkuds-cli-anything",
+      "source": "github",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "score": 72,
+      "summary_oneline": "あらゆるソフトウェアをエージェントネイティブ化するCLIフレームワーク「CLI-Anything」",
+      "tags": [
+        "agent-sdk",
+        "cli",
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-cathrynlavery-diagram-design",
+      "source": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 72,
+      "summary_oneline": "Claude Code等コーディングエージェント向け52種ダイアグラムデザインパック：HTML+SVG自己完結型",
+      "tags": [
+        "claude-code",
+        "diagram",
+        "developer-tools"
       ],
       "published_at": null
     },
@@ -246,55 +134,67 @@
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "score": 72,
-      "summary_oneline": "Reddit/X/YouTube/HN等を横断調査してまとめるAIエージェントスキル",
+      "summary_oneline": "Reddit・X・YouTube・HN・Polymarketを横断調査しまとめるAIエージェントスキル",
       "tags": [
-        "skills",
+        "agent-skills",
         "research",
-        "agent-sdk"
+        "mcp"
       ],
       "published_at": null
     },
     {
-      "id": "anthropic-anthropic-files-s-1-with-the-sec-for-proposed-initial-public",
-      "source": "anthropic",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "score": 65,
-      "summary_oneline": "AnthropicがSECにIPO向けForm S-1登録申請書を提出",
+      "id": "gh-topic-1209966933",
+      "source": "github",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 70,
+      "summary_oneline": "エージェントを使いアプリ動作からネイティブバイナリまでリバースエンジニアリングするツール",
       "tags": [
-        "anthropic",
-        "ipo",
-        "news"
+        "agent",
+        "security",
+        "reverse-engineering"
       ],
-      "published_at": null
+      "published_at": "2026-11-23T21:58:51Z"
     },
-    {
-      "id": "anthropic-2026-usage-policy-update",
-      "source": "anthropic",
-      "title": "2026 Usage Policy update",
-      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
-      "score": 62,
-      "summary_oneline": "Anthropicによる2026年版利用ポリシーの更新内容を公開",
-      "tags": [
-        "anthropic",
-        "policy",
-        "news"
-      ],
-      "published_at": null
-    }
-  ],
-  "extras": [
     {
       "id": "anthropic-anthropic-announces-closing-of-initial-public-offering-inclu",
       "source": "anthropic",
-      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters' option to purchase additional shares, and closing of concurrent private placement",
+      "title": "Anthropic announces closing of initial public offering",
       "url": "https://www.anthropic.com/news/ipo-close",
-      "score": 62,
-      "summary_oneline": "AnthropicのIPO完了、引受会社オプション行使と私募増資も終了",
+      "score": 70,
+      "summary_oneline": "AnthropicがIPOを完了：引受オプション全額行使と私募クロージングを発表",
       "tags": [
         "anthropic",
         "ipo",
-        "news"
+        "business"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1266797999",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 68,
+      "summary_oneline": "AIエージェントを「怠け者のベテラン開発者」の発想で動かすコード削減ツール",
+      "tags": [
+        "agent",
+        "developer-tools",
+        "open-source"
+      ],
+      "published_at": "2026-11-22T02:31:58Z"
+    },
+    {
+      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
+      "source": "anthropic",
+      "title": "Anthropic invests $100 million to train 10,000 engineers",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "score": 68,
+      "summary_oneline": "Anthropicが1億ドル投資し1万人のエンジニア育成プログラム「Claude Frontier Academy」を開始",
+      "tags": [
+        "anthropic",
+        "education",
+        "developer-training"
       ],
       "published_at": null
     },
@@ -303,28 +203,85 @@
       "source": "anthropic",
       "title": "Anthropic prices initial public offering",
       "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-      "score": 60,
-      "summary_oneline": "AnthropicのIPO価格決定を発表",
+      "score": 65,
+      "summary_oneline": "AnthropicがIPO株価を設定、上場準備が最終段階に",
       "tags": [
         "anthropic",
         "ipo",
-        "news"
+        "business"
       ],
       "published_at": null
     },
     {
-      "id": "anthropic-investing-in-the-public-benefitwe-re-committing-a-portion-of",
+      "id": "gh-trending-firecrawl-firecrawl",
+      "source": "github",
+      "title": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "score": 65,
+      "summary_oneline": "エージェント向け知識インフラ：550以上のデータプロバイダーを一つのAPIで統合",
+      "tags": [
+        "agent-sdk",
+        "data",
+        "api"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-2026-usage-policy-update",
       "source": "anthropic",
-      "title": "Investing in the public benefit",
-      "url": "https://www.anthropic.com/news/public-benefit-fund",
-      "score": 60,
-      "summary_oneline": "AnthropicがPublic Benefit Fundに株式の一部を拠出する新制度を発表",
+      "title": "2026 Usage Policy update",
+      "url": "https://www.anthropic.com/news/2026-usage-policy-update",
+      "score": 65,
+      "summary_oneline": "Anthropicが2026年版利用ポリシーを更新、新しいガイドラインを公開",
       "tags": [
         "anthropic",
-        "governance",
-        "news"
+        "policy",
+        "safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
+      "source": "anthropic",
+      "title": "Strengthening our defenses against distillation attacks",
+      "url": "https://www.anthropic.com/news/distillation-defenses",
+      "score": 62,
+      "summary_oneline": "Anthropicがモデル知識蒸留攻撃への防御技術強化策を発表",
+      "tags": [
+        "anthropic",
+        "security",
+        "ai-safety"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-trending-mjmirza-app-store-compliance",
+      "source": "github",
+      "title": "mjmirza/app-store-compliance",
+      "url": "https://github.com/mjmirza/app-store-compliance",
+      "score": 62,
+      "summary_oneline": "App Store・Google Play審査通過のための124パターンプレイブックとAIエージェントスキル",
+      "tags": [
+        "agent-skills",
+        "mobile",
+        "compliance"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-introducing-the-anthropic-cyber-mission",
+      "source": "anthropic",
+      "title": "Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "score": 60,
+      "summary_oneline": "AnthropicがCyber Missionを発表：サイバーセキュリティ強化に向けた新たな取り組み",
+      "tags": [
+        "anthropic",
+        "security",
+        "ai-safety"
       ],
       "published_at": null
     }
-  ]
+  ],
+  "extras": []
 }
