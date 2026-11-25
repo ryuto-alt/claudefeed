@@ -1,20 +1,20 @@
 {
   "date": "2026-11-25",
-  "generated_at": "2026-11-24T22:03:18.524Z",
+  "generated_at": "2026-11-25T22:03:20.366Z",
   "top": [
     {
       "id": "gh-topic-1031912724",
       "source": "github",
       "title": "farion1231/cc-switch",
       "url": "https://github.com/farion1231/cc-switch",
-      "score": 87,
-      "summary_oneline": "Claude Code・Codex・DeepSeekなど複数AIエージェントに対応したクロスプラットフォームのデスクトップAll-in-Oneアシスタント。",
+      "score": 85,
+      "summary_oneline": "Claude Code・Codex・DeepSeek等に対応したクロスプラットフォームのデスクトップAIアシスタントツール",
       "tags": [
         "claude-code",
-        "desktop-tool",
-        "ai-coding"
+        "desktop-app",
+        "agent"
       ],
-      "published_at": "2026-11-24T08:11:02Z"
+      "published_at": "2026-11-25T13:09:02Z"
     },
     {
       "id": "gh-trending-elementalsouls-claude-bughunter",
@@ -22,7 +22,7 @@
       "title": "elementalsouls/Claude-BugHunter",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "score": 85,
-      "summary_oneline": "Claude Code向けバグハンティング用スキルバンドル。84スキル・15スラッシュコマンド・681件の脆弱性パターンを収録。",
+      "summary_oneline": "バグハンティング・レッドチーム向けClaude Codeスキルバンドル（84スキル・15コマンド）",
       "tags": [
         "claude-code",
         "skills",
@@ -31,16 +31,30 @@
       "published_at": null
     },
     {
+      "id": "gh-trending-cathrynlavery-diagram-design",
+      "source": "github",
+      "title": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "score": 82,
+      "summary_oneline": "Claude Code・Cursor等向け編集ダイアグラムデザイン集（52種類・HTML/SVG形式、影なし）",
+      "tags": [
+        "claude-code",
+        "diagrams",
+        "design"
+      ],
+      "published_at": null
+    },
+    {
       "id": "gh-topic-1136590548",
       "source": "github",
       "title": "affaan-m/ECC",
       "url": "https://github.com/affaan-m/ECC",
-      "score": 83,
-      "summary_oneline": "Claude Code・Codex向けエージェントハーネス最適化システム。スキル・メモリ・セキュリティを統合したリサーチファースト開発環境。",
+      "score": 82,
+      "summary_oneline": "Claude Code等向けエージェントハーネスのパフォーマンス最適化・スキル・メモリ管理システム",
       "tags": [
         "claude-code",
         "agent-sdk",
-        "skills"
+        "optimization"
       ],
       "published_at": "2026-11-23T04:55:48Z"
     },
@@ -50,25 +64,11 @@
       "title": "google-labs-code/stitch-skills",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "score": 80,
-      "summary_oneline": "Stitch MCPサーバー向けAgentスキルライブラリ。Claude Code・Cursor・Gemini CLIと互換性のあるAgent Skills標準に対応。",
+      "summary_oneline": "Google Labs製MCP対応エージェントスキルライブラリ（Claude Codeを含む複数コーディングツール互換）",
       "tags": [
-        "agent-sdk",
+        "mcp",
         "skills",
-        "mcp"
-      ],
-      "published_at": null
-    },
-    {
-      "id": "gh-trending-cathrynlavery-diagram-design",
-      "source": "github",
-      "title": "cathrynlavery/diagram-design",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "score": 75,
-      "summary_oneline": "Claude Code・Codex・Cursor向け編集用ダイアグラム設計集。52種類のダイアグラムをHTML+SVGで提供、シャドウなし。",
-      "tags": [
-        "claude-code",
-        "diagram",
-        "design"
+        "claude-code"
       ],
       "published_at": null
     },
@@ -77,8 +77,8 @@
       "source": "github",
       "title": "obra/superpowers",
       "url": "https://github.com/obra/superpowers",
-      "score": 72,
-      "summary_oneline": "実用的なエージェントスキルフレームワークとソフトウェア開発手法。エージェントベースの開発ワークフローを支援する。",
+      "score": 75,
+      "summary_oneline": "実績あるアジェンティックスキルフレームワーク・ソフトウェア開発手法",
       "tags": [
         "agent-sdk",
         "skills",
@@ -91,12 +91,40 @@
       "source": "anthropic",
       "title": "Donating Agent Skills to the Agentic AI Foundation",
       "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
-      "score": 70,
-      "summary_oneline": "AnthropicがAgent SkillsをAgentic AI Foundationに寄贈。エージェントスキルのオープンエコシステム形成へ貢献。",
+      "score": 75,
+      "summary_oneline": "AnthropicがエージェントスキルをAgentic AI Foundationへ寄贈しオープン化を推進",
       "tags": [
         "agent-sdk",
         "skills",
-        "anthropic"
+        "open-source"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-announces-closing-of-initial-public-offering-inclu",
+      "source": "anthropic",
+      "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters' option to purchase additional shares, and closing of concurrent private placement",
+      "url": "https://www.anthropic.com/news/ipo-close",
+      "score": 73,
+      "summary_oneline": "AnthropicのIPO完了：追加購入オプション全行使と私募増資クロージングを発表",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-files-s-1-with-the-sec-for-proposed-initial-public",
+      "source": "anthropic",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "score": 72,
+      "summary_oneline": "AnthropicがIPOに向けてSECにS-1登録申請書を提出",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
       ],
       "published_at": null
     },
@@ -105,26 +133,40 @@
       "source": "github",
       "title": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
-      "score": 68,
-      "summary_oneline": "Reddit・X・YouTube・HNなど複数ソースから任意トピックを調査・統合するAIエージェントスキル。",
+      "score": 70,
+      "summary_oneline": "Reddit・X・YouTube・HN等を横断して任意トピックを調査・要約するAIエージェントスキル",
       "tags": [
-        "agent-sdk",
         "skills",
+        "agent-sdk",
         "research"
       ],
       "published_at": null
     },
     {
-      "id": "gh-trending-hkuds-cli-anything",
-      "source": "github",
-      "title": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
+      "id": "anthropic-anthropic-prices-initial-public-offering",
+      "source": "anthropic",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "score": 65,
-      "summary_oneline": "あらゆるソフトウェアをエージェントネイティブ化するCLIフレームワーク。CLI-Hubでスキルの共有・発見が可能。",
+      "summary_oneline": "AnthropicがIPO株価を設定",
       "tags": [
-        "agent-sdk",
-        "cli",
-        "tools"
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
+      "source": "anthropic",
+      "title": "Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+      "url": "https://www.anthropic.com/news/claude-frontier-academy",
+      "score": 65,
+      "summary_oneline": "Anthropicが1億ドルを投じてClaude Frontier Academyを設立し1万人のAIエンジニアを育成",
+      "tags": [
+        "anthropic",
+        "education",
+        "enterprise"
       ],
       "published_at": null
     },
@@ -134,39 +176,25 @@
       "title": "2026 Usage Policy update",
       "url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "score": 65,
-      "summary_oneline": "Anthropicが2026年版の使用ポリシーを更新。最新ガイドラインと利用制限が反映された公式ドキュメント。",
+      "summary_oneline": "Anthropicが2026年版の利用ポリシー更新を公開",
       "tags": [
         "anthropic",
         "policy",
-        "ai-safety"
+        "safety"
       ],
       "published_at": null
     },
     {
-      "id": "gh-topic-1209966933",
+      "id": "gh-trending-hkuds-cli-anything",
       "source": "github",
-      "title": "morluto/rea",
-      "url": "https://github.com/morluto/rea",
-      "score": 62,
-      "summary_oneline": "エージェントを活用してアプリ動作からネイティブバイナリまでリバースエンジニアリングできるツール。47万スター超。",
+      "title": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "score": 65,
+      "summary_oneline": "あらゆるソフトウェアをエージェントネイティブ化するCLIツールフレームワーク",
       "tags": [
         "agent-sdk",
-        "reverse-engineering",
-        "tools"
-      ],
-      "published_at": "2026-11-24T21:27:57Z"
-    },
-    {
-      "id": "anthropic-anthropic-files-s-1-with-the-sec-for-proposed-initial-public",
-      "source": "anthropic",
-      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
-      "url": "https://www.anthropic.com/news/s1-sec",
-      "score": 62,
-      "summary_oneline": "AnthropicがSECにS-1登録声明を提出し、IPO（新規株式公開）の手続きを正式に開始。",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "business"
+        "cli",
+        "open-source"
       ],
       "published_at": null
     },
@@ -175,14 +203,70 @@
       "source": "github",
       "title": "firecrawl/firecrawl",
       "url": "https://github.com/firecrawl/firecrawl",
-      "score": 60,
-      "summary_oneline": "エージェント向けナレッジインフラ。550以上のデータプロバイダーへの検索・スクレイプを1つのAPIで提供。",
+      "score": 65,
+      "summary_oneline": "エージェント向け知識インフラ：検索・スクレイピング・550以上のデータプロバイダを1APIで提供",
       "tags": [
         "agent-sdk",
         "data",
-        "tools"
+        "api"
       ],
       "published_at": null
+    },
+    {
+      "id": "gh-topic-1209966933",
+      "source": "github",
+      "title": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "score": 65,
+      "summary_oneline": "AIエージェントを使ってアプリ挙動からネイティブバイナリまでリバースエンジニアリングするツール",
+      "tags": [
+        "agent-sdk",
+        "reverse-engineering",
+        "security"
+      ],
+      "published_at": "2026-11-25T21:42:12Z"
+    },
+    {
+      "id": "gh-topic-1266797999",
+      "source": "github",
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "score": 65,
+      "summary_oneline": "AIエージェントを「怠け者のシニア開発者」思考にする最小コード指向ツール",
+      "tags": [
+        "agent-sdk",
+        "code-quality",
+        "framework"
+      ],
+      "published_at": "2026-11-22T02:31:58Z"
+    },
+    {
+      "id": "anthropic-anthropic-launches-roadshow-for-proposed-initial-public-offe",
+      "source": "anthropic",
+      "title": "Anthropic launches roadshow for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/roadshow-launch",
+      "score": 60,
+      "summary_oneline": "AnthropicがIPOに向けてロードショーを開始",
+      "tags": [
+        "anthropic",
+        "ipo",
+        "funding"
+      ],
+      "published_at": null
+    },
+    {
+      "id": "gh-topic-1024554267",
+      "source": "github",
+      "title": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "score": 60,
+      "summary_oneline": "NousResearch製の自己成長型AIエージェント「hermes-agent」",
+      "tags": [
+        "agent-sdk",
+        "llm",
+        "open-source"
+      ],
+      "published_at": "2026-11-25T21:49:57Z"
     },
     {
       "id": "gh-trending-tracer-cloud-opensre",
@@ -190,98 +274,43 @@
       "title": "Tracer-Cloud/opensre",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "score": 60,
-      "summary_oneline": "CI/CDの信頼性向上を目的としたオープンソースのSREエージェント。",
+      "summary_oneline": "CI/CDの信頼性向上を目的としたオープンソースSREエージェント",
       "tags": [
         "agent-sdk",
         "ci-cd",
         "devops"
       ],
       "published_at": null
-    },
-    {
-      "id": "gh-topic-1266797999",
-      "source": "github",
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "score": 60,
-      "summary_oneline": "AIエージェントを「怠惰なシニアエンジニア」の思考パターンに最適化し、不要なコード生成を最小化するツール。",
-      "tags": [
-        "agent-sdk",
-        "optimization",
-        "tools"
-      ],
-      "published_at": "2026-11-22T02:31:58Z"
-    },
-    {
-      "id": "anthropic-anthropic-announces-closing-of-initial-public-offering-inclu",
-      "source": "anthropic",
-      "title": "Anthropic announces closing of initial public offering",
-      "url": "https://www.anthropic.com/news/ipo-close",
-      "score": 60,
-      "summary_oneline": "AnthropicがIPOのクロージングを発表。アンダーライターのオプション行使と私募による追加資金調達も完了。",
-      "tags": [
-        "anthropic",
-        "ipo",
-        "business"
-      ],
-      "published_at": null
-    },
+    }
+  ],
+  "extras": [
     {
       "id": "gh-topic-193215554",
       "source": "github",
       "title": "n8n-io/n8n",
       "url": "https://github.com/n8n-io/n8n",
-      "score": 58,
-      "summary_oneline": "ネイティブAI機能を持つフェアコードワークフロー自動化プラットフォーム。400以上の統合とセルフホストに対応。",
+      "score": 60,
+      "summary_oneline": "ネイティブAI機能搭載のフェアコードワークフロー自動化プラットフォーム（400以上のインテグレーション）",
       "tags": [
-        "workflow-automation",
-        "ai",
-        "open-source"
+        "workflow",
+        "automation",
+        "ai"
       ],
-      "published_at": "2026-11-24T21:40:38Z"
-    },
-    {
-      "id": "gh-topic-626805178",
-      "source": "github",
-      "title": "langgenius/dify",
-      "url": "https://github.com/langgenius/dify",
-      "score": 58,
-      "summary_oneline": "エージェントワークフロー・RAGパイプラインを構築できるAIプラットフォーム。クラウドおよびセルフホスト対応。",
-      "tags": [
-        "agent-sdk",
-        "rag",
-        "ai-platform"
-      ],
-      "published_at": "2026-11-24T18:28:10Z"
-    },
-    {
-      "id": "anthropic-anthropic-invests-100-million-to-train-10-000-engineers-and-",
-      "source": "anthropic",
-      "title": "Anthropic invests $100 million to train 10,000 engineers",
-      "url": "https://www.anthropic.com/news/claude-frontier-academy",
-      "score": 55,
-      "summary_oneline": "Anthropicが1億ドルを投資しClaude Frontier Academyを設立。企業向けAI人材1万人の訓練を目指す。",
-      "tags": [
-        "anthropic",
-        "education",
-        "enterprise"
-      ],
-      "published_at": null
+      "published_at": "2026-11-25T22:00:55Z"
     },
     {
       "id": "anthropic-strengthening-our-defenses-against-distillation-attacks",
       "source": "anthropic",
       "title": "Strengthening our defenses against distillation attacks",
       "url": "https://www.anthropic.com/news/distillation-defenses",
-      "score": 55,
-      "summary_oneline": "Anthropicが蒸留攻撃（distillation attacks）への防御を強化。モデルの知的財産保護に向けた新たな技術対策を発表。",
+      "score": 60,
+      "summary_oneline": "Anthropicがモデル蒸留攻撃に対する防御強化策を発表",
       "tags": [
         "anthropic",
-        "ai-safety",
-        "security"
+        "security",
+        "safety"
       ],
       "published_at": null
     }
-  ],
-  "extras": []
+  ]
 }
